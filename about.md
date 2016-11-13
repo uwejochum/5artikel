@@ -1,9 +1,12 @@
 ---
 layout: page
-title: "About"
-description: "Why use Project Pages?"
+title: "Über"
+description: "Um was geht es?"
 header-img: "img/home-bg.jpg"
 ---
 
-Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
+5 artikel ist eine Website, die über die kulturpolitischen
+Verwerfungen informiert, wie sie durch die Digitalisierung und
+durch die gegenwärtige Kultur- und Wissenschaftspolitik
+verursacht werden. 
 	

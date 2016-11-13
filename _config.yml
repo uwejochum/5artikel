@@ -1,10 +1,7 @@
 # Site settings
 title: 5 artikel
 description: "Bücher | Bibliotheken | Verlage | Kultur"
-url: "https://projectpages.github.io"
-
-
-
+url: "https://uwejochum.github.io"
 
 # Secondary Parameters
 baseurl: "/project-pages"
@@ -13,9 +10,9 @@ headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
+github_username:  uwejochum
+project_repository: uwejochum
+# disqus_shortname: project-pages
 g-analytics: UA-75881392-1
 altmetric: true
 
