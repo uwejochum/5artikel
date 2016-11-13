@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      Protest und Profit
-author:     Uwe Jochum
 tags: 	    OpenAccess template
 category:   Politik
 ---

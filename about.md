@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Über"
-description: "Um was geht es?"
+title: "Begegnungen"
+description: "Vorträge | Interviews | Lehre"
 header-img: "img/home-bg.jpg"
 ---
 

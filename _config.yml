@@ -1,13 +1,16 @@
 # Site settings
 title: 5 artikel
-description: "Bücher | Bibliotheken | Verlage | Kultur"
+description: "Bücher | Bibliotheken | Verlage | Kultur | Politik"
 url: "https://uwejochum.github.io"
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: "/uwejochum.github.io"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+# logo: /uwejochum.github.io/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /uwejochum.github.io/img/logos/wissenschaftler.png
+# Das logo liegt als Überblendung über dem großen Bild auf der
+# Eingangsseite. Das habe ich auskommentiert.
 
 # Tertiary Parameters
 github_username:  uwejochum
@@ -21,7 +24,7 @@ gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # Jekyll Settings
