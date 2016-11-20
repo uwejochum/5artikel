@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Begegnungen"
-description: "Vorträge | Interviews | Lehre"
-header-img: "img/home-bg.jpg"
+title: "Telos"
+description: "Worum es geht"
+header-img: "img/art-5-gg.png"
+
+#steht links neben dem Suchbutton
 ---
 
-5 artikel ist eine Website, die über die kulturpolitischen
-Verwerfungen informiert, wie sie durch die Digitalisierung und
-durch die gegenwärtige Kultur- und Wissenschaftspolitik
-verursacht werden. 
+Kurzbeschreibung der Website.
+
 	

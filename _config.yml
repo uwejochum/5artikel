@@ -5,12 +5,14 @@ url: "https://uwejochum.github.io"
 
 # Secondary Parameters
 baseurl: "/uwejochum.github.io"
-header-img: img/home-bg.jpg
+header-img: img/home-bg.jpg # Einstein und Co.
+# header-img: img/Hieronymus_Bosch_053.jpg
 headercolor: "#FFFFFF"
 # logo: /uwejochum.github.io/img/logos/Project-Pages-New-Logo-Inverted.png
-logo: /uwejochum.github.io/img/logos/wissenschaftler.png
+# logo: /uwejochum.github.io/img/logos/wissenschaftler.png
+logo: /uwejochum.github.io/img/logos/ars-moriendi.png
 # Das logo liegt als Überblendung über dem großen Bild auf der
-# Eingangsseite. Das habe ich auskommentiert.
+# Eingangsseite. 
 
 # Tertiary Parameters
 github_username:  uwejochum
