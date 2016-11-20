@@ -12,7 +12,7 @@ layout: default
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
-                    <span class="meta">Posted by {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}</span>	
+                    <span class="meta">Geschrieben von {{ page.author }} am {{ page.date | date: "%-d.%d.%Y" }}</span>	
                 </div>
             </div>
         </div>
@@ -37,7 +37,8 @@ layout: default
 		<h4 class="post-subtitle">{{ post.subtitle }}</h4>
 	{% endif %}
 	
-	<p class="post-meta" style="margin-top: 5px;margin-bottom:5px; font-size: 0.8em">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+	<p class="post-meta" style="margin-top:
+	5px;margin-bottom:5px; font-size: 0.8em">Geschrieben von {{ post.author }} am {{ post.date | date: "%-d.%d.%Y" }}</p>
 	
 	<div class="notepad-index-post-tags" style="">
 	{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
@@ -102,7 +103,9 @@ layout: default
 			<h4 class="post-subtitle">{{ post.subtitle }}</h4>
 		{% endif %}
 		
-		<p class="post-meta" style="margin-top: 5px;margin-bottom:5px; font-size: 0.8em">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+		<p class="post-meta" style="margin-top:
+		5px;margin-bottom:5px; font-size:
+		0.8em">Geschrieben von {{ post.author }} am {{ post.date | date: "%-d.%d.%Y" }}</p>
 		
 		<div class="notepad-index-post-tags" style="">
 		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
@@ -124,7 +127,9 @@ layout: default
 			<h4 class="post-subtitle">{{ post.subtitle }}</h4>
 		{% endif %}
 		
-		<p class="post-meta" style="margin-top: 5px;margin-bottom:5px; font-size: 0.8em">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+		<p class="post-meta" style="margin-top:
+		5px;margin-bottom:5px; font-size:
+		0.8em">Geschrieben von {{ post.author }} am {{ post.date | date: "%-d.%d.%Y" }}</p>
 		
 		<div class="notepad-index-post-tags" style="">
 		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
@@ -302,12 +307,18 @@ end
 <ul class="pager">
 	{% if page.previous.url %}
 	<li class="previous">
-		<a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+		<a href="{{ page.previous.url | prepend:
+		site.baseurl | replace: '//', '/' }}"
+		data-toggle="tooltip" data-placement="top"
+		title="{{page.previous.title}}">&larr; Post davor</a>
 	</li>
 	{% endif %}
 	{% if page.next.url %}
 	<li class="next">
-		<a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+		<a href="{{ page.next.url | prepend: site.baseurl
+		| replace: '//', '/' }}" data-toggle="tooltip"
+		data-placement="top" title="{{page.next.title}}">
+		Post danach &rarr;</a>
 	</li>
 	{% endif %}
 </ul>
