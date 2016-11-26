@@ -23,7 +23,7 @@ Raum«, »Innovation – Strategie – Wandel«, »die Zukunft
 gestalten«, »Innovationsmanagement«, »Hybrid Bookshelf«,
 »digitale Lernumgebung«, »Kundenorientierung«,
 »Next-Generation-Systeme«, »der goldene Weg«, »digitale
-Langzeitarchivierung«, »Kommunikation \& Information«,
+Langzeitarchivierung«, »Kommunikation & Information«,
 »wissenschaftsfreundliches Urheberrecht«, »Qualitätsmanagement«,
 »vernetzte Informationsgesellschaft«,
 »Forschungsdatenmanagement«… (wird fortgesetzt)
