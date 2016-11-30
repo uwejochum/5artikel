@@ -31,7 +31,7 @@ layout: default
 	<div class="float-left">
 	<div class="recentpost" style="padding: 10px">
 	
-	<h4> Recently by the same author: </h4> 
+	<h4> Vom selben Autor: </h4> 
 	
 	<hr class="style-one">
 	
@@ -43,7 +43,7 @@ layout: default
 	
 	<p class="post-meta" style="margin-top:
 	5px;margin-bottom:5px; font-size: 0.8em">Geschrieben von
-	{{ post.author }} am {{ post.date | date: "date: "%-d.%-m.%Y" }}</p>
+	{{ post.author }} am {{ post.date | date: "%-d.%-m.%Y" }}</p>
 	
 	<div class="notepad-index-post-tags" style="">
 	{% for tag in post.tags %}<a href="{{ site.baseurl
@@ -56,7 +56,7 @@ layout: default
 
 <hr class="style-one">
 
-	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin:auto; width:120px !important; border-radius: 50%;">
+	<img src="{{ "/uwejochum.github.io/img/eyck-hieronymus.png" }}" style="margin-top:0px; margin-bottom:5px; margin:auto; width:120px !important; border-radius: 50%;">
 	
 	<h3>{{ member.name }}</h3>
 	
@@ -100,7 +100,7 @@ layout: default
 		<div class="relevantpost" style="padding: 10px">
 		
 		
-		<h4> You may find interesting: </h4> 
+		<h4> Auch interessant: </h4> 
 		
 		<hr class="style-one">
 		
@@ -180,7 +180,7 @@ layout: default
                         data-toggle="tooltip"
                         data-placement="top"
                         title="{{page.previous.title}}">&larr;
-                        Post davor</a>
+                        Zurück</a>
                     </li>
                     {% endif %}
                     {% if page.next.url %}
@@ -189,7 +189,7 @@ layout: default
                         site.baseurl | replace: '//', '/' }}"
                         data-toggle="tooltip"
                         data-placement="top"
-                        title="{{page.next.title}}">Post danach &rarr;</a>
+                        title="{{page.next.title}}">Vor &rarr;</a>
                     </li>
                     {% endif %}
                 </ul>

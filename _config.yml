@@ -22,7 +22,7 @@ project_repository: uwejochum
 altmetric: true
 
 # Build settings
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-seo-tag]
 markdown: kramdown
 highlighter: rouge
 permalink: pretty

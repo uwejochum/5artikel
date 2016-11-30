@@ -12,7 +12,7 @@ layout: default
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
-                    <span class="meta">Geschrieben von {{ page.author }} am {{ page.date | date: "%-d.%d.%Y" }}</span>	
+                    <span class="meta">Geschrieben von {{ page.author }} am {{ page.date | date: "%-d.%-m.%Y" }}</span>	
                 </div>
             </div>
         </div>
@@ -27,7 +27,7 @@ layout: default
 	<div class="float-left">
 	<div class="recentpost" style="padding: 10px">
 	
-	<h4> Recently by the same author: </h4> 
+	<h4> Vom selben Autor: </h4> 
 	
 	<hr class="style-one">
 	
@@ -38,7 +38,7 @@ layout: default
 	{% endif %}
 	
 	<p class="post-meta" style="margin-top:
-	5px;margin-bottom:5px; font-size: 0.8em">Geschrieben von {{ post.author }} am {{ post.date | date: "%-d.%d.%Y" }}</p>
+	5px;margin-bottom:5px; font-size: 0.8em">Geschrieben von {{ post.author }} am {{ post.date | date: "%-d.%-m.%Y" }}</p>
 	
 	<div class="notepad-index-post-tags" style="">
 	{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
@@ -49,7 +49,7 @@ layout: default
 
 <hr class="style-one">
 
-	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin:auto; width:120px !important; border-radius: 50%;">
+	<img src="{{ "/uwejochum.github.io/img/eyck-hieronymus.png" }}" style="margin-top:0px; margin-bottom:5px; margin:auto; width:120px !important; border-radius: 50%;">
 	
 	<h3>{{ member.name }}</h3>
 	
@@ -93,7 +93,7 @@ layout: default
 		<div class="relevantpost" style="padding: 10px">
 		
 		
-		<h4> You may find interesting: </h4> 
+		<h4> Siehe auch: </h4> 
 		
 		<hr class="style-one">
 		
@@ -105,10 +105,12 @@ layout: default
 		
 		<p class="post-meta" style="margin-top:
 		5px;margin-bottom:5px; font-size:
-		0.8em">Geschrieben von {{ post.author }} am {{ post.date | date: "%-d.%d.%Y" }}</p>
+		0.8em">Geschrieben von {{ post.author }} am {{ post.date | date: "%-d.%-m.%Y" }}</p>
 		
 		<div class="notepad-index-post-tags" style="">
-		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+		{% for tag in post.tags %}<a href="{{
+		site.baseurl }}/search/index.html#{{ tag |
+		cgi_encode }}" title="Andere Posts mit dem {{ tag | capitalize }} Tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 		</div> 
 		
 		{% assign relevantpostcount = 1 %}
@@ -129,10 +131,12 @@ layout: default
 		
 		<p class="post-meta" style="margin-top:
 		5px;margin-bottom:5px; font-size:
-		0.8em">Geschrieben von {{ post.author }} am {{ post.date | date: "%-d.%d.%Y" }}</p>
+		0.8em">Geschrieben von {{ post.author }} am {{ post.date | date: "%-d.%-m.%Y" }}</p>
 		
 		<div class="notepad-index-post-tags" style="">
-		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+		{% for tag in post.tags %}<a href="{{
+		site.baseurl }}/search/index.html#{{ tag |
+		cgi_encode }}" title="Andere Posts mit dem {{ tag | capitalize }} Tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 		</div> 
 		
 		{% assign relevantpostcount = 2 %}
@@ -310,7 +314,7 @@ end
 		<a href="{{ page.previous.url | prepend:
 		site.baseurl | replace: '//', '/' }}"
 		data-toggle="tooltip" data-placement="top"
-		title="{{page.previous.title}}">&larr; Post davor</a>
+		title="{{page.previous.title}}">&larr; Zurück</a>
 	</li>
 	{% endif %}
 	{% if page.next.url %}
@@ -318,7 +322,7 @@ end
 		<a href="{{ page.next.url | prepend: site.baseurl
 		| replace: '//', '/' }}" data-toggle="tooltip"
 		data-placement="top" title="{{page.next.title}}">
-		Post danach &rarr;</a>
+		Vor &rarr;</a>
 	</li>
 	{% endif %}
 </ul>
