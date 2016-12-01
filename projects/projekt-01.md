@@ -13,10 +13,8 @@ header-img: "img/totenbuch-bg.jpg"
 <div id="text-table-of-contents">
 <ul>
 <li><a href="#org3dccc86">1. Bücher</a>
-</ul>
 </li>
 <li><a href="#org5bca59d">2. Aufsätze</a>
-</ul>
 </li>
 <li><a href="#org2293247">3. Herausgeber</a></li>
 </ul>
