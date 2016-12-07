@@ -4,8 +4,7 @@ description: "Bücher | Bibliotheken | Verlage | Kultur | Politik"
 url: "https://uwejochum.github.io"
 
 # Secondary Parameters
-baseurl: ""
-#baseurl: "/5artikel"
+baseurl: "/5artikel"
 header-img: img/home-bg.jpg # Einstein und Co.
 # header-img: img/Hieronymus_Bosch_053.jpg
 headercolor: "#FFFFFF"
