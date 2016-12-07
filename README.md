@@ -1,5 +1,6 @@
-#Project Pages
+#5artikel
 
-Project Pages is Jekyll Template specifically geared towards
-collaborative science. For more information, click
-[here](https://github.com/projectpages/project-pages/wiki/).
+5artikel ist die Homepage und der Blog von Uwe Jochum. Die
+Website ist ein Fork des Jekyll Themas namens »Project Pages«.
+Mehr Informationen zu den »Project Pages« finden Sie
+[hier](https://github.com/projectpages/project-pages/wiki/).

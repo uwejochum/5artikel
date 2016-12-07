@@ -488,9 +488,16 @@ header-img: "img/totenbuch-bg.jpg"
     Klostermann, 2014 (Zeitschrift für Bibliothekswesen und
     Bibliographie, Sonderband 111), S. 135–145.
 
--   [Begriffliche Durchdringung](https://www.jungewelt.de/loginFailed.php?ref=/2014/08-23/005.php). Bücher können durch Datenbanken
-    nicht ersetzt werden. In: junge Welt, 23.08.2014,
-    Wochenendbeilage, S. 6.
+-   [Begriffliche
+    Durchdringung](https://www.jungewelt.de/loginFailed.php?ref=/2014/08-23/005.php).
+    Bücher können durch Datenbanken nicht ersetzt werden. In:
+    junge Welt, 23.08.2014, Wochenendbeilage, S. 6.
+
+## 2016
+
+-   [Digitale
+    Wissenschaftskontrolle](http://www.faz.net/aktuell/feuilleton/debatten/open-access-publikationssystem-laeuft-auf-kontrollsystem-aus-14538833.html). In:
+    Frankfurter Allgemeine Zeitung, 25.11.2016, Seite N4.
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
@@ -514,6 +521,13 @@ header-img: "img/totenbuch-bg.jpg"
 -   [Das Ende der Bibliothek?](http://www.klostermann.de/epages/63574303.sf/de_DE/?ObjectPath=/Shops/63574303/Products/9783465037224) Vom Wert des Analogen. Hrsg. von Uwe
     Jochum und Armin Schlechter. Frankfurt am Main:
     Klostermann, 2011. (Siehe die Rezension auf
-    [www.literaturkritik.de](http://www.literaturkritik.de/public/rezension.php?rez_id=16453&ausgabe=201203) und den Tagungsbericht auf [hsozkult](http://hsozkult.geschichte.hu-berlin.de/tagungsberichte/id=3129).)
+    [www.literaturkritik.de](http://www.literaturkritik.de/public/rezension.php?rez_id=16453&ausgabe=201203)
+    und den Tagungsbericht auf
+    [hsozkult](http://hsozkult.geschichte.hu-berlin.de/tagungsberichte/id=3129).)
+
+- [Jahrbuch für Buch- und
+    Bibliotheksgeschichte](https://www.winter-verlag.de/de/detail/978-3-8253-6700-8/Jahrbuch_Buch_u_Bibliotheksgesch_JBB_1_2016/). Hrsg. von
+    Uwe Jochum, Bernhard Lübbers, Armin Schlechter und Bettina
+    Wagner. Heidelberg: Winter, 1 (2016) ff.
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)

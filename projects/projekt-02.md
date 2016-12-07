@@ -457,6 +457,7 @@ header-img: "img/accipies-banner-grau-dunkel.png"
     am 16. Oktober 2016 um 19:15 Uhr auf ARD alpha als
     Zusammenschnitt gesendet. Siehe dort [die Mediothek](http://www.br.de/mediathek/video/sendungen/logos/die-digitale-herausforderung-100.html).
 
+[zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="orgffcd9ed"></a>
 
@@ -549,6 +550,7 @@ header-img: "img/accipies-banner-grau-dunkel.png"
     Deutschlandfunk, 13. März 2015, 20.10 Uhr. Autor der Sendung:
     Joachim Büthe, Regie: Axel Pleuser.
 
+[zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="org619f44c"></a>
 
@@ -735,3 +737,4 @@ Proseminar »Der Tod Jesu«
 
 Lektürekurs »Ewiges Leben der Seele oder Wiederauferstehung der Toten«
 
+[zurück zum Inhaltsverzeichnis](#table-of-contents)
