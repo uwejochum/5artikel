@@ -91,7 +91,7 @@ Schauen wir zunächst noch einmal auf die
 der Münchener Jubiläumstagung. Man wird rasch bemerken, daß von
 der einstigen Frontstellung gegen die Verlage nicht mehr viel
 übrig ist, denn in München nahmen Verlagsvertreter noch und
-nöcher teil, von den ganz großen und bösen (Wiley) bis zu den
+nöcher teil, von den ganz großen <s>und bösen</s> (Wiley) bis zu den
 ganz kleinen <s>und darbenden</s> (oekom verlag). Auch wenn der
 eine oder andre Verlag in München nur vorbeikam, um auf dem
 Laufenden zu sein und nach den Rechten zu sehen, darf man doch
@@ -151,12 +151,12 @@ Gehen wir einmal davon aus, daß die Mehrzahl der in München sich
 Versammelnden nicht auf den bestbezahlten Stellen des
 öffentlichen Dienstes sitzt, sondern trotz Hochschulstudium auf
 eher bescheiden bezahlten Stellen in der tarifvertraglichen
-Preisklasse von E11 oder E12 oder, bestenfalls, E13. Dann macht
+Preisklasse von E&thinsp;11 oder E&thinsp;12 oder, bestenfalls, E&thinsp;13. Dann macht
 das, wie ein Blick in die einschlägigen Tabellen zur Ermittlung
 der Personalkosten (inkl. der Gemeinkosten)
 [zeigt](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMF-IIIA1-20110509-SF-A001.pdf),
-bei einer E11-Stelle 79120 Euro im Jahr aus, bei einer E12-Stelle
-sind es 88868 Euro. Wir wollen das auf 84000 Euro mitteln und mit
+bei einer E&thinsp;11-Stelle 79&thinsp;120 Euro im Jahr aus, bei einer E&thinsp;12-Stelle
+sind es 88&thinsp;868 Euro. Wir wollen das auf 84&thinsp;000 Euro mitteln und mit
 den 188 Teilnehmern multiplizieren — und erhalten dann
 **Personalkosten von knapp 15,8 Mio Euro**. Und selbst wenn man
 annähme, alle diese schlecht bezahlten Akademiker säßen auf noch
