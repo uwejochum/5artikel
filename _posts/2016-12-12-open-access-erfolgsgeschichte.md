@@ -41,7 +41,9 @@ Access«](https://open-access.net/community/open-access-tage/open-access-tage-20
 ![Ralf Schimmer](/5artikel/material/oat-16-muenchen-schimmer-2016-12-07.png
 "Dr. Ralf Schimmer von der Max Planck digital library")
 [Abb. 1: Dr. Ralf Schimmer von der Max Planck digital library
-will große Flächen bearbeiten.]
+will große Flächen bearbeiten. Quelle: [Video Online
+Unterrichtsmitschau](https://videoonline.edu.lmu.de/de/node/8216)
+der LMU München.]
 
 Und daß zu dieser Transformation dann natürlich
 auch die Einbeziehung der Monographien gehört — etwas, was die
@@ -79,10 +81,14 @@ der Summe billiger sein als das, was die Verlage in gedruckter
 Form und begleitender Dienstleistung den Bibliotheken bislang in
 Rechnung gestellt haben.
 
-![Sven Fund](/5artikel/material/oat-16-muenchen-fund-2016-12-07.png
+![Sven
+Fund](/5artikel/material/oat-16-muenchen-fund-2016-12-07.png
 "Dr. Sven Fund, Geschäftsführer von Knowledge Unlached") [Abb. 2:
 Dr. Sven Fund, der geschaßte Geschäftsführer des
-de-Gruyter-Verlags, erklärt sein neuestes »Geschäftsmodell«.]
+de-Gruyter-Verlags, erklärt sein neuestes
+»Geschäftsmodell«. Quelle: [Video Online
+Unterrichtsmitschau](https://videoonline.edu.lmu.de/de/node/8219)
+der LMU München.]
 
 Und warum muß man sich da nun die Augen reiben? 
 
@@ -116,7 +122,9 @@ DFG](/5artikel/material/oat-16-muenchen-2016-brintzinger-fournier-2016-12-07.png
 "Dr. Brintzinger und Dr. Fournier") [Abb. 3: Dr. Klaus-Rainer
 Brintzinger, Leiter der UB der LMU München, und Dr. Johannes
 Fournier, DFG-Programmdirektor, ziehen gemeinsam am
-»Open-Access«-Strang.]
+»Open-Access«-Strang. Quelle: [Video Online
+Unterrichtsmitschau](https://videoonline.edu.lmu.de/de/node/8220)
+der LMU München.]
 
 Und damit bin ich auch schon beim zweiten Grund, weshalb man sich
 mit einem Blick auf die Münchener Jubeltagung die Augen reiben
@@ -143,8 +151,9 @@ möglichst laute Stimme zu geben, ebenfalls vom Steuerzahler
 finanziert wurden).
 
 ![Open Access](https://pbs.twimg.com/media/CuZVD62XEAA-TdF.jpg
-"Tagungsteilnehmer")
-[Abb. 4: Die »Open-Access«-Bewegung sitzt.]
+"Tagungsteilnehmer") [Abb. 4: Die »Open-Access«-Bewegung
+sitzt. Quelle:
+[https://pbs.twimg.com/media/CuZVD62XEAA-TdF.jpg](https://pbs.twimg.com/media/CuZVD62XEAA-TdF.jpg)]
 
 Welche Beträge da zusammenkommen, läßt sich leicht überschlagen:
 Gehen wir einmal davon aus, daß die Mehrzahl der in München sich
@@ -190,6 +199,7 @@ komplett mit Mann und Maus und den Büchern und Zeitschriften.
 
 ![Die Open-Access-Flagge
 einholen](https://pbs.twimg.com/media/Cujs4-uWYAA6pnE.jpg "Das
-Münchener Tagungsbanner")
-[Abb. 5: Das »Open-Access«-Tagungsbanner wird eingeholt.]
+Münchener Tagungsbanner") [Abb. 5: Das
+»Open-Access«-Tagungsbanner wird eingeholt. Quelle:
+[https://pbs.twimg.com/media/CuZVD62XEAA-TdF.jpg](https://pbs.twimg.com/media/CuZVD62XEAA-TdF.jpg)]
 
