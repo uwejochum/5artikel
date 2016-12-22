@@ -3,7 +3,6 @@ layout:  post
 title:   »Open Access« — eine Erfolgsgeschichte
 author:  Uwe Jochum
 tags:    [Open Access, Kosten, Personalkosten]
-categories: [Bibliotheken, Politik]
 ---
 
 »Open Access«, so hörte ich neulich, sei eine

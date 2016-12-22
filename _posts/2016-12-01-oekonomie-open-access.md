@@ -3,7 +3,6 @@ layout:     post
 title:      Zur Ökonomie von »Open Access«
 author:	    Uwe Jochum
 tags: 	    [Open Access, Kosten]
-category:   [Politik, Bibliotheken]
 ---
 
 # 1. Ist »Open Access« kostenlos?
