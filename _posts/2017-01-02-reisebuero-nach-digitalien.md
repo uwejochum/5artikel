@@ -141,7 +141,7 @@ ich mir das jetzt nicht mehr vor, nein, dann geht meine Phantasie
 mit mir durch und ich sehe, wie der Benutzer nicht einmal mit den
 Augen zuckt, wie er keinen Schreikrampf kriegt, wie er nicht aus
 dem Bibliothekslokal rennt — sondern wie er sozusagen im Sprechen
-der Dienststellenleiterin schrumpft, bis er Dackelgröße erreicht
+des Dienststellenleiters schrumpft, bis er Dackelgröße erreicht
 hat, und wie er dann, auf Wadenhöhe, nicht zubeißt, sondern brav
 mit dem Schwanz wedelt und, als ihm die Dienststellenleiterin ein
 Stöckchen zuwirft, ebenso brav apportiert.
