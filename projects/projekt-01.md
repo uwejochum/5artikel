@@ -297,7 +297,8 @@ header-img: "img/totenbuch-bg.jpg"
 ## 2004
 
 -   The Gnosis of Media. In: Library Quarterly 74 (2004),
-    S. 21-41. [pdf](http://www.journals.uchicago.edu/doi/abs/10.1086/380852)
+    S. 21-41. [Verlags-pdf](http://www.journals.uchicago.edu/doi/abs/10.1086/380852),
+	[Preprint-pdf](/5artikel/pdf/jochum-gnosis-media-preprint-lq-2004.pdf)
 -   Das Archiv der Bibliothek. In: Bürokratische Leidenschaften. Kultur-
     und Mediengeschichte im Archiv. Sven Spieker (Hrsg.). Berlin:
     Kadmos, 2004, S. 45-59.
