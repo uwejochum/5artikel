@@ -2,7 +2,7 @@
 layout:  post
 title:   Reisebüro nach Digitalien
 author:  Uwe Jochum
-tags:    [open access, zwang]
+tags:    [»Open Access«, Zwang]
 ---
 
 Manch einer fliegt gerne in die Karibik, wo es schön und warm ist

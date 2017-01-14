@@ -529,6 +529,7 @@ header-img: "img/totenbuch-bg.jpg"
 - [Jahrbuch für Buch- und
     Bibliotheksgeschichte](https://www.winter-verlag.de/de/detail/978-3-8253-6700-8/Jahrbuch_Buch_u_Bibliotheksgesch_JBB_1_2016/). Hrsg. von
     Uwe Jochum, Bernhard Lübbers, Armin Schlechter und Bettina
-    Wagner. Heidelberg: Winter, 1 (2016) ff.
+    Wagner. Heidelberg: Winter, 1 (2016) ff. Siehe dazu das
+    [»Fundstück«](http://www.sueddeutsche.de/kultur/neues-jahrbuch-fund-stuecke-1.3325437) in der Süddeutschen Zeitung vom 9. Januar 2017.
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)

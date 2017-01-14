@@ -41,7 +41,7 @@ layout: default
 	5px;margin-bottom:5px; font-size: 0.8em">Geschrieben von {{ post.author }} am {{ post.date | date: "%-d.%-m.%Y" }}</p>
 	
 	<div class="notepad-index-post-tags" style="">
-	{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+	{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 	</div> 
 	
 			{% for member in site.data.members %}
@@ -110,7 +110,7 @@ layout: default
 		<div class="notepad-index-post-tags" style="">
 		{% for tag in post.tags %}<a href="{{
 		site.baseurl }}/search/index.html#{{ tag |
-		cgi_encode }}" title="Andere Posts mit dem {{ tag | capitalize }} Tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+		cgi_encode }}" title="Andere Posts mit dem {{ tag | capitalize }} Tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 		</div> 
 		
 		{% assign relevantpostcount = 1 %}
@@ -136,7 +136,7 @@ layout: default
 		<div class="notepad-index-post-tags" style="">
 		{% for tag in post.tags %}<a href="{{
 		site.baseurl }}/search/index.html#{{ tag |
-		cgi_encode }}" title="Andere Posts mit dem {{ tag | capitalize }} Tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+		cgi_encode }}" title="Andere Posts mit dem {{ tag | capitalize }} Tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 		</div> 
 		
 		{% assign relevantpostcount = 2 %}
