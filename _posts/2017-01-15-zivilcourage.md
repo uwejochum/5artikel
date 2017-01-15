@@ -13,7 +13,7 @@ wenn man sein Werk veröffentlichen und damit vielleicht sogar
 Geld verdienen will, und ohne seine Zustimmung geht da gar
 nichts. In bestimmten Kontexten — konkret: in Schulen und
 Hochschulen — geht es nun freilich nicht um eine kommerzielle
-Verwertung von Werken, sondern um — im Idealfall — an die
+Verwertung von Werken, sondern — im Idealfall — um die
 Heranführung an solche Werke. Und daher hat der Gesetzgeber in
 diesen Fällen das Urheberrecht eingeschränkt: Zu
 Unterrichtszwecken dürfen kleine Teile von Werken und dürfen
