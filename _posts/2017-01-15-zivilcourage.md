@@ -18,8 +18,8 @@ Heranführung an solche Werke. Und daher hat der Gesetzgeber in
 diesen Fällen das Urheberrecht eingeschränkt: Zu
 Unterrichtszwecken dürfen kleine Teile von Werken und dürfen
 Werke geringen Umfangs öffentlich zugänglich gemacht werden, ohne
-daß man zuvor den Urheber fragt; und für diese Verwendung ist
-eine angemessene Gebühr zu zahlen (§&thinsp;52a UrhG).
+daß man zuvor den Urheber fragen muß; und für diese Verwendung
+ist eine angemessene Gebühr zu zahlen (§&thinsp;52a UrhG).
 
 Das ist alles nicht sonderlich kompliziert. Es ist, wenn man so
 will, eine Schranke mit einer Schranke, und zwar um der Fairneß
