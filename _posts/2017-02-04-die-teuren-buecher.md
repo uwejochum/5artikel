@@ -60,18 +60,18 @@ Version
 [frei im Internet verfügbar](https://www.db-thueringen.de/receive/dbt_mods_00006304) ist
 — die elektronische Parallelveröffentlichung soll ja mit zu den
 innovativen Elementen dieses innovativen Verlages gehören —,
-bricht natürlich der Absatz des Buches ein. Dem Verlag bleibt
-dann im wesentlichen nur das, was er vom Autor als
-Druckkostenbeitrag erhalten hat (350 Euro, wovon die
-Herstellungs- und Gemeinkosten des Verlages zu bestreiten sind);
-der Verkauf spielt dann keine kalkulatorische Rolle mehr, wie man
-durch einen Blick in
-den
-[Karlsruher Virtuellen Katalog](http://kvk.bibliothek.kit.edu/hylib-bin/kvk/nph-kvk2.cgi?maske=kvk-redesign&lang=de&title=KIT-Bibliothek%3A+Karlsruher+Virtueller+Katalog+KVK+%3A+Ergebnisanzeige&head=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Fhead.html&header=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Fheader.html&spacer=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Fspacer.html&footer=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Ffooter.html&css=none&input-charset=utf-8&ALL=steinhauer+lehrfreiheit&TI=&AU=&CI=&ST=&PY=&SB=&SS=&PU=&kataloge=SWB&kataloge=BVB&kataloge=NRW&kataloge=HEBIS&kataloge=HEBIS_RETRO&kataloge=KOBV_SOLR&kataloge=GBV&kataloge=DDB&kataloge=STABI_BERLIN&ref=direct&client-js=yes&inhibit_redirect=1) leicht
-sehen kann: Die »Print-on-Demand«-Ausgabe der Steinhauerschen
-Dissertation wurde deutschlandweit nur von zwölf Bibliotheken
-angeschafft. Und das war eben viel zu wenig, um dem Verlag über
-die Kostenhürde zu helfen.
+bricht natürlich der Absatz des gedruckten Buches ein, der aber
+für die Verlagskalkulation und damit das ökonomische Überleben
+des Verlages entscheidend ist: Bleibt der Verkaufserlös hinter
+den Kosten zurück, wird es für den Verlag eng. Und das scheint
+hier der Fall gewesen zu sein: Die 350 Euro, die der Verlag vom
+Autor als Druckkostenbeitrag erhalten hat (350 Euro, von denen
+die Herstellungs- und Gemeinkosten des Verlages zu bestreiten
+sind), haben zusammen mit den
+laut
+[Karlsruher Virtuellem Katalog](http://kvk.bibliothek.kit.edu/hylib-bin/kvk/nph-kvk2.cgi?maske=kvk-redesign&lang=de&title=KIT-Bibliothek%3A+Karlsruher+Virtueller+Katalog+KVK+%3A+Ergebnisanzeige&head=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Fhead.html&header=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Fheader.html&spacer=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Fspacer.html&footer=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Ffooter.html&css=none&input-charset=utf-8&ALL=steinhauer+lehrfreiheit&TI=&AU=&CI=&ST=&PY=&SB=&SS=&PU=&kataloge=SWB&kataloge=BVB&kataloge=NRW&kataloge=HEBIS&kataloge=HEBIS_RETRO&kataloge=KOBV_SOLR&kataloge=GBV&kataloge=DDB&kataloge=STABI_BERLIN&ref=direct&client-js=yes&inhibit_redirect=1) deutschlandweit
+verkauften 42 gedruckten Exemplaren die Kosten des Verlags nicht
+eingespielt.<a id="a6">[[1]](#fn1)</a>
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Meister_%27G%27_des_Turin-Mail%C3%A4nder_Gebetbuches_001.jpg/800px-Meister_%27G%27_des_Turin-Mail%C3%A4nder_Gebetbuches_001.jpg"
@@ -228,4 +228,30 @@ zu schelten, auch wenn die Erfahrungen mit einem »innovativen
 Verlag« eigentlich Anlaß zur Zurückhaltung sein sollten:
 
 ![Steinhauer](/5artikel/material/steinhauer-print-on-demand-twitter-2016-12-27.png)
+
+## Anmerkung
+
+<a name ="fn1">[1]</a>: Ursprünglich stand in diesem Text die
+Angabe, die Dissertation sei nur von zwölf Bibliotheken
+angeschafft worden. Richtig ist: Im Karlsruher Virtuellen Katalog
+gab es zwölf Treffer, hinter denen sich aber 42 angeschaffte
+Exemplare verbergen. Das sei gerne korrigiert, auch wenn es dem
+Verlag, um den es geht, nicht im geringsten geholfen hat: Er ist
+nach wie vor insolvent. Und bevor wir uns jetzt ablenken lassen
+durch Tweets wie diesem
+
+![Steinhauer](/5artikel/material/steinhauer-twitter-2017-02-05.png)
+
+sei an das erinnert, um was es in diesem Beitrag geht: darum, daß
+das angeblich teure Buch gar nicht so teuer ist, wie es scheint;
+und darum, daß das angeblich so günstige digitale Publizieren
+(mit oder ohne Papierbeilage) ökonomisch arg danebengehen kann,
+wenn die Kalkulationsbasis auf der Verlagsseite nicht stimmt, und
+dabei ist es gleich, ob sich der Verlag mit zwölf oder mit 42
+Exemplaren verrechnet und die Deckungsauflage nicht erreicht hat.
+Da hilft dann auch — ökonomisch gesehen — kein Hinweis auf mehr
+als 1000 Dowloads der kostenlos verfügbar gemachten digitalen
+Version des Buches; denn der Verlag ist dennoch und wohl
+*deswegen* pleite. Und jetzt?
+
 
