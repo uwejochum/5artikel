@@ -250,8 +250,8 @@ wenn die Kalkulationsbasis auf der Verlagsseite nicht stimmt, und
 dabei ist es gleich, ob sich der Verlag mit zwölf oder mit 42
 Exemplaren verrechnet und die Deckungsauflage nicht erreicht hat.
 Da hilft dann auch — ökonomisch gesehen — kein Hinweis auf mehr
-als 1000 Dowloads der kostenlos verfügbar gemachten digitalen
-Version des Buches; denn der Verlag ist dennoch und wohl
-*deswegen* pleite. Und jetzt? [(zurück)](#a1)
+als 1000 Downloads der kostenlos verfügbar gemachten digitalen
+Version des Buches; denn der Verlag ist dennoch und vielleicht
+auch *deswegen* pleite. Und jetzt? [(zurück)](#a1)
 
 
