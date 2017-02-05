@@ -71,7 +71,7 @@ sind), haben zusammen mit den
 laut
 [Karlsruher Virtuellem Katalog](http://kvk.bibliothek.kit.edu/hylib-bin/kvk/nph-kvk2.cgi?maske=kvk-redesign&lang=de&title=KIT-Bibliothek%3A+Karlsruher+Virtueller+Katalog+KVK+%3A+Ergebnisanzeige&head=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Fhead.html&header=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Fheader.html&spacer=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Fspacer.html&footer=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Ffooter.html&css=none&input-charset=utf-8&ALL=steinhauer+lehrfreiheit&TI=&AU=&CI=&ST=&PY=&SB=&SS=&PU=&kataloge=SWB&kataloge=BVB&kataloge=NRW&kataloge=HEBIS&kataloge=HEBIS_RETRO&kataloge=KOBV_SOLR&kataloge=GBV&kataloge=DDB&kataloge=STABI_BERLIN&ref=direct&client-js=yes&inhibit_redirect=1) deutschlandweit
 verkauften 42 gedruckten Exemplaren die Kosten des Verlags nicht
-eingespielt.<a id="a6">[[1]](#fn1)</a>
+eingespielt.<a id="a1">[[1]](#fn1)</a>
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Meister_%27G%27_des_Turin-Mail%C3%A4nder_Gebetbuches_001.jpg/800px-Meister_%27G%27_des_Turin-Mail%C3%A4nder_Gebetbuches_001.jpg"
