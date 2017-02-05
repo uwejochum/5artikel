@@ -229,6 +229,8 @@ Verlag« eigentlich Anlaß zur Zurückhaltung sein sollten:
 
 ![Steinhauer](/5artikel/material/steinhauer-print-on-demand-twitter-2016-12-27.png)
 
+<br>
+
 ## Anmerkung
 
 <a name ="fn1">[1]</a>: Ursprünglich stand in diesem Text die
