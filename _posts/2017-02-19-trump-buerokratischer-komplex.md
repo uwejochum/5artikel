@@ -2,7 +2,7 @@
 layout: post
 title:  Donald Trump und der bibliothekarisch-bürokratische Allianzkomplex
 author: Uwe Jochum
-tags:   [Urheberrecht, Open Access, Allianz der Wissenschaftsorganisationen]
+tags:   [Urheberrecht, »Open Access«, Allianz der Wissenschaftsorganisationen]
 ---
 
 Man muß Donald Trump nun wirklich nicht mögen, aber man muß sich
