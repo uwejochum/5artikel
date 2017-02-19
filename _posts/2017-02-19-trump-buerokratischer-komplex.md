@@ -368,9 +368,11 @@ bekannteren zu nennen):
 
 - Jürgen Habermas, Philosoph
 
-- Axel Honneth, Philosoph
+- Dieter Henrich, Philosoph
 
 - Jürgen Osterhammel, Historiker
+
+- Axel Honneth, Philosoph
 
 - Wolfgang Frühwald, Germanist und ehemaliger DFG-Präsident
 
