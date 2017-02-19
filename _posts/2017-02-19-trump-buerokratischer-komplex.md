@@ -366,6 +366,8 @@ sind es all jene unabhängigen Köpfe, aus denen die Wissenschaft
 eigentlich besteht. Zu ihnen gehören (um nur einige der
 bekannteren zu nennen):
 
+- Jürgen Habermas, Philosoph
+
 - Axel Honneth, Philosoph
 
 - Jürgen Osterhammel, Historiker
