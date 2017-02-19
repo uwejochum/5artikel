@@ -366,6 +366,8 @@ sind es all jene unabhängigen Köpfe, aus denen die Wissenschaft
 eigentlich besteht. Zu ihnen gehören (um nur einige der
 bekannteren zu nennen):
 
+- Jürgen Habermas, Philosoph
+
 - Axel Honneth, Philosoph
 
 - Jürgen Osterhammel, Historiker
@@ -398,17 +400,17 @@ werden muß. Ich nenne hier auf einem Ehrenplatz
 Das also ist die Situation, die wir haben. Es ist die Situation
 eines tiefen Grabens zwischen dem bibliothekarisch-bürokratischen
 Allianzkomplex, der viel zu lange schon als Vormund der
-Wissenschaftler agiert hat. Es ist die Situation einer
-beginnenden Aufklärung und Mündigkeit der Wissenschaftler, die
-gerade erfahren, daß Aufklärung und Mündigkeit keine seit Kant
-erreichten Zustände sind, sondern in konkretem Handeln stets aufs
-neu hergestellt werden müssen. Und konkret zu handeln heißt hier
-und jetzt, dafür einzutreten, daß der von der »Allianz«
-eingeschlagene Weg zu einer urheberrechtlichen Entmündigung der
-Wissenschaftler auch und gerade durch ein
-»Open-Access«-Zwangsregime — sei es auf dem Gesetzesweg erzwungen
-oder durch förderpolitische »Erwartungen« erschlichen — beendet
-wird.
+Wissenschaftler agiert hat, und den Wissenschaftlern (und ihren
+Verlagen). Es ist die Situation einer beginnenden Aufklärung und
+Mündigkeit der Wissenschaftler, die gerade erfahren, daß
+Aufklärung und Mündigkeit keine seit Kant erreichten Zustände
+sind, sondern in konkretem Handeln stets aufs neu hergestellt
+werden müssen. Und konkret zu handeln heißt hier und jetzt, dafür
+einzutreten, daß der von der »Allianz« eingeschlagene Weg zu
+einer urheberrechtlichen Entmündigung der Wissenschaftler auch
+und gerade durch ein »Open-Access«-Zwangsregime — sei es auf dem
+Gesetzesweg erzwungen oder durch förderpolitische »Erwartungen«
+erschlichen — beendet wird.
 
 **Was wir jetzt brauchen, ist ein wissenschaftspolitischer »Open
 Axit«.**
