@@ -151,7 +151,7 @@ wirft sich zum Repräsentanten einer antizipierten allgemeinen
 Wissenschaftstendenz auf und sorgt dafür, daß das vermeintlich
 Gute, das sie in der Ferne leuchten sieht — in diesem Fall: ein
 sogenanntes
-#[»wissenschaftsfreundliches Urheberrecht«](https://bildungsklick.de/hochschule-und-forschung/meldung/modernes-und-wissenschaftsfreundliches-urheberrecht-fuer-deutschland-unverzichtbar/) samt
+[»wissenschaftsfreundliches Urheberrecht«](https://bildungsklick.de/hochschule-und-forschung/meldung/modernes-und-wissenschaftsfreundliches-urheberrecht-fuer-deutschland-unverzichtbar/) samt
 »Open Access« —, stracks überall in den Universitäten umgesetzt
 wird. Ob das im Wissenschaftsvolk auf Zustimmung oder Ablehnung
 stößt, ist dabei völlig gleichgültig, denn man ist sich ja darin
