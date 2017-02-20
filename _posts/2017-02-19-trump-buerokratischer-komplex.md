@@ -47,7 +47,7 @@ Expertentum verstehen, das Mal um Mal klüger sein wollte als das
 Wahlvolk, dem es in worthülsenhafter Diktion Mal um Mal erklärte,
 was seine, des Wahlvolks, eigentlichen Ziele seien. Und dabei mit
 all den Worthülsen immer nur jene Wirklichkeit verstellte, die
-große Teile ebendieses Wahlvolks im Alltag zu spüren bekamen. Bis
+große Teile ebendieses Wahlvolks im Alltag zu spüren bekam. Bis
 das Wahlvolk genug von den Experten, genug von den Worthülsen und
 genug von jenen Politikern hatte, die ihre Aufgabe nicht in der
 Auseinandersetzung mit der Wirklichkeit sahen, sondern in der
