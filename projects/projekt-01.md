@@ -115,7 +115,7 @@ header-img: "img/totenbuch-bg.jpg"
 ## 2015
 
 -   Bücher. Vom Papyrus zum E-Book. Darmstadt: Wissenschaftliche
-    Buchgesellschaft, 2015. Erscheint im März 2015.
+    Buchgesellschaft, 2015.
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
@@ -499,6 +499,13 @@ header-img: "img/totenbuch-bg.jpg"
 -   [Digitale
     Wissenschaftskontrolle](http://www.faz.net/aktuell/feuilleton/debatten/open-access-publikationssystem-laeuft-auf-kontrollsystem-aus-14538833.html). In:
     Frankfurter Allgemeine Zeitung, 25.11.2016, Seite N4.
+	
+## 2017
+
+-   Und wenn es in Wahrheit keine Quellen gibt? Rezension zu
+    Klaus-Rüdiger Mai: Gutenberg. Der Mann, der die Welt
+    veränderte. Berlin. Propyläen, 2016. In: Frankfurter
+    Allgemeine Zeitung, 28.02.2017, Seite 10.
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 

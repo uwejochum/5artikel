@@ -1,12 +1,5 @@
 _site
 node_modules
 Gemfile*
-/_posts/000-markdown-test
-/_posts/000-new-matlab-script.md
-/_posts/000-new-notebook.markdown
-/_posts/000-new-post.markdown
-/_posts/000-new-presentation.markdown
-/_posts/000-new-surface-visualization.markdown
-/_posts/000new-projector.markdown
-/_posts/2016-12-12-open-access-erfolgsgeschichte.md~
 /plugin/publisher.rb
+_drafts
