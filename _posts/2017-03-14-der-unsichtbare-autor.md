@@ -138,7 +138,7 @@ sind Synthesen aus natürlichem »Ursprungsmaterial«, aus
 Mineralien, Metallen, seltenen Erden oder was auch immer. Der
 Referentenentwurf überträgt diese Logik der Bearbeitung von
 natürlichen Ressourcen auf geistige Werke und damit auf
-kulturelle Artefakte. Glaubst Du wirklich, daß es Sinn macht,
+kulturelle Artefakte. Glaubst Du wirklich, daß es sinnvoll ist,
 »Kultur« als einen Fall von »Natur« zu betrachten? Die Rohstoffe,
 die sich in der Natur finden, können sicherlich in mannigfacher
 Weise bearbeitet und dabei »veredelt« und schließlich zu
