@@ -260,7 +260,7 @@ stigmatisieren, als eine vernachlässigenswerte Randgruppe, die
 der rasch in die Zukunft ziehende Wissenschaftstroß weit hinter
 sich lassen würde — wider besseres Wissen natürlich, denn der
 Deutsche Hochschulverband, mit 30&thinsp;000 Mitgliedern die
-größte Wissenschafltervereinigung Europas, hat mit seiner Kritik
+größte Wissenschaftlervereinigung Europas, hat mit seiner Kritik
 an einer Aufweichung des Urheberrechts und des
 Zwangs-»Open-Access« nie hinterm Berg gehalten (siehe etwa
 die

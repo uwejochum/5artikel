@@ -78,7 +78,7 @@ etwas möglich ist.
 Du lebst in der Bundesrepublik Deutschland. Und da ist vor kurzem
 im »Bundesministerium der Justiz und für Verbraucherschutz«
 ein
-[»Referentenentwurf«]({http://www.bmjv.de/SharedDocs/Gesetzgebungsverfahren/Dokumente/RefE_UrhWissG.pdf?__blob=publicationFile&v=1) erschienen,
+[»Referentenentwurf«](https://www.bmjv.de/SharedDocs/Gesetzgebungsverfahren/Dokumente/RefE_UrhWissG.pdf) erschienen,
 dem es um Änderungen beim deutschen Urheberrecht geht und der
 einer der Gründe dafür ist, warum es die
 Aktion

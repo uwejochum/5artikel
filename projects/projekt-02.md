@@ -457,6 +457,13 @@ header-img: "img/accipies-banner-grau-dunkel.png"
     am 16. Oktober 2016 um 19:15 Uhr auf ARD alpha als
     Zusammenschnitt gesendet. Siehe dort [die Mediothek](http://www.br.de/mediathek/video/sendungen/logos/die-digitale-herausforderung-100.html).
 
+## 2017
+
+-   Festvortrag zur Eröffnung
+    der
+    [Sommerausstellung »Arznei für die Seele«](http://www.stibi.ch/Portals/0/Ausstellungen/Arznei_f_Seele_2017/7865sti_Abracadabra_2016_Sommerprogramm_web.pdf),
+    Dienstag, den 14. März 2017, 18:30 Uhr im Pfalzkeller.
+
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="orgffcd9ed"></a>
