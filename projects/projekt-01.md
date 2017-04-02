@@ -507,6 +507,12 @@ header-img: "img/totenbuch-bg.jpg"
     veränderte. Berlin. Propyläen, 2016. In: Frankfurter
     Allgemeine Zeitung, 28.02.2017, Seite 10.
 
+-   Heilstätten der Seele. Zur Geschichte der Bibliotheken. In:
+    Arznei für die Seele. Mit derStiftsbibliothek St. Gallen
+    durch die Jahrhunderte. Sommerausstellung 14. März
+    bis 12. November 2017. Hrsg. von Cornel Dora. St. Gallen, Basel:
+    Verlag am Klosterhof, Schwabe, 2017, S. 10–21.
+
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="org2293247"></a>
