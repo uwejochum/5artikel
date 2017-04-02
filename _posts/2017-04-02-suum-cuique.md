@@ -68,7 +68,7 @@ Sexualkollektiv von 1620 Individuen, erträumt von Charles
 Fourier. Quelle: Harvard, Houghton Library (Soc 860.05, Houghton
 Library, Harvard University), eingestellt
 auf
-[Wikipedia](https://upload.wikimedia.org/wikipedia/commons/f/f4/Hieronymus_Bosch_-_The_Last_Judgement.jpg).]
+[Wikipedia](https://upload.wikimedia.org/wikipedia/commons/9/9a/Houghton_Soc_860.05_-_Fug%C3%A8re%2C_phalanst%C3%A8re.jpg).]
 
 Im modernen Arbeitsstaat kommt es nun zu einer bezeichnenden
 Erweiterung dieser Idee. Da der Arbeitsstaat die
@@ -124,7 +124,7 @@ vermüllte und verdunkelte »Werkstättenlandschaft« (Ernst Jünger)
 zeigt.
 
 <img
-src="http://127.0.0.1:4000/5artikel/material/bosch-juengstes-gericht-mitteltafel-ausschnitt.png"
+src="https://github.com/uwejochum/5artikel/blob/master/material/bosch-juengstes-gericht-mitteltafel-ausschnitt.png"
 alt="Drawing" style="width: 650px;"/>[Abb.&thinsp;3: Hieronymus
 Bosch: Das Jüngste Gericht, Ausschnitt aus der Mitteltafel des
 Triptychons. Quelle:
