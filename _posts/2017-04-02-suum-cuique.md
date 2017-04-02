@@ -123,12 +123,18 @@ Abbauprozesse rasant zunehmen und sich überall eine verkraterte,
 vermüllte und verdunkelte »Werkstättenlandschaft« (Ernst Jünger)
 zeigt.
 
-<img
-src="https://github.com/uwejochum/5artikel/blob/master/material/bosch-juengstes-gericht-mitteltafel-ausschnitt.png"
-alt="Drawing" style="width: 650px;"/>[Abb.&thinsp;3: Hieronymus
-Bosch: Das Jüngste Gericht, Ausschnitt aus der Mitteltafel des
-Triptychons. Quelle:
+![Bosch](/5artikel/material/bosch-juengstes-gericht-mitteltafel-ausschnitt.png "Hieronymus Bosch") [Abb.&thinsp;3:
+Hieronymus Bosch: Das Jüngste Gericht, Ausschnitt aus der
+Mitteltafel des Triptychons. Quelle:
+Quelle:
 [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/f/f4/Hieronymus_Bosch_-_The_Last_Judgement.jpg).]
+
+<!-- <img -->
+<!-- src="https://github.com/uwejochum/5artikel/blob/master/material/bosch-juengstes-gericht-mitteltafel-ausschnitt.png" -->
+<!-- alt="Drawing" style="width: 650px;"/>[Abb.&thinsp;3: Hieronymus -->
+<!-- Bosch: Das Jüngste Gericht, Ausschnitt aus der Mitteltafel des -->
+<!-- Triptychons. Quelle: -->
+<!-- [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/f/f4/Hieronymus_Bosch_-_The_Last_Judgement.jpg).] -->
 
 Wie wenig es sich hier um eine abstrakte Theorie handelt, wird
 deutlich, wenn man sich die auf den 22. Februar 2017
