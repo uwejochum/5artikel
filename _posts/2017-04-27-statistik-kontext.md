@@ -149,8 +149,8 @@ aufgeweichtes Urheberrecht für die Wissenschaftler bedeutet —
 hier unterschreiben eben genau diejenigen, die im Weltbild
 einiger meiner bibliothekarischen Freunde eigentlich nicht
 unterschreiben dürften: die aktiven und die jungen Professoren
-und Mittelbauer. Hier zeigen sich die die Hochschullehrer als
-kämpferischer Trupp, der sich von keinem Bibliothekar oder
+und Mittelbauer. Hier zeigen sich die Hochschullehrer als
+kämpferischer Trupp, der sich von keinem Bibliothekar und keinem
 Hochschulrektor die schöpferische Butter vom Brot nehmen lassen
 möchte. Keine Rede also davon, daß hier die nachfolgende
 Wissenschaftlergeneration nicht erreicht werde. Sie wird
