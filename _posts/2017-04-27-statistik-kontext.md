@@ -284,7 +284,7 @@ Urheberrecht dürsten, frei und geschützt unterschreiben könnten —
 macht man sich das klar, fällt einem wie Schuppen von den Augen,
 daß die klägliche Unterschriftenzahl, die das »Aktionsbündnis«
 bisher zusammengebracht hat, nichts anderes bedeutet als dies:
-Das deutsche Bibliothekswesen,in dem die Ziele des
+Das deutsche Bibliothekswesen, in dem die Ziele des
 »Aktionsbündnisses« landauf und landab propagiert werden, hat —
 und nun darf ich zitieren — »offenbar den Kontakt zu den jüngeren
 Hochschullehrern verloren […] und [läuft] damit Gefahr, massiv
