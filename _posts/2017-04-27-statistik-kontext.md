@@ -140,21 +140,21 @@ www.publikationsfreiheit.de-Initiative gibt: Neun Professoren und
 vier Mittelbauer haben unterschrieben, und von den neun
 Professoren sind acht aktiv im Dienst, einer ist emeritiert; vier
 sind Juristen, drei Literaturwissenschaftler, einer ist
-Historiker und eine ist Chemikerin; die dreizehn Konstanzer
-Unterzeichner sind deutlich jünger als 50 Jahre, nur zwei liegen
-darüber (der Historiker und der Emeritus). Hier also, wo man als
-Hochschullehrer am eigenen Leib zu spüren bekommen hat, was sich
-unter dem Etikett »Open Access« verbirgt und was ein
-aufgeweichtes Urheberrecht für die Wissenschaftler bedeutet —
-hier unterschreiben eben genau diejenigen, die im Weltbild
-einiger meiner bibliothekarischen Freunde eigentlich nicht
-unterschreiben dürften: die aktiven und die jungen Professoren
-und Mittelbauer. Hier zeigen sich die Hochschullehrer als
-kämpferischer Trupp, der sich von keinem Bibliothekar und keinem
-Hochschulrektor die schöpferische Butter vom Brot nehmen lassen
-möchte. Keine Rede also davon, daß hier die nachfolgende
-Wissenschaftlergeneration nicht erreicht werde. Sie wird
-erreicht.
+Historiker und eine ist Chemikerin; und die dreizehn Konstanzer
+Unterzeichnern sind durchaus keine Senioren: etwa die Hälfte von
+ihnen ist (knapp) über 50 Jahre alt, die andere Hälfte aber
+erheblich jünger. Hier also, wo man als Hochschullehrer am
+eigenen Leib zu spüren bekommen hat, was sich unter dem Etikett
+»Open Access« verbirgt und was ein aufgeweichtes Urheberrecht für
+die Wissenschaftler bedeutet — hier unterschreiben eben genau
+diejenigen, die im Weltbild einiger meiner bibliothekarischen
+Freunde eigentlich nicht unterschreiben dürften: die aktiven und
+die durchaus noch jungen Professoren und Mittelbauer. Hier zeigen
+sich die Hochschullehrer als kämpferischer Trupp, der sich von
+keinem Bibliothekar und keinem Hochschulrektor die schöpferische
+Butter vom Brot nehmen lassen möchte. Keine Rede also davon, daß
+hier die nachfolgende Wissenschaftlergeneration nicht erreicht
+werde. Sie wird erreicht.
 
 Und sie wird auch dort erreicht, wo sie sich nicht oder noch
 nicht zu Wort meldet — freilich auf ganz andere Weise, als es ein
