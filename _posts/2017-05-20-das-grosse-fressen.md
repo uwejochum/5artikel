@@ -184,7 +184,7 @@ man daraus machen kann.  Und machen wir einen Bogen um all die
 Synthetik-Junkies, Fast-food-Vertreter und
 Preßfleisch-Lieferanten, die an den Bibliotheksecken stehen und
 uns einreden wollen, sie hätten den billigen und schmackhaften
-geistigen Ernährungsinstantmix für alle.
+geistigen Instantmix für alle.
 
 	
 	
