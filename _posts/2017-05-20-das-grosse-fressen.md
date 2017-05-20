@@ -104,16 +104,16 @@ Nährstoff, den man sich dann einfach »reinziehen« kann. Wozu also
 ein bibliophiles Kobe-Rind wie, nur beispielsweise, die schöne
 und philologisch sehr interessante Kafka-Ausgabe von Roland Reuß
 und Peter Staengle, wenn ich denselben »Content« als bibliophobes
-Preßfleisch, nämlich als Taschenbuch, im Fischer-Verlag bekomme?
-Das macht im einen Fall 199 Euro für das bibliophile Kobe-Rind,
-im andern Fall aber nur 17,60 Euro fürs Preßfleisch. Ja, und
-natürlich gibt es den »Content« auch als Lektürehamburger für um
-die fünf oder sechs Euro. Und irgendwer wird mir jetzt gleich
-schreiben wollen, er habe den »Content« ganz umsonst »im Netz«
-gefunden und ihn würde schon die Soße ohne irgendwas zufrieden
-machen; und noch ein anderer hat natürlich längst entdeckt, daß
-man die digitalsynthetische Version des »Content« für weniger als
-einen Apfel bei einem am Amazonas beheimateten Volk bekommt.
+Preßfleisch, nämlich als Taschenbuch, bekomme?  Das macht im
+einen Fall 199 Euro für das bibliophile Kobe-Rind, im andern Fall
+aber nur 17,60 Euro fürs Preßfleisch. Ja, und natürlich gibt es
+den »Content« auch als Lektürehamburger für um die fünf oder
+sechs Euro. Und irgendwer wird mir jetzt gleich schreiben wollen,
+er habe den »Content« ganz umsonst »im Netz« gefunden und ihn
+würde schon die Soße ohne irgendwas zufrieden machen; und noch
+ein anderer hat natürlich längst entdeckt, daß man die
+digitalsynthetische Version des »Content« für weniger als einen
+Apfel bei einem am Amazonas beheimateten Volk bekommt.
 
 Was heißt das? Es heißt, daß wir bei Büchern noch lange nicht da
 sind, wo wir beim Thema Essen schon seit längerem sind. Beim
