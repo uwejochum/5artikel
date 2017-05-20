@@ -461,7 +461,7 @@ header-img: "img/accipies-banner-grau-dunkel.png"
 
 -   Festvortrag zur Eröffnung
     der
-    [Sommerausstellung »Arznei für die Seele«](http://www.stibi.ch/Portals/0/Ausstellungen/Arznei_f_Seele_2017/7865sti_Abracadabra_2016_Sommerprogramm_web.pdf),
+    [Sommerausstellung »Arznei für die Seele« (Stiftsbibliothek St. Gallen)](http://www.stibi.ch/Portals/0/Ausstellungen/Arznei_f_Seele_2017/7865sti_Abracadabra_2016_Sommerprogramm_web.pdf),
     Dienstag, den 14. März 2017, 18:30 Uhr im Pfalzkeller.
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
