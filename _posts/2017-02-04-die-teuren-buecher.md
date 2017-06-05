@@ -123,7 +123,7 @@ kalkulieren und liegen im Seitenpreis zumeist nicht nur unter
 dem, was ein Copyshop für eine Kopie verlangt, sondern auch unter
 dem, was ein »Publishing-on-Demand«-Anbieter als angeblich
 preiswertes Buch zu kalkulieren in der Lage ist. (Man mache
-einmal einen Kaklkulationstest
+einmal einen Kalkulationstest
 mit [BoD](https://www.bod.de/ihr-buch-ihre-chance.html)!)
 
 Nun liegt das Problem der wissenschaftlichen Bücher natürlich
