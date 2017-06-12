@@ -50,8 +50,7 @@ Houghton von der australischen Victoria University im Jahre 2009
 vorgelegt hat. Diese Berechnungen ergeben für Großbritannien eine
 Ersparnis von jährlich 480 Mio. Euro, wenn auf »Open Access«
 umgestellt wird; für die Niederlande liegen die Ersparnisse bei
-133 Mio. Euro und für Dänemark bei 70 Mio. Euro im Jahr.<a
-id="a2">[[2]](
+133 Mio. Euro und für Dänemark bei 70 Mio. Euro im Jahr.<a id="a2">[[2]](
 #fn2)</a>
 
 Eine genaue Lektüre der von Houghton vorgelegten Studien zeigt
