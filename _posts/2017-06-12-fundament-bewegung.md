@@ -232,7 +232,7 @@ sei (wie es
 der
 [Referentenentwurf für das neue »Urheberrechts-Wissensgesellschafts-Gesetz«](https://www.bmjv.de/SharedDocs/Gesetzgebungsverfahren/Dokumente/RefE_UrhWissG.pdf?__blob=publicationFile&v=1) vorsieht,
 dort §&thinsp;60e). Das ist die innere Logik von »Open Access«,
-eine Logik die die »Open-Access«-Bewegung von Budapest über
+eine Logik, die die »Open-Access«-Bewegung von Budapest über
 Bethesda und Berlin bis Konstanz antreibt und
 Wissenschaftsfreiheit mit einer völlig libertären Nutzung von
 (wissenschaftlichen) Werken verwechselt, von Werken, die nicht
