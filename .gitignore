@@ -1,5 +1,5 @@
-_site
+_site/
 node_modules
 Gemfile*
 /plugin/publisher.rb
-_drafts
+_drafts/

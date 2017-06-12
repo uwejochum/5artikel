@@ -51,7 +51,8 @@ vorgelegt hat. Diese Berechnungen ergeben für Großbritannien eine
 Ersparnis von jährlich 480 Mio. Euro, wenn auf »Open Access«
 umgestellt wird; für die Niederlande liegen die Ersparnisse bei
 133 Mio. Euro und für Dänemark bei 70 Mio. Euro im Jahr.<a
-id="a2">[[2]](#fn2)</a>
+id="a2">[[2]](
+#fn2)</a>
 
 Eine genaue Lektüre der von Houghton vorgelegten Studien zeigt
 nun allerdings, daß das von ihm errechnete Einsparpotential gar
@@ -131,7 +132,7 @@ Mio US-Dollar für »Open-Access«-Publikationsgebühren aufgewendet
 und damit 2 127 »Open-Access«-Beiträge finanziert. Das ergibt
 eine durchschnittliche Publikationsgebühr von 3 055 Dollar pro
 Artikel, wobei im billigsten Fall die Publikationsgebühr 75
-Dollar betrug, im teuersten aber 22 000 Dollar. Von diesen 6,5
+Dollar betrug, im teuersten aber 22000 Dollar. Von diesen 6,5
 Mio Dollar gingen 25 Prozent an Elsevier, 12 Prozent an Wiley, 8
 Prozent an BioMedCentral und damit den Springer Verlag, 8 Prozent
 gingen an Oxford University Press; und lediglich die Public
@@ -285,17 +286,15 @@ bedeutet ein Zusammenbruch der Finanzierung von »Open Access«,
 daß der Zusammenbruch der Infrastruktur gleichbedeutend mit einem
 Verlust der Inhalte ist. Der Schneeball muß zuletzt schmelzen.
 
+## Anmerkungen
 
-<a name ="fn1">[1]</a>:
-[URL](http://legacy.earlham.edu/%7Epeters/fos/newsletter/11-02-06.htm#nofee)
- [(zurück)](#a1)
+<a name ="fn1">[1]</a>:[URL](http://legacy.earlham.edu/%7Epeters/fos/newsletter/11-02-06.htm#nofee) [(zurück)](#a1)
 
 <a name ="fn2">[2]</a>: John Houghton: Open Access – What are the economic benefits?
 A comparison of the United Kingdom, Netherlands and
 Denmark. Melbourne: Victoria University, Centre for Strategic
 Economic Studies, 2009. 
-[URL](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1492578)
- [(zurück)](#a2)
+[URL](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1492578) [(zurück)](#a2)
 
 <a name ="fn3">[3]</a>: John Houghton u. a.: Economic
 implications of alternative scholarly publication
@@ -318,11 +317,12 @@ US-Dollar aufwenden müssen. [(zurück)](#a4)
 <a name ="fn5">[5]</a>: Siehe die Schätzung bei Jochum: »Open Access« (wie Anm. 4),
 39–42. [(zurück)](#a5)
 
-<a name ="fn6">[6]</a>: [URL](http://wowter.net/tag/open-access-costs/). Wahrscheinlich wären die Kosten sogar noch höher, denn
-Houghton setzt die »Open-Access«-Publikationsgebühren für die
-Niederlande sogar mit 56 Mio. Euro an, was eine Mehrbelastung
-durch »Open Access« von 22 Mio. Euro bedeuten würde. Siehe
-Houghton: Open Access (wie Anm. 2), 5. [(zurück)](#a6)
+<a name ="fn6">[6]</a>: [URL](http://wowter.net/tag/open-access-costs/). Wahrscheinlich wären die Kosten
+sogar noch höher, denn Houghton setzt die
+»Open-Access«-Publikationsgebühren für die Niederlande sogar mit
+56 Mio. Euro an, was eine Mehrbelastung durch »Open Access« von
+22 Mio. Euro bedeuten würde. Siehe Houghton: Open Access (wie
+Anm. 2), 5. [(zurück)](#a6)
 
 <a name ="fn7">[7]</a>: Bruno Bauer, Kommerzielle Open Access
 Publishing-Geschäftsmodelle auf dem Prüfstand, in: GMS Med Bibl
