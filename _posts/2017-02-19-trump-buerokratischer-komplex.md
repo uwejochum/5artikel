@@ -36,11 +36,12 @@ Heerstraße angeblicher politischer Notwendigkeiten
 lautstark vorangeht (USA).
 
 <img
-src="https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg"
+src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Donald_Trump_Pentagon_2017.jpg"
 alt="Drawing" style="width: 300px;"/>[Abb.&thinsp;1: Donald
-Trump, der revolutionäre
-Volkstribun. Quelle:
-[Wikipedia](https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg).]
+Trump, der revolutionäre Volkstribun. Quelle: DOD photo by
+U.S. Air Force Staff Sgt. Jette Carr
+via
+[Wikipedia Commons](https://upload.wikimedia.org/wikipedia/commons/0/0e/Donald_Trump_Pentagon_2017.jpg).]
  
 Man muß das auch als Widerstand gegen ein vermeintliches
 Expertentum verstehen, das Mal um Mal klüger sein wollte als das
