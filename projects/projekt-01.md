@@ -115,7 +115,9 @@ header-img: "img/totenbuch-bg.jpg"
 ## 2015
 
 -   Bücher. Vom Papyrus zum E-Book. Darmstadt: Wissenschaftliche
-    Buchgesellschaft, 2015.
+    Buchgesellschaft, 2015. Koreanische Übersetzung Seoul:
+    Mindcube Books, 2017.
+	
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
@@ -512,6 +514,12 @@ header-img: "img/totenbuch-bg.jpg"
     durch die Jahrhunderte. Sommerausstellung 14. März
     bis 12. November 2017. Hrsg. von Cornel Dora. St. Gallen, Basel:
     Verlag am Klosterhof, Schwabe, 2017, S. 10–21.
+
+-   [Rezension](http://www.informationsmittel-fuer-bibliotheken.de/showfile.php?id=8258)
+    zu Textkünste. Buchrevolution um 1500. Hrsg. von Ulrich
+    Johannes Schneider. Darmstadt: von Zabern, 2016.
+	
+
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
