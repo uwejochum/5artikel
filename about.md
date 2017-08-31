@@ -1,15 +1,21 @@
 ---
 layout: page
-title: "Telos"
-description: "Worum es geht"
+title: "Impressum"
+description: "Und worum es hier geht"
 header-img: "img/art-5-gg.png"
 
 #steht links neben dem Suchbutton
 ---
 
+Dr. Uwe Jochum  
+Gartenstraße 74  
+78462 Konstanz  
+uwe.jochum at kabelbw.de  
+Tel. 0151 / 23267161 (mobil)
+
 Dies ist die persönliche Website von Uwe Jochum.
 
-Sie finden hier neben Informationen zu seiner Person auch einen
+Sie finden hier neben Informationen zu meiner Person auch einen
 Blog, der in unregelmäßigen Abständen über die Verwerfungen
 berichtet, die die Digitalisierungsideologie in den Bibliotheken
 und ihrem kulturellen und kulturpolitischen Umfeld bewirkt und

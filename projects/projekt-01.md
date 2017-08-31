@@ -515,9 +515,16 @@ header-img: "img/totenbuch-bg.jpg"
     bis 12. November 2017. Hrsg. von Cornel Dora. St. Gallen, Basel:
     Verlag am Klosterhof, Schwabe, 2017, S. 10–21.
 
--   [Rezension](http://www.informationsmittel-fuer-bibliotheken.de/showfile.php?id=8258)
-    zu Textkünste. Buchrevolution um 1500. Hrsg. von Ulrich
-    Johannes Schneider. Darmstadt: von Zabern, 2016.
+-   Rezension zu Textkünste. Buchrevolution
+    um 1500. Hrsg. von Ulrich Johannes Schneider. Darmstadt: von
+    Zabern, 2016. In: [Informationsmittel für Bibliotheken 25
+    (2017)](http://www.informationsmittel-fuer-bibliotheken.de/showfile.php?id=8258).
+	
+-   Rezension zu Typographie & Literatur. Hrsg. von Rainer Falk
+    und Thomas Rahn. Frankfurt am Main, Basel: Stroemfeld, 2017
+    (Text: Kritische Beiträge; Sonderheft). In:
+    [Informationsmittel für Bibliotheken 25
+    (2017)](http://informationsmittel-fuer-bibliotheken.de/showfile.php?id=8545).
 	
 
 
