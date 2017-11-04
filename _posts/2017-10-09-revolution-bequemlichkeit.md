@@ -4,6 +4,7 @@ title:  Revolution und Bequemlichkeit
 author: Uwe Jochum
 tags:   [»Open Access«, Demokratie, Zwang]
 ---
+<img src="http://vg08.met.vgwort.de/na/d7952f7b3ff845c09dd31ca2cd171cca" width="1" height="1" alt="">
 
 Deutschland hat kein Glück mit seinen Revolutionen gehabt.
 Während in England und in Frankreich das Volk rechtzeitig
