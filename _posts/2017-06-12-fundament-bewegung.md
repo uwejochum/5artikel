@@ -5,6 +5,10 @@ author:	Uwe Jochum
 tags:   [»Open Access«,Wissenschaftspolitik,Demokratie]
 ---
 
+<img
+src="http://vg08.met.vgwort.de/na/9d5520eb6cd24691b8183d945ebfe188"
+width="1" height="1" alt="">
+
 Daß es sich bei »Open Access« um eine »Bewegung« handle, hört und
 liest man allenthalben, sogar in
 der

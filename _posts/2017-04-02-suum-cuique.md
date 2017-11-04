@@ -5,6 +5,10 @@ author:	Uwe Jochum
 tags:   [Urheberrecht,Wissenschaftspolitik,Verteilungsgerechtigkeit]
 ---
 
+<img
+src="http://vg08.met.vgwort.de/na/d4b47c3e66b94f51aec67a4be595ab5e"
+width="1" height="1" alt="">
+
 Reich ist jemand, der viel hat; sei das nun viel von einer Sache
 oder sei es vielerlei Verschiedenes. Interessant wird der
 Reichtum allerdings nicht durch das schiere Haben von Sachen,

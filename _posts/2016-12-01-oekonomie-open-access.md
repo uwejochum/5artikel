@@ -5,6 +5,10 @@ author:	    Uwe Jochum
 tags: 	    [»Open Access«, Kosten]
 ---
 
+<img
+src="http://vg08.met.vgwort.de/na/83f7049759c941da89748bed7bd2d297"
+width="1" height="1" alt="">
+
 # 1. Ist »Open Access« kostenlos?
 
 Nein, »Open Access« ist nicht kostenlos. Die auch bei »Open

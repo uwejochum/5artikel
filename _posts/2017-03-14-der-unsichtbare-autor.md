@@ -5,6 +5,11 @@ author:	Uwe Jochum
 tags:   [Urheberrecht,Autorschaft]
 ---
 
+<img
+src="http://vg08.met.vgwort.de/na/24e40b90f0454c48af41fee5cf915bbe"
+width="1" height="1" alt="">
+
+
 Liebe N.N.,
 
 Du schriebst mir kürzlich, es sei Dir nicht möglich, die

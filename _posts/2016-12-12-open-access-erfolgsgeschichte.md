@@ -5,6 +5,10 @@ author:  Uwe Jochum
 tags:    [»Open Access«, Kosten, Personalkosten]
 ---
 
+<img
+src="http://vg08.met.vgwort.de/na/fa408bb284454e48be4fad9c33554009"
+width="1" height="1" alt="">
+
 »Open Access«, so hörte ich neulich, sei eine
 Erfolgsgeschichte. Dafür spreche das steigende Interesse an den
 »Open-Access«-Tagen, deren Teilnehmerzahl in der Tat seit den

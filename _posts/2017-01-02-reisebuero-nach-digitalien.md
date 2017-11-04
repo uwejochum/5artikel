@@ -5,6 +5,10 @@ author:  Uwe Jochum
 tags:    [»Open Access«, Zwang]
 ---
 
+<img
+src="http://vg08.met.vgwort.de/na/6deb975e3a464212b9dba7b072e8ec7c"
+width="1" height="1" alt="">
+
 Manch einer fliegt gerne in die Karibik, wo es schön und warm ist
 und einem die Brathendl in den Mund fliegen. Andere wiederum
 bevorzugen die Bayreuther Gegend, wo das Bier seit Jean Pauls

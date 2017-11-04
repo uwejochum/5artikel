@@ -5,6 +5,10 @@ author:	Uwe Jochum
 tags:   [Urheberrecht,Bibliothekspolitik,Demokratie]
 ---
 
+<img
+src="http://vg08.met.vgwort.de/na/a6f1c4546f5f47b08630c8ad1974f769"
+width="1" height="1" alt="">
+
 Seitdem die
 Initiative
 [www.publikationsfreiheit.de](https://www.publikationsfreiheit.de/) das

@@ -5,6 +5,10 @@ author:	Uwe Jochum
 tags:   [Bibliothek,Buch,Digitalisierung]
 ---
 
+<img
+src="http://vg08.met.vgwort.de/na/7c630ff8c8214285a55b19c8b9b39138"
+width="1" height="1" alt="">
+
 Ich gehe ab und zu gerne in ein Sternerestaurant. Dort bekomme
 ich wunderbare Gerichte, die der Sternekoch aufgrund seiner
 gastrosophischen Expertise mir auftischt: Feine Speisen aus

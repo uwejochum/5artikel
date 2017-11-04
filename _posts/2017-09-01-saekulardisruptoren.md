@@ -5,6 +5,8 @@ author:	Uwe Jochum
 tags:   [»Open Access«,Wissenschaftspolitik,Bibliothekspolitik]
 ---
 
+<img src="http://vg08.met.vgwort.de/na/4d29194e1ad9420da18fce6a0f106a42" width="1" height="1" alt="">
+
 Denken wir uns in die Zeit um das Jahr 1800 zurück. Vieles von
 dem, was wir da zu sehen bekommen, mag uns fremd und unvertraut
 anmuten, die Kleidung etwa oder die Umgangsformen. Aber unter

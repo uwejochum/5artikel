@@ -5,6 +5,10 @@ author:	Uwe Jochum
 tags:   [§&thinsp;52a,Urheberrecht,VG Wort, Ramenvertrag]
 ---
 
+<img
+src="http://vg08.met.vgwort.de/na/eb8244432089494e81db54048489e74b"
+width="1" height="1" alt="">
+
 Die von einem Urheber hervorgebrachten Werke sind gesetzlich
 geschützt. Das heißt zunächst einmal, daß nur der Urheber darüber
 bestimmt, ob und wie sein Werk veröffentlicht wird (§&thinsp;12

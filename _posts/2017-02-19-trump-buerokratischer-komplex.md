@@ -5,6 +5,10 @@ author: Uwe Jochum
 tags:   [Urheberrecht, »Open Access«, Allianz der Wissenschaftsorganisationen]
 ---
 
+<img
+src="http://vg08.met.vgwort.de/na/ae43edc9eeb645429a84d1671a06835c"
+width="1" height="1" alt="">
+
 Man muß Donald Trump nun wirklich nicht mögen, aber man muß sich
 die Frage stellen, wie es kommen konnte, daß er zum Präsidenten
 der Vereinigten Staaten gewählt wurde. Während das sich für

@@ -5,6 +5,10 @@ author:	Uwe Jochum
 tags:   [Buch, Preis, Kosten]
 ---
 
+<img
+src="http://vg08.met.vgwort.de/na/1a24cb496d2b4609b92faa61f6f4ca5c"
+width="1" height="1" alt="">
+
 Neulich las ich auf einer Mailingliste die freilich schon etwas
 in die Jahre
 gekommene
