@@ -78,12 +78,12 @@ sieht vor, daß diese Werke »zum Zwecke der Digitalisierung,
 Zugänglichmachung, Indexierung, Katalogisierung, Erhaltung und
 Restaurierung« (for the purposes of digitisation, making
 available, indexing, cataloguing, preservation or restoration)
-genutzt werden dürfen (Art.&thinsp;6,1b, L&thinsp;299/10). Das
+genutzt werden dürfen (Art.&nobsp;6,1b, L&nobsp;299/10). Das
 alles natürlich im Rahmen der auch im Falle von »Open Access«
 mehrfach eingeschärften Zeitplanung, die die »freie Zirkulation
 von Wissen und Innovation im Binnenmarkt« (free movement of
 knowledge and innovation in the internal market; ebd.,
-L&thinsp;299/5) bis zu dem von der Europäischen Kommission
+L&nobsp;299/5) bis zu dem von der Europäischen Kommission
 verkündeten [digitalen Heilsjahr
 2020](https://uwejochum.github.io/5artikel/2017/09/01/saekulardisruptoren/)
 erreicht haben will.
@@ -146,7 +146,7 @@ weil in den Bibliotheken der EU die »verwaisten Werke« den
 größten Flöz an digitalökonomisch verwertbarem Rohstoff bilden —
 Millionen von Büchern, die man sofort digitalisieren kann, wenn
 man so tut, als seien ihre Urheber bereits tot oder hätten kein
-Interessen mehr an ihren Werken; Millionen von Büchern, die man
+Interesse mehr an ihren Werken; Millionen von Büchern, die man
 sofort digitalisieren *muß*, wenn man sie bis zu dem von der EU
 verkündeten gesamteuropäischen Heilsjahr 2020 digitalisiert haben
 will, um öffentlich verkünden zu können, man habe die [»digitale
