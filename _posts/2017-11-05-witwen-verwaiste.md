@@ -78,12 +78,12 @@ sieht vor, daß diese Werke »zum Zwecke der Digitalisierung,
 Zugänglichmachung, Indexierung, Katalogisierung, Erhaltung und
 Restaurierung« (for the purposes of digitisation, making
 available, indexing, cataloguing, preservation or restoration)
-genutzt werden dürfen (Art.&nobsp;6,1b, L&nobsp;299/10). Das
+genutzt werden dürfen (Art.&nbsp;6,1b, L&nbsp;299/10). Das
 alles natürlich im Rahmen der auch im Falle von »Open Access«
 mehrfach eingeschärften Zeitplanung, die die »freie Zirkulation
 von Wissen und Innovation im Binnenmarkt« (free movement of
 knowledge and innovation in the internal market; ebd.,
-L&nobsp;299/5) bis zu dem von der Europäischen Kommission
+L&nbsp;299/5) bis zu dem von der Europäischen Kommission
 verkündeten [digitalen Heilsjahr
 2020](https://uwejochum.github.io/5artikel/2017/09/01/saekulardisruptoren/)
 erreicht haben will.
