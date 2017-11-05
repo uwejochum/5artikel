@@ -122,15 +122,15 @@ Commons](https://upload.wikimedia.org/wikipedia/commons/1/12/Constant_Wauters_De
 
 Da ist er also, der Gierschlund. Denn während wir bei den
 Kirschbäumen auf dem Feld sehr wohl wissen, daß es Diebstahl
-wäre, wenn wir sie ohne zu fragen pflücken — wobei es völlig
-gleichgültig wäre, ob wir den Bauern, dem das Feld gehört, kennen
-oder nicht und ob wir wissen, wo er wohnt —, ist man in den
-wissenschaftspolitischen und digitalökonomischen Zirkeln der EU
-der Meinung, mit den Büchern verhalte es sich genau umgekehrt wie
-mit den Kirschen: Büchern soll man nachdrucken und digitalisieren
-dürfen, wenn man den Autor nicht kennt oder nicht weiß, wo er
-wohnt. Sicherlich muß man bei den »verwaisten Werken« vorher
-»sorgfältig suchen«, um den Autor bzw. den Rechteinhaber
+wäre, wenn wir die Kirschen ohne zu fragen pflücken — wobei es
+völlig gleichgültig wäre, ob wir den Bauern, dem das Feld gehört,
+kennen oder nicht und ob wir wissen, wo er wohnt —, ist man in
+den wissenschaftspolitischen und digitalökonomischen Zirkeln der
+EU der Meinung, mit den Büchern verhalte es sich genau umgekehrt
+wie mit den Kirschen: Bücher soll man nachdrucken und
+digitalisieren dürfen, wenn man den Autor nicht kennt oder nicht
+weiß, wo er wohnt. Sicherlich muß man bei den »verwaisten Werken«
+vorher »sorgfältig suchen«, um den Autor bzw. den Rechteinhaber
 festzustellen; so steht es im deutschen Urheberrechtsgesetz
 ([§&nbsp;61](https://www.gesetze-im-internet.de/urhg/__61.html)),
 und so steht es auch in der entsprechenden
