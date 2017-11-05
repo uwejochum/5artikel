@@ -191,7 +191,7 @@ massenweise umerziehen und aus selbständigem Wildwuchs
 uniformierte Soldaten für irgendeine den Himmel erreichende
 Zeitenwende machen? In einer solchen Gesellschaft wären auch die
 Waisen gut aufgehoben, und alle wären sich darin einig, daß es
-für die Waisen wiefür alle Kinder nur eine moralisch angemessene
+für die Waisen wie für alle Kinder nur eine moralisch angemessene
 Tat gibt: Sie sein zu lassen und darauf zu warten, daß sie
 erwachsen und selbständig werden. Und so hätte auch bei den
 Büchern, deren Urheber nicht mehr festgestellt werden können,
@@ -200,9 +200,10 @@ sie für »gemeinfrei« erklärt und also, um im Bild zu bleiben, zu
 Erwachsenen. Über die Ausgestaltung einer solchen Frist ließe
 sich nicht nur trefflich streiten, sondern auch eine vernünftige
 Einigung erzielen. Nicht aber streiten läßt sich darüber,
-»verwaiste Werke« wie schutzlose Kinder einem Gewinnstreben
-preiszugeben, dessen nekrophile Potenz seit alters einen Namen
-hat: *avaritia*, Habsucht, Geiz, Gier.
+»verwaiste Werke« wie schutzlose Kinder einem
+Jetzt-Gleich-Habenwollen und Gewinnstreben preiszugeben, dessen
+nekrophile Potenz seit alters einen Namen hat: *avaritia*,
+Habsucht, Geiz, Gier.
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Nikolay_Kasatkin_-_Orphaned_%281891%29.jpg"
