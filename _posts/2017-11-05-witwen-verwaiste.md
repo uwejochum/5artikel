@@ -164,7 +164,7 @@ wenn auf dem Weg in die »digitale Zeitenwende«, die uns 415
 Milliarden Euro mehr eintragen wird, die »verwaisten Werke«
 einfach schonmal jetzt gleich digital angeeignet werden — man
 also etwas tut, was man eigentlich einen massenweisen Diebstahl
-nennen müßte?  Es macht nichts aus, sagt uns die EU, sagen und
+nennen müßte?  Es macht nichts aus, sagt uns die EU, sagen uns
 die
 [Wissenschaftsförderorganisationen](https://www.leibniz-gemeinschaft.de/fileadmin/user_upload/downloads/Presse/Posititionen/Allianz_KMK_Stellungnahme_Verwaiste_Werke_Zweitverwertungsrecht_final_08032013.pdf),
 sagt uns der [Deutsche
