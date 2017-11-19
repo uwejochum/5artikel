@@ -5,9 +5,7 @@ author:	Uwe Jochum
 tags:   [»Open Access«]
 ---
 
-<img
-src="http://vg08.met.vgwort.de/na/6abce2ad49bd4f3d8c1a8e2f840d3c6d"
-width="1" height="1" alt="">
+<img src="http://vg08.met.vgwort.de/na/6abce2ad49bd4f3d8c1a8e2f840d3c6d" width="1" height="1" alt="">
 
 Jede »Bewegung« braucht einen Beweger, und den am besten in Form
 eines Frontmanns, der das Publikum begeistert mitreißt. Im Falle

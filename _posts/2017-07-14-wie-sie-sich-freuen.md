@@ -5,9 +5,7 @@ author:	Uwe Jochum
 tags:   [Urheberrecht,Wissenschaftspolitik,Demokratie]
 ---
 
-<img
-src="http://vg08.met.vgwort.de/na/c6fdb77ee1d647ec93cbdff60b1727bb"
-width="1" height="1" alt="">
+<img src="http://vg08.met.vgwort.de/na/c6fdb77ee1d647ec93cbdff60b1727bb" width="1" height="1" alt="">
 
 Nun also: Der Bundestag hat das vom offiziellen deutschen
 Bibliothekswesen und den Wissenschaftsorganisationen samt der
