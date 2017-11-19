@@ -156,8 +156,8 @@ sondern gerade auch den willfährigen Digitalisierungs- und
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Elsevier.svg"
-alt="Drawing" style="width: 450px;"/>[Abb.&thinsp;5: Sie sind
-nicht allein! Quelle: »Isaac Elzevir entwarf um 1620 das heute
+alt="Drawing" style="width: 350px;"/>[Abb.&thinsp;5: Sie sind
+nicht allein. Quelle: »Isaac Elzevir entwarf um 1620 das heute
 noch genutzte Markenzeichen der Firma«, vektorisiert von
 Benutzer:Gaspard (Public Domain), via [Wikimedia
 Commons](https://commons.wikimedia.org/wiki/File%3AElsevier.svg).]
