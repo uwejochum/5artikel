@@ -10,7 +10,7 @@ header-img: "img/art-5-gg.png"
 Dr. Uwe Jochum  
 Gartenstraße 74  
 78462 Konstanz  
-uwe.jochum at kabelbw.de  
+5artikel at vodafonemail.de  
 Tel. 0151 / 23267161 (mobil)
 
 Dies ist die persönliche Website von Uwe Jochum.
