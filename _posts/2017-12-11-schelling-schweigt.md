@@ -5,6 +5,8 @@ author:	Uwe Jochum
 tags:   [Urheberrecht,»Open Access«]
 ---
 
+<img src="http://vg08.met.vgwort.de/na/f3a21cc7c33c44469dbbf355013d6b01" width="1" height="1" alt=""> 
+
 # Vorwort
 
 Ginge es nach dem Willen unserer Freunde, die sich für ein
@@ -304,7 +306,7 @@ irrte sich mit seiner Vermutung, Paulus habe mit dem Nachdruck
 der Schellingschen Vorlesung Geld verdient; Paulus verschenkte
 das Buch vielmehr an alle Interessierten. Auch das sozusagen im
 Sinne von »Open Access« lange vor »Open Access«. In allem anderen
-irrte er sich nicht.
+irrte sich Hitzig nicht.
 
 ### [Julius Eberhard Hitzig:] Nachdruck zu gutem Zweck. In: Beilage zur Allgemeinen Zeitung, Nr. 272, 29.&nbsp;September 1843, S. 2128–2129.
 
