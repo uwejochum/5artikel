@@ -126,7 +126,7 @@ deutlich zu machen, daß er keine »Wunden schlagen, sondern die
 Wunden heilen« wolle: »Nicht aufreizen will ich, sondern
 versöhnen…«
 
-Das hat unter seinen Gegner nicht gefruchtet.  Friedrich Engels
+Das hat unter seinen Gegnern nicht gefruchtet.  Friedrich Engels
 machte sich daran, Schelling als »Philosophen in Christo« zu
 denunzieren und publizierte zu diesem Zweck gleich [zwei
 Kampfschriften](https://de.wikisource.org/wiki/Friedrich_Engels),

@@ -468,6 +468,18 @@ header-img: "img/accipies-banner-grau-dunkel.png"
     der Bibliotheken im digitalen Zeitalter.« Vortrag vor
     Stipendiaten am ZAAR, Universität München, am 29. Mai 2017.
 
+-   [»Zwischen Google und Kultur. Die Bibliotheken im
+    Informationszeitalter.«](http://www.cajeth.de/2017/11/zwischen-google-und-kultur/)
+    Vortrag im Museum Haus Cajeth in Kooperation mit dem
+    Literaturhaus Heidelberg. Donnerstag, den 14. Dezember 2017,
+    19.00 Uhr.
+	
+-   »Das Buch als Artefakt. Warum die informationstechnischen
+    Vorstellungen vom Buch so gut wie sicher falsch sind.«
+    Gesprächsrunde im Germanistischen Seminar, Universität
+    Heidelberg, Palais Boiserée, Freitag, den 15. Dezemberg 2017,
+    10.15–11.45 Uhr.
+
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="orgffcd9ed"></a>
