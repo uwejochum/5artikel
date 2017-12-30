@@ -377,7 +377,10 @@ header-img: "img/totenbuch-bg.jpg"
 
 ## 2009
 
--   [Im Namen der Freiheit](http://www.fr-online.de/in_und_ausland/kultur_und_medien/feuilleton/1712640_Allianz-der-Wissenschaftsorganisationen-Im-Namen-der-Freiheit.html"). In: Frankfurter Rundschau, 7. April 2009.
+-   [Im Namen der
+    Freiheit](/5artikel/pdf/jochum-im-namen-der-freiheit-fr-2009-04-07.pdf). In:
+    Frankfurter Rundschau, Dienstag, den 7. April 2009,
+    Feuilleton S. 40.
 
 -   Was »Open Access« kostet. In: Frankfurter Allgemeine
     Zeitung, 17. Juni 2009, Nr. 137, S. N5.
