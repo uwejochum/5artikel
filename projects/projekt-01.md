@@ -380,7 +380,7 @@ header-img: "img/totenbuch-bg.jpg"
 -   [Im Namen der
     Freiheit](/5artikel/pdf/jochum-im-namen-der-freiheit-fr-2009-04-07.pdf). In:
     Frankfurter Rundschau, Dienstag, den 7. April 2009,
-    Feuilleton S. 40.
+    Feuilleton S. 40. [PDF](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-xlx4biy8fgyv2)
 
 -   Was »Open Access« kostet. In: Frankfurter Allgemeine
     Zeitung, 17. Juni 2009, Nr. 137, S. N5.
@@ -508,8 +508,8 @@ header-img: "img/totenbuch-bg.jpg"
 ## 2017
 
 -   Und wenn es in Wahrheit keine Quellen gibt? Rezension zu
-    Klaus-Rüdiger Mai: Gutenberg. Der Mann, der die Welt
-    veränderte. Berlin. Propyläen, 2016. In: Frankfurter
+    Klaus-Rüdiger Mai: *Gutenberg. Der Mann, der die Welt
+    veränderte.* Berlin. Propyläen, 2016. In: Frankfurter
     Allgemeine Zeitung, 28.02.2017, Seite 10.
 
 -   Heilstätten der Seele. Zur Geschichte der Bibliotheken. In:
@@ -518,18 +518,25 @@ header-img: "img/totenbuch-bg.jpg"
     bis 12. November 2017. Hrsg. von Cornel Dora. St. Gallen, Basel:
     Verlag am Klosterhof, Schwabe, 2017, S. 10–21.
 
--   Rezension zu Textkünste. Buchrevolution
-    um 1500. Hrsg. von Ulrich Johannes Schneider. Darmstadt: von
+-   Rezension zu *Textkünste. Buchrevolution
+    um 1500.* Hrsg. von Ulrich Johannes Schneider. Darmstadt: von
     Zabern, 2016. In: [Informationsmittel für Bibliotheken 25
     (2017)](http://www.informationsmittel-fuer-bibliotheken.de/showfile.php?id=8258).
 	
--   Rezension zu Typographie & Literatur. Hrsg. von Rainer Falk
+-   Rezension zu *Typographie & Literatur.* Hrsg. von Rainer Falk
     und Thomas Rahn. Frankfurt am Main, Basel: Stroemfeld, 2017
     (Text: Kritische Beiträge; Sonderheft). In:
     [Informationsmittel für Bibliotheken 25
     (2017)](http://informationsmittel-fuer-bibliotheken.de/showfile.php?id=8545).
 	
+## 2018
 
+-   Rezension zu *Schreibekunst und Buchmacherei. Zur
+    Materialität des Schreibens und Publizierens um
+    1800*. Hrsg. von Cornelia Ortlieb und Tobias Fuchs.
+    Hannover: Wehrhahn, 2017. In: [Informationsmittel für
+    Bibliotheken 26
+    (2018)](http://informationsmittel-fuer-bibliotheken.de/showfile.php?id=8763)
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
@@ -557,10 +564,13 @@ header-img: "img/totenbuch-bg.jpg"
     und den Tagungsbericht auf
     [hsozkult](http://hsozkult.geschichte.hu-berlin.de/tagungsberichte/id=3129).)
 
-- [Jahrbuch für Buch- und
+-   [Jahrbuch für Buch- und
     Bibliotheksgeschichte](https://www.winter-verlag.de/de/detail/978-3-8253-6700-8/Jahrbuch_Buch_u_Bibliotheksgesch_JBB_1_2016/). Hrsg. von
     Uwe Jochum, Bernhard Lübbers, Armin Schlechter und Bettina
     Wagner. Heidelberg: Winter, 1 (2016) ff. Siehe dazu das
-    [»Fundstück«](http://www.sueddeutsche.de/kultur/neues-jahrbuch-fund-stuecke-1.3325437) in der Süddeutschen Zeitung vom 9. Januar 2017.
+    [»Fundstück«](http://www.sueddeutsche.de/kultur/neues-jahrbuch-fund-stuecke-1.3325437)
+    in der Süddeutschen Zeitung vom 9. Januar 2017 und
+    [Informationsmittel für
+    Bibliotheken](http://www.informationsmittel-fuer-bibliotheken.de/showfile.php?id=8764)
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
