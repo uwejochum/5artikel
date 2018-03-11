@@ -11,15 +11,16 @@ Dr. Uwe Jochum
 Gartenstraße 74  
 78462 Konstanz  
 5artikel at vodafonemail.de  
-Tel. 0151 / 23267161 (mobil)
 
-Dies ist die persönliche Website von Uwe Jochum.
+Dies ist die persönliche Website von Uwe Jochum. (Und daher gilt
+hier nur die »eingeschränkte Impressumspflicht«.)
 
 Sie finden hier neben Informationen zu meiner Person auch einen
-Blog, der in unregelmäßigen Abständen über die Verwerfungen
-berichtet, die die Digitalisierungsideologie in den Bibliotheken
+Blog, der keine kommerziellen, wohl aber aufklärende Interessen
+verfolgt, indem er in unregelmäßigen Abständen die Verwerfungen
+analysiert, die die Digitalisierungsideologie in den Bibliotheken
 und ihrem kulturellen und kulturpolitischen Umfeld bewirkt und
-die in kurrenten Schlagwörtern umgemünzt wird: »Open Access«,
+die in kurrente Schlagwörter umgemünzt wird: »Open Access«,
 »Zweitveröffentlichungsrecht«, »Ownership versus Access«,
 »Erhöhung der Sichtbarkeit durch digitales Publizieren«,
 »Bereitstellung von digitalem Content«, »Holzmedien«,
