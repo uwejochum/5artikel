@@ -98,7 +98,7 @@ Twitter in einer einfachen smartphoneinduzierten Wegwischgeste zu
 versuchen. Nun, es war ihm mit der Wegwischgeste »Falscheintrag«
 genug.
 
-Das ist schade, um der Sache und um der Aufklärug willen. Denn
+Das ist schade, um der Sache und um der Aufklärung willen. Denn
 hätte Mittermaier seinen Begriff vom »Falscheintrag« ernst
 genommen und wäre er der Spur gefolgt, die er selbst gelegt hat,
 hätte er Interessantes entdecken können.  So aber… machen wir es
