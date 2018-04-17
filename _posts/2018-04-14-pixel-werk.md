@@ -364,6 +364,10 @@ Buches. Göttingen: Wallstein, 2014.
 Michael Schikowski: Warum Bücher? Buchkultur in Zeiten der
 Digitalkultur. Frankfurt am Main: Bramann, 2013.
 
+Yvonne Yiu: Jan van Eyck — das
+Arnolfini-Doppelbildnis. Reflexionen über die Malerei. Frankfurt
+am Main: Stroemfeld, 2001.
+
 ## Anmerkung
 
 [^1]: Ich kann den Leser beruhigen: Die Frage ist in der realen
