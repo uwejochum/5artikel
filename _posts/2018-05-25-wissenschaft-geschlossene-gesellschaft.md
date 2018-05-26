@@ -320,8 +320,8 @@ Gesellschaft agiert.
    herausgegeben, der, wenn ich das sagen darf, als deutscher
    Papst für »Digital Humanities« sich etwas dabei gedacht haben
    wird, als er die Texte Humboldts nicht einfach »ins Netz«
-   stellte, sondern bei Reclam gedruckt und mit einer
-   Einleitung versehen veröffentlichte.
+   stellte, sondern bei Reclam gedruckt und mit einem
+   lesenswerten Nachwort versehen veröffentlichte.
 
 3. Wer sich für die im Hintergrund der obigen Reflexion stehende
    Geschichte der Forschungslenkung interessiert, kann lesen: Uwe
