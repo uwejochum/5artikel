@@ -125,7 +125,7 @@ wissenschaftlichen Resultaten« (oder wie immer man das verbal
 vermarktet) in angemessener Weise belohnt.
 
 Was das Publikum dabei aber wirklich erhält, ist nicht »die
-Wissenschaft« und auch nicht deren einfach aufzufassenden
+Wissenschaft« und auch nicht deren einfach aufzufassende
 »Resultate«, sondern bloß einen übers Internet laufenden Zugriff
 auf Digitales, das im Wissenschaftskontext produziert wurde:
 Daten jeder Art, darunter natürlich auch eine Menge von digitalen
