@@ -321,7 +321,7 @@ Gesellschaft agiert.
    Papst für »Digital Humanities« sich etwas dabei gedacht haben
    wird, als er die Texte Humboldts nicht einfach »ins Netz«
    stellte, sondern bei Reclam gedruckt und mit einer
-   lesenswerten Einleitung versehen veröffentlichte.
+   Einleitung versehen veröffentlichte.
 
 3. Wer sich für die im Hintergrund der obigen Reflexion stehende
    Geschichte der Forschungslenkung interessiert, kann lesen: Uwe
