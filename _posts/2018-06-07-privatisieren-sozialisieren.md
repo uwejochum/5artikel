@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	Gewinne privatisieren, Kosten sozialieren — durch »Open Access«
+title:	Gewinne privatisieren, Kosten sozialisieren — durch »Open Access«
 author:	Uwe Jochum
 tags:   [Kosten,»Open Access«,Wissenschaftspolitik]
 ---
