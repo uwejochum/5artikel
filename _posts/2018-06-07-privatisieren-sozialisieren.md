@@ -154,19 +154,21 @@ freuen werden, den »Content«, den sie früher über ein
 Firmenstandort mit rund 20000 Euro), nun übers Internet von den
 Steuerzahlern geschenkt zu bekommen.
 
-[^1]: Natürlich zahlt auch die Industrie Steuern und ist insofern
-    bei der Finanzierung von »Open Access« mit im Boot. Im
-    jetzigen System aber ist sie nicht nur als Steuerzahler mit
-    in der Pflicht, fröhlich wollend oder reichlich unwillig den
-    geforderten Steueranteil für die Wissenschaft zu erbringen,
-    vielmehr ist sie jetzt als direkter Interessent an bestimmten
-    Themen eben auch direkter Finanzier der diese Themen
-    abdeckenden Fachzeitschriften. Das ist ein System von Angebot
-    und Nachfrage mit klar motivierten Zahlungsströmen. »Open
-    Access« ist dagegen ein abstrakt-bürokratisches
-    Verteilungssystem — einerseits von fachwissenschaftlichen
-    Artikeln, andererseits von Steuergeldern zur
-    Publikationsfinanzierung — ohne Rückkoppelung zwischen dem,
-    was die Wissenschaft zu bieten hat, und dem, was außerhalb
-    der Wissenschaft interessiert und relevant ist und dann auch
-    gerne bezahlt wird.
+[^1]: Natürlich ist im Hinblick auf Deutschland auch die
+	hierzulande steuerpflichtige Industrie über die von ihr
+	entrichteten Steuern bei der Finanzierung von »Open Access«
+	mit im Boot (sofern sie das Steuerzahlen sich überhaupt
+	leistet und nicht vielmehr vermeidet). Im jetzigen System
+	aber ist sie nicht nur als Steuerzahler mit in der Pflicht,
+	fröhlich wollend oder reichlich unwillig den geforderten
+	Steueranteil für die Wissenschaft zu erbringen, vielmehr ist
+	sie jetzt als direkter Interessent an bestimmten Themen eben
+	auch direkter Finanzier der diese Themen abdeckenden
+	Fachzeitschriften. Das ist ein System von Angebot und
+	Nachfrage mit klar motivierten Zahlungsströmen. »Open Access«
+	ist dagegen ein abstrakt-bürokratisches Verteilungssystem —
+	einerseits von fachwissenschaftlichen Artikeln, andererseits
+	von Steuergeldern zur Publikationsfinanzierung — ohne
+	Rückkoppelung zwischen dem, was die Wissenschaft zu bieten
+	hat, und dem, was außerhalb der Wissenschaft interessiert und
+	relevant ist und dann auch gerne bezahlt wird.
