@@ -27,13 +27,14 @@ die Gewinne der Akteure privatisiert werden; die Kosten aber, die
 auf seiten der Akteure anfallen, sozialisiert man, indem man sie
 an das Kollektiv der Steuerzahler weiterreicht. Man kann also als
 systemnotwendige Bank über Jahre hin Fehlentscheidungen treffen;
-solange man trotz der Fehlentscheidungen Geld verdient, ist das
-gut und landet bei den Eignern der Bank (bzw., bei
-Aktiengesellschaften, zum Teil auch bei den Anteilseignern). Geht
-die Sache aber schief und häuft die Bank Schulden an, wird die
-Bank den Teufel tun und die Schulden abbezahlen, vielmehr wird
-man unter tätiger Mitwirkung des Staates dafür sorgen, daß die
-Schulden vom Steuerzahler übernommen werden.
+solange man trotz der Fehlentscheidungen Geld verdient, gilt das
+als gut, und das Geld landet selbstverständlich bei den Eignern
+der Bank (bzw., bei Aktiengesellschaften, zum Teil auch bei den
+Anteilseignern). Geht die Sache aber schief und häuft die Bank
+Schulden an, wird die Bank den Teufel tun und die Schulden
+abbezahlen, vielmehr wird man unter tätiger Mitwirkung des
+Staates dafür sorgen, daß die Schulden vom Steuerzahler
+übernommen werden.
 
 Daß diese ganze Sache faul ist und zum Himmel stinkt, weiß
 inzwischen alle Welt. Man kann das nicht nur am Ansehensverlust
@@ -153,6 +154,8 @@ freuen werden, den »Content«, den sie früher über ein
 *Tetrahedron*-Abonnement mitfinanzieren mußten (pro
 Firmenstandort mit rund 20000 Euro), nun übers Internet von den
 Steuerzahlern geschenkt zu bekommen.
+
+## Anmerkung
 
 [^1]: Natürlich ist im Hinblick auf Deutschland auch die
 	hierzulande steuerpflichtige Industrie über die von ihr
