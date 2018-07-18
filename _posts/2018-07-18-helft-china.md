@@ -10,7 +10,7 @@ tags:   [»Open Access«,Wissenschaftspolitik]
 Wir alle haben die Geschichte schonmal gehört, manchmal in
 mehreren Auflagen: Da sitzt ein chinesischer Austauschstudent an
 einem naturwissenschaftlich-technischen Institut irgendeiner
-deutschen Universität, und in langen Nachschichten saugt er aus
+deutschen Universität, und in langen Nachtschichten saugt er aus
 den dort verfügbaren Datenbanken soviel er nur kann, um die Daten
 — bibliographische Informationen, PDFs von Fachartikeln,
 Statistiken — hernach per E-Mail an seine Freunde in China zu
