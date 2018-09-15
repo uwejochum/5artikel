@@ -396,8 +396,9 @@ header-img: "img/totenbuch-bg.jpg"
     Hellfaier&#x2026; Wiesbaden: Harrassowitz, 2009, S. 457–471.
 
 -   Urheber ohne Recht. Wie Staat und Bürokratie mittels Open
-    Access Wissenschaftler enteignen. In: [Lettre International](http://www.lettre.de/) 87
-    (2009), S. 7–12.
+    Access Wissenschaftler enteignen. In: [Lettre
+    International](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-8bqgh24kscef4)
+    87 (2009), S. 7–12.
 
 -   [»Open Access« – Ein Irrweg](http://www.recherche-online.net/uwe-jochum-open-access-irrweg.html). In: Recherche – Zeitung für
     Wissenschaft. 18.10.2009.
