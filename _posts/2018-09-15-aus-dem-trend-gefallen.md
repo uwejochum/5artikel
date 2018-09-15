@@ -184,5 +184,5 @@ Publikationsgebühr von 2500 USD einfach »nicht fair«.
 [^1]: Uwe Jochum: »Open Access«. Zur Korrektur einiger populärer
     Annahmen. Göttingen: Wallstein, 2009, S. 24–52.
 
-[^2]: Siehe Jochum (wie Anm. 1), S. 24–52, bes. S. 33–35.	
+[^2]: Ebd., S. 24–52, bes. S. 33–35.	
 
