@@ -5,6 +5,8 @@ author:	Uwe Jochum
 tags:   [»Open Access«,Kosten]
 ---
 
+<img src="http://vg05.met.vgwort.de/na/2140269c39b846bfa5d1eb24488716fb" width="1" height="1" alt="">
+
 »Open Access« als *der* große Publikationstrend der
 Wissenschaften ist faktisch gescheitert. Der Grund dafür — so
 habe ich es kürzlich
