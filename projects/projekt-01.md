@@ -539,6 +539,9 @@ header-img: "img/totenbuch-bg.jpg"
     Bibliotheken 26
     (2018)](http://informationsmittel-fuer-bibliotheken.de/showfile.php?id=8763)
 
+-   »Open Access« und die Zukunft freier Wissenschaft. In:
+    Erziehungswissenschaft 29 (2018), S. 19–28. [pdf](https://www.dgfe.de/fileadmin/OrdnerRedakteure/Zeitschrift_Erziehungswissenschaft/EW_57.pdf)
+
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="org2293247"></a>
