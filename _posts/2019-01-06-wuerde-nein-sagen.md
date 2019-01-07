@@ -29,7 +29,7 @@ Fakultäten mitunter überging, wenn er der Meinung war, bei der
 Aufstellung der Kandidantenliste sei es weniger um überragende
 wissenschaftliche und persönliche Qualitäten der
 vorgeschlagenenen Personen als um deren Stallgeruch gegangen. Man
-mag das für autorität halten; und das war es auch; aber es
+mag das für autoritär halten; und das war es auch; aber es
 spricht zuletzt dann doch für Althoff, daß er mit ebendiesem
 autoritären Übergehen der universitären Klüngelwirtschaft
 Kandidaten durchsetze, deren Namen bis heute einen guten Klang in
@@ -152,7 +152,7 @@ der Göttinger Universitätsbibliothek Pietschmann, dessen Antwort
 sich erhalten hat, nennt zwei Prozent des Bestandes, die
 ausgelagert werden könnten. Und der Direktor der Königsberger
 Universitätsbibliothek wies offenbar auf einen Ausspruch
-Friedrichs des Große hin, wonach die »Nibelungen« als »Scharteke
+Friedrichs des Großen hin, wonach die »Nibelungen« als »Scharteke
 keinen Schuß Pulver wert seien«, sondern »in der großen
 Bibliothek ihre Zeit abwarten« sollten.
 
@@ -196,7 +196,7 @@ und sich aufmachen, in der Treue zu Sachen (Büchern) und Personen
 (Lesern und Autoren) ebenjene Identität zu gewinnen, die sich in
 öffentlichem Respekt und in Würde manifestiert. Das wird ohne
 eine von den Sachen her gebotene Distanz zum Zeitgeist und seinem
-Neusprech nicht zu habe sein. Denn man sollte sich bewußt machen,
+Neusprech nicht zu haben sein. Denn man sollte sich bewußt machen,
 daß das zeitgeistige Sprechen mit seinem sprachlichen »Schaum […]
 eine Metapher für Identitätsverlust« ist.
 
