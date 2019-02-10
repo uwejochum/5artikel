@@ -218,7 +218,7 @@ Hochschulen](/5artikel/material/energieverbrauch-unis-bw-2017.png
 "Ziele des Green Library Award") [Abb.&thinsp;6: Energieverbrauch
 der Hochschulen in Baden-Württemberg. Quelle:
 [Staatliche Vermögens- und Hochbauverwaltung
-Baden-Württemberg: Emergiebericht
+Baden-Württemberg: Energiebericht
 2017](https://fm.baden-wuerttemberg.de/fileadmin/redaktion/m-fm/intern/Publikationen/Energiebericht_2017.pdf),
 S.&thinsp;30.]
 
