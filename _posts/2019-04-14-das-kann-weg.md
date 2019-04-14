@@ -97,7 +97,7 @@ Zeitschriften schlicht und einfach »aussondern«; und das heißt:
 wegwerfen (es sei denn, ein Antiquar erbarmt sich ihrer). 
 
 ![Digitalbibliothek](/5artikel/material/pixabay-bibliothek-digital.jpg
-"Digitale Bibliothek") [Abb.&thinsp;3: Bildschirm-Bibliothek
+"Digitale Bibliothek") [Abb.&thinsp;3: Bildschirm-Bibliothek.
 Quelle: [Pixabay](https://pixabay.com/de/).]
 
 Daß diese Bücher und Zeitschriften durch ihre einstige Übernahme
