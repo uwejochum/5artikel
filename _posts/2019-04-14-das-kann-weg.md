@@ -124,8 +124,8 @@ neu wie nur irgendwas.
 
 Fragt man nach den Ursachen für diesen laxen Umgang der
 Bibliotheken mit der ihnen anvertrauten Druckgeschichte, die der
-massivste Teil unserer kulturellen Überlieferung ist, hört und
-liest man oft, es seien der Platzmangel in den Bibliotheken
+umfangreichste Teil unserer kulturellen Überlieferung ist, hört
+und liest man oft, es seien der Platzmangel in den Bibliotheken
 und/oder die durch die Zusammenlegung von Institutsbibliotheken
 überflüssig gewordenen Mehrfachexemplare, die eine Aussonderung
 von Bibliotheksbeständen nötig mache. Was man aber nicht hört und
