@@ -2,7 +2,7 @@
 layout:	post
 title:	»Zivilcourage«
 author:	Uwe Jochum
-tags:   [§&thinsp;52a,Urheberrecht,VG Wort, Ramenvertrag]
+tags:   [§&thinsp;52a,Urheberrecht,VG Wort, Rahmenvertrag]
 ---
 
 <img
