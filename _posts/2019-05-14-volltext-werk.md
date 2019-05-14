@@ -296,7 +296,7 @@ Briefen jedoch nicht.
 
 ![XML-Kodierung](/5artikel/material/digitale-edition-korrespondenz-aw-schlegel-xml-kodierung.png
 "XML-Kodierung") [Abb.&thinsp;8: Brief von Schlegel an Madame de
-Stael, 25. Dezember 1808; Ausschnitt aus der
+Sta&euml;l, 25. Dezember 1808; Ausschnitt aus der
 XML-Kodierung. Quelle: [Digitale Edition der Korrespendenz
 A.W. Schlegels](https://august-wilhelm-schlegel.de/briefedigital/letters/xml/4459).]
 
