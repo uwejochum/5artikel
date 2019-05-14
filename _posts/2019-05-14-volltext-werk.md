@@ -392,7 +392,7 @@ Bewußtsein davon, daß am Ende ein Werk nur erscheinen kann, wenn
 es aus dem Modus des Digitalen in den Modus des Materiell-Realen
 überführt wird. Und sie tun das ganz offensichtlich ohne einen
 Gedanken an den »digitalen Trend«, wohl aber in der Überzeugung,
-das Qualität ein Eigengewicht hat, das nicht in schnellen Nullen
+daß Qualität ein Eigengewicht hat, das nicht in schnellen Nullen
 und Einsen verrechnet werden kann, sondern die geduldige
 Auseinandersetzung mit dem Material braucht; nur so läßt sich ein
 Werk schaffen, das den Namen verdient. 
