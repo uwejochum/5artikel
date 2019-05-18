@@ -406,10 +406,11 @@ Hölderlin-Ausgabe ebenso wie die Kleist- und Kafka-Ausgaben von
 Roland Reuß und Peter Staengle, die je von einer Stiftung
 verantwortete Historisch-Kritische Gottfried Keller-Ausgabe und
 die Kritische Robert-Walser-Ausgabe und natürlich die Wiener
-Ausgabe der Werke Wittgensteins, von der großen Heidegger-Ausgabe
-und den großen Nietzsche-Ausgaben ganz zu schweigen. Ihr Rang im
-Reich der Editionen entspricht dem Rang der Stradivaris im Reich
-der Musikinstrumente. Sie werden bleiben.
+Ausgabe der Werke Wittgensteins, von der großen
+Heidegger-Ausgabe, der großen Max-Weber-Gesamtausgabe und den
+großen Nietzsche-Ausgaben ganz zu schweigen. Ihr Rang im Reich
+der Editionen entspricht dem Rang der Stradivaris im Reich der
+Musikinstrumente. Sie werden bleiben.
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Belshazzar%E2%80%99s_feast%2C_by_Rembrandt.jpg"
