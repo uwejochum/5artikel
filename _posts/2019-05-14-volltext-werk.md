@@ -79,7 +79,7 @@ eine Herausforderung und immer noch ein Vorbild.
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/2/21/EJobson09.jpg"
-alt="Drawing" style="width: 400px;"/>[Abb.&thinsp;2: Eddie
+alt="Drawing" style="width: 360px;"/>[Abb.&thinsp;2: Eddie
 Jobson. Quelle: Lrheath (CC BY-SA 3.0), via Wikimedia Commons.]
 
 Nicht anders liegen die Dinge im Verhältnis von gedrucktem Buch
@@ -97,7 +97,7 @@ fertiges Werkstück war, unfertige Datensätze macht, die nicht
 einmal mehr zu einem »Work in progress« zusammenschießen.
 
 Man kann das leicht nachvollziehen, indem man sich anschaut, was
-aus dem berühmtesten Druckwerk wird, wenn man man es digital
+aus dem berühmtesten Druckwerk wird, wenn man es digital
 reproduziert. So hat die Staats- und Universitätsbibliothek
 Göttingen um das Jahr 2000 aus Anlaß des 600.&thinsp;Geburtstages
 von Johannes Gutenberg dessen Bibel mit viel Aufwand und der
@@ -141,15 +141,14 @@ gleichfalls enttäuscht sein: die Bibel wurde nicht mit einem
 Texterkennungsverfahren bearbeitet, nach Wörtern oder
 Buchstabenfolgen kann folglich nicht gesucht werden. Und wer gar
 erwartet, er könne und dürfe mit dem Göttinger Digitalisat in
-liberalster Weise umgehen und also das tun, was die
-»Open-Access«-Gemeinde von einem mit Steuergeldern hergestellten
-Digitalisat erwartet — daß es nachgenutzt, mit anderem Material
-kombiniert, gar verändert werden darf unter schlichter Nennung
-der Quelle —, der wird sich erst recht enttäuscht finden: das
-Material auf »Gutenberg digital« ist urheberrechtlich streng
-geschützt, und das trotz der Tatsache, daß die Staats- und
-Universitätsbibliothek Göttingen zu den eifrigen Unterstützern
-von »Open Access« gehört.
+jener Weise umgehen, die die »Open-Access«-Gemeinde von einem mit
+Steuergeldern hergestellten Digitalisat erwartet — daß es
+nachgenutzt, mit anderem Material kombiniert, gar verändert
+werden darf unter schlichter Nennung der Quelle —, der wird sich
+erst recht enttäuscht finden: das Material auf »Gutenberg
+digital« ist urheberrechtlich streng geschützt, und das trotz der
+Tatsache, daß die Staats- und Universitätsbibliothek Göttingen zu
+den eifrigen Unterstützern von »Open Access« gehört.
 
 ![Gutenberg-Bibel:
 Urheberrecht](/5artikel/material/gutenberg-bibel-goettingen-urheberrecht-2019-05-05.png
