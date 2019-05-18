@@ -79,7 +79,7 @@ eine Herausforderung und immer noch ein Vorbild.
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/2/21/EJobson09.jpg"
-alt="Drawing" style="width: 360px;"/>[Abb.&thinsp;2: Eddie
+alt="Drawing" style="width: 370px;"/>[Abb.&thinsp;2: Eddie
 Jobson. Quelle: Lrheath (CC BY-SA 3.0), via Wikimedia Commons.]
 
 Nicht anders liegen die Dinge im Verhältnis von gedrucktem Buch
