@@ -381,8 +381,7 @@ noch durch finanzielles Schönrechnen abgepreßt werden, mit »Open
 Science« sollte man vornehmerweise zunächst einmal bei sich
 selbst beginnen. Das wäre in diesem Fall ganz einfach zu
 bewerkstelligen, indem man aus dem HRK-Rundschreiben 02/2019 kein
-Geheimnis macht, sondern es ganz einfach »Open Access« »ins Netz«
-stellt.
+Geheimnis macht, sondern es »Open Access« »ins Netz« stellt.
 
 So ließe sich das Geheimnis von DEAL lüften.  Ich wäre der
 Letzte, der es bedauerte, durch eine solche Lüftung widerlegt zu
