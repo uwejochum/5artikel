@@ -277,18 +277,18 @@ Higgins</a> auf <a
 href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2681507">Pixabay</a>.]
 
 Soweit also das Mögliche und sogar Wahrscheinliche. Vor dem
-Hintergrund dieses Wahrscheinlichen macht nun aber die in dem
+Hintergrund dieses Wahrscheinlichen ist nun aber die in dem
 unveröffentlichten HRK-Rundschreiben 02/2019 genannte
-»Preissteigerung« von 2,961 Prozent im Jahr durchaus Sinn, und
-zwar genau dann, wenn man das Wort »Preissteigerung« gegen das
-Wort »Kostensteigerung« austauscht: Der angenommene Erfolg des
+»Preissteigerung« von 2,961 Prozent im Jahr durchaus
+verständlich; man muß nur das Wort »Preissteigerung« gegen das
+Wort »Kostensteigerung« austauschen: Der angenommene Erfolg des
 Wiley-DEAL-Vertrages mit seiner antizipierten Zunahme des
 Veröffentlichungs&shy;volumens führt selbstverständlich zu einer
 Kostenzunahme. Wieso aber, so werden sich meine auferksamen Leser
 an dieser Stelle fragen, kann man die erwartete Kostenzunahme so
 überaus präzise nicht nur mit 2,961 Prozent im Jahr angeben,
 sondern die zu erwartende Kostensteigerung auch genau auf diesen
-Prozentsatz deckeln? Nun, man kann es, wenn man die insgesamt
+Prozentsatz begrenzen? Nun, man kann es, wenn man die insgesamt
 steigenden Kosten auf die einzelnen Einrichtungen ganz
 unterschiedlich herunterbricht. Und zwar so, daß diejenigen, die
 einen Kostenauftrieb produzieren, der über 2,961 Prozent liegt,
@@ -303,7 +303,7 @@ realisieren, wenn bei Einrichtungen mit wenigschreibenden
 Wissenschaftlern die Rückerstattung geringer ausfällt als sie
 unter Berücksichtigung des anteiligen Publikations&shy;aufkommens
 dieser Einrichtung sein müßte — oder wenn sie gleich ganz
-entfällt. Und nun macht auch der letzte Satz in obigen
+entfällt. Und nun ergibt auch der letzte Satz in obigen
 DEAL-Ausführungen zur Frage der möglichen Rückerstattungen einen
 sehr verständlichen Sinn: Es kann, steht dort, für Einrichtungen,
 die relativ wenig publizieren, auch eine Rückerstattung geben;
@@ -312,7 +312,7 @@ Berechnungsweise nach nicht quantifiziert *oder gar garantiert
 werden*.«
 
 Jetzt ist alles klar: Die Rückerstattungen können nicht
-garantiert werden, weil, wenn unsere Vermutungen stimmen, die
+garantiert werden, weil — wenn unsere Vermutungen stimmen — die
 Bibliotheken von Einrichtungen mit wenigschreibenden
 Wissenschaftlern über eine interne Kostenumverteilung jene
 Bibliotheken subventionieren müssen, an denen die Wissenschaftler
