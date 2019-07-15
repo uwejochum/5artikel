@@ -193,14 +193,14 @@ werden, daß es bei diesem Tracking mit dem Schutz unserer
 Privatsphäre rein gar nichts ist, und daß diese Daten längst
 schon auf ausländischen Servern liegen, um dort nach allen Regeln
 der Kunst von Google Analytics &&nbsp;Co zerlegt und rekombiniert
-zu werden. Damit läßt sich Geld verdienen. Und das beantwortet
-dann wohl auch die Frage, warum Wiley sich auf einen Deal mit
-DEAL eingelassen hat, [der Wiley pro veröffentlichtem Aufsatz
+zu werden. Damit läßt sich Geld verdienen. Und das könnte dann
+wohl auch die Frage beantworten, warum Wiley sich auf einen Deal
+mit DEAL eingelassen hat, [der Wiley pro veröffentlichtem Aufsatz
 rechnerisch etwas weniger als die eigentlich kostendeckende
 Publikationsgebühr
 einbringt](https://uwejochum.github.io/5artikel/2019/03/17/big-deal/):
 Was Wiley mit dem »Content« nicht (mehr) verdient, verdient Wiley
-jetzt eben mit den individualisierbaren Nutzerdaten.
+womöglich mit den individualisierbaren Nutzerdaten.
 
 Und da liegt forschungspolitisch der Hund begraben: Offenbar gibt
 es in Deutschland auch nicht den Hauch eines Bewußtseins für das
