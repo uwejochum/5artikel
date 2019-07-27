@@ -37,11 +37,8 @@ Langzeitarchivierung«, »Kommunikation & Information«,
 
 ## Datenschutz
 
-Diese Website sammelt und speichert keine Nutzerdaten. Die
-benutzten Google-Webfonts sind nicht zu Google verlinkt, sondern
-werden lokal über den Server von Github eingebunden.
-
-Lediglich ein [datenschutzkonformes Zählpixel der VG
+Diese Website sammelt und speichert keine Nutzerdaten. Lediglich
+ein [datenschutzkonformes Zählpixel der VG
 Wort](http://www.vgwort.de/fileadmin/pdf/pressemitteilungen/PM_Datenschutz_METIS_051213_.pdf)
 sorgt dafür, daß der Aufruf einer in diesem Blog zu findenden
 Website an die VG Wort gemeldet wird.
