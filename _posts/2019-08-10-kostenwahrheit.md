@@ -22,9 +22,9 @@ unter die Nase hielt und hält, aber der Strauß sieht inzwischen
 reichlich verwelkt aus; und er verliert jeden Tag an Duft.
 
 Denn seit dem Abschluß des Wiley-DEAL-Deals weiß man, daß es
-tatsächlich ein Traum, als man landauf und landab davon sprach,
-man könnte einen Wissenschaftsartikel für schlappe 1000 Euro
-finanziert bekommen. Das wagt außer der [»Fair Open Access
+tatsächlich ein Traum war, als man landauf und landab davon
+sprach, man könnte einen Wissenschaftsartikel für schlappe 1000
+Euro finanziert bekommen. Das wagt außer der [»Fair Open Access
 Alliance«](https://www.fairopenaccess.org/) offenbar niemand mehr
 zu träumen. Vielmehr haben inzwischen alle öffentlich schlucken
 müssen, daß ein »Open-Access«-konformer Wissenschaftsartikel in
@@ -94,7 +94,7 @@ auch deshalb bemerkenswert, weil sie, bezogen auf die 2750 Euro
 Veröffentlichungsgebühr, die für einen Aufsatz zu bezahlen sind,
 mit 4,125 Prozent zu Buche schlägt. Das ist ein Prozentsatz, der
 um rund 0,6 Punkte über dem liegt, was ein Immobilienmakler für
-seine Dienst nimmt, [nämlich 3,57
+seine Dienste nimmt, [nämlich 3,57
 Prozent](https://www.immoverkauf24.de/immobilienmakler/maklerprovision/). Und
 nun ist es doch so: Immobilienmakler gelten als Finanzhaie,
 keiner mag sie, sie sind für viele Zeichen eines bösen
