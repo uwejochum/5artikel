@@ -258,13 +258,14 @@ das Bundesverfassungsgericht unter diese Sache setzen wird.
 ## Anmerkung
 
 [^1]: In Zeiten der Plagiatsprävention sei an dieser Stelle
-    angemerkt, daß in einem Artikel in der *Frankfurter
-    Rundschau* am 7. April 2009 auf S. 40 zu lesen stand, daß es
-    zur Freiheit der Wissenschaft konstitutiv gehöre, »dass
-    niemand — schon gar nicht der Staat und eine staatlich
+    angemerkt, daß in einem Artikel [in der *Frankfurter
+    Rundschau* am 7. April 2009 auf S. 40 zu lesen
+    stand](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-xlx4biy8fgyv2),
+    daß es zur Freiheit der Wissenschaft konstitutiv gehöre,
+    »dass niemand — schon gar nicht der Staat und eine staatlich
     finanzierte Allianz von Wissenschaftsorganisationen — einem
     Wissenschaftler vorzuschreiben hat, ob und wie und wann und
-    wo er seine Forschungen veröffentlichen soll.« 
+    wo er seine Forschungen veröffentlichen soll.«
 
 
 
