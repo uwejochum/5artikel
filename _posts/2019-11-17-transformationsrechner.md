@@ -135,23 +135,24 @@ doch einfach mal eine kleine Detailschau. Geht ganz fix:
    »Open Access« höchstens die halbe Forschungspublikationsmenge
    finanziert werden, eben die Normalforschung.[^2]
    
-3. Die »Transformationsrechnung« stellt auf S. 3 fest, daß bei
-   der »Open-Access«-Transformation dann ein Problem auftreten
-   würde, wenn sich die Preise für »Open-Access«-Publikationen
-   auf jener Höhe einpendeln würden, die für hybride
-   »Open-Access«-Publikationen gilt. Das sind, so sagt die
-   »Transformationsrechnung«, Publikationsgebühren, die sich auf
-   2000 Euro pro Aufsatz einpendeln (S. 80). Wenn das geschehe,
-   sei die Finanzierbarkeit der »Open-Access«-Transformation in
-   Gefahr. Diese Gefahr droht aber nicht erst eines fernen Tages,
-   sondern ist längst eingetreten. Denn ersten zeigt die
-   »Transformationsrechnung« ja sehr deutlich, daß in allen
-   untersuchten Einrichtungen die Veröffentlichungsgebühren jetzt
-   schon deutlich *über* 2000 Euro pro Artikel liegen (S. 54
-   ff.). Zweitens ergibt ein Blick auf die Statistiken von
-   OpenAPC, daß dort für hybride »Open-Access«-Publikationen (die
-   die Masse der »Open-Access«-Publikationen bilden), [eine
-   durchschnittliche Veröffentlichungsgebühr von 2121 Euro pro
+3. Die »Transformationsrechnung« stellt auf S.&nbsp;3 fest, daß
+   bei der »Open-Access«-Transformation dann ein Problem
+   auftreten würde, wenn sich die Preise für
+   »Open-Access«-Publikationen auf jener Höhe einpendeln würden,
+   die für hybride »Open-Access«-Publikationen gilt. Das sind, so
+   sagt die »Transformationsrechnung«, Publikationsgebühren, die
+   sich auf 2000 Euro pro Aufsatz einpendeln (S.&nbsp;80). Wenn
+   das geschehe, sei die Finanzierbarkeit der
+   »Open-Access«-Transformation in Gefahr. Diese Gefahr droht
+   aber nicht erst eines fernen Tages, sondern ist längst
+   eingetreten. Denn ersten zeigt die »Transformationsrechnung«
+   ja sehr deutlich, daß in allen untersuchten Einrichtungen die
+   Veröffentlichungsgebühren jetzt schon deutlich *über* 2000
+   Euro pro Artikel liegen (S.&nbsp;54 ff.). Zweitens ergibt ein
+   Blick auf die Statistiken von OpenAPC, daß dort für hybride
+   »Open-Access«-Publikationen (die die Masse der
+   »Open-Access«-Publikationen bilden), [eine durchschnittliche
+   Veröffentlichungsgebühr von 2121 Euro pro
    Artikel](https://treemaps.intact-project.org/apcdata/openapc/#publisher/period=2017&country=DEU&is_hybrid=TRUE)
    ausgewiesen wird. Und drittens sollte man — auch wenn man sich
    alle Mühe gibt, [die Schätzung der realen und kostendeckenden
@@ -173,25 +174,32 @@ doch einfach mal eine kleine Detailschau. Geht ganz fix:
    hängt, daß die Publikationsgebühren pro Artikel unter 2000
    Euro bleiben, dann können wir heute schon wissen, daß »Open
    Access« wegen der in hybrider Masse die 2000-Euro-Grenze
-   überschreitenden Publikationsgebühren nicht finanzierbar ist.[^3]
+   überschreitenden Publikationsgebühren nicht finanzierbar
+   ist.[^3]
 
 Was sollen wir also sagen? In der realen Wissenschaftswelt, deren
 Sichtbarkeit offenbar davon abhängt, daß man die
-»Open-Access«-Scheuklappen ablegt, in der realen
-Wissenschaftswelt dürfte glatt das doppelte von dem publiziert
-werden, was die »Transformationsrechnung« annimmt. Und in der
-realen Wissenschaftswelt ist die 2000-Euro-Grenze, jenseits derer
-»Open Access« nicht mehr zu finanzieren ist, längst
-überschritten, und jeder weitere DEAL-Deal wird diese
-Grenzüberschreitung manifestieren und einen weiteren Sargnagel
-für (in diesem Fall: gegen) »Open Access« liefern.
+»Open-Access«-Brille ablegt, in der realen Wissenschaftswelt
+dürfte glatt das doppelte von dem publiziert werden, was die
+»Transformationsrechnung« annimmt. Und in der realen
+Wissenschaftswelt ist die 2000-Euro-Grenze, jenseits derer »Open
+Access« nicht mehr zu finanzieren ist, längst überschritten, und
+jeder weitere DEAL-Deal wird diese Grenzüberschreitung
+manifestieren und einen weiteren Sargnagel für (in diesem Fall:
+gegen) »Open Access« liefern.
 
-Ich weiß nicht, ob man [Nina Schönfelder](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=120477495), der Autorin der
-»Transformationsrechnung«, für ihre Arbeit gratulieren darf. Ich
-tue es einfach mal.
+Ich weiß nicht, ob man [Nina
+Schönfelder](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=120477495),
+der Autorin der »Transformationsrechnung«, für ihre Arbeit
+gratulieren soll.
 
-![Boom](/5artikel/material/pixabay-eingestellt.jpg
-"Boom") [Bild von <a href="https://pixabay.com/de/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=648445">Gerd Altmann</a> auf <a href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=648445">Pixabay</a>.]
+
+![Ruine](/5artikel/material/pixabay-ruine.jpg "Ruine") [Bild von
+Bild von <a
+href="https://pixabay.com/de/users/Tama66-1032521/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3035877">Peter
+H</a> auf <a
+href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3035877">Pixabay</a>.]
+
 
 ## Anmerkungen
 
@@ -229,8 +237,8 @@ tue es einfach mal.
 	daß das WoS nur etwa die Hälfte des tatsächlich
 	Veröffentlichten ausweist.
 	
-[^2]: Die überschlägige Schätzung aus Anm. 1 und die Tatsache,
-    daß die Hälfte der deutschen Universitätsforschung
+[^2]: Die überschlägige Schätzung aus Anm.&nbsp;1 und die
+    Tatsache, daß die Hälfte der deutschen Universitätsforschung
     Drittmittelforschung ist, konvergieren also darin, daß
     jeweils etwa die Hälfte der Forschungspublikationen nicht
     berücksichtigt wird, wenn es darum geht, die von der
