@@ -108,9 +108,9 @@ doch einfach mal eine kleine Detailschau. Geht ganz fix:
    bereits in den Sand gesetzt.  Denn das WoS — selbst bei
    Berücksichtigung des im WoS enthaltenen Social Science
    Citation Index und des Arts & Humanities Citation Index —
-   [enthält fast nur englischsprachige naturwissenschaftliche
+   [enthält mehrheitlich englischsprachige naturwissenschaftliche
    Veröffentlichungen](https://uwejochum.github.io/5artikel/2018/02/02/politische-zahlen-mpdl/);
-   die gesamten Geisteswissenschaften und zu erheblichen Teilen
+   ein Großteil der Geisteswissenschaften und zu erheblichen Teilen
    auch die Sozialwissenschaften fehlen. Und daraus folgt: Auf
    der Basis des WoS kann keine valide Schätzung des
    Publikationsaufkommens deutscher Universitäten und
