@@ -117,7 +117,11 @@ header-img: "img/totenbuch-bg.jpg"
 -   Bücher. Vom Papyrus zum E-Book. Darmstadt: Wissenschaftliche
     Buchgesellschaft, 2015. Koreanische Übersetzung Seoul:
     Mindcube Books, 2017.
-	
+
+## 2017
+
+-   Kleine Bibliotheksgeschichte. 4. Aufl. Stuttgart: Reclam,
+    2017.
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
@@ -541,6 +545,11 @@ header-img: "img/totenbuch-bg.jpg"
 
 -   »Open Access« und die Zukunft freier Wissenschaft. In:
     Erziehungswissenschaft 29 (2018), S. 19–28. [pdf](https://www.dgfe.de/fileadmin/OrdnerRedakteure/Zeitschrift_Erziehungswissenschaft/EW_57.pdf)
+
+## 2019
+
+-   Nicht nicht schreiben. In: Bibliotheksdienst 53 (2019),
+    S. 732–741. https://doi.org/10.1515/bd-2019-0103 
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
