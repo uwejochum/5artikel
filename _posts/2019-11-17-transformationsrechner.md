@@ -145,7 +145,7 @@ doch einfach mal eine kleine Detailschau. Geht ganz fix:
    das geschehe, sei die Finanzierbarkeit der
    »Open-Access«-Transformation in Gefahr. Diese Gefahr droht
    aber nicht erst eines fernen Tages, sondern ist längst
-   eingetreten. Denn ersten zeigt die »Transformationsrechnung«
+   eingetreten. Denn erstens zeigt die »Transformationsrechnung«
    ja sehr deutlich, daß in allen untersuchten Einrichtungen die
    Veröffentlichungsgebühren jetzt schon deutlich *über* 2000
    Euro pro Artikel liegen (S.&nbsp;54 ff.). Zweitens ergibt ein
@@ -168,14 +168,15 @@ doch einfach mal eine kleine Detailschau. Geht ganz fix:
    ablesen, daß in dem überall als vorbildlich-nachahmenswert
    empfohlenen Wiley-DEAL-Deal für hybride publizierte
    »Open-Access«-Artikel ein Preis von 2750 Euro pro Artikel
-   ausgehandelt wurde. Wer die vorgelegte
-   »Transformationsrechnung« ernst nimmt, der darf folglich
-   feststellen: Wenn die Finanzierbarkeit von »Open Access« daran
-   hängt, daß die Publikationsgebühren pro Artikel unter 2000
-   Euro bleiben, dann können wir heute schon wissen, daß »Open
-   Access« wegen der in hybrider Masse die 2000-Euro-Grenze
-   überschreitenden Publikationsgebühren nicht finanzierbar
-   ist.[^3]
+   ausgehandelt wurde, plus der von der MPDL erhobene
+   »Servicegebühr« macht das dann 2900 Euro pro Artikel — jetzt
+   schon. Wer die vorgelegte »Transformationsrechnung« ernst
+   nimmt, der darf folglich feststellen: Wenn die
+   Finanzierbarkeit von »Open Access« daran hängt, daß die
+   Publikationsgebühren pro Artikel unter 2000 Euro bleiben, dann
+   können wir heute schon wissen, daß »Open Access« wegen der in
+   hybrider Masse die 2000-Euro-Grenze überschreitenden
+   Publikationsgebühren nicht finanzierbar ist.[^3]
 
 Was sollen wir also sagen? In der realen Wissenschaftswelt, deren
 Sichtbarkeit offenbar davon abhängt, daß man die
