@@ -1,4 +1,3 @@
-
 ---
 layout:	post
 title:	DEAL und die sieben fraglichen Punkte
