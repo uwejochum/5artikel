@@ -156,9 +156,8 @@ allen Zeitschriften eines Verlags«, und zwar so, daß jeder sich
 selber heraussucht, was er für relevant hält — und nur für dieses
 Herausgesuchte dann auch zu bezahlen ist.
 
-
 Das klingt interessant und fügt sich in die allgemeine
-gesellschaftliche Tendenz, etwa beim den Medien, nur noch das
+gesellschaftliche Tendenz, etwa bei den Medien, nur noch das
 bezahlen zu wollen, was man auch konkret nutzt, und also
 Pauschalgebühren (Zeitschriftenabonnements) durch
 Einzelnutzungsentgelte (Pay-per-View) zu ersetzen. Bei »Open
