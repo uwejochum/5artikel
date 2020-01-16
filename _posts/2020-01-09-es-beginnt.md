@@ -50,10 +50,9 @@ EU-Politik, das andere aber sind die Erfolge im Reich der
 Wahrheit, das sich mit dem Reich der Wirklichkeit und — wie
 Platon und Aristoteles nicht müde wurden zu sagen — mit dem Reich
 der Schönheit deckt. In diesem dreifaltigen Reich ist »Open
-Access« trotz aller finanzieller Unterstützung von Soros und
-aller politischer Rückendeckung durch die EU inzwischen längst
-gescheitert und kommt so ziemlich als nackter Kaiser daher. Man
-muß nur laut sagen, daß der Kaiser nackt ist.
+Access« inzwischen längst gescheitert und kommt so ziemlich als
+nackter Kaiser daher. Man muß nur laut sagen, daß der Kaiser
+nackt ist.
 
 Nackt ist der Kaiser erstens, weil die von Anfang an gemachte
 Behauptung, durch »Open Access« könne ein System des
@@ -138,9 +137,9 @@ sagen wir beispielsweise »Gendergerechtigkeit« oder
 »Klimarettung«?  Wenn also, ganz konkret, die Universität&nbsp;X
 sich der »Klimarettung« verschrieben hat, einer ihrer
 Wissenschaftler nun aber einen Aufsatz veröffentlichen möchte, in
-dem er mit guten Gründen darlegt, daß eine menschengemachte
-Klimarettung unmöglich sei — und dann dieser Wissenschaftler bei
-seiner Universität&nbsp;X einen Antrag auf Übernahme der
+dem er darlegt, daß er eine menschengemachte Klimarettung für
+unmöglich hält — und dann dieser Wissenschaftler bei seiner
+Universität&nbsp;X einen Antrag auf Übernahme der
 »Open-Access«-Publikationsgebühr stellt? Nun, die Antwort lautet:
 Die Universität&nbsp;X wird die Publikationsgebühren
 selbstverständlich *nicht* übernehmen.
@@ -175,8 +174,8 @@ Beitrag mit dem Titel [»Propagation of Error and the Reliability
 of Global Air Temperature
 Projections«](https://doi.org/10.3389/feart.2019.00223). Der
 Artikel untersucht die Vorhersagegenauigkeit der
-Klimaprojektionen und kommt zu dem ernüchternden Ergebnis, daß
-aufgrund der in den Vorhersagemodellen selbst angelegten
+Klimaprojektionen und kommt zu dem Ergebnis, daß aufgrund der in
+den Vorhersagemodellen selbst angelegten
 methodisch-mathematischen Ungenauigkeiten (die kumulieren würden,
 je länger der Prognosezeitraum gefaßt werde) der auf den Menschen
 zurückgehende Anteil an der Erderwärmung in Wahrheit gar nicht
@@ -184,15 +183,8 @@ feststellbar sei, weshalb folglich auch über seinen Effekt auf
 das Weltklima nichts ausgesagt werden könne. Daß diese Kritik
 mitten in das Zentrum der gegenwärtigen Klimadebatte trifft, ist
 klar, und man wundert sich daher nicht, daß der Artikel seit
-seiner Veröffentlichung mehr als 106000 mal aufgerufen und mehr
-als 4000 mal heruntergeladen wurde. Damit ist er mit einem
-überragenden Abstand der meistbeachtete Aufsatz, der in den
-»frontiers in Earth Science« veröffentlicht wurde (die Nummer
-zwei in dieser Zeitschrift folgt erst mit etwas über 20000
-Artikelaufrufen), und
-[Altmetric](https://frontiers.altmetric.com/details/65169257)
-zählt ihn zu den fünf Prozent der am häufigsten referenzierten
-»frontiers«-Wissenschaftsartikeln.
+seiner Veröffentlichung mehr als 108000 mal aufgerufen und mehr
+als 4000 mal heruntergeladen wurde.
 
 ![Erfolg](/5artikel/material/pixabay-kinder-erfolg.jpg "Erfolg")
 [Quelle: Bild von <a
@@ -200,44 +192,40 @@ href="https://pixabay.com/de/users/StartupStockPhotos-690514/?utm_source=link-at
 auf <a
 href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=593313">Pixabay</a>.]
 
-Das alles klingt nach wissenschaftlichem Business as usual.  Mehr
-noch, es klingt sogar sehr erfreulich, daß eine wissenschaftliche
-Veröffentlichung auf ein derart breites Interesse stößt, wenn sie
-allem widerspricht, was vom [Intergovernmental Panel on Climate
-Change](https://de.wikipedia.org/wiki/Intergovernmental_Panel_on_Climate_Change)
-(IPCC, »Weltklimarat«) über die politischen Gremien der EU bis
-hin zu den auf nationaler Ebene aktiven Klimaparteien als
-wissenschaftlicher Konsens verkündet wird. Aber bei näherem
-Hinschauen ist es mit dem Interesse so eine Sache: Es gibt auf
-der einen Seite die mehr als 106000 Aufrufe des Artikels, und es
-gibt auf der anderen Seite das, was man »öffentliche Resonanz«
-nennt, also die mediale Rezeption in Presse, Funk und Fernsehen
-in Form von Hinweisen, Diskussionen, Lob und Kritik. Um diese
-öffentliche Resonanz ist es freilich merkwürdig bestellt. Denn
-während sich die Schweiz glücklich schätzen darf, daß sie mit der
-»Weltwoche« über eine Wochenzeitschrift verfügt, in der im
-vergangenen Herbst eine Debatte über Franks Veröffentlichung
-geführt wurde
+Das alles klingt nicht nur nach wissenschaftlichem Business as
+usual, sondern auch nach erfolgreicher Wissenschaft, nämlich nach
+einer Wissenschaft, die auf großes fachliches und öffentliches
+Interesse stößt, denn die hohe Downloadzahl deutet darauf hin,
+daß der Artikel nicht nur im Kreis der Klimatologen diskutiert
+wird. Aber bei näherem Hinschauen ist es mit der öffentlichen
+Resonanz so eine Sache: Es gibt auf der einen Seite die mehr als
+108000 Aufrufe des Artikels, und es gibt auf der anderen Seite
+seine Rezeption in Presse, Funk und Fernsehen in Form von
+Hinweisen, Diskussionen, Lob und Kritik. Um diese öffentliche
+Rezeption ist es freilich merkwürdig bestellt. Denn während im
+deutschsprachigen Raum die Schweizer »Weltwoche« das Thema der
+Klimaprognosen aufnahm und Frank Gelegenheit gab, seine Position
+darzustellen, aber auch die Gegenposition zu Wort kommen ließ
 ([hier](https://www.weltwoche.ch/ausgaben/2019-38/wirtschaft-wissenschaft/gespenstische-klimamodelle-die-weltwoche-ausgabe-38-2019.html)
 und
-[hier](https://www.weltwoche.ch/ausgaben/2019-45/inland/er-will-dafur-sorgen-dass-alles-gut-wird-die-weltwoche-ausgabe-45-2019.html)
+[hier](https://www.weltwoche.ch/ausgaben/2019-40/wirtschaft-wissenschaft/unlogische-folgerungenunlogische-folgerungen-die-weltwoche-ausgabe-40-2019.html)
 und
-[hier](https://www.weltwoche.ch/ausgaben/2019-40/wirtschaft-wissenschaft/unlogische-folgerungenunlogische-folgerungen-die-weltwoche-ausgabe-40-2019.html),
-haben die in Deutschland beheimateten Zeitungen es nicht für
-nötig gehalten, die Debatte aufzugreifen. Man mußte sich
-hierzulande schon auf die Website des »EIKE, Europäisches
-Institut für Klima & Energie« begeben, eines Vereins, den viele
-der Einfachheit halber der Kategorie der »Klimaleugner«
-zurechnen, wenn man [etwas über Franks Artikel
+[hier](https://www.weltwoche.ch/ausgaben/2019-45/inland/er-will-dafur-sorgen-dass-alles-gut-wird-die-weltwoche-ausgabe-45-2019.html)),
+blieb es in Deutschland still. Man mußte sich schon auf die
+Website des »EIKE, Europäisches Institut für Klima & Energie«
+begeben, eines Vereins, den viele der Kategorie der
+»Klimaleugner« zurechnen, wenn man [eine Darstellung von Franks
+Artikel samt der Hintergründe
 lesen](https://www.eike-klima-energie.eu/2019/09/14/noch-ein-ketzerischer-klima-artikel-patrick-frank-aus-stanford-stellt-grundsaetzlich-klimamodelle-infrage/)
 wollte, oder man mußte in »Tumult, Vierteljahresschrift für
-Konsensstörung« stöbern (Heft Winter 2019/20), um eine Einbettung
-des Artikels in ein kritisch-zustimmendes Umfeld finden zu
-können. Mit anderen Worten: In Deutschland fand eine öffentliche
-Rezeption und Debatte von Franks Beitrag nicht statt, und
-diejenigen, die auf Franks Beitrag reagierten, werden sicherlich
-von vielen als »Klimaleugner« aus der Aufmerksamkeitsökonomie
-gestrichen.
+Konsensstörung« blättern (Heft Winter 2019/20), um dort sich auf
+Frank beziehende konsensstörende Bemerkungen zur Klimadebatte zu
+finden. Mit anderen Worten: Im deutschsprachigen Raum fand eine
+Rezeption und Debatte von Franks Beitrag im Grunde nicht statt,
+und die wenigen, die auf Franks Beitrag öffentlich reagierten,
+standen und stehen politisch auf einer Seite, die eine
+unvoreingenommene Diskussion von Franks Überlegungen eher
+blockiert als fördert.
 
 Diese Verschiebung im öffentlichen Resonanzraum ist nun aber
 nicht erst im Moment der Rezeption des Artikels festzustellen,
@@ -254,19 +242,23 @@ Art. Quelle:
 [https://www.frontiersin.org](https://www.frontiersin.org/articles/10.3389/feart.2019.00223/full).]
 
 Natürlich steht es jedem frei, diese Nichtfinanzierung schon
-deshalb für völlig in Ordnung zu halten, weil bei den
-Frontiers-Zeitschriften [der Verdacht besteht, es könnte sich um
-Produkte eines »Raubtierverlages«
-handeln](https://de.wikipedia.org/wiki/Frontiers_Journal_Series),
-der nur so tut, als sei er ein wissenschaftlicher Verlag mit
-Qualitätsstandards, in Wahrheit aber lediglich die
-»Open-Access«-Gebühren abkassieren will. Dann darf man freilich
-zurückfragen, warum dieses bekannte Bedenken die
-Forschungsförderer bei den vielen anderen Publikationen, die in
-den Frontiers-Zeitschriften veröffentlicht werden, nicht davon
-abhält, die Publikationsgebühren zu übernehmen.  Wie immer man
-sich dazu stellen mag, es bleibt äußerst auffällig, daß an der
-Stelle, an der die Autoren von Wissenschaftsartikeln sonst ihre
+deshalb für völlig in Ordnung zu halten, weil man die Resultate
+des Beitrags für fragwürdig und die Frontiers-Zeitschriften [für
+Produktionen eines »Raubtierverlages«
+hält](https://de.wikipedia.org/wiki/Frontiers_Journal_Series),
+also eines Verlages, der nur so tut, als sei er ein
+wissenschaftlicher Verlag mit Qualitätsstandards, in Wahrheit
+aber lediglich die »Open-Access«-Gebühren abkassieren will. Dann
+darf man freilich zurückfragen, ob man in Zukunft die
+Finanzierung eines Beitrags ganz allgemein von der erwiesenen —
+in welcher Weise erwiesenen? — Unverdächtigkeit seiner Resultate
+abhängig machen will, und man darf zurückfragen, warum die
+Forschungsfinanzierer bei den vielen anderen Publikationen, die
+in Frontiers-Zeitschriften erschienen sind, keine Bedenken mit
+der Seriosität des Publikationsortes haben und die
+Veröffentlichungsgebühren bislang offenbar problemlos
+übernahmen. Kurz: Es bleibt äußerst auffällig, daß an der Stelle,
+an der die Autoren von Wissenschaftsartikeln sonst ihre
 Dankesworte unterbringen, Frank sehr deutlich darauf hinweist,
 daß sein Artikel mit der Institution, an der er arbeitet, nicht
 das geringste zu tun hat und von ihr auch nicht finanziert
@@ -275,13 +267,11 @@ institutionelle und die finanzielle, nennt er keine, aber der
 Verdacht liegt nahe, es könnte mit dem Umstand zu tun haben, daß
 die Universität Stanford ganz offiziell eine [»Climate Change
 Education«](https://earth.stanford.edu/climate-change-ed)
-betreibt, die selbstverständlich davon ausgeht, daß der
-Klimawandel »nahezu sicher« (almost certainly) auf menschliche
-Aktivitäten zurückzuführen ist. Wer so viel in die
-wissenschaftliche Bewältigung des Klimawandels investiert, der,
-so darf man vermuten, kann natürlich keinen Penny in die
-wissenschaftliche Kritik der Klima-Projektionsmodelle
-investieren. Er würde sonst seiner eigenen Mission widersprechen.
+betreibt. Wenn es sich so verhält, hätten wir in der Tat den
+einfachen, aber unangenehmen Widerspruch festzustellen zwischen
+dem proklamierten Erziehungsziel der Universität und ihrer
+institutionellen Selbstverpflichtung auf unparteiische Förderung
+von Wissenschaft.
 
 Diesen Widerspruch vermeidet man dank »Open Access« auf denkbar
 eleganteste Weise: Indem man die Veröffentlichungsgebühren für
@@ -295,17 +285,17 @@ massenhaft beachtet wird, widerstreitet dem nicht im geringsten,
 denn die, die ihn beachten, zählt man einfach zu denen, die man
 nicht beachten muß, weil sie sich alleine schon durch das
 Interesse für diesen Artikel bereits außerhalb des Konsenses
-gestellt haben. Kurz, man betreibt den Aufbau eines Dogmas, das
-sich auf anerkannte Autoritäten beruft und die Dissidenten
-dadurch an den Rand zu schieben versucht, daß es sich erst gar
-nicht mit ihnen befaßt. Das ist, historisch gesehen,
-wahrscheinlich sogar ein Glück für die Dissidenten. Aber es ist
-ein Unglück für »Open Access« und seinen Anspruch,
-demokratiefördernd zu wirken. Und dieses Unglück ist kein
-unglücklicher Zufall, den man beweinen muß, sondern in ihm wird
-ein tief in die Logik von »Open Access« eingebauter
-wissenschaftsfeindlicher und damit demokratiegefährdender
-Strukturfehler sichtbar.
+gestellt haben. Kurz, man fördert nicht die Debatte über
+konfligierende Theorien, sondern schlägt sich institutionell auf
+eine der beiden Seiten und betrachtet die andere hinfort als als
+dissident, so daß man sich mit ihr nicht mehr weiter befassen
+muß. Das ist, historisch gesehen, wahrscheinlich sogar ein Glück
+für die Dissidenten. Aber es ist ein Unglück für »Open Access«
+und seinen Anspruch, demokratiefördernd zu wirken. Und dieses
+Unglück ist kein unglücklicher Zufall, den man beweinen muß,
+sondern in ihm wird ein tief in die Logik von »Open Access«
+eingebauter wissenschaftsfeindlicher und damit
+demokratiegefährdender Strukturfehler sichtbar.
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Caspar_David_Friedrich_-_Das_Eismeer_-_Hamburger_Kunsthalle_-_02.jpg"
