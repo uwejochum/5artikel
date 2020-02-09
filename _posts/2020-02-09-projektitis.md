@@ -231,8 +231,11 @@ Gedanken nicht zu viel und zu oft auf einen Wechsel aus der
 Projektstelle in ein festes Anstellungsverhältnis zu
 setzen. Dieser Wechsel ist ein hochgradig vergiftetes Geschenk.
 
-![Enttäuschung](/5artikel/material/pixabay-clown.jpg
-"Enttäuschung") [Quelle: Bild von <a href="https://pixabay.com/de/users/Devoka-8633495/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4579017">Devoka</a> auf <a href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4579017">Pixabay</a>.]
+![Enttäuschung](/5artikel/material/pixabay-alleine.jpg
+"Enttäuschung") [Quelle: Bild von <a
+href="https://pixabay.com/de/users/Devoka-8633495/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4579017">Devoka</a>
+auf <a
+href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4579017">Pixabay</a.]
 
 Ich bitte Dich sehr: Laß Dir das alles nochmal durch den Kopf
 gehen, beobachte Deine neue Umgebung, bleibe nüchtern in Deinen
