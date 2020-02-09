@@ -235,7 +235,7 @@ setzen. Dieser Wechsel ist ein hochgradig vergiftetes Geschenk.
 "Enttäuschung") [Quelle: Bild von <a
 href="https://pixabay.com/de/users/Devoka-8633495/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4579017">Devoka</a>
 auf <a
-href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4579017">Pixabay</a.]
+href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4579017">Pixabay.]
 
 Ich bitte Dich sehr: Laß Dir das alles nochmal durch den Kopf
 gehen, beobachte Deine neue Umgebung, bleibe nüchtern in Deinen
