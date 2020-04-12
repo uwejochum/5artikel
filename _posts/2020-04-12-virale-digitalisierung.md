@@ -113,7 +113,7 @@ hier sollte in den Blick kommen, daß Digitalisierung kein
 Selbstzweck sein kann und angesichts der von SARS-CoV-2
 ausgelösten Krise noch nicht einmal zur Lösung der Krise
 taugt. Freilich: Auf der Oberfläche sieht es so aus, als sei die
-Digitlisierung *die* Lösung der Viruskrise, denn wo der Kontakt
+Digitalisierung *die* Lösung der Viruskrise, denn wo der Kontakt
 von Mensch zu Mensch nicht mehr gemeinschaftsstiftend ist,
 sondern eine Ansteckungsgefahr mit Todesdrohung darstellt,
 scheint die digitalmedial-ansteckungsfreie Vergemeinschaftung das
