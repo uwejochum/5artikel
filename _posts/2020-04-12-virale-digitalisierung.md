@@ -101,8 +101,8 @@ soll: Während die Verlage und der Buchhandel am Boden liegen,
 sieht der Digitalist und Disrupteur die Chance, den am Boden
 Liegenden auch noch zu treten, für diesen Akt
 [straffrei](https://dejure.org/gesetze/StGB/111.html) auszugehen
-und womöglich noch heimliches Lob zu kassieren. Recht ist für
-ihn, wie wir hier erfahren, eine Sache »cura posterior«.
+und womöglich heimliches Lob zu kassieren. Recht ist für ihn, wie
+wir hier erfahren, eine Sache »cura posterior«.
 
 Man kann das so sehen und sich eine Welt erträumen, in der das
 Recht nur das eigene Recht ist und nicht auch das Recht der
