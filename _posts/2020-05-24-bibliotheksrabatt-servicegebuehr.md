@@ -2,7 +2,7 @@
 layout:	post
 title:	Bibliotheksrabatt und Servicegebühr
 author:	Uwe Jochum
-tags:   [»Open Access«,Wissenschaftspolitik,Demokratie]
+tags:   [»Open Access«,Wissenschaftspolitik,Bibliothekspolitik,Buch]
 ---
 
 <img src="http://vg05.met.vgwort.de/na/bf2091496e664f1ebc7c1c4dc9be645e" width="1" height="1" alt="">	
