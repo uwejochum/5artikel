@@ -197,7 +197,7 @@ Zeitschriften] auf Basis des Grundgesetzes« die Willkür des
 Anbieters, deren Basis das ökonomische Absatz- und
 Vermarktungskalkül im Hinblick auf den »Content« ist. Das öffnet
 natürlich auch einer ideologischen Indienstnahme dieser
-lizenzierten »Paketen« Tür und Tor, denn was ökonomisch mit Hilfe
+lizenzierten »Pakete« Tür und Tor, denn was ökonomisch mit Hilfe
 von Algorithmen kalkulierbar ist und kalkuliert wird, kann
 selbstverständlich auch im Hinblick auf politische Themen
 kalkuliert werden. Damit kollabieren die Bibliotheken als von den
