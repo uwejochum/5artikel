@@ -149,20 +149,20 @@ Ziele (der Aufklärung oder der Abwehr von »Populismus« oder der
 Förderung der »europäischen Idee«) gar nicht mehr zu sehen
 vermag. Denn wenn die Bibliotheken als staatliche Einrichtungen
 wie alle anderen Staatseinrichtungen auf dem soliden Sockel der
-Grundrecht zu stehen haben, dann bemißt sich ihre Güte danach, ob
-sie faktisch auf diesem Sockel stehen — und nicht danach, wie
-sehr sie die »europäische Idee« oder die »Zivilcourage« fördern
-oder sich an der Abwehr von »Populismus« beteiligen. Wer daher
-den Artikel fünf des Grundgesetzes so stark herausstreicht, wie
-es die Schreiber der dbv-Stellungnahme tun, der muß sich
+Grundrechte zu stehen haben, dann bemißt sich ihre Güte danach,
+ob sie faktisch auch auf diesem Sockel stehen — und nicht danach,
+wie sehr sie die »europäische Idee« oder die »Zivilcourage«
+fördern oder sich an der Abwehr von »Populismus« beteiligen. Wer
+daher den Artikel fünf des Grundgesetzes so stark herausstreicht,
+wie es die Schreiber der dbv-Stellungnahme tun, der muß sich
 mindestens für einen Augenblick prüfen, ob er die Bibliotheken
 auf ein Fundament gestellt hat, das sich ohne Materialspannung
-auf den Sockel der Grundrechte aufmauern läßt. Das betrifft
-besonders das in der dbv-Stellungnahme herausgestellte Moment des
-Zugangs zu »Informationen« oder »Inhalten«. Denn sollten die
-Bibliotheken jener Freiraum sein wollen, in dem die Bürger Bücher
-und Zeitschriften finden, anhand derer sie ihre Urteile über was
-auch immer frei bilden können sollen, dann heißt das für die
+auf den Grundrechten aufmauern läßt. Das betrifft besonders das
+in der dbv-Stellungnahme herausgestellte Moment des Zugangs zu
+»Informationen« oder »Inhalten«. Denn sollten die Bibliotheken
+jener Freiraum sein wollen, in dem die Bürger Bücher und
+Zeitschriften finden, anhand derer sie ihre Urteile über was auch
+immer frei bilden können sollen, dann heißt das für die
 Bibliotheken in größtmöglicher Konkretion: Sie müssen nicht nur
 den freien Zugang zu diesen Medien gewährleisten, sondern auch
 dafür sorgen, daß der Bestand dieser Medien durch die Bürger in
