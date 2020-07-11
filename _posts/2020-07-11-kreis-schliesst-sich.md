@@ -174,7 +174,7 @@ deutschen Wissenschaftsorganisationen.
 Denn machen wir uns nichts vor: Was der Präsident der
 Max-Planck-Gesellschaft als »Fortschritt« lobt, ist in Wahrheit
 nichts anderes als die technische Förderung von Bequemlichkeiten,
-die aber, anders als viele meinen, nicht auf der Linine der
+die aber, anders als viele meinen, nicht auf der Linie der
 Freiheit liegen, sondern als Fluchtpunkt die Feigheit
 haben. Lesen wir daher einen alten Text an dieser Stelle noch
 einmal:
