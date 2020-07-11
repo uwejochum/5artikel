@@ -34,7 +34,7 @@ richtet, was andere für erforschenswert halten.  Statt dessen
 wird die Universität nun zu einem Hort vormundschaftlich
 betreuten Denkens und Schreibens und Veröffentlichens nach
 Maßgabe der von Dekanen, Universitätsrektoren und -präsidenten
-und Bildungsministeren (alle gerne m/w/d oder non-binär)
+oder Bildungsministern (alle gerne m/w/d oder non-binär)
 vorgegebenen Denkschemata.
 
 <img
