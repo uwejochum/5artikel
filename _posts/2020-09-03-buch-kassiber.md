@@ -139,12 +139,12 @@ laufenden
 Podcasts](https://www.ndr.de/nachrichten/info/podcast4684.html)
 leichtfällt, andere wissenschaftliche Meinungen *ex cathedra
 podcasti* als unwissenschaftlich aus der Debatte
-auszuschließen. Dabei muß er nicht Gefahr laufen, sich vor
-offenem Mikrophon mit einer kontroversen Meinung
-auseinanderzusetzen und *Contra* zu bekommen. Dem Podcast, der,
-wie es auf der Website heißt, »verlässlich über neue Erkenntnisse
-der Forschung informieren« will, genügt vielmehr alleine Drostens
-Wort und Sprechstimme.
+auszuschließen. Dabei läuft er nicht Gefahr, sich vor offenem
+Mikrophon mit einer kontroversen Meinung auseinandersetzen zu
+müssen und *Contra* zu bekommen. Dem Podcast, der, wie es auf der
+Website heißt, »verlässlich über neue Erkenntnisse der Forschung
+informieren« will, genügt vielmehr alleine Drostens Wort und
+Sprechstimme.
 
 ![Mikro](/5artikel/material/pixabay-mikrophon-junge.jpg
 "Mikro") Bild von <a href="https://pixabay.com/de/users/TENLEAF-6286534/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2779106">Yingnan Lu</a> auf <a href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2779106">Pixabay</a>
