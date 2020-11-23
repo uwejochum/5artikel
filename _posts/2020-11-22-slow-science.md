@@ -179,7 +179,7 @@ href="https://pixabay.com/de/users/dariuszsankowski-1441456/?utm_source=link-att
 Sankowski</a> auf <a
 href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1052013">Pixabay</a>.]
 
-Wer das vermeinden will, wird notgedrungen darüber reflektieren
+Wer das vermeiden will, wird notgedrungen darüber reflektieren
 müssen, mit welchen Mitteln — und das Wort heißt übersetzt:
 Medien — er welche Ziele erreichen kann. Es ist das Menetekel der
 modernen Wissenschaft, die sich zum Großteil als eine
