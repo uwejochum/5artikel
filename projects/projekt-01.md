@@ -122,6 +122,11 @@ header-img: "img/totenbuch-bg.jpg"
 
 -   Kleine Bibliotheksgeschichte. 4. Aufl. Stuttgart: Reclam,
     2017.
+	
+## 2021
+
+-   In der Mitte der Zeit. Die neue Chronologie des Lebens
+    Jesu. Hildesheim: Olms, 2021.
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
