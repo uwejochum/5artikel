@@ -45,11 +45,14 @@ Zeitung* oder *Die Zeit* las, muß sich heute neben der *Welt* und
 der *BILD-Zeitung* an [*Tichys
 Einblick*](https://www.tichyseinblick.de/), die [*Achse des
 Guten*](https://www.achgut.com/), [Boris
-Reitschuster](https://reitschuster.de/),
-[*Telepolis*](https://www.heise.de/tp/) oder
-[*Sciencefiles*](https://sciencefiles.org/) wenden, wenn er nach
-einer kritischen Aufbereitung der Fakten und Argumente sucht und
-nach einer kontroversen Darstellung, die das Denken nicht
+Reitschuster](https://reitschuster.de/), [Dushan
+Wegner](https://www.dushanwegner.com/),
+[*Telepolis*](https://www.heise.de/tp/),
+[*Sciencefiles*](https://sciencefiles.org/),
+[*Rubikon*](https://www.rubikon.news/) oder die
+[*Nachdenkseiten*](https://www.nachdenkseiten.de/) wenden, wenn er
+nach einer kritischen Aufbereitung der Fakten und Argumente sucht
+und nach einer kontroversen Darstellung, die das Denken nicht
 lahmlegt, sondern beflügelt. Und wer auf diesem Weg des
 beflügelten Denkens die knappste Präzision sucht, wird bei
 Norbert Bolz und seiner auf Twitter mitgeteilten [»Wahrheit in
