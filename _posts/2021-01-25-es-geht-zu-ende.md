@@ -5,6 +5,8 @@ author:	Uwe Jochum
 tags:   [Bibliothekspolitik,Demokratie,Digitalisierung,Wissenschaftspolitik]
 ---
 
+<img src="https://vg07.met.vgwort.de/na/e8292fcb9b9f4e6baa628ed0da88678b" width="1" height="1" alt="">	
+
 Vor einem Jahr war zum erstenmal festzustellen, was es in einem
 wissenschaftlichen Konfliktfall konkret heißt, wenn die
 Kommunikation dieses gesellschaftlichen Teilsystems über digitale
