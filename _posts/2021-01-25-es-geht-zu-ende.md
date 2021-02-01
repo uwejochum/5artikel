@@ -184,7 +184,7 @@ von
 in den Bibliotheken liest, darf man sich nicht wundern, wenn das
 auf die Bearbeitung von Themen wie »Sexismus«, »Homophobie«,
 »Rassismus«, »Muslimfeindlichkeit«, »Antisemitismus«,
-»Querdenker&ast;innen begegnen«, »Fake News« und »Hate Speech«
+»Querdenker&#42;innen begegnen«, »Fake News« und »Hate Speech«
 [zielt](https://www.bib-info.de/fileadmin/public/Dokumente_und_Bilder/Komm_FobiKom/Miteinander_Reden/Demokratiearbeit_-_Miteinander_reden_Teil_2-2021-01-15_n.pdf). Alles
 das ist möglicherweise gut gemeint, mit Sicherheit aber schlecht
 gedacht, und daher wird es genau dorthin führen, auch in
@@ -205,4 +205,27 @@ src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Aeneas%27_Flight_from_T
 alt="Drawing" style="width: 700px;"/>[Federico Barocci, Public
 domain, via Wikimedia Commons.]
 
+
+## Nachtrag
+
+Die Zensur hat sich in den wenigen Tagen, seitdem ich das
+Vorstehende schrieb, enorm ausgeweitet. Hier nur als kleiner
+Nachtrag einige Artikel, die das, was in den letzten Tagen auf
+den Gebieten der Meinungs- und Wissenschaftszensur besonders
+auffällig war, zusammenfassen:
+
+- [Stefan Frank: Die Zensur-Industrie und ihre
+  Handlanger](https://www.achgut.com/artikel/die_zensur_industrie_und_ihre_handlanger)
+  
+- [Kolja Zydatiss: Ausgestoßene der
+  Woche](https://www.achgut.com/artikel/ausgestossene_der_woche_boris_reitschuster_anabel_schunke_und_indubio)
+  
+- [Boris Reitschuster: Zensur im Verband der
+  Geschichtslehrer](https://reitschuster.de/post/zensur-im-verband-der-geschichtslehrer/)
+  
+- [Boris Reitschuster: Lesen Sie, was die Leopoldina-Mitglieder
+  nicht lesen sollen](https://reitschuster.de/post/lesen-sie-hier-was-die-leopoldina-mitglieder-nicht-lesen-sollen/)
+  
+- [Boris Reitschuster:
+  Virologenlästerung?](https://reitschuster.de/post/youtube-zensiert-jetzt-auch-fuer-drosten/)
 
