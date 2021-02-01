@@ -184,7 +184,7 @@ von
 in den Bibliotheken liest, darf man sich nicht wundern, wenn das
 auf die Bearbeitung von Themen wie »Sexismus«, »Homophobie«,
 »Rassismus«, »Muslimfeindlichkeit«, »Antisemitismus«,
-»Querdenker&#42;innen begegnen«, »Fake News« und »Hate Speech«
+»Querdenker &ast; innen begegnen«, »Fake News« und »Hate Speech«
 [zielt](https://www.bib-info.de/fileadmin/public/Dokumente_und_Bilder/Komm_FobiKom/Miteinander_Reden/Demokratiearbeit_-_Miteinander_reden_Teil_2-2021-01-15_n.pdf). Alles
 das ist möglicherweise gut gemeint, mit Sicherheit aber schlecht
 gedacht, und daher wird es genau dorthin führen, auch in
