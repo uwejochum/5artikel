@@ -554,7 +554,7 @@ header-img: "img/totenbuch-bg.jpg"
 ## 2019
 
 -   Nicht nicht schreiben. In: Bibliotheksdienst 53 (2019),
-    S. 732–741. https://doi.org/10.1515/bd-2019-0103 
+    S. 732–741. [https://doi.org/10.1515/bd-2019-0103](https://doi.org/10.1515/bd-2019-0103) 
 
 ## 2020
 
