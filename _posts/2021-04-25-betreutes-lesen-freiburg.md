@@ -311,8 +311,8 @@ geistig schwach wird und sich in der Folge dann den Rechten
 hingibt. Denn merke — und wir sollten hier Joachim Eberhards
 Beispiel strikt folgen, der in seiner Artikelüberschrift
 Überlegungen zu »Rechter Literatur in Bibliotheken?« ankündigte,
-dann aber selbstverständlich immer wieder von »rechtsextremen
-Werken« spricht —, denn merke: Wer rechts ist, ist immer nur ein
+dann aber selbstverständlich immer von »rechtsextremen Werken«
+spricht —, denn merke: Wer rechts ist, ist immer nur ein
 weichgespülter Rechtsradikaler.  Es ist dabei völlig unerheblich,
 ob jemand der parlamentarischen Monarchie, dem Nationalstaat,
 klaren Einwanderungsregeln, einer Trennung zwischen Asylbewerbern
@@ -342,7 +342,7 @@ Kolleginnen und Kollegen an der UB Freiburg, dafür zu danken, daß
 sie staatsbürgerlichen Mut bewiesen haben! Dieser Schritt soll
 nicht umsonst gewesen sein, und daher ist für Sie zu hoffen, was
 für unsere demokratisch-pluralistische Gesellschaft eine
-Selbstveständlichkeit sein sollte: daß sich die Früchte Ihres
+Selbstverständlichkeit sein sollte: daß sich die Früchte Ihres
 Tuns bald zeigen werden, und sei es auch nur durch einen kleinen
 Karrieresprung. Das wäre das mindeste, was hier zu fordern ist,
 als staatliche Anerkennung Ihres Tuns.
