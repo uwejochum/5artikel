@@ -276,9 +276,9 @@ Schiller](https://de.wikipedia.org/wiki/Karl_Schiller) rufen,
 »Genossen, laßt die Kirche im Dorf!«
 
 Wie man das macht mit dem Im-Dorf-Lassen der Kirche hat Joachim
-Eberhard in unnachahmlich scharfsinniger Weise vorgeführt, als er
-solche völlig überzogenen ethischen Grundsätze einer
-[ausführlichen
+Eberhardt, der Direktor der Lippischen Landesbibliothek, in
+unnachahmlich scharfsinniger Weise vorgeführt, als er solche
+völlig überzogenen ethischen Grundsätze einer [ausführlichen
 Kritik](https://www.o-bib.de/article/view/5533/7763)
 unterwarf. Würde man nämlich, so sagt er, rechte
 bwz. rechtsradikale Werke bereitsstellen, weil man meint, das
@@ -308,7 +308,7 @@ sonderzubehandeln.
 Nur so verhindern wir, daß eine unziemliche Anzahl von Leserinnen
 neugierig auf diese Bücher und durch deren Lektüre womöglich
 geistig schwach wird und sich in der Folge dann den Rechten
-hingibt. Denn merke — und wir sollten hier Joachim Eberhards
+hingibt. Denn merke — und wir sollten hier Joachim Eberhardts
 Beispiel strikt folgen, der in seiner Artikelüberschrift
 Überlegungen zu »Rechter Literatur in Bibliotheken?« ankündigte,
 dann aber selbstverständlich immer von »rechtsextremen Werken«
