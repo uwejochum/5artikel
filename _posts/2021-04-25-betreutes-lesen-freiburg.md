@@ -282,7 +282,7 @@ völlig überzogenen ethischen Grundsätze einer [ausführlichen
 Kritik](https://www.o-bib.de/article/view/5533/7763)
 unterwarf. Würde man nämlich, so sagt er, rechte
 bzw. rechtsradikale Werke bereitsstellen, weil man meint, das
-gebiete das Recht auf freie Meinungsbildung und die
+gebiete das Recht (!) auf freie Meinungsbildung und die
 Zensurfreiheit, dann würde man ja Werke bereitstellen, die voller
 »fragwürdiger, verzerrender und falscher Aussagen« wären; das
 könne man nur dann mit guten Gründen tun, wenn solche Werke
