@@ -582,6 +582,9 @@ header-img: "img/totenbuch-bg.jpg"
 -   Wissenschaft als Meinungsmassage. In: Die Achse des Guten,
     [27.3.2021](https://www.achgut.com/artikel/wissenschaft_als_meinungsmassage).
 
+-   Coronaexperten-Ranking: Wo bleibt Lauterbach? In: Die Achse
+    des Guten [17.4.2021](coronaexperten_ranking_wo_bleibt_lauterbach)
+
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="org2293247"></a>
