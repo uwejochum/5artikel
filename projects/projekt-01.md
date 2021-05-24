@@ -583,7 +583,11 @@ header-img: "img/totenbuch-bg.jpg"
     [27.3.2021](https://www.achgut.com/artikel/wissenschaft_als_meinungsmassage).
 
 -   Coronaexperten-Ranking: Wo bleibt Lauterbach? In: Die Achse
-    des Guten [17.4.2021](coronaexperten_ranking_wo_bleibt_lauterbach)
+    des Guten
+    [17.4.2021](coronaexperten_ranking_wo_bleibt_lauterbach)
+	
+-   Professorin für Auto, Motor und Corona. In: Die Achse des
+    Guten [18.5.2021](https://www.achgut.com/artikel/professorin_brinkmann_vom_autoservice)
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
