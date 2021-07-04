@@ -136,8 +136,8 @@ und zwar unter Absehung des Sexus, also des biologischen
 Geschlechts. Das Phänomen ist wohlbekannt und betrifft die
 Klassifikation von Personengruppen unter dem die Klasse bildenden
 Aspekt: »seine Eminenz der Botschafter von X« gehört in die
-Klasse »Eminenzen«, die grammatisch ein Feminimum ist, ohne daß
-das implizieren würde, daß alle Botschafter Frauen sind; das gilt
+Klasse »Eminenz«, die grammatisch ein Feminimum ist, ohne daß das
+implizieren würde, daß alle Botschafter Frauen sind; das gilt
 auch für »Seine Heiligkeit Metropolit Y«, der in die Klasse
 »Heiligkeit« gehört, auch wenn alle orthodoxen Metropoliten
 Männer sind. Sprachlich bilden diese generischen Feminina im
