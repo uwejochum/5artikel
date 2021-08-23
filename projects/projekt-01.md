@@ -167,7 +167,7 @@ header-img: "img/totenbuch-bg.jpg"
 
 -   Ontotheologie? Hegel gegen Derrida - oder Repristination des
     Logos. In: Perspektiven der Philosophie. Neues Jahrbuch 20 (1994),
-    S. 110-128.
+    S. 110-128. [pdf](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-1b72jekrw3kn16)
 -   Die vergebliche Suche nach dem Allgemeinen. 100 Jahre Höherer
     Dienst. In: Arbeitsfeld Bibliothek. Hrsg. von Hartwig
     Lohse. Frankfurt am Main: Klostermann, 1994, S. 39-50.
@@ -589,6 +589,9 @@ header-img: "img/totenbuch-bg.jpg"
 -   Professorin für Auto, Motor und Corona. In: Die Achse des
     Guten [18.5.2021](https://www.achgut.com/artikel/professorin_brinkmann_vom_autoservice)
 
+-   Forschung: Helmholtz und die Politik. In: Die Achse des Guten
+    [10.8.2021](https://www.achgut.com/artikel/forschung_helmholz_und_die_politik)
+	
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="org2293247"></a>
