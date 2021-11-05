@@ -192,7 +192,7 @@ header-img: "img/totenbuch-bg.jpg"
 -   Library Utopias. In: Library History 11 (1995), S. 16-30.
 -   Die Sinne der Bibliotheken. In: Informationsspezialisten zwischen
     Technik und gesellschaftlicher Verwantwortung. Stuttgart: Hochschule
-    für Bibliotheks- und Informationswesen, 1995, S. 69-76.
+    für Bibliotheks- und Informationswesen, 1995, S. 69-76. [pdf](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-d3l1e60rya8y1)
 
 
 <a id="org87b8425"></a>
@@ -237,9 +237,9 @@ header-img: "img/totenbuch-bg.jpg"
     Gnosis im Internet. In: Am Ende - das Buch. Hrsg. Uwe Jochum /
     Gerhard Wagner. Konstanz: UVK, 1998, S. 139-159
 -   Eine Theorie der Verweisung. In: Bibliothek 22 (1998),
-    S. 235-243. [pdf](http://www.bibliothek-saur.de/1998_2/235-243.pdf)
+    S. 235-243. [pdf](https://dx.doi.org/10.1515/bfup.1998.22.2.235)
 -   Die Situation des höheren Dienstes. In: Bibliotheksdienst 32 (1998),
-    S. 241-247. [pdf]
+    S. 241-247. 
 -   Die das falsche Steckenpferd reiten. In: Bibliotheksdienst 32
     (1998), S. 857-865. [pdf](http://bibliotheksdienst.zlb.de/1998/1998_05_Beruf01.pdf)
 
@@ -487,11 +487,13 @@ header-img: "img/totenbuch-bg.jpg"
 -   Archiv. Begriffsexplikation. Mittelalter. In: Handbuch Medien
     der Literatur. Hrsg. von Natalie Binczek, Till Dembeck
     u. Jörgen Schäfer. Berlin, Boston: de Gruyter, 2013, S. 536,
-    540–543.
+    540–543. [pdf](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-1wbsgq94qoxo02)
 
--   Bibliothek. Begriffsexplikation. Antike/Mittelalter. In: Handbuch Medien
-    der Literatur. Hrsg. von Natalie Binczek, Till Dembeck
-    u. Jörgen Schäfer. Berlin, Boston: de Gruyter, 2013, S. 555–560.
+-   Bibliothek. Begriffsexplikation. Antike/Mittelalter. In:
+    Handbuch Medien der Literatur. Hrsg. von Natalie Binczek,
+    Till Dembeck u. Jörgen Schäfer. Berlin, Boston: de Gruyter,
+    2013,
+    S. 555–560. [pdf](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-d303aodd5xlv8)
 
 
 <a id="org845ee0c"></a>
@@ -591,6 +593,14 @@ header-img: "img/totenbuch-bg.jpg"
 
 -   Forschung: Helmholtz und die Politik. In: Die Achse des Guten
     [10.8.2021](https://www.achgut.com/artikel/forschung_helmholz_und_die_politik)
+	
+-   Folgende Wahrheiten erachten wir als selbstverständlich. In:
+    Die Achse des Guten
+    [23.8.2021](https://www.achgut.com/artikel/folgende_wahrheiten_erachten_wir_als_selbstverstaendlich)
+
+-   Impfen: Papst verstrickt sich tief in innere
+	Widersprüche. In: Die Achse des Guten
+	[20.10.2021](https://www.achgut.com/artikel/impfen_papst_verstrickt_sich_tief_in_innere_widersprueche)
 	
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
