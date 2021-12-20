@@ -125,8 +125,10 @@ header-img: "img/totenbuch-bg.jpg"
 	
 ## 2021
 
--   In der Mitte der Zeit. Die neue Chronologie des Lebens
+-   [In der Mitte der Zeit](https://www.olms.de/search/Detail.aspx?pr=2010013). Die neue Chronologie des Lebens
     Jesu. Hildesheim: Olms, 2021.
+
+-   [Lesezeug](https://www.winter-verlag.de/de/detail/978-3-8253-4900-4/Jochum_Lesezeug/). Das Buch zum Buch. Heidelberg: Winter, 2021.
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
@@ -560,47 +562,59 @@ header-img: "img/totenbuch-bg.jpg"
 
 ## 2020
 
--   Ein Mann für alle Fälle. In: Die Achse des Guten, [18.9.2020](https://www.achgut.com/artikel/ein_mann_fuer_alle_faelle).
+-   Ein Mann für alle Fälle. In: Achgut.com, [18.9.2020](https://www.achgut.com/artikel/ein_mann_fuer_alle_faelle).
 
--   Die Zahlen des Dr. Drosten. In: Die Achse des Guten, [15.10.2020](https://www.achgut.com/artikel/die_zahlen_des_dr._drosten).
+-   Die Zahlen des Dr. Drosten. In: Achgut.com, [15.10.2020](https://www.achgut.com/artikel/die_zahlen_des_dr._drosten).
 
 -   Wäre die Lage so gefährlich, wie sie geschildert wird ... In:
     Achse des Guten, [27.10.2020](https://www.achgut.com/artikel/waere_die_lage_so_gefaehrlich_wie_sie_geschildert_wird).
 
--   Der Gott hinter der Maske. In: Die Achse des Guten, [23.11.2020](https://www.achgut.com/artikel/der_gott_hinter_der_maske).
+-   Der Gott hinter der Maske. In: Achgut.com, [23.11.2020](https://www.achgut.com/artikel/der_gott_hinter_der_maske).
 
 ## 2021
 
--   Corona kompakt. In: Die Achse des Guten,
+-   Corona kompakt. In: Achgut.com,
     [16.1.2021](https://www.achgut.com/artikel/corona_kompakt).
 
 -   Bericht aus der Grabkammer der deutschen
-    Staats-Wissenschaft. In: Die Achse des Guten,
+    Staats-Wissenschaft. In: Achgut.com,
     [24.2.2021](https://www.achgut.com/artikel/bericht_aus_der_grabkammer_der_deutschen_staatswissenschaft).
 	
--   Der Hofrechner. In: Die Achse des Guten,
+-   Der Hofrechner. In: Achgut.com,
     [13.3.2021](https://www.achgut.com/artikel/rolf_apweiler_der_hofrechner_).
 	
--   Wissenschaft als Meinungsmassage. In: Die Achse des Guten,
+-   Wissenschaft als Meinungsmassage. In: Achgut.com,
     [27.3.2021](https://www.achgut.com/artikel/wissenschaft_als_meinungsmassage).
 
--   Coronaexperten-Ranking: Wo bleibt Lauterbach? In: Die Achse
-    des Guten
+-   Coronaexperten-Ranking: Wo bleibt Lauterbach? In: Achgut.com,
     [17.4.2021](coronaexperten_ranking_wo_bleibt_lauterbach)
 	
--   Professorin für Auto, Motor und Corona. In: Die Achse des
-    Guten [18.5.2021](https://www.achgut.com/artikel/professorin_brinkmann_vom_autoservice)
+-   Professorin für Auto, Motor und Corona. In: Achgut.com, [18.5.2021](https://www.achgut.com/artikel/professorin_brinkmann_vom_autoservice)
 
--   Forschung: Helmholtz und die Politik. In: Die Achse des Guten
+-   Forschung: Helmholtz und die Politik. In: Achgut.com,
     [10.8.2021](https://www.achgut.com/artikel/forschung_helmholz_und_die_politik)
 	
 -   Folgende Wahrheiten erachten wir als selbstverständlich. In:
-    Die Achse des Guten
+    Achgut.com,
     [23.8.2021](https://www.achgut.com/artikel/folgende_wahrheiten_erachten_wir_als_selbstverstaendlich)
 
 -   Impfen: Papst verstrickt sich tief in innere
-	Widersprüche. In: Die Achse des Guten
+	Widersprüche. In: Achgut.com,
 	[20.10.2021](https://www.achgut.com/artikel/impfen_papst_verstrickt_sich_tief_in_innere_widersprueche)
+	
+-   »Woke« Bibliotheken: Vom totalitären Virus infiziert. In:
+    Achgut.com,
+    [2.11.2021](https://www.achgut.com/artikel/woke_bibliotheken_Vom_totalitaeren_Virus_infiziert)
+	
+-   »Geimpft, genesen oder gestorben«: Spahns zynische
+    Angsttriebe. In: Achgut.com,
+    [22.11.2021](https://www.achgut.com/artikel/geimpft_genesen_oder_gestorben_spahns_zynische_angsttriebe)
+	
+-   Die Lockdown-Drehbücher: Natürliches Abklingen als Erfolg
+    staatlicher Maßnahmen? In: Achgut.com,
+    [29.11.2021](https://www.achgut.com/artikel/die_lockdown_drehbuecher_natuerliches_abklingen_als_erfolg_staatlicher_massnahmen)
+	
+-   Die Solidaritäts-Fibel von Alena Buyx. In: Achgut.com, [16.12.2021](https://www.achgut.com/artikel/Die_Solidaritaet_Fibel_von_Alena_Buyx)
 	
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
