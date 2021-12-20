@@ -129,7 +129,9 @@ header-img: "img/totenbuch-bg.jpg"
     Jesu. Hildesheim: Olms, 2021.
 
 -   [Lesezeug](https://www.winter-verlag.de/de/detail/978-3-8253-4900-4/Jochum_Lesezeug/). Das Buch zum Buch. Heidelberg: Winter, 2021.
-
+	Hier die erste
+	[Rezension](http://www.informationsmittel-fuer-bibliotheken.de/showfile.php?id=11221).
+	
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="org5bca59d"></a>
@@ -271,7 +273,7 @@ header-img: "img/totenbuch-bg.jpg"
 -   Bildungsgrenzen. Die Ausbildung des Höheren Bibliotheksdienstes in
     Deutschland. In: Verein Deutscher Bibliothekare 1900-2000. Hrsg. von
     Engelbert Plassmann u. Ludger Syré. Wiesbaden: Harrassowitz, 2000,
-    S. 231-253.
+    S. 231-253. [PDF](https://kops.uni-konstanz.de/handle/123456789/55931)
 -   Literatur und germanistische Literaturwissenschaft. Max
     Kommerell, Ernst Jünger, Eckhard Hetfrich. In: Vittorio
     Klostermann Frankfurt am Main. 1930-2000. Hrsg. von Vittorio
