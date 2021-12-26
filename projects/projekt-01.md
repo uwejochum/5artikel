@@ -158,7 +158,7 @@ header-img: "img/totenbuch-bg.jpg"
 ## 1993
 
 -   Die Entmaterialisierung der Bibliotheken. In: MB NRW 43 (1993),
-    H. 3, S. 236-244. [pdf](https://dl.dropbox.com/u/1842776/jochum-entmaterialisierung-bibliotheken.pdf)
+    H. 3, S. 236-244. [PDF](https://dl.dropbox.com/u/1842776/jochum-entmaterialisierung-bibliotheken.pdf)
 -   Das Berufsbild des Höheren Dienstes. In: Bibliotheksdienst 27
     (1993), S. 328-334.
 -   Der Deutsche Gesamtkatalog. In: Bibliotheksdienst 27 (1993),
@@ -171,7 +171,7 @@ header-img: "img/totenbuch-bg.jpg"
 
 -   Ontotheologie? Hegel gegen Derrida - oder Repristination des
     Logos. In: Perspektiven der Philosophie. Neues Jahrbuch 20 (1994),
-    S. 110-128. [pdf](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-1b72jekrw3kn16)
+    S. 110-128. [PDF](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-1b72jekrw3kn16)
 -   Die vergebliche Suche nach dem Allgemeinen. 100 Jahre Höherer
     Dienst. In: Arbeitsfeld Bibliothek. Hrsg. von Hartwig
     Lohse. Frankfurt am Main: Klostermann, 1994, S. 39-50.
@@ -196,7 +196,7 @@ header-img: "img/totenbuch-bg.jpg"
 -   Library Utopias. In: Library History 11 (1995), S. 16-30.
 -   Die Sinne der Bibliotheken. In: Informationsspezialisten zwischen
     Technik und gesellschaftlicher Verwantwortung. Stuttgart: Hochschule
-    für Bibliotheks- und Informationswesen, 1995, S. 69-76. [pdf](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-d3l1e60rya8y1)
+    für Bibliotheks- und Informationswesen, 1995, S. 69-76. [PDF](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-d3l1e60rya8y1)
 
 
 <a id="org87b8425"></a>
@@ -206,7 +206,7 @@ header-img: "img/totenbuch-bg.jpg"
 -   Textgestalt und Buchgestalt. Überlegungen zu einer
     Literaturgeschichte des gedruckten Buches. In: Zeitschrift für
     Literaturwissenschaft und Linguistik 26 (1996), Heft 103,
-    S. 20-34. [pdf](http://www.ub.uni-konstanz.de/kops/volltexte/2004/1276/)
+    S. 20-34. [PDF](http://www.ub.uni-konstanz.de/kops/volltexte/2004/1276/)
 -   zus. mit Gerhard Wagner Cyberscience. In: Zeitschrift für
     Bibliothekswesen und Bibliographie 43 (1996), S. 579-593.
 -   Das Opfer der Schrift. Zur beruflichen Identität der Bibliothekare
@@ -241,11 +241,11 @@ header-img: "img/totenbuch-bg.jpg"
     Gnosis im Internet. In: Am Ende - das Buch. Hrsg. Uwe Jochum /
     Gerhard Wagner. Konstanz: UVK, 1998, S. 139-159
 -   Eine Theorie der Verweisung. In: Bibliothek 22 (1998),
-    S. 235-243. [pdf](https://dx.doi.org/10.1515/bfup.1998.22.2.235)
+    S. 235-243. [PDF](https://dx.doi.org/10.1515/bfup.1998.22.2.235)
 -   Die Situation des höheren Dienstes. In: Bibliotheksdienst 32 (1998),
     S. 241-247. 
 -   Die das falsche Steckenpferd reiten. In: Bibliotheksdienst 32
-    (1998), S. 857-865. [pdf](http://bibliotheksdienst.zlb.de/1998/1998_05_Beruf01.pdf)
+    (1998), S. 857-865. [PDF](http://bibliotheksdienst.zlb.de/1998/1998_05_Beruf01.pdf)
 
 
 <a id="org31f6346"></a>
@@ -253,7 +253,7 @@ header-img: "img/totenbuch-bg.jpg"
 ## 1999
 
 -   The Alexandrian Library and its aftermath. In: Library History 15
-    (1999), S. 5-12. [pdf](http://www.ub.uni-konstanz.de/fileadmin/Dateien/Fachreferenten/Jochum/alexandria-aftermath.pdf)
+    (1999), S. 5-12. [PDF](http://www.ub.uni-konstanz.de/fileadmin/Dateien/Fachreferenten/Jochum/alexandria-aftermath.pdf)
 -   Woran sich Bibliothekare erkennen. Versuch einer kleinen Zoologie
     zum Zwecke der Identifikation. In: vba - die ersten fünfzig
     Jahre. Hrsg. Konrad Umlauf. Bad Honnef: Bock + Herchen, 1999,
@@ -291,7 +291,7 @@ header-img: "img/totenbuch-bg.jpg"
 
 -   Das Ende der Geschichte im Internet. In: Geschichte und
     Internet. Raumlose Orte, geschichtslose Zeit. Hrsg. von Peter
-    Haber. Zürich: Chronos, 2002, S. 11-21. [pdf](http://www.ub.uni-konstanz.de/kops/volltexte/2004/1188/)
+    Haber. Zürich: Chronos, 2002, S. 11-21. [PDF](http://www.ub.uni-konstanz.de/kops/volltexte/2004/1188/)
 -   Information oder Wissen und Gedächtnis. In: Wolfenbütteler Notizen
     zur Buchgeschichte 27 (2002), S. 145-157.
 
@@ -304,7 +304,7 @@ header-img: "img/totenbuch-bg.jpg"
     Sekretäre. Hrsg. von Bernhard Siegert u. Joseph Vogl. Zürich [u.a.]:
     diaphanes, 2003, S. 111-123.
 -   Informationskompetenz, Bibliothekspädagogik und Fachreferate. In:
-    Bibliotheksdienst 37 (2003), S. 1450-1462. [pdf](http://bibliotheksdienst.zlb.de/2003/03_11_07.pdf)
+    Bibliotheksdienst 37 (2003), S. 1450-1462. [PDF](http://bibliotheksdienst.zlb.de/2003/03_11_07.pdf)
 
 
 <a id="orgda7b54d"></a>
@@ -312,8 +312,8 @@ header-img: "img/totenbuch-bg.jpg"
 ## 2004
 
 -   The Gnosis of Media. In: Library Quarterly 74 (2004),
-    S. 21-41. [Verlags-pdf](http://www.journals.uchicago.edu/doi/abs/10.1086/380852),
-	[Preprint-pdf](/5artikel/pdf/jochum-gnosis-media-preprint-lq-2004.pdf)
+    S. 21-41. [Verlags-PDF](http://www.journals.uchicago.edu/doi/abs/10.1086/380852),
+	[Preprint-PDF](/5artikel/pdf/jochum-gnosis-media-preprint-lq-2004.pdf)
 -   Das Archiv der Bibliothek. In: Bürokratische Leidenschaften. Kultur-
     und Mediengeschichte im Archiv. Sven Spieker (Hrsg.). Berlin:
     Kadmos, 2004, S. 45-59.
@@ -361,16 +361,16 @@ header-img: "img/totenbuch-bg.jpg"
     in der [Berliner Literaturkritik](http://www.berlinerliteraturkritik.de/index.cfm?id=15468) und die nette Reaktion in der
     [taberne critica](http://www.abendschein.ch/site/weblog/totalitaeten_stoerungen_rauschen/#When:06:04:00Z))
 -   Libysches Gras. Die Landschaft des Archivs und die Oberfläche des
-    Internet. In: info 7 22 (2007), H. 1, S. 20-23. [pdf](http://www.ub.uni-konstanz.de/kops/volltexte/2007/2789/pdf/Jochum_Libysches_Gras.pdf)
+    Internet. In: info 7 22 (2007), H. 1, S. 20-23. [PDF](http://www.ub.uni-konstanz.de/kops/volltexte/2007/2789/pdf/Jochum_Libysches_Gras.pdf)
 
 
 <a id="org0fd1e76"></a>
 
 ## 2008
 
--   Wissenschaftsranking. In: Merkur 62 (2008), S. 346-249. [pdf](http://www.ub.uni-konstanz.de/kops/volltexte/2008/5749)
+-   Wissenschaftsranking. In: Merkur 62 (2008), S. 346-249. [PDF](http://www.ub.uni-konstanz.de/kops/volltexte/2008/5749)
 -   Das Mediendesaster. In: BuB. Forum Bibliothek und Information 60
-    (2008), S. 216-219. [pdf](http://www.b-u-b.de/cgi-local/byteserver.pl/pdfarchiv/Heft-BuB_03_2008.pdf#page=1&view=fit&toolbar=0&pagemode=bookmarks)
+    (2008), S. 216-219. [PDF](http://www.b-u-b.de/cgi-local/byteserver.pl/pdfarchiv/Heft-BuB_03_2008.pdf#page=1&view=fit&toolbar=0&pagemode=bookmarks)
 -   Erfolgreiches Scheitern. Alte und neue Bibliotheken in den 1970er
     und 1980er Jahren. In: Auf dem Wege in die
     Informationsgesellschaft. Bibliotheken in den 70er und 80er Jahren
@@ -491,13 +491,13 @@ header-img: "img/totenbuch-bg.jpg"
 -   Archiv. Begriffsexplikation. Mittelalter. In: Handbuch Medien
     der Literatur. Hrsg. von Natalie Binczek, Till Dembeck
     u. Jörgen Schäfer. Berlin, Boston: de Gruyter, 2013, S. 536,
-    540–543. [pdf](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-1wbsgq94qoxo02)
+    540–543. [PDF](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-1wbsgq94qoxo02)
 
 -   Bibliothek. Begriffsexplikation. Antike/Mittelalter. In:
     Handbuch Medien der Literatur. Hrsg. von Natalie Binczek,
     Till Dembeck u. Jörgen Schäfer. Berlin, Boston: de Gruyter,
     2013,
-    S. 555–560. [pdf](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-d303aodd5xlv8)
+    S. 555–560. [PDF](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-d303aodd5xlv8)
 
 
 <a id="org845ee0c"></a>
@@ -555,7 +555,7 @@ header-img: "img/totenbuch-bg.jpg"
     (2018)](http://informationsmittel-fuer-bibliotheken.de/showfile.php?id=8763)
 
 -   »Open Access« und die Zukunft freier Wissenschaft. In:
-    Erziehungswissenschaft 29 (2018), S. 19–28. [pdf](https://www.dgfe.de/fileadmin/OrdnerRedakteure/Zeitschrift_Erziehungswissenschaft/EW_57.pdf)
+    Erziehungswissenschaft 29 (2018), S. 19–28. [PDF](https://www.dgfe.de/fileadmin/OrdnerRedakteure/Zeitschrift_Erziehungswissenschaft/EW_57.pdf)
 
 ## 2019
 
