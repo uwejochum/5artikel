@@ -28,7 +28,7 @@ in verschiedene Richtungen aufspaltete: Calvin in Genf kam dazu
 und mit ihm der Versuch zur Errichtung einer antipäpstlichen
 Theokratie auf europäischem Boden, radikale Täufer wie Thomas
 Müntzer verlängerten die theologischen Spekulationen direkt ins
-Politisch und versuchten, wie in Münster, die Macht zu
+Politische und versuchten, wie in Münster, die Macht zu
 übernehmen. Am Ende standen und stehen sich bis heute in Europa
 zwei große Konfessionsblöcke gegenüber, von denen der reformierte
 sich in zahllose Unterblöcke gliedert, deren Verhältnis
