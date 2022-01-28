@@ -141,7 +141,7 @@ header-img: "img/totenbuch-bg.jpg"
 ## 1991
 
 -   Bibliothek, Buch und Information. In: Bibliothek. Forschung und
-    Praxis 15 (1991), S. 390-392.
+    Praxis 15 (1991), S. 390-392. https://doi.org/10.1515/bfup.1991.15.3.390
 
 
 <a id="org456ca30"></a>
@@ -176,11 +176,11 @@ header-img: "img/totenbuch-bg.jpg"
     Dienst. In: Arbeitsfeld Bibliothek. Hrsg. von Hartwig
     Lohse. Frankfurt am Main: Klostermann, 1994, S. 39-50.
 -   Hermeneutik, Dekonstruktion und Information. In: Bibliothek 18
-    (1994), H. 1, S. 104-110.
+    (1994), H. 1, S. 104-110. https://doi.org/10.1515/bfup.1994.18.1.104
 -   Bibliotheksutopien. In: MB NRW 44 (1994), H. 3, S. 279-292. (=
     Library Utopias. In: Library History 11 (1995), S. 16-30.)
 -   Zur neopositivistischen Bibliothekstheorie. In: Bibliothek 18
-    (1994), S. 388-394.
+    (1994), S. 388-394. https://dx.doi.org/10.1515/bfup.1994.18.3.388
 -   Der Anfang war Ninive. In: Damals 26 (1994), H. 12.
 -   Die Zukunft der Bibliotheken. In: Uni-Info H. 226 (1994).
 
