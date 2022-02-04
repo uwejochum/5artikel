@@ -253,7 +253,7 @@ header-img: "img/totenbuch-bg.jpg"
 ## 1999
 
 -   The Alexandrian Library and its aftermath. In: Library History 15
-    (1999), S. 5-12. [PDF](http://www.ub.uni-konstanz.de/fileadmin/Dateien/Fachreferenten/Jochum/alexandria-aftermath.pdf)
+    (1999), S. 5-12. https://dx.doi.org/10.1179/lib.1999.15.1.5
 -   Woran sich Bibliothekare erkennen. Versuch einer kleinen Zoologie
     zum Zwecke der Identifikation. In: vba - die ersten fünfzig
     Jahre. Hrsg. Konrad Umlauf. Bad Honnef: Bock + Herchen, 1999,
