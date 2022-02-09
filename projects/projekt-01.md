@@ -211,7 +211,7 @@ header-img: "img/totenbuch-bg.jpg"
     Bibliothekswesen und Bibliographie 43 (1996), S. 579-593.
 -   Das Opfer der Schrift. Zur beruflichen Identität der Bibliothekare
     im 19. Jahrhundert. In: Wolfenbütteler Notizen zur Buchgeschichte 21
-    (1996), S. 166-184.
+    (1996), S. 166-184. [PDF](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-55byaki50ea62)
 -   Die Aufgabe des Höheren Dienstes. In: Der Ort der Bücher. Hrsg. Uwe
     Jochum. Konstanz: UVK, 1996, S. 69-79.
 -   Anschluß. In: Buch und Bibliothek 48 (1996), S. 245.
@@ -293,7 +293,8 @@ header-img: "img/totenbuch-bg.jpg"
     Internet. Raumlose Orte, geschichtslose Zeit. Hrsg. von Peter
     Haber. Zürich: Chronos, 2002, S. 11-21. [PDF](http://www.ub.uni-konstanz.de/kops/volltexte/2004/1188/)
 -   Information oder Wissen und Gedächtnis. In: Wolfenbütteler Notizen
-    zur Buchgeschichte 27 (2002), S. 145-157.
+    zur Buchgeschichte 27 (2002),
+    S. 145-157. [PDF](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-1pe6q1hdytwid3)
 
 
 <a id="org6117bb2"></a>
