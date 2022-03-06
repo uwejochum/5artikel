@@ -10,7 +10,7 @@ header-img: "img/art-5-gg.png"
 Dr. Uwe Jochum  
 Gartenstraße 74  
 78462 Konstanz  
-5artikel at vodafonemail.de  
+5artikel at posteo.de  
 
 Dies ist die persönliche Website von Uwe Jochum. (Und daher gilt
 hier nur die »eingeschränkte Impressumspflicht«.)

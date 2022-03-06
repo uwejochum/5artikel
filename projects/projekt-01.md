@@ -618,7 +618,12 @@ header-img: "img/totenbuch-bg.jpg"
     [29.11.2021](https://www.achgut.com/artikel/die_lockdown_drehbuecher_natuerliches_abklingen_als_erfolg_staatlicher_massnahmen)
 	
 -   Die Solidaritäts-Fibel von Alena Buyx. In: Achgut.com, [16.12.2021](https://www.achgut.com/artikel/Die_Solidaritaet_Fibel_von_Alena_Buyx)
-	
+
+## 2022
+
+-   Von Schauspielern, Politikern und Lauterbach. In: Achgut.com,
+	[01.03.2022](https://www.achgut.com/artikel/von_schauspielern_politikern_und_lauterbach
+)
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="org2293247"></a>
