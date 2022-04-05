@@ -152,6 +152,8 @@ header-img: "img/totenbuch-bg.jpg"
     Landesspeicher. Hrsg. von Uwe Jochum. Konstanz: Univ., 1992,
     S. 23-30.
 
+-   Die Bibliothek von Babel. In: Bibliothek aktuell 61 (1992),
+    S. 17-19. [PDF](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-1dwjqipzrrtie7)
 
 <a id="org946bf1e"></a>
 
@@ -292,6 +294,9 @@ header-img: "img/totenbuch-bg.jpg"
 -   Das Ende der Geschichte im Internet. In: Geschichte und
     Internet. Raumlose Orte, geschichtslose Zeit. Hrsg. von Peter
     Haber. Zürich: Chronos, 2002, S. 11-21. [PDF](http://www.ub.uni-konstanz.de/kops/volltexte/2004/1188/)
+-   Das Internet apokalyptisch denken. In: Geschichte und
+    Internet. Raumlose Orte, geschichtslose Zeit. Hrsg. von Peter
+    Haber. Zürich: Chronos, 2002, S. 154-156. [PDF](https://kops.uni-konstanz.de/handle/123456789/56982)
 -   Information oder Wissen und Gedächtnis. In: Wolfenbütteler Notizen
     zur Buchgeschichte 27 (2002),
     S. 145-157. [PDF](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-1pe6q1hdytwid3)
@@ -342,7 +347,7 @@ header-img: "img/totenbuch-bg.jpg"
     (Szenografie in Ausstellungen und Museen II). Essen: Klartext, 2006,
     S. 74-79.
 -   Endzeit. In: Libreas 02/2006. Sie finden den Beitrag im Internetz
-    [hier](http://www.ib.hu-berlin.de/~libreas/libreas_neu/ausgabe5/001joc.htm).
+    [hier](https://libreas.eu/ausgabe5/001joc.htm).
 -   Digitale Forschungsinfrastruktur. In: Forschung und Lehre 13
     (2006), H. 3, S. 128-129. (Online erreichbar über die
     [Homepage des Goethe-Instituts](http://www.goethe.de/wis/bib/thm/vbb/de1343133.htm)).

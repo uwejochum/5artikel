@@ -51,7 +51,7 @@ Wer in unseren digitalen Spaßzeiten auch nur ein bißchen
 historisches Bewußtsein bewahrt hat, der kann sich leicht
 ausmalen, daß ein politisches System, das die gesellschaftlichen
 Teilbereiche unifiziert, indem es alle ständischen,
-korporatististischen und familiären Zwischenzonen beseitigt,
+korporatistischen und familiären Zwischenzonen beseitigt,
 zuletzt in einen monströsen Leviathan umschlägt, der unter der
 Parole »Sicherheit und Schutz« den Bürgern diktiert, was Sache
 ist. Das gilt zumal für die Informationssache, die vom Staat
