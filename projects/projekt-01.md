@@ -627,8 +627,15 @@ header-img: "img/totenbuch-bg.jpg"
 ## 2022
 
 -   Von Schauspielern, Politikern und Lauterbach. In: Achgut.com,
-	[01.03.2022](https://www.achgut.com/artikel/von_schauspielern_politikern_und_lauterbach
-)
+	[01.03.2022](https://www.achgut.com/artikel/von_schauspielern_politikern_und_lauterbach)
+
+-   Kriege: Gewinner ist oft der lachende Dritte. In: Achgut.com,
+    [11.04.2022](https://www.achgut.com/artikel/kriege_gewinner_ist_oft_der_lachende_dritte)
+	
+-   Je mehr Digitalisierung, desto mehr Überwachung. In:
+    Achgut.com, [28.04.2022](https://www.achgut.com/artikel/je_mehr_digitalisierung_desto_mehr_ueberwachung)
+
+
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="org2293247"></a>
