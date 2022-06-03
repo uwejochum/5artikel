@@ -126,12 +126,18 @@ header-img: "img/totenbuch-bg.jpg"
 ## 2021
 
 -   [In der Mitte der Zeit](https://www.olms.de/search/Detail.aspx?pr=2010013). Die neue Chronologie des Lebens
-    Jesu. Hildesheim: Olms, 2021.
+    Jesu. Hildesheim: Olms, 2021. Siehe die Rezension in der
+    *Theologischen Revue* 117 (2021), Nr. 3, Sp. 186–188.
 
 -   [Lesezeug](https://www.winter-verlag.de/de/detail/978-3-8253-4900-4/Jochum_Lesezeug/). Das Buch zum Buch. Heidelberg: Winter, 2021.
 	Hier die erste
 	[Rezension](http://www.informationsmittel-fuer-bibliotheken.de/showfile.php?id=11221).
 	
+## 2022
+
+-   [Der Kongreß](https://www.buchhandel.de/buch/Der-Kongress-9783754660133). Ein
+    Gesellschaftsroman. tolino Media, 2022.
+
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="org5bca59d"></a>
