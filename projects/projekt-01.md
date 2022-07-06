@@ -137,6 +137,9 @@ header-img: "img/totenbuch-bg.jpg"
 
 -   [Der Kongreß](https://www.buchhandel.de/buch/Der-Kongress-9783754660133). Ein
     Gesellschaftsroman. tolino Media, 2022.
+	
+-   erscheint im Herbst 2022: Landnahme. Wien, Leipzig:
+    Karolinger, 2022.
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
@@ -641,6 +644,8 @@ header-img: "img/totenbuch-bg.jpg"
 -   Je mehr Digitalisierung, desto mehr Überwachung. In:
     Achgut.com, [28.04.2022](https://www.achgut.com/artikel/je_mehr_digitalisierung_desto_mehr_ueberwachung)
 
+-   Opfer-Talk mit Alena Buyx und Melanie Brinkmann. In:
+    Achgut.com, [25.06.2022](https://www.achgut.com/artikel/opfer_talk_mit_alena_buyx_und_melanie_brinkmann)
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
