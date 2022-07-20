@@ -136,7 +136,7 @@ Fiktion, ihre lächerlichen Momente in aller Pracht zeigt und wir
 entspannt lachen können, ohne uns in Dublin langweilen oder
 ärgern zu müssen.
 
-Wer’s nicht glaubt, sei am Ende mit einem kleinen Ausschnitt aus
+Wer’s nicht glaubt, dem sei am Ende mit einem kleinen Ausschnitt aus
 dem »Kongreß« gediehnt. Nämlich einem Ausschnitt aus Kapitel X,
 in dem es um die offiziöse Sicht auf die Bedeutung solcher
 Kongresse geht und um das, was sich dahinter finden läßt:
