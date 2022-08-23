@@ -645,7 +645,13 @@ header-img: "img/totenbuch-bg.jpg"
     Achgut.com, [28.04.2022](https://www.achgut.com/artikel/je_mehr_digitalisierung_desto_mehr_ueberwachung)
 
 -   Opfer-Talk mit Alena Buyx und Melanie Brinkmann. In:
-    Achgut.com, [25.06.2022](https://www.achgut.com/artikel/opfer_talk_mit_alena_buyx_und_melanie_brinkmann)
+    Achgut.com,
+    [25.06.2022](https://www.achgut.com/artikel/opfer_talk_mit_alena_buyx_und_melanie_brinkmann)
+
+-   Die Maske für immer. In: Achgut.com,
+    [09.08.2022](https://www.achgut.com/artikel/die_maske_fuer_immer)
+	
+-   Das Kinderopfer. In: Achgut.com, [20.08.2022](https://www.achgut.com/artikel/das_kinderopfer)
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
