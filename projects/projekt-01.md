@@ -138,8 +138,8 @@ header-img: "img/totenbuch-bg.jpg"
 -   [Der Kongreß](https://www.buchhandel.de/buch/Der-Kongress-9783754660133). Ein
     Gesellschaftsroman. tolino Media, 2022.
 	
--   erscheint im Herbst 2022: Landnahme. Wien, Leipzig:
-    Karolinger, 2022.
+-   [Landnahme](https://karolinger.at/product/jochum_landnahme/). Wien,
+    Leipzig: Karolinger, 2022.
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
