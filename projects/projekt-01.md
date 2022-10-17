@@ -131,7 +131,8 @@ header-img: "img/totenbuch-bg.jpg"
 
 -   [Lesezeug](https://www.winter-verlag.de/de/detail/978-3-8253-4900-4/Jochum_Lesezeug/). Das Buch zum Buch. Heidelberg: Winter, 2021.
 	Hier die erste
-	[Rezension](http://www.informationsmittel-fuer-bibliotheken.de/showfile.php?id=11221).
+	[Rezension](http://www.informationsmittel-fuer-bibliotheken.de/showfile.php?id=11221). Und
+	hier die zweite [Rezension](https://literaturkritik.de/public/rezension.php?rez_id=29177).
 	
 ## 2022
 
@@ -651,7 +652,13 @@ header-img: "img/totenbuch-bg.jpg"
 -   Die Maske für immer. In: Achgut.com,
     [09.08.2022](https://www.achgut.com/artikel/die_maske_fuer_immer)
 	
--   Das Kinderopfer. In: Achgut.com, [20.08.2022](https://www.achgut.com/artikel/das_kinderopfer)
+-   Das Kinderopfer. In: Achgut.com,
+    [20.08.2022](https://www.achgut.com/artikel/das_kinderopfer)
+	
+-   Bibliotheken: Digitalisierung ohne Strom. In: Achgut.com,
+    [28.09.2022](https://www.achgut.com/artikel/bibliotheken_digitalisierung_ohne_strom)
+    (Zweitpublikation meines Blogbeitrags
+    [»Energiewendebibliotheken«](https://uwejochum.github.io/5artikel/2022/09/22/energiewende-bibliotheken/).)
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 

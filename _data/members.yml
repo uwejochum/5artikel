@@ -3,6 +3,11 @@
 - name: Uwe Jochum
   role: Wissenschaftlicher Bibliothekar
   img: "img/eyck-hieronymus.png"
-  bio: Uwe Jochum lebt und arbeitet als wissenschaftlicher Bibliothekar in Konstanz. Er schreibt Bücher und Aufsätze zu Themen der Bibliotheks- und Buchgeschichte, die  er im Kontext einer Medientheologie verortet — die Theologie ist eine seiner Leidenschaften —, weil man dann weiter und tiefer sieht als aus der Froschperspektive eines zeitgeistigen Drittmittelprojekts. Interventionen von ihm findet man u.a. in »Lettre« und der »Frankfurter Allgemeinen Zeitung«.
+  bio: Uwe Jochum arbeitete fast vierzig Jahre in Bibliotheken, davon mehr als dreißig Jahre als wissenschaftlicher Bibliothekar in Konstanz. Er schreibt Bücher und Aufsätze zu Themen der Bibliotheks- und Buchgeschichte, die  er im Kontext einer Medientheologie verortet — die Theologie ist eine seiner Leidenschaften —, weil man dann weiter und tiefer sieht als aus der Froschperspektive eines zeitgeistigen Drittmittelprojekts. Interventionen von ihm findet man u.a. in »Lettre«, der »Frankfurter Allgemeinen Zeitung« und auf »Achgut.com«.
   visible: true
 
+- name: Jürgen Schmid
+  role: Historiker
+  img: "img/schmid-bilddatei.png"
+  bio: Jürgen Schmid lebt und arbeitet in München. Er schreibt unter anderem für Alexander Wendts »Publico« — und hält es grundsätzlich mit Thomas Bernhards Erkenntnis, daß es »nichts Absurderes als die Wirklichkeit« gibt. Seine Einordnung als »Historiker« muß wohl so sein in einer Welt, die in Schubladendenken erstarrt ist und den Direktor des Bayerischen Hauptstaatsarchivs (einem außerirdischen Paralleluniversum) seinem zeitweiligen Mitarbeiter gegenüber den Stoßseufzer entlockte, er würde ihn »komplett verwirren«, weil dieser zu verstehen gab, sich neben der Archivarstätigkeit auch noch mit Volkskunde zu beschäftigen. Wer es genau wissen will – Jürgen Schmid studierte Archäologie und Alte Geschichte, arbeitet als Archivar und Museumskurator, erfüllte einen Lehrauftrag in Volkskunde und fährt zeitweilig Rennrad.
+  visible: true
