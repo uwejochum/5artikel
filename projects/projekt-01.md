@@ -125,9 +125,13 @@ header-img: "img/totenbuch-bg.jpg"
 	
 ## 2021
 
--   [In der Mitte der Zeit](https://www.olms.de/search/Detail.aspx?pr=2010013). Die neue Chronologie des Lebens
-    Jesu. Hildesheim: Olms, 2021. Siehe die Rezension in der
-    *Theologischen Revue* 117 (2021), Nr. 3, Sp. 186–188.
+-   [In der Mitte der
+    Zeit](https://www.olms.de/search/Detail.aspx?pr=2010013). Die
+    neue Chronologie des Lebens Jesu. Hildesheim:
+    Olms, 2021. Siehe die positive Rezension in der
+    *Theologischen Revue* 117 (2021), Nr. 3, Sp. 186–188. Oder
+    die AfeT-Rezension vom 22. Oktober 2022
+    [hier](https://rezensionen.afet.de/?p=1679).
 
 -   [Lesezeug](https://www.winter-verlag.de/de/detail/978-3-8253-4900-4/Jochum_Lesezeug/). Das Buch zum Buch. Heidelberg: Winter, 2021.
 	Hier die erste
