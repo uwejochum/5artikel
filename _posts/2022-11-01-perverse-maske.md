@@ -91,10 +91,10 @@ Schlagartig wurde mir klar: Was immer da an attraktivem Körper
 auf mich zukam, es wurde durch die Maske augenblicklich
 nullifiziert. Wo eben noch die Lust aufzusteigen begann, ging es
 jetzt ärgerlich bergab mit dem Interesse, und übrig blieb eine
-Art angewiderter Ablehung: Mit so jemandem wollte ich nichts zu
+Art angewiderter Ablehnung: Mit so jemandem wollte ich nichts zu
 tun haben, auf keinen Fall. Denn, mal ehrlich, was soll ich mit
 dem Leib, wenn ich ihr ›dabei‹ nicht ins Gesicht schauen kann?
-Kein verzückter Mund, keine gänzenden Lippen, kein ungefiltertes
+Kein verzückter Mund, keine glänzenden Lippen, kein ungefiltertes
 Stöhnen oder was sonst normalerweise dazugehört.
 
 Ich weiß schon, was Ihre Leser jetzt sagen werden: Die läßt das
@@ -155,7 +155,7 @@ selbst aufs sterile Aussterben programmiert haben. Kurzum: Seit
 dem Anbruch des Maskenzeitalters kann jedermann und jedefrau
 wissen, wer zum Sexual- und dann auch Lebenspartner taugt und wer
 nicht. Noch nie war es so einfach — ich spreche natürlich als
-Mann – die überzarten Mimosen, die vermeintlichen Prinzessinen
+Mann – die überzarten Mimosen, die vermeintlichen Prinzessen
 und die innerlich verhärmten Betschwestern, die andere brauchen,
 um ausgehalten zu werden, selber aber niemanden aushalten, von
 jenem Teil der Menschheit zu unterscheiden, mit dem ein Leben in
