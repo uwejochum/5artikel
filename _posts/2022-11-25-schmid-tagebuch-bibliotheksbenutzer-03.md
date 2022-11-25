@@ -193,8 +193,8 @@ Universität München« übernommen, mit einer Widmung des Autors:
 »Kiem Pauli in herzlicher Dankbarkeit zugeeignet«. Wie soll man
 einem Studenten des Jahres 2022 erklären, wer Kiem Pauli war?
 (Ein Faktotum der Volksmusikszene, der zusammen mit Kurt Huber
-Liedersammlungen herausgab wie die *»Oberbayrische[n]
-Volkslieder« von 1937.* Huber wiederum war jener LMU-Professor,
+Liedersammlungen herausgab wie die *Oberbayrische[n]
+Volkslieder* von 1930. Huber wiederum war jener LMU-Professor,
 der als Mitglied der »Weiße Rosen« hingerichtet wurde.) --- Wer
 ahnt noch, daß Volkskunde einmal obligatorischer Bestandteil der
 Lehrerausbildung war, die in den 1970er Jahren auf Betreiben des
