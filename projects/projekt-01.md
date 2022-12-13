@@ -664,6 +664,9 @@ header-img: "img/totenbuch-bg.jpg"
     (Zweitpublikation meines Blogbeitrags
     [»Energiewendebibliotheken«](https://uwejochum.github.io/5artikel/2022/09/22/energiewende-bibliotheken/).)
 
+-   Warum Drostens Dogmen am Campingplatz scheitern. In:
+    Achgut.com, [07.12.2022](https://www.achgut.com/artikel/warum_drostens_dogmen_am_campingplatz_scheitern)
+
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="org2293247"></a>
