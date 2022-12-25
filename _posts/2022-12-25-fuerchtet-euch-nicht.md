@@ -164,22 +164,22 @@ eigentlich steht und um die immer wieder angekündigten
 Horrorzahlen von Toten. Aber an dieser Stelle sehen wir auch, was
 in unserem Land und weltweit geschehen ist: Wir sehen, daß die
 einen zu faul waren zum Nachfragen und in blindem Vertrauen die
-offiziellen Antworten der Regierung und der Kartellmedien ohne
-nachzufragen übernommen haben. Und wir sehen, daß die anderen
-nachgefragt und Zahlen überprüft haben, sich mit der Geschichte
-der Viren befaßt haben und wissen wollten, mit welchen Akteuren
-in Politik und Wissenschaft wir es eigentlich zu tun hatten und
-haben. Dadurch haben sich im Grunde zwei Gemeinschaften gebildet:
-Auf der einen Seite die Gemeinschaft derer, die nicht wissen und
-fragen wollten und die daher auf den Weg der Angst geraten sind,
-auf dem es Monat um Monat enger um sie wurde, dunkler,
-maskenhafter bis hin zur Akzeptierung eines Genexperiments,
-dessen Ausgang offen ist; und auf der anderen Seite die
-Gemeinschaft derer, die Fragen stellten, die die Wahrheit wissen
-wollten und ebendeshalb im Licht blieben und, zumeist ohne es zu
-wissen, genau deshalb auch bei Gott blieben, der das Licht ist
-(Erster Johannesbrief, Kap. 1, Vers 5), und genau deshalb auch
-die Freude am Leben nicht verloren haben.
+offiziellen Antworten der Regierung und der Kartellmedien
+übernommen haben. Und wir sehen, daß die anderen nachgefragt und
+Zahlen überprüft haben, sich mit der Geschichte der Viren befaßt
+haben und wissen wollten, mit welchen Akteuren in Politik und
+Wissenschaft wir es eigentlich zu tun hatten und haben. Dadurch
+haben sich im Grunde zwei Gemeinschaften gebildet: Auf der einen
+Seite die Gemeinschaft derer, die nicht wissen und fragen wollten
+und die daher auf den Weg der Angst geraten sind, auf dem es
+Monat um Monat enger um sie wurde, dunkler, maskenhafter bis hin
+zur Akzeptierung eines Genexperiments, dessen Ausgang offen ist;
+und auf der anderen Seite die Gemeinschaft derer, die Fragen
+stellten, die die Wahrheit wissen wollten und ebendeshalb im
+Licht blieben und, zumeist ohne es zu wissen, genau deshalb auch
+bei Gott blieben, der das Licht ist (Erster Johannesbrief,
+Kap. 1, Vers 5), und genau deshalb auch die Freude am Leben nicht
+verloren haben.
 
 Die Wahrheit, so stellen wir fest, ist nichts »da draußen«, was
 man ohne Eigenbeteiligung einfach mitnehmen kann. Man muß etwas
@@ -220,7 +220,7 @@ Am Ende von drei Coronajahren müssen wir feststellen, daß die
 freiesten Menschen in unserem Land nicht die Parteigänger der
 Regierung und nicht die Coronagläubigen sind, die in Drosten,
 Wieler und Lauterbach ihre wechselnden Messiasse gefunden zu
-haben glauben. Die freieste Menschen in unserem Land sind
+haben glauben. Die freiesten Menschen in unserem Land sind
 vielmehr all jene, die man beschimpft, denunziert und verfolgt
 hat und immer noch verfolgt, weil sie – bewußt oder nicht – einem
 Messias die Treue hielten, der die Wahrheit und das Leben ist. 
