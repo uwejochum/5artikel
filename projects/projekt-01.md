@@ -665,7 +665,16 @@ header-img: "img/totenbuch-bg.jpg"
     [»Energiewendebibliotheken«](https://uwejochum.github.io/5artikel/2022/09/22/energiewende-bibliotheken/).)
 
 -   Warum Drostens Dogmen am Campingplatz scheitern. In:
-    Achgut.com, [07.12.2022](https://www.achgut.com/artikel/warum_drostens_dogmen_am_campingplatz_scheitern)
+    Achgut.com,
+    [07.12.2022](https://www.achgut.com/artikel/warum_drostens_dogmen_am_campingplatz_scheitern)
+	
+-   Fürchtet euch nicht! Ein Wort zur Weihnacht. In:
+    stattzeitung.org,
+    [25.12.2022](https://www.stattzeitung.org/artikel-lesen/2022-12-25-froehliche-weihnacht-ihr-lieben.html)
+	
+-   Bücherverbrennnung für die Demokratie. In: Achgut.com,
+    [26.12.2022](https://www.achgut.com/artikel/buecherverbannung_fuer_die_demokratie#leserpost_start)
+	
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 

@@ -240,3 +240,8 @@ dem sie umkehren können. Dieser Weg öffnete sich vor 2000 Jahren
 an Weihnachten, und er öffnete sich mit dem Satz der Engel:
 »Fürchtet Euch nicht!«
 
+---
+Erstveröffentlichung am 25.&nbsp;Dezember 2022 in der
+[stattzeitung.org](https://www.stattzeitung.org/artikel-lesen/2022-12-25-froehliche-weihnacht-ihr-lieben.html). In
+der hier veröffentlichten Version habe ich einen kleinen Lapsus
+verbessert.
