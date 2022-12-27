@@ -672,7 +672,7 @@ header-img: "img/totenbuch-bg.jpg"
     stattzeitung.org,
     [25.12.2022](https://www.stattzeitung.org/artikel-lesen/2022-12-25-froehliche-weihnacht-ihr-lieben.html)
 	
--   Bücherverbrennnung für die Demokratie. In: Achgut.com,
+-   Bücherverbannung für die Demokratie. In: Achgut.com,
     [26.12.2022](https://www.achgut.com/artikel/buecherverbannung_fuer_die_demokratie#leserpost_start)
 	
 
