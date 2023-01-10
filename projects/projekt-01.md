@@ -146,6 +146,10 @@ header-img: "img/totenbuch-bg.jpg"
 -   [Landnahme](https://karolinger.at/product/jochum_landnahme/). Wien,
     Leipzig: Karolinger, 2022.
 
+## 2023
+
+-   Dreieinhalb Jahre. Ein Verwaltungsroman. tolino Media, 2023. 
+
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="org5bca59d"></a>
@@ -675,6 +679,9 @@ header-img: "img/totenbuch-bg.jpg"
 -   Bücherverbannung für die Demokratie. In: Achgut.com,
     [26.12.2022](https://www.achgut.com/artikel/buecherverbannung_fuer_die_demokratie#leserpost_start)
 	
+## 2023
+
+-   Sternsinger ohne Stern. In: Achgut.com, [06.01.2023](https://www.achgut.com/artikel/sternsinger_ohne_stern)
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
