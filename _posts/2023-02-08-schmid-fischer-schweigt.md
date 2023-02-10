@@ -64,7 +64,7 @@ später bei Ihnen. Dank für Ihre Geduld.«
 die letztlich nur ihre eigene Kette bewachen.«</div>
 ---
 
-Darauf einen Nachmittag voller Schweigen, auch im deutschen
+Darauf ein Nachmittag voller Schweigen, auch im deutschen
 Blätterwald.  Aus­nahme: Ein Artikel in der [»Jungen
 Freiheit«](https://jungefreiheit.de/kultur/literatur/2020/verlag-kuendigt-maron/),
 der Monika Maron ausführlich zu Wort kommen läßt, unter anderem
@@ -305,7 +305,7 @@ völkisch-rassistische Positionen vertreten«, wie sie der Antaios
 Verlag aus Ihrer Sicht führt: Was hat der S.&nbsp;Fischer Verlag
 unternommen, um zu verhindern, daß der Antaios Verlag Monika
 Marons Bücher »Artur Lanz« und »Munin« aus dem S.&nbsp;Fischer
-Verlag auf seiner Homepage unter »Bücher anderer Verlage«)
+Verlag auf seiner Homepage unter »Bücher anderer Verlage«
 anbietet?
 
 > Da ich Ihren Stellungnahmen, einschließlich der in der SZ ausführlich
