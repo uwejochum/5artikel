@@ -479,6 +479,13 @@ header-img: "img/accipies-banner-grau-dunkel.png"
     Gesprächsrunde im Germanistischen Seminar, Universität
     Heidelberg, Palais Boiserée, Freitag, den 15. Dezemberg 2017,
     10.15–11.45 Uhr.
+	
+##  2023
+-   Vortrag über die Ontologie von Buch und Bibliothek am
+    Institut für Buchwissenschaft der Universität Mainz im von
+    Dr.&nbsp;Tobias Christ veranstalteten Oberseminar
+    »Bibliotheken als Institutionen der Buchkultur«; Dienstag,
+    den 7. Februar, 12.15–13.45 Uhr.
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 

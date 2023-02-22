@@ -681,7 +681,11 @@ header-img: "img/totenbuch-bg.jpg"
 	
 ## 2023
 
--   Sternsinger ohne Stern. In: Achgut.com, [06.01.2023](https://www.achgut.com/artikel/sternsinger_ohne_stern)
+-   Sternsinger ohne Stern. In: Achgut.com,
+    [06.01.2023](https://www.achgut.com/artikel/sternsinger_ohne_stern)
+	
+-   Ad multos annos! In: stattzeitung.org,
+    [19.02.2023](https://www.stattzeitung.org/artikel-lesen/2023-02-19-ad-multor-annos.html)
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
