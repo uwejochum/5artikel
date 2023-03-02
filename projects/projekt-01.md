@@ -144,7 +144,8 @@ header-img: "img/totenbuch-bg.jpg"
     Gesellschaftsroman. tolino Media, 2022.
 	
 -   [Landnahme](https://karolinger.at/product/jochum_landnahme/). Wien,
-    Leipzig: Karolinger, 2022.
+    Leipzig: Karolinger, 2022. Rezension von Götz Kubitschek in
+    der Zeitschrift *Sezession* 111, Dezember 2022.
 
 ## 2023
 
@@ -678,7 +679,7 @@ header-img: "img/totenbuch-bg.jpg"
 	
 -   Bücherverbannung für die Demokratie. In: Achgut.com,
     [26.12.2022](https://www.achgut.com/artikel/buecherverbannung_fuer_die_demokratie#leserpost_start)
-	
+
 ## 2023
 
 -   Sternsinger ohne Stern. In: Achgut.com,
@@ -686,6 +687,8 @@ header-img: "img/totenbuch-bg.jpg"
 	
 -   Ad multos annos! In: stattzeitung.org,
     [19.02.2023](https://www.stattzeitung.org/artikel-lesen/2023-02-19-ad-multor-annos.html)
+
+
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
