@@ -7,6 +7,13 @@ tags:   [Meinungsfreiheit,Wissenschaftsfreiheit,Zensur]
 
 <img src="http://vg01.met.vgwort.de/na/f6a08d80a49f4cd2a130b1a705459e1f" width="1" height="1" alt="">
 
+> »Bibliotheken fördern die informationelle Grundversorgung aller
+> Bürger*innen mit ihrem überparteilichen und qualitätsgeprüften
+> Medien- und Informationsangebot und leisten damit einen
+> unverzichtbaren Beitrag zur Meinungsbildung, zu einem
+> demokratischen Gemeinwesen sowie zur politischen
+> Willensbildung.«
+
 So steht es in der am 22. April 2022 veröffentlichten
 Stellungnahme des Deutschen Bibliotheksverbandes (dbv) mit dem
 schönen Titel [»Bibliotheken als Orte gelebter
