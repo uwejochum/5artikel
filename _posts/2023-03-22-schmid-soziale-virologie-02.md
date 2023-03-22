@@ -39,15 +39,15 @@ Und bereits an diesem Punkt der Erzählung scheiden sich die
 Geister: Während die einen behaupteten, Regierungen wären in
 ihrer Pandemiepolitik ohnmächtig abhängig davon, zu welchen
 Schritten das Virus sie zwingt, auf den Punkt gebracht von
-Sach­sens Ministerpräsident Kretschmer, der verlautbarte,
+Sach­sens Minister&shy;präsident Kretschmer, der verlautbarte,
 darüber, wann es eine Rückkehr zur Normalität gebe, »[entscheidet
 nicht die Politik, sondern das
 Virus](https://www.publicomag.com/2022/02/corona-kann-nicht-sprechen/)«
 --- eine Sicht, die »Corona« als handelndes Subjekt
 per­so­ni­fizier­te, das ungern »verhandelt«, niemals »müde wird« und
-dies und das »verhindert«, etwa Weihnachtsmärkte oder Chorproben
+dies und das »verhindert«, etwa Weih&shy;nachts&shy;märkte oder Chorproben
 ---, beharrten andere auf der Menschengemacht­heit der
-»Maßnahmen«, die dem Staat keineswegs »aufgenötigt« (Haber­mas)
+»Maß&shy;nahmen«, die dem Staat keineswegs »aufgenötigt« (Haber­mas)
 und schon gar nicht alternativlos wären.
 
 Die Sicht der
@@ -57,18 +57,18 @@ zu folgen, geleitet von »der Wissenschaft«, wurde schnell
 hegemonial --- und so geriet die Welt ab dem Frühling 2020 (in
 Deutschland begann am 22.&nbsp;März 2020 der erste Lockdown) für
 mehrere Jahre in eine sich immer rasanter drehende Spirale von
-Eskalationsstufen der Panik, Hysterie und Hetze gegen
+Eskalations&shy;stufen der Panik, Hysterie und Hetze gegen
 Anders­denkende. Viele Demokratien, auch die Bundesrepublik
 Deutsch­land, verwandelten sich in einen Gesundheitsstaat, in dem
-Grundrechte weitgehend eingeschränkt, parlamentarische
+Grund&shy;rechte weitgehend eingeschränkt, parlamentarische
 Willens­bildung durch eine ver­fassungsrechtlich nicht
-vorgesehene Ministerpräsidentenrunde mit Kanz­lerin ersetzt und
+vorgesehene Minister&shy;präsi&shy;denten&shy;runde mit Kanz­lerin ersetzt und
 --- horribile dictu --- Denunziations­stolz als Ausweis für
 höhere Moral galt, angefeuert durch regierungs­amtliche Aufrufe
 zur an­onymen Anzeige auf speziell dafür eingerichteten Portalen
 im Internet. Und die Medien als »Vierte Gewalt« boten ein Bild
-von Gleichgeschaltetheit und Re­gierungs­konformismus, wie es man
-es seit Menschengedenken nicht mehr erlebt hatte.
+von Gleich&shy;geschaltet&shy;heit und Re­gierungs­konfor&shy;mismus, wie es man
+es seit Menschen&shy;gedenken nicht mehr erlebt hatte.
 
 Dramatisierende Rhetorik im »Panik- und Sorge-Paradigma«
 (*WirtschaftsWoche*) dominierte: »Das Ende der Welt, wie wir sie kennen«,
@@ -77,8 +77,8 @@ Beschwörung einer überlebens­notwendigen Akzeptanz einer sogenannten
 und Merkels pathetische Rede an die Nation. Sur­reale Spots der
 Bundes­regierung (»... bleib zuhause«) warben für eine Kriegsführung mit
 »faule\[n\] Säcke\[n\]«, die verdienstlos orden­behängt »für besondere
-Leistungen im Kampf gegen Corona« aus ihrem selbstisolierten
-Dämmerschlaf erwachten, wie ein Veteran im Jahr 2080 erzählt ---
+Leistungen im Kampf gegen Corona« aus ihrem selbst&shy;isolierten
+Dämmer&shy;schlaf erwachten, wie ein Veteran im Jahr 2080 erzählt ---
 »[plötzlich war ich ein Held](https://www.youtube.com/watch?v=z7pLnVCzwQI)«.
 
 ![Neue Normalität](/5artikel/material/pixabay-mask.jpg
@@ -94,7 +94,7 @@ an Absurditäten, wenn »illegale« Geburtstagsfeiern von
 Ordnungshütern nach Anzeige von Nachbarn aufgelöst, Spaziergänger
 von Parkbänken vertrieben, rodelnde Kinder am Schlittenhügel
 amtlicherseits gejagt wurden, [sterbende
-Familienangehörige](https://www.publicomag.com/2022/12/ein-wort-nicht-von-dieser-welt/)
+Familien&shy;angehörige](https://www.publicomag.com/2022/12/ein-wort-nicht-von-dieser-welt/)
 nicht besucht werden durften, Feiern im Familienkreis für
 Ungeimpfte zum Spießrutenlauf ausarteten; kulminierend im
 Glaubenskrieg um die »Impfung« mit lange nicht mehr gehörten
@@ -104,8 +104,8 @@ krimina­lisiert wurden, samt monatelangem Ausschluß aus dem
 Ärzten.  Wir erlebten --- kurz gesagt --- eine schier nicht enden
 wollende, real existierende, brutal ins Werk gesetzte Dystopie
 erster Ordnung, deren menschenverachtenden Exzesse psychologische
-Experimente wie die legendäre Milgram-Studie im weltweiten
-Feldversuch bestätigten.
+Experi&shy;mente wie die legendäre Milgram-Studie im weltweiten
+Feld&shy;versuch bestätigten.
 
 ### Der Zugriff
 
@@ -120,16 +120,16 @@ einer Person zu ermitteln --- und ihr Verhalten daran zu messen.
 
 Letztlich kann das Ergebnis der Sondierung einer komplexen Materie wohl
 nicht viel mehr sein als ein so gut wie möglich sortierter, begründeter
-und kommentierter Hypothesen-Steinbruch, aus dem der Autor selbst und
+und kom&shy;men&shy;tier&shy;ter Hypothesen-Steinbruch, aus dem der Autor selbst und
 die Leser, die das möchten, sich den ein oder anderen Werkblock zur
-Weiterverarbeitung herausgreifen können.
+Weiter&shy;verarbeitung herausgreifen können.
 
 Bei den diskutierten Denkern handelt es sich durchwegs um
-Linksintellektuelle, deren einschlägige Expertisen (Diskursanalyse,
+Links&shy;intellek&shy;tuelle, deren einschlägige Expertisen (Diskursanalyse,
 Biopolitik, Überwachungsstaat, Konstrukti­vismus, Kommunikationstheorie,
 Medienmanipulation, Immunität, Ausnahmezustand) und deren
 gesell­schaftspolitische Stoßrichtungen hätten vermuten lassen, daß sie
-gegen einen Maßnahmenstaat und seine unzumut­baren Zu­mutungen, wie sie
+gegen einen Maß&shy;nahmen&shy;staat und seine unzumut­baren Zu­mutungen, wie sie
 ein­gangs nochmals ins Gedächtnis gerufen wurden, mobil machen würden
 (bzw. mit ihnen als Kronzeugen opponiert würde).
 
@@ -167,21 +167,21 @@ Wellenbrecher-Lockdown, der sieben Monate währen sollte, jährte
 sich ein Ereignis »rund«: An diesem Tag vor 50 Jahren hielt
 Michel Foucault, der
 »[Säulen­heilige](https://www.faz.net/aktuell/karriere-hochschule/ohne-michel-foucault-ist-identitaetspolitische-theoriebildung-undenkbar-17269893.html)
-von Postkolonialismus und Identitätspolitik« (*FAZ*) und
-Lieblingsdenker linksintellektueller Systemstürzer (deren
-Mehrheit längst Stützen des Coronastaates waren), seine
+von Post&shy;kolonialis&shy;mus und Iden&shy;titäts&shy;politik« (*FAZ*) und
+Lieblingsdenker links&shy;intellektueller Systemstürzer (deren
+Mehrheit längst Stützen des Corona&shy;staates waren), seine
 An­tritts­vor­lesung am neugeschaffenen Lehrstuhl zur »Geschichte
 der Denksysteme« des Collège de France in Paris --- Titel: »Die
 Ordnung des Diskurses«.[^1] Wie bittere Ironie muteten seine
 Analysen in der Gegenwart des Jahres 2020 an, weil sie sich gegen
 diejenigen wandten, die einst mit Suhrkamp-Bänden von Foucault
 und Habermas in der Manteltasche loszogen, der Menschheit einen
-hierarchiefreien Diskursraum zu erschaffen. Errichtet haben die
-Diskurs-Öffner ein Bollwerk der Unsagbarkeit, pervertiert ist in
-ihren Händen die Idee einer Demokratisierung aller Diskurse,
+hier&shy;archie&shy;freien Diskurs&shy;raum zu erschaffen. Errichtet haben die
+Diskurs-Öffner ein Bollwerk der Unsag&shy;bar&shy;keit, pervertiert ist in
+ihren Händen die Idee einer Demo&shy;krati&shy;sierung aller Diskurse,
 betoniert haben sie ihr eigenes Deutungs­monopol --- dem Meister
 müßte es posthum die Zornesröte in Gesicht treiben. Einige
-signifikante Merkpunkte aus der Vorlesung von 1970 mögen dies
+signi&shy;fikante Merk&shy;punkte aus der Vorlesung von 1970 mögen dies
 illustrieren:
 
 »Und die Institution antwortet: ›Wir alle sind da, um dir zu zeigen, daß
@@ -215,15 +215,15 @@ Aus­schluß bestimmter Gruppen --- Foucaults Wahnsinnige[^2]
 hatten sie durch zeitgemäßere Opfergruppen ersetzt, für die sie
 Gerechtigkeit schaf­fen wollen mittels »Sichtbarmachung« und der
 Illusion einer »Partizipation« aller an allem ---, wie jene
-Kritiker jeder Hegemonialität in der Pandemie eine hegemoniale
-und exklusive Diskurshoheit für sich beanspruchten und einem
-gerade­zu monströs antifoucauldianischem Überwachungs- und
-Bestrafungsapparat das Wort redeten, den dieser in *Überwachen
+Kritiker jeder Hege&shy;monialität in der Pandemie eine hegemoniale
+und ex&shy;klusive Diskurs&shy;hoheit für sich beanspruchten und einem
+gerade­zu monströs anti&shy;foucaultia&shy;nischem Überwachungs- und
+Be&shy;strafungs&shy;apparat das Wort redeten, den dieser in *Überwachen
 und Strafen* (1975)[^3] ausgerechnet an historischen Beispielen von
-Seuchenbekämpfungsmaßnahmen dargestellt hatte?
+Seuchen&shy;be&shy;kämpfungs&shy;maß&shy;nahmen dargestellt hatte?
 
 Was der Historiker Philipp Sarasin 2005[^4] als Foucaults Mahnruf
-herauskondensierte, will erst einmal widerlegt sein: »Die
+heraus&shy;konden&shy;sierte, will erst einmal widerlegt sein: »Die
 Disziplin, gar die vollständige‚ kann in der Moderne kein
 vernünftiges Ziel der liberalen Macht mehr sein. Dort, wo sie
 dies dennoch an­strebt, wo die Macht vom Pocken-Modell zum
@@ -240,11 +240,11 @@ Von welchen »Modellen« ist hier die Rede? Foucault unterscheidet drei
 Se­pa­rierungen, Aus­schließun­gen, Stig­ma­tisierungen: »Der Leprakranke
 wird verworfen, ausgeschlossen« --- »die Verbannung« ist für Foucault das
 »Modell für die große Einsperrung«. Das »Modell Pocken« setzt auf
-Selbstinzuchtnahme, internalisierte Disziplin, individuelle Einpas­sung.
+Selbst&shy;inzucht&shy;nahme, internalisierte Disziplin, individuelle Einpas­sung.
 Und das »Modell Pest« arbeitet mit Erfassung und lückenloser Kontrolle
 der Infizierten --- »die gute Abrichtung«. Die Pest habe »das Modell der
 Disziplinierungen herbeigerufen«; die Seuche verlangte »nach einer in
-die Tiefe gehenden Organisation der Überwachungen und der Kontrollen,
+die Tiefe gehenden Orga&shy;nisa&shy;tion der Überwachungen und der Kontrollen,
 nach einer Intensivierung und Verzweigung der Macht.«
 
 Philipp Sarasin, der in *Überwachen und Strafen* die Analyse
@@ -256,9 +256,9 @@ Beginn des Pan­demie-Regimes, im April 2020, berufen, Foucault
 [vor Vereinnahmung zu
 schützen](https://geschichtedergegenwart.ch/mit-foucault-die-pandemie-verstehen/):
 »Es ist klar: Foucault sprach nicht über reale Pandemien, sondern
-verwendete Infektionskrankheiten als Denkmodelle, um Formen der
+verwendete Infektions&shy;krankheiten als Denkmodelle, um Formen der
 Macht nach idealtypischen Mustern zu ordnen.« Doch Foucault
-rekonstruierte sehr wohl minutiös aus den histo­rischen Quellen
+re&shy;kon&shy;struierte sehr wohl minutiös aus den histo­rischen Quellen
 *sehr reale* Pandemien, um aus deren realer Eindämmung
 Schluß­folgerungen über Disziplinarmacht allgemein abzuleiten ---
 wie wir gesehen haben.
@@ -270,18 +270,18 @@ für »totalitär« hält, darf es in einer Demokratie, in der er selbst
 lebt, nicht vorkommen. Der Schweizer Historiker glaubt im Pocken-Modell
 mit seinen Aufforderungen zur Selbstdisziplin, das er für »liberal«
 hält, diejenige Pandemie-Politik wiederzufinden, welcher »die
-europäischen Regierungen folgen«, etwa in der »Strategie
+europä&shy;ischen Regierungen folgen«, etwa in der »Strategie
 \#flattenthecurve«. Was über Selbstdisziplin hinausgeht, staatliche
 Verbotserlasse etwa, muß Sarazin deshalb etwas bemüht uminterpretieren:
 »Versammlungen mehrerer Menschen verbieten, bedeutet keine
-Disziplinierung \[...\], sondern ist mehr so etwas wie ein zwar enger,
+Dis&shy;ziplinierung \[...\], sondern ist mehr so etwas wie ein zwar enger,
 aber immerhin gut begründeter und nachvollziehbarer staatlicher Rahmen
 für individuelles Verhalten.« Überhaupt gehöre die Aufforderung, Regeln
 des »social distancing« einzuhalten, »zweifellos \[!\] in den Bereich
 der liberalen Regierungs­techniken, die grundsätzlich auf der Freiheit
-der Individuen beruhen«. (Was für eine merkwürdige Vorstellung von
+der In&shy;dividuen beruhen«. (Was für eine merkwürdige Vorstellung von
 Liberalität, die mindestens neoliberale Anklänge mit ihren
-»Selbsttechniken« hat.)
+»Selbst&shy;techniken« hat.)
 
 Sarasin behauptet zu Beginn der Corona-Krise, die Modelle würden
 »klar machen«: »Ausgangssperren erscheinen dann notwendig, wenn
@@ -291,7 +291,7 @@ Historiker dieses »Versprechen« verwirklicht, weil dort »dank
 systematischer Tests massenhaft Daten über Nicht-Infizierte und
 Infizierte vorliegen« und deswegen punktuelle Isolierungen ohne
 Lockdown möglich wären. Warum es dann in Deutschland im Herbst
-2020, als man statistisches Wissen besaß, einen zweiten massiven
+2020, als man statisti&shy;sches Wissen besaß, einen zweiten massiven
 Lockdown gab, warum darin sogar
 [Ausgangssperren](https://www.tagesschau.de/faktenfinder/ausgangssperren-corona-105.html)
 verhängt wurden --- darauf hätte man gerne eine Antwort
@@ -332,19 +332,19 @@ verschwinden](https://www.expondo.de/inspirationen/datenerfassung-gastronomie-in
 Gesellschaft« wachgerufen, den Traum, »Macht über die Menschen
 auszuüben, [ihre Beziehungen zu
 kontrollieren](https://www.anwalt.de/rechtstipps/corona-pkw-haushalt-personenanzahl-wo-darf-ich-mich-mit-vielen-personen-aufhalten-ist-der-pkw-oeffentlicher-raum-189172.html)
-und ihre gefährlichen Vermischungen zu entflechten«: »Die
-verpestete Stadt, die von Hierarchie und Über­wachung, von Blick
+und ihre gefährlichen Ver&shy;mischungen zu entflechten«: »Die
+ver&shy;pestete Stadt, die von Hierarchie und Über­wachung, von Blick
 und Schrift ganz durchdrungen ist, die Stadt, die im allgemeinen
 Funk­tionieren einer besonderen Macht über alle individuellen
 Körper erstarrt --- diese Stadt ist die Utopie der vollkommen
 regierten Stadt/Gesellschaft. Die Pest (jedenfalls die zu
 er­wartende) ist die Probe auf die ideale Ausübung der
-Dis­ziplinierungsmacht.« (S.&nbsp;254&nbsp;f.)
+Dis­ziplinierungs&shy;macht.« (S.&nbsp;254&nbsp;f.)
 
 Philipp Sarazin graut vor dem Pest-Regime, denn er kennt »seinen«
 Foucault: Das »ri­gorose Parzellieren des Raumes: Schließung der
 Stadt; Verbot des Verlassens unter Androhung des Todes
-\[...\]. Der Raum erstarrt zu einem Netz von undurchlässigen
+\[...\]. Der Raum erstarrt zu einem Netz von undurch&shy;lässigen
 Zel­len. Jeder ist an seinen Platz gebunden. Wer sich rührt,
 riskiert sein Leben: Ansteckung oder Bestrafung. \[...\] Dieser
 geschlossene, parzellierte, lückenlos überwachte Raum, innerhalb
@@ -355,22 +355,22 @@ Zentrum mit der Peripherie verbindet, die Gewalt ohne Teilung in
 einer bruchlosen Hierarchie ausgeübt wird, jedes Individuum
 ständig erfaßt, geprüft und unter die Lebenden, die Kranken und
 die Toten aufgeteilt wird --- dies ist das kom­pakte Modell einer
-Disziplinierungsanlage.  \[...\] Die Ordnung schreibt jedem
+Dis&shy;ziplinierungs&shy;an&shy;lage.  \[...\] Die Ordnung schreibt jedem
 seinen Platz, jedem seinen Körper, jedem seine Krankheit und
-seinen Tod, jedem sein Gut vor: kraft einer allgegenwärtigen und
-allwissenden Macht, die sich einheitlich bis zur letzten
+seinen Tod, jedem sein Gut vor: kraft einer all&shy;gegen&shy;wärtigen und
+all&shy;wissenden Macht, die sich einheitlich bis zur letzten
 Bestimmung des Individuums verzweigt --- bis zur Bestimmung
 dessen, was das Individuum charakterisiert, was ihm gehört, was
 ihm geschieht. Gegen die Pest, die Vermischung ist, bringt die
-Disziplin ihre Macht, die Analyse ist, zur Geltung.«
+Diszi&shy;plin ihre Macht, die Analyse ist, zur Geltung.«
 (S.&nbsp;251; S.&nbsp;253&nbsp;f.)
 
 Philipp Sarasin sieht durchaus, wie brutal »in Marokko die
 Corona-bedingte Ausgangs­sperre mit Panzern durchgesetzt« wird oder die
-Gefahr, daß auch in der EU »die Speicherung und Auswertung von
-Bewegungsdaten aller, die ein Handy in der Tasche tragen, nach der Krise
+Gefahr, daß auch in der EU »die Speicherung und Aus&shy;wertung von
+Bewegungs&shy;daten aller, die ein Handy in der Tasche tragen, nach der Krise
 wohl nicht unbedingt so leicht wieder in den Bereich des bloß technisch
-Denkbaren zurückgestuft wird«. Sein »liberales« Pocken-Modell erfordere
+Denk&shy;baren zurückgestuft wird«. Sein »liberales« Pocken-Modell erfordere
 deshalb, »die Macht des Staates arg­wöhnisch im Auge zu behalten«. (Ist
 das nicht ein Widerspruch: Warum sollte man eine »liberale« Maßnahme
 »bearg­wöhnen«?)
@@ -381,15 +381,15 @@ Derridas Deutung und Kritik des »Krieges gegen den Terror« (wozu wir
 kommen) eigneten sich nicht zur Recht­fertigung des Maß­nahmen-Staates
 durch ihre Epigonen --- Foucault und Derrida widersprachen geradezu
 (posthum sozusagen) den neuen Gelüsten linksdrehender Systemstürmer nach
-autoritären Regierungsformen zur Bekämpfung der »Pandemie«.
+autori&shy;tären Regierungsformen zur Bekämpfung der »Pandemie«.
 
 Das Problem wurde in zwei Schritten gelöst: Zu Beginn der Corona-Krise
-versuchten Foucaultianer mittels kreativer Interpretation seiner Texte
+versuch&shy;ten Foucaultianer mittels kreativer Interpretation seiner Texte
 sich selbst die Illusion aufrechtzuerhalten, man könne mit Foucault »die
-Maßnahmen« rechtfertigen. In dem Moment, wo selbst hartnäckigsten
-Mißinterpretationswilligen klar wurde, daß mit Foucault kein
+Maß&shy;nahmen« rechtfertigen. In dem Moment, wo selbst hartnäckigsten
+Miß&shy;inter&shy;pretations&shy;willigen klar wurde, daß mit Foucault kein
 Corona-Staat zu machen war, also spätestens mit Beginn des zweiten
-Lockdowns im Herbst 2020, verfielen sie in eine Art Schweigestarre
+Lock&shy;downs im Herbst 2020, verfielen sie in eine Art Schweigestarre
 hinsichtlich ihres (einstigen?) Idols. Warum wohl zitierte jetzt niemand
 mehr diese Foucault'sche Erkenntnis aus dem Jahr 1970? »Ich setze
 voraus, daß in jeder Gesellschaft die Produktion des Diskurses zugleich
@@ -413,9 +413,9 @@ manipulationsempfehlende [Event
 201](https://multipolar-magazin.de/artikel/wurde-die-corona-krise-geplant),
 erklären müssen. Mit welchem Denker könnte man das besser tun als
 mit Diskurs­anakytiker Foucault? Warum rekurrierte keiner seiner
-Gefolgs­leute auf seine jahrzehntelang bemüh­ten »Prozeduren der
-Ausschließung«, als diese Ken Jebsen trafen, der wegen einer bald
-durch Regierungshandeln bestätigten »Verschwörungs­theorie«, die
+Gefolgs­leute auf seine jahrzehnte&shy;lang bemüh­ten »Prozeduren der
+Aus&shy;schließung«, als diese Ken Jebsen trafen, der wegen einer bald
+durch Regierungs&shy;handeln bestätigten »Verschwörungs­theorie«, die
 er auf seinem Kanal Ken.FM veröffentlicht hatte --- er
 befürchtete eine Impf­pflicht durch die Hintertür --, im Sommer
 2020 mundtot gemacht wurde?  (Glei­ches bei \#AllesDichtmachen
@@ -426,7 +426,7 @@ Jebsen vermutet indirekt über Zugangs­beschränkungen für
 Ungeimpfte, dann rechts­kräftig mit Straf­androhung bei
 Zuwider­handlung. Jebsen hatte Recht behalten. Entschuldigt hat
 sich von seinen selbst­gerechten Verleumdern bis heute keiner bei
-ihm. Rehabilitiert ist er erst recht nicht.
+ihm. Re&shy;habili&shy;tiert ist er erst recht nicht.
 
 Foucault selbst --- hätte er »Corona« erlebt --- hätte zumindest hinter
 diese seine Ein­sicht nicht zurückgehen dürfen, als es galt, Kritiker
@@ -442,14 +442,14 @@ richtig erfaßt hatte, in dem sie Spielarten »moderner
 Corona-Politik« [mehr erdichteten als
 beschrieben](https://www.wiwo.de/politik/deutschland/tauchsieder-die-moderne-corona-politik-nach-michel-focault/25691684-2.html):
 China und Italien sah Schnaas dabei im »Modell Pest« operierend;
-Deutschland hingegen nicht, was nicht überzeugt, gab es dort von
+Deutsch&shy;land hingegen nicht, was nicht überzeugt, gab es dort von
 Beginn an »sorgfältige Erfassung, lückenlose Kontrolle,
-Disziplinierung, Bannung« --- Dokumentationen solcher Szenarien
+Diszipli&shy;nierung, Bannung« --- Dokumentationen solcher Szenarien
 sind Legion. Deutschlands Reaktion ordnet Schnaas --- inkorrekt
 wie Sarasin --- dem Pocken-Mo­dell zu, basierend auf
 »post­autori­täre\[m\] Risikomanagement«, das einer »in die Tiefe
 gehenden Organi­sation der Überwachungen« entsage, weil »liberale
-Demokratien« mit der Durchsetzung eines strikten Pestregimes und
+Demo&shy;kratien« mit der Durchsetzung eines strikten Pestregimes und
 der totalen Diszipli­nierung der Bevölkerung ihre eigenen
 Grund­lagen zerstören würden. Und exakt das haben Länder wie
 Deutsch­land getan --- und gar nicht einmal so »postautoritär«.
@@ -457,28 +457,28 @@ Deutsch­land getan --- und gar nicht einmal so »postautoritär«.
 Vielleicht liegt gerade in dieser Illusion --- zu behaupten, der
 demokratische Staat würde sich nicht am Pest-Modell Foucaults
 orientieren und autoritär werden --- der Grund verborgen, warum
-die Maßnahmen-Befürworter nur ganz zu Beginn, da aber massiv, auf
-Foucault rekurriert hatten, um sich sehr bald nicht mehr an seine
+die Maß&shy;nahmen-Befürworter nur ganz zu Beginn, da aber massiv, auf
+Foucault re&shy;kurriert hatten, um sich sehr bald nicht mehr an seine
 Einsichten in die Zusammenhänge von Seuchen und »Operationsmodi
 von Macht« erinnern und auch von Maßnahmen-Kritikern nicht mehr
 mit den »fantastischen Büchern von Michel Foucault« (Schnaas)
-konfrontiert werden zu wollen.  Die Wirk­lichkeit hat gezeigt,
+konfron&shy;tiert werden zu wollen.  Die Wirk­lichkeit hat gezeigt,
 wie rigoros Demokratien das »Pestmodell« angewandt haben. Nun
 brauchte es andere Denker, die erklären konnten, warum das
-trotzdem demokratisch sei --- einer von ihnen wird (in Teil III)
+trotzdem demo&shy;kratisch sei --- einer von ihnen wird (in Teil III)
 Jürgen Habermas sein.
 
 Foucaults »Modell Lepra« mit Separierung, Ausschließung,
-Stigmatisierung wurde --- von keinem Foucualdianer richtig
+Stigmati&shy;sierung wurde --- von keinem Foucualdianer richtig
 vorhergesehen --- in der Corona-Krise schließlich doch noch
 angewandt; allerdings nicht dem historischen Beispiel folgend auf
 Infi­zierte, sondern auf Gesunde: im Ausschluß der Ungeimpften
 durch sogenannte 2G-Regeln (Deutschland) oder gleich in einem
-»Ungeimpften-Lockdown« (Österreich). Sarasins und Schnaas'
-Argumentation vom Beginn der Krise, das Lepra-Modell würde in der
-Separierung »vulnerabler Risikogruppen« (was für eine Sprache,
+»Unge&shy;impften-Lockdown« (Österreich). Sarasins und Schnaas'
+Argumen&shy;tation vom Beginn der Krise, das Lepra-Modell würde in der
+Se&shy;pa&shy;rierung »vulnerabler Risikogruppen« (was für eine Sprache,
 wenn man ältere und kranke Menschen meint) angewandt, etwa in
-Großbritannien, was beide kritisierten (Schnaas: »Alte lassen
+Groß&shy;britannien, was beide kritisierten (Schnaas: »Alte lassen
 sich in der Moderne nicht wie Aussätzige im Mittelalter
 wegsperren und separieren. Oder etwa doch?«), bekam dadurch einen
 unbeabsichtigt ironische Wendung.  Nachweislich gesunde
@@ -498,22 +498,22 @@ Arturo Espinosa SeguirJacques Derrida for PIFAL Pencil on
 Fabriano., CC BY 2.0, via Wikimedia Commons.]
 
 Bei Jacques Derrida haben die linksintellektuellen Zeugen Coronas
-eine zurichtende Verbiegung ihres konstruktivistischen Meisters
+eine zurich&shy;tende Verbiegung ihres konstruktivistischen Meisters
 offenbar gar nicht erst versucht. Jemand, der »autoimmunitäre
-Bewegungen« kritisiert, »die das Monströse selbst schaffen,
+Bewegungen« kriti&shy;siert, »die das Monströse selbst schaffen,
 erfinden und nähren, das niederzuwerfen sie vorgeben«, kann
-partout nicht Pressesprecher bei Zero-Covid werden. In diesem
+partout nicht Presse&shy;sprecher bei Zero-Covid werden. In diesem
 metaphorischen Fazit bewertete Derrida die Reaktion der USA und
-Teilen der »westlichen Welt« auf 9/11 als einen
-selbstzerstörerischen Schutzmechanismus der Demokratie in einem
-biologischen Bild: Er sieht im »autoimmunitären Prozeß« ---
+Teilen der »west&shy;lichen Welt« auf 9/11 als einen
+selbst&shy;zer&shy;störeri&shy;schen Schutz&shy;mecha&shy;nismus der Demokratie in einem
+biologischen Bild: Er sieht im »auto&shy;immunitären Prozeß« ---
 konkret: im Krieg gegen den Terror --- das »Verhalten des
-Lebendigen, das sich in fast selbstzerstörerischer Weise daran
+Leben&shy;digen, das sich in fast selbstzerstörerischer Weise daran
 macht, ›sich selbst‹, seinen eigenen Schutz zu zerstören, sich
 gegen seine ›eigene‹ Immunität zu immunisieren«. (Man denke sich
 dieses Bild in die Realität der immuni­tätszerstörenden
 Hygiene-Maßnahmen durch Abstandregeln und Maskenpflichten sowie
-von immunitätsschädigenden Impfungen.)
+von immuni&shy;täts&shy;schädigenden Impfungen.)
 
 Die Freiheit einschränken, um Freiheit zu bewahren --- das Paradoxon im
 Kampf gegen den Terrorismus nach dem 11. September 2001 mit seinen
@@ -525,29 +525,29 @@ Derrida-Lesungen in Philoso­phenkreisen --- etwa Isabell Lorey 2011 zu
 Derridas Denkmodell: »Um sich gegen Bedrohungen zu schützen, bedrohen
 Demokratien sich selbst«.[^6] Daß die Professorin für »Queer Studies« an
 der Kunsthochschule Köln sich in den Corona-Jahren um die von der
-Übergriffigkeit eines sicher­heitsfanatischen Staates bedrohte
-Demokratie gesorgt hätte, ist nicht erinnerlich --- obwohl sie Derridas
-Autoimmunisierung »als Ausdruck einer gewaltvollen, unbedingten
-Souveränität, mit der Demokratien des Westens noch immer verwoben sind«,
-affirmativ aufgerufen hatte.
+Über&shy;griffig&shy;keit eines sicher­heitsfanatischen Staates bedrohte
+Demo&shy;kratie gesorgt hätte, ist nicht erinnerlich --- obwohl sie Derridas
+Auto&shy;immuni&shy;sierung »als Ausdruck einer gewaltvollen, unbedingten
+Souverä&shy;nität, mit der Demokratien des Westens noch immer verwoben sind«,
+affir&shy;mativ aufgerufen hatte.
 
 
 Giovanna Borradori umschrieb Derridas Position zum Antiterrorkrieg 2003
-als »Selbstmord eines Abwehrmechanismus, der den Organismus eigentlich
+als »Selbst&shy;mord eines Abwehr&shy;mechanismus, der den Organismus eigentlich
 vor äußeren Angriffen schützen sollte«. *Philosophie in Zeiten des
 Terrors* --- mit der Übersetzung eines Gesprächsbandes der Mailänder
 Philosophin mit Jürgen Haber­mas und Jacques Derrida reagierte
 seinerzeit die Wissenschaftliche Buchgesell­schaft auf 9/11 und die
 Folgen.[^7] Auf *Philosophie in Zeiten der Pandemie* mußte man bis zum
-Herbst 2022 warten --- dann erschien ein rechtsphilosophisches Werk zum
+Herbst 2022 warten --- dann erschien ein rechts&shy;philo&shy;sophisches Werk zum
 Thema bei Suhrkamp, eingeleitet mit einem Essay von Jürgen Habermas
 (besprochen in Teil III dieser Reihe).
 
 Nun hat Jacques Derrida Corona nicht erlebt, ebenso wenig wie Michel
-Foucault. Dessen Epigonen übernahmen das Mandat seiner Falschlesung und
+Foucault. Dessen Epigonen übernahmen das Mandat seiner Falsch&shy;lesung und
 Mißi­nter­pretation in Pandemie-Zeiten, von dem wir nur hoffen können,
 daß es der Autor nie erteilt hätte. Andere Denker hingegen, die sich
-als Kritiker von Machtstrukturen und Theoretiker einer Diskursethik
+als Kritiker von Macht&shy;strukturen und Theoretiker einer Diskursethik
 einen Namen gemacht hatten, wurden zu Zeitgenossen Coronas. Viele von
 ihnen entschieden sich --- in wie weit panikgetrieben oder
 opportunistisch, bleibt offen --- für Abstand zu sich selbst, in dem sie
