@@ -54,21 +54,21 @@ Die Sicht der
 [Diktierer](https://www.youtube.com/watch?v=t5jgozwQKB0), welche
 vorgaben, doch nur dem Diktat des Virus, einer Natur­katastrophe,
 zu folgen, geleitet von »der Wissenschaft«, wurde schnell
-hegemonial --- und so geriet die Welt ab März 2020 (in
+hegemonial --- und so geriet die Welt ab dem Frühling 2020 (in
 Deutschland begann am 22.&nbsp;März 2020 der erste Lockdown) für
 mehrere Jahre in eine sich immer rasanter drehende Spirale von
 Eskalationsstufen der Panik, Hysterie und Hetze gegen
 Anders­denkende. Viele Demokratien, auch die Bundesrepublik
 Deutsch­land, verwandelten sich in einen Gesundheitsstaat, in dem
 Grundrechte weitgehend eingeschränkt, parlamentarische
-Willens­bildung durch eine ver­fassungsrechtlich nicht vorgesehene
-Ministerpräsidentenrunde mit Kanz­lerin ersetzt und --- horribile
-dictu --- Denunziations­stolz als Ausweis für höhere Moral galt,
-angefeuert durch regierungs­amtliche Aufrufe zur an­onymen
-Anzeige auf speziell dafür eingerichteten Portalen im
-Internet. Und die Medien als »Vierte Gewalt« boten ein Bild von
-Gleichgeschaltetheit und Re­gierungs­konformismus, wie es man es
-seit Menschengedenken nicht mehr erlebt hatte.
+Willens­bildung durch eine ver­fassungsrechtlich nicht
+vorgesehene Ministerpräsidentenrunde mit Kanz­lerin ersetzt und
+--- horribile dictu --- Denunziations­stolz als Ausweis für
+höhere Moral galt, angefeuert durch regierungs­amtliche Aufrufe
+zur an­onymen Anzeige auf speziell dafür eingerichteten Portalen
+im Internet. Und die Medien als »Vierte Gewalt« boten ein Bild
+von Gleichgeschaltetheit und Re­gierungs­konformismus, wie es man
+es seit Menschengedenken nicht mehr erlebt hatte.
 
 Dramatisierende Rhetorik im »Panik- und Sorge-Paradigma«
 (*WirtschaftsWoche*) dominierte: »Das Ende der Welt, wie wir sie kennen«,
