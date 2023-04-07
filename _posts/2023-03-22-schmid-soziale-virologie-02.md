@@ -6,9 +6,10 @@ author:	Jürgen Schmid
 tags:   [Demokratie,Meinungsfreiheit,Wissenschaftsfreiheit]
 ---
 
-*Welche Schäden eine denunziatorische Sprache anrichtet, die
-Menschen als »toxisch« und »infektiös« markiert, um sie aus der
-Gemeinschaft aus­zu­schließen, hat [Teil I der »Sozialen
+*Welche Schäden eine denunzia&shy;tori&shy;sche Sprache
+anrichtet, die Menschen als »toxisch« und »infektiös« markiert,
+um sie aus der Gemeinschaft aus­zu­schließen, hat [Teil I der
+»Sozialen
 Virologie«](https://uwejochum.github.io/5artikel/2023/03/16/schmid-soziale-virologie-01/)
 gezeigt --- eine gespenstische Vorwegnahme und Voraussetzung der
 polit-medialen Hexenjagd auf Kritiker des coronaren
