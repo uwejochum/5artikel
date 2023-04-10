@@ -3,13 +3,7 @@ documentclass: scrartcl
 title: Es war aber einer krank
 subtitle: Ein Wort zum Osterfest 2023
 author: Uwe Jochum
-date: \today
-fontsize: 12pt
-lang: de
-fontfamily: libertine
-fontfamilyoptions: osf
-geometry: "left=3cm,right=3.5cm,top=2cm,bottom=3cm"
-linestretch: 1.4
+tags:   [Ostern,Freiheit]
 ---
 
 <img src="http://vg01.met.vgwort.de/na/6071577eb2cf4547a2183ab7fb9657c7" width="1" height="1" alt="">
