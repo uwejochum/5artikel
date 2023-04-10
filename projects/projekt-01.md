@@ -688,8 +688,13 @@ header-img: "img/totenbuch-bg.jpg"
 -   Ad multos annos! In: stattzeitung.org,
     [19.02.2023](https://www.stattzeitung.org/artikel-lesen/2023-02-19-ad-multor-annos.html)
 
--   Die Afterwissenschaft der Max-Planck-Gesellschaft. In
+-   Die Afterwissenschaft der Max-Planck-Gesellschaft. In:
     Achgut.com, [25.03.2023](https://www.achgut.com/artikel/die_afterwissenschaft_der_Max_Planck_Gesellschaft)
+
+-   Es war aber einer krank. Ein Wort zum Osterfest 2023. In:
+    stattzeitung,
+    [08.04.2023](https://www.stattzeitung.org/artikel-lesen/2023-04-08-es-war-aber-einer-krank-ein-wort-zum-osterfest-2023.html)
+	
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
