@@ -54,7 +54,7 @@ gespart werden soll, und zwar so, daß man anderen beim Sparen
 dann noch naseweis etwas vormachen kann; sondern Energie so
 gespart werden muß, daß es weh tut, weil der Druck der
 Wirklichkeit jede Naseweisheit verbietet und schnelle Reaktionen
-erfodert, die auf den Druck der Wirklichkeit sachgerecht und
+erfordert, die auf den Druck der Wirklichkeit sachgerecht und
 nicht ausweichend anworten. Kurzum: Man müßte sich der
 Wirklichkeit in aller Schonungslosigkeit stellen, wenn man in
 einer Situation von höchstem Wirklichkeitsdruck nicht den grünen
@@ -110,7 +110,7 @@ Bestand«, der immer schon ein Euphemismus für den realen
 Nichtbesitz der Daten war, zeigt sich als Phantom einer digitalen
 Bibliotheksoper, in der jeder ein Star sein wollte, aber keiner
 damit rechnete, daß jemand den Stecker zieht und die Inszenierung
-am Ende ist.
+zu Ende ist.
 
 Es gibt daher in den Bibliotheken keinen »Plan B«. Es gibt nur
 den »Plan A«, also eine möglichst umfassende Digitalisierung
