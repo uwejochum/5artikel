@@ -6,7 +6,9 @@ author:	Jürgen Schmid
 tags:   [Demokratie,Meinungsfreiheit,Wissenschaftsfreiheit]
 ---
 
-*Folge III der »Sozialen Virologe« hat Denker vorgestellt, deren
+*[Folge
+III](https://uwejochum.github.io/5artikel/2023/04/07/schmid-soziale-virologie-03/)
+der »Sozialen Virologe« hat Denker vorgestellt, deren
 geistig-moralisches Koordinatensystem im Angstmodus der
 Corona-Pandemie versagt hat und die sich dem polit-medialen
 Mainstream-Narrativ angedient haben. Nun ist es an der Zeit, jene

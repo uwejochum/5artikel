@@ -634,12 +634,14 @@ href="https://pixabay.com/de//?utm_source=link-attribution&amp;utm_medium=referr
 
 
 
-*In Teil II wird erkundet, welche Denker aus dem Umfeld der
-sozialen Virologie die Problematik des Maßnahmenstaats
-thematisiert haben, bevor die Corona-Pandemie in Szene gesetzt
-wurde --- und wie sich diese Theoretiker aus der Affäre zogen,
-als im März 2020 ihre Denkmodelle auf die Wirklichkeit im
-Ausnahmezustand trafen. Zunächst muß konstatiert werden, daß
-allzu viele Intellektuelle ihr denkerisches Koordinatensystem
-verraten haben (so sie die Pandemie erlebten) oder von ihren
-epigonalen Interpreten posthum mißinterpretiert wurden.*
+*In [Teil
+II](https://uwejochum.github.io/5artikel/2023/03/22/schmid-soziale-virologie-02/)
+wird erkundet, welche Denker aus dem Umfeld der sozialen
+Virologie die Problematik des Maßnahmenstaats thematisiert haben,
+bevor die Corona-Pandemie in Szene gesetzt wurde --- und wie sich
+diese Theoretiker aus der Affäre zogen, als im März 2020 ihre
+Denkmodelle auf die Wirklichkeit im Ausnahmezustand
+trafen. Zunächst muß konstatiert werden, daß allzu viele
+Intellektuelle ihr denkerisches Koordinatensystem verraten haben
+(so sie die Pandemie erlebten) oder von ihren epigonalen
+Interpreten posthum mißinterpretiert wurden.*

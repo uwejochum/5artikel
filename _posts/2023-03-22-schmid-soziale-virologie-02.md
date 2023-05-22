@@ -555,10 +555,12 @@ opportunistisch, bleibt offen --- für Abstand zu sich selbst, in dem sie
 durch Machtaffirmation zentrale Intentionen ihres bisherigen
 denkerischen Koordinatensystems preisgaben.
 
-*Daher wenden wir uns in Teil III zwei sehr betagten Denkern zu,
-deren Werk und Weltsicht eigentlich dafür gesprochen hätte, sie
--- vorsichtig ausgedrückt --- nicht unbedingt auf Seiten des
-Maßnahmen-Staates und der Impflobby wiederzufinden.*
+*Daher wenden wir uns in [Teil
+III](https://uwejochum.github.io/5artikel/2023/04/07/schmid-soziale-virologie-03/)
+zwei sehr betagten Denkern zu, deren Werk und Weltsicht
+eigentlich dafür gesprochen hätte, sie -- vorsichtig ausgedrückt
+--- nicht unbedingt auf Seiten des Maßnahmen-Staates und der
+Impflobby wiederzufinden.*
 
 
 ### Anmerkungen

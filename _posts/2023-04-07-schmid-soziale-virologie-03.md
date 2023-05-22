@@ -410,10 +410,12 @@ bilden.
 
 ---
 
-*In Teil IV wird un­sere Erkundung der Denker­land­schaft in Zeiten der
-Pan­demie fortgesetzt --- dann mit Intel­lektuel­len, die ihr denkeri­sches
-Ko­ordina­ten­system nicht ver­rieten und dem Corona-Auto­ri­ta­rismus die
-Stirn ge­boten haben.*
+*In [Teil
+IV](https://uwejochum.github.io/5artikel/2023/05/22/schmid-soziale-virologie-04/)
+wird un­sere Erkundung der Denker­land­schaft in Zeiten der
+Pan­demie fortgesetzt --- dann mit Intel­lektuel­len, die ihr
+denkeri­sches Ko­ordina­ten­system nicht ver­rieten und dem
+Corona-Auto­ri­ta­rismus die Stirn ge­boten haben.*
 
 ### Anmerkungen
 
