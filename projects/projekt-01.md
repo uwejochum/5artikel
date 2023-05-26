@@ -577,7 +577,7 @@ header-img: "img/totenbuch-bg.jpg"
     1800*. Hrsg. von Cornelia Ortlieb und Tobias Fuchs.
     Hannover: Wehrhahn, 2017. In: [Informationsmittel für
     Bibliotheken 26
-    (2018)](http://informationsmittel-fuer-bibliotheken.de/showfile.php?id=8763)
+    (2018)](http://informationsmittel-fuer-bibliotheken.de/showfile.php?id=8763).
 
 -   »Open Access« und die Zukunft freier Wissenschaft. In:
     Erziehungswissenschaft 29 (2018), S. 19–28. [PDF](https://www.dgfe.de/fileadmin/OrdnerRedakteure/Zeitschrift_Erziehungswissenschaft/EW_57.pdf)
@@ -614,55 +614,55 @@ header-img: "img/totenbuch-bg.jpg"
     [27.3.2021](https://www.achgut.com/artikel/wissenschaft_als_meinungsmassage).
 
 -   Coronaexperten-Ranking: Wo bleibt Lauterbach? In: Achgut.com,
-    [17.4.2021](coronaexperten_ranking_wo_bleibt_lauterbach)
+    [17.4.2021](coronaexperten_ranking_wo_bleibt_lauterbach).
 	
--   Professorin für Auto, Motor und Corona. In: Achgut.com, [18.5.2021](https://www.achgut.com/artikel/professorin_brinkmann_vom_autoservice)
+-   Professorin für Auto, Motor und Corona. In: Achgut.com, [18.5.2021](https://www.achgut.com/artikel/professorin_brinkmann_vom_autoservice).
 
 -   Forschung: Helmholtz und die Politik. In: Achgut.com,
-    [10.8.2021](https://www.achgut.com/artikel/forschung_helmholz_und_die_politik)
+    [10.8.2021](https://www.achgut.com/artikel/forschung_helmholz_und_die_politik).
 	
 -   Folgende Wahrheiten erachten wir als selbstverständlich. In:
     Achgut.com,
-    [23.8.2021](https://www.achgut.com/artikel/folgende_wahrheiten_erachten_wir_als_selbstverstaendlich)
+    [23.8.2021](https://www.achgut.com/artikel/folgende_wahrheiten_erachten_wir_als_selbstverstaendlich).
 
 -   Impfen: Papst verstrickt sich tief in innere
 	Widersprüche. In: Achgut.com,
-	[20.10.2021](https://www.achgut.com/artikel/impfen_papst_verstrickt_sich_tief_in_innere_widersprueche)
+	[20.10.2021](https://www.achgut.com/artikel/impfen_papst_verstrickt_sich_tief_in_innere_widersprueche).
 	
 -   »Woke« Bibliotheken: Vom totalitären Virus infiziert. In:
     Achgut.com,
-    [2.11.2021](https://www.achgut.com/artikel/woke_bibliotheken_Vom_totalitaeren_Virus_infiziert)
+    [2.11.2021](https://www.achgut.com/artikel/woke_bibliotheken_Vom_totalitaeren_Virus_infiziert).
 	
 -   »Geimpft, genesen oder gestorben«: Spahns zynische
     Angsttriebe. In: Achgut.com,
-    [22.11.2021](https://www.achgut.com/artikel/geimpft_genesen_oder_gestorben_spahns_zynische_angsttriebe)
+    [22.11.2021](https://www.achgut.com/artikel/geimpft_genesen_oder_gestorben_spahns_zynische_angsttriebe).
 	
 -   Die Lockdown-Drehbücher: Natürliches Abklingen als Erfolg
     staatlicher Maßnahmen? In: Achgut.com,
-    [29.11.2021](https://www.achgut.com/artikel/die_lockdown_drehbuecher_natuerliches_abklingen_als_erfolg_staatlicher_massnahmen)
+    [29.11.2021](https://www.achgut.com/artikel/die_lockdown_drehbuecher_natuerliches_abklingen_als_erfolg_staatlicher_massnahmen).
 	
--   Die Solidaritäts-Fibel von Alena Buyx. In: Achgut.com, [16.12.2021](https://www.achgut.com/artikel/Die_Solidaritaet_Fibel_von_Alena_Buyx)
+-   Die Solidaritäts-Fibel von Alena Buyx. In: Achgut.com, [16.12.2021](https://www.achgut.com/artikel/Die_Solidaritaet_Fibel_von_Alena_Buyx).
 
 ## 2022
 
 -   Von Schauspielern, Politikern und Lauterbach. In: Achgut.com,
-	[01.03.2022](https://www.achgut.com/artikel/von_schauspielern_politikern_und_lauterbach)
+	[01.03.2022](https://www.achgut.com/artikel/von_schauspielern_politikern_und_lauterbach).
 
 -   Kriege: Gewinner ist oft der lachende Dritte. In: Achgut.com,
-    [11.04.2022](https://www.achgut.com/artikel/kriege_gewinner_ist_oft_der_lachende_dritte)
+    [11.04.2022](https://www.achgut.com/artikel/kriege_gewinner_ist_oft_der_lachende_dritte).
 	
 -   Je mehr Digitalisierung, desto mehr Überwachung. In:
-    Achgut.com, [28.04.2022](https://www.achgut.com/artikel/je_mehr_digitalisierung_desto_mehr_ueberwachung)
+    Achgut.com, [28.04.2022](https://www.achgut.com/artikel/je_mehr_digitalisierung_desto_mehr_ueberwachung).
 
 -   Opfer-Talk mit Alena Buyx und Melanie Brinkmann. In:
     Achgut.com,
-    [25.06.2022](https://www.achgut.com/artikel/opfer_talk_mit_alena_buyx_und_melanie_brinkmann)
+    [25.06.2022](https://www.achgut.com/artikel/opfer_talk_mit_alena_buyx_und_melanie_brinkmann).
 
 -   Die Maske für immer. In: Achgut.com,
-    [09.08.2022](https://www.achgut.com/artikel/die_maske_fuer_immer)
+    [09.08.2022](https://www.achgut.com/artikel/die_maske_fuer_immer).
 	
 -   Das Kinderopfer. In: Achgut.com,
-    [20.08.2022](https://www.achgut.com/artikel/das_kinderopfer)
+    [20.08.2022](https://www.achgut.com/artikel/das_kinderopfer).
 	
 -   Bibliotheken: Digitalisierung ohne Strom. In: Achgut.com,
     [28.09.2022](https://www.achgut.com/artikel/bibliotheken_digitalisierung_ohne_strom)
@@ -671,30 +671,31 @@ header-img: "img/totenbuch-bg.jpg"
 
 -   Warum Drostens Dogmen am Campingplatz scheitern. In:
     Achgut.com,
-    [07.12.2022](https://www.achgut.com/artikel/warum_drostens_dogmen_am_campingplatz_scheitern)
+    [07.12.2022](https://www.achgut.com/artikel/warum_drostens_dogmen_am_campingplatz_scheitern).
 	
 -   Fürchtet euch nicht! Ein Wort zur Weihnacht. In:
     stattzeitung.org,
-    [25.12.2022](https://www.stattzeitung.org/artikel-lesen/2022-12-25-froehliche-weihnacht-ihr-lieben.html)
+    [25.12.2022](https://www.stattzeitung.org/artikel-lesen/2022-12-25-froehliche-weihnacht-ihr-lieben.html).
 	
 -   Bücherverbannung für die Demokratie. In: Achgut.com,
-    [26.12.2022](https://www.achgut.com/artikel/buecherverbannung_fuer_die_demokratie#leserpost_start)
+    [26.12.2022](https://www.achgut.com/artikel/buecherverbannung_fuer_die_demokratie#leserpost_start).
 
 ## 2023
 
 -   Sternsinger ohne Stern. In: Achgut.com,
-    [06.01.2023](https://www.achgut.com/artikel/sternsinger_ohne_stern)
+    [06.01.2023](https://www.achgut.com/artikel/sternsinger_ohne_stern).
 	
 -   Ad multos annos! In: stattzeitung.org,
-    [19.02.2023](https://www.stattzeitung.org/artikel-lesen/2023-02-19-ad-multor-annos.html)
+    [19.02.2023](https://www.stattzeitung.org/artikel-lesen/2023-02-19-ad-multor-annos.html).
 
 -   Die Afterwissenschaft der Max-Planck-Gesellschaft. In:
-    Achgut.com, [25.03.2023](https://www.achgut.com/artikel/die_afterwissenschaft_der_Max_Planck_Gesellschaft)
+    Achgut.com, [25.03.2023](https://www.achgut.com/artikel/die_afterwissenschaft_der_Max_Planck_Gesellschaft).
 
 -   Es war aber einer krank. Ein Wort zum Osterfest 2023. In:
     stattzeitung,
-    [08.04.2023](https://www.stattzeitung.org/artikel-lesen/2023-04-08-es-war-aber-einer-krank-ein-wort-zum-osterfest-2023.html)
-	
+    [08.04.2023](https://www.stattzeitung.org/artikel-lesen/2023-04-08-es-war-aber-einer-krank-ein-wort-zum-osterfest-2023.html).
+
+-   Das böse Buch. In: Achgut.com, [22.05.2023](https://www.achgut.com/artikel/das_boese_buch).
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
