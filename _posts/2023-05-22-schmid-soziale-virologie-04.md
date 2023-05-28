@@ -35,7 +35,7 @@ mäandrierend.
 Die Juristin, Verfassungsrichterin und Schriftstellerin Juli Zeh
 gehört --- ebenso wie etwa die Dramaturgin Thea Dorn und der
 Romancier Daniel Kehlmann mit seiner Klage über die fatale
-Abhängigkeit allen Lebens von einer sogenannten R-Zahl --- zu
+Abhängigkeit allen Lebens von einer sogenannten R-Zahl[^4] --- zu
 dieser kleinen Gruppe, wenngleich sie keinen tätigen Widerstand
 übte, indem sie (beispielsweise) Demonstrationen organisiert
 hätte. Es gehörte aber auch schon allerhand Zivilcourage dazu,
@@ -651,3 +651,31 @@ der Quarantäne erstarrt das Leben zum Überleben. Je mehr das Leben ein
 [^3]: Roberto Esposito: Immunitas. Schutz und Negation des
     Lebens. Aus dem Italienischen von Sabine Schulz. Berlin:
     Diaphanes Verlag, 2021 (deutsche Erstausgabe 2002).
+
+[^4]: »Diese grauen Hüter über die Zahlen sind Beamte [beim RKI],
+	sie müssen die Folgen einer stillgelegten Gesellschaft nicht
+	fürchten. Gleichzeitig erleben sie einen Machtzuwachs, von
+	dem sie nie hätten träumen können [...]. Es ist schon
+	albtraumhaft, dass die Zukunft der Gesellschaft [...] an der
+	Entwicklung einer statistischen Größe liegt, von der
+	praktisch kaum vermittelbar ist, wie sie überhaupt ermittelt
+	wird.« In der Tat muteten die Zahlen-Orakel der Corona-Zeit
+	oftmals geradezu kurios an: Nachdem zuerst die R-Zahl als
+	alleingültiger Maßstab ausgegeben wurde, mutierte plötzlich
+	eine sogenannte Inzidenz zum alleingültigen Richtwert, dessen
+	Ausschläge nach oben — selbst im minimalsten Bereich — für
+	polit-mediale Panikexzesse genutzt wurden. Offensichtlich
+	hatte die coronare Gesellschaft weniger Angst vor einem Virus
+	als vor Zahlen.  Kehlmann zog aus seinen Beobachtungen
+	weiterreichende Schlüsse: »Ich werde mich in der
+	demokratischen Zivilgesellschaft nie wieder so sicher fühlen
+	wie früher. Denn ich habe ja jetzt gesehen, wie schnell unter
+	dem Druck der Angst wesentliche Freiheitsrechte reduziert
+	werden können. Potenzielle Autokraten wissen jetzt sehr gut,
+	dass eine Epidemie ein sehr effektiver Weg zur
+	Machtergreifung sein kann.« Diese Zitate des Schriftstellers,
+	die im November 2020 auf dem Nachrichtenportal des NDR unter
+	diesem Link
+	www.ndr.de/nachrichten/info/sendungen/kommentare/Kommentar-Brachial-die-Zuegel-anziehen-,corona4554.html
+	zu lesen waren, sind im Mai 2023 weder unter dem angegebenem
+	Pfad noch überhaupt auffindbar.
