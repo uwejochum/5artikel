@@ -3,7 +3,7 @@ layout:	post
 title:	Soziale Virologie II
 subtitle: Wer den Maßnahmen-Staat kritisierte, bevor die Pandemie begann &mdash; und von seinen Epigonen in der großen Hysterie mißinterpretiert wurde
 author:	Jürgen Schmid
-tags:   [Demokratie,Meinungsfreiheit,Wissenschaftsfreiheit]
+tags:   [Demokratie,Meinungsfreiheit,Pandemie]
 ---
 
 *Welche Schäden eine denunzia&shy;tori&shy;sche Sprache

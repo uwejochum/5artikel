@@ -3,7 +3,7 @@ layout:	post
 title:	Soziale Virologie I
 subtitle: Wie die Infektiologie in die Alltagssprache kam
 author:	Jürgen Schmid
-tags:   [Demokratie,Meinungsfreiheit,Wissenschaftsfreiheit]
+tags:   [Demokratie,Meinungsfreiheit,Pandemie]
 ---
 
 *Zu Beginn des ersten Post-Corona-Jahres, wo erkennbar wird, wie

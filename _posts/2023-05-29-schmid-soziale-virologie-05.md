@@ -3,7 +3,7 @@ layout:	post
 title:	Soziale Virologie V
 subtitle: Wer den Maßnahmen-Staat kritisierte, bevor die Pandemie begann &mdash; und seinen Überzeugungen gemäß zum Maßnahmenkritiker wurde
 author:	Jürgen Schmid
-tags:   [Demokratie,Meinungsfreiheit,Wissenschaftsfreiheit]
+tags:   [Demokratie,Meinungsfreiheit,Pandemie]
 ---
 
 ### Byung-Chul Han

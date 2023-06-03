@@ -3,7 +3,7 @@ layout:	post
 title:	Soziale Virologie III
 subtitle: Wer den Maßnahmen-Staat kritisierte, bevor die Pandemie begann &mdash; und sein Koordinatensystem im Ausnahmezustand verriet
 author:	Jürgen Schmid
-tags:   [Demokratie,Meinungsfreiheit,Wissenschaftsfreiheit]
+tags:   [Demokratie,Meinungsfreiheit,Pandemie]
 ---
 
 *Zwischen Selbstanspruch und Wirklichkeit --- Intellektuelle in Zeiten der
