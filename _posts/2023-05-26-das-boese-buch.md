@@ -1,8 +1,9 @@
 ---
 layout:	post
-title:	Die bösen Bücher
+title:	Das böse Buch
 author:	Uwe Jochum
 lang: DE-de
+tags: [Buch,Zensur]
 ---
 
 <img src="http://vg01.met.vgwort.de/na/86f52143970b46af9a3bf24e506d328f" width="1" height="1" alt="">
