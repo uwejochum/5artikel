@@ -30,6 +30,11 @@ Formulierungskünste illustrieren, in einem Parcours, der
 charakteristische Begebenheiten und Wendepunkte aus seinem Leben
 abschreitet.
 
+![Georg R. Schroubek](/5artikel/material/schmid-schroubek.jpeg
+"Georg R. Schroubek")[Dr. Georg R. Schroubek als
+wissenschaftlicher Mitarbeiter auf Exkursion des Instituts für
+Deutsche und Vergleichende Volkskunde der
+Ludwig-Maximilians-Universität Mün­chen im Piemont, 1973.]
 
 ## Eine deutsche Biographie des 20.&nbsp;Jahrhunderts
 
@@ -683,12 +688,6 @@ Europas vor uns, in dessen geistigen Traditionen er sich souverän
 bewegte --- und vor dessen Kulisse er mit sich und seinen Dämonen
 rang. »Die Welt wie sie sein könnte und nicht ist«[^32] --- an
 dieser unmöglichen Möglichkeit hat er gelitten wie wenige.
-
-![Georg R. Schroubek](/5artikel/material/schmid-schroubek.jpeg
-"Georg R. Schroubek")[Dr. Georg R. Schroubek als
-wissenschaftlicher Mitarbeiter auf Exkursion des Instituts für
-Deutsche und Vergleichende Volkskunde der
-Ludwig-Maximilians-Universität Mün­chen im Piemont, 1973.]
 
 ## Anmerkungen
 
