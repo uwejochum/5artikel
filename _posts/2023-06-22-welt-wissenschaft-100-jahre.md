@@ -162,3 +162,10 @@ Unklarheit des Urtextes selbst geschlossen werden, die zu überwinden
 bisher nicht gelungen ist. Auch für den Spezialforscher sind leider noch
 viele Rätsel der Wortbedeutung und des Zusammenhanges ungelöst, worauf
 hier ein für alle Male aufmerksam gemacht sei.*
+
+---
+
+Erstpublikation am 21. Juni 2023 auf
+[Achgut.com](https://www.achgut.com/artikel/als_wissenschaft_noch_nach_wahrheit_strebte). Hier
+mit einigen kleinen Korrekturen und in klassischer deutscher
+Orthographie.
