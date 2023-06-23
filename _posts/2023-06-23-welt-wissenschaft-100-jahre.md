@@ -1,6 +1,7 @@
 ---
 layout:	post
 title:	Die Welt der Wissenschaft vor 100 Jahren
+subtitle: Als Wissenschaft noch nach Wahrheit strebte
 author:	Uwe Jochum
 tags:   [Wissenschaft,Freiheit]
 ---

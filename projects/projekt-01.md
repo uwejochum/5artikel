@@ -697,6 +697,10 @@ header-img: "img/totenbuch-bg.jpg"
 
 -   Das böse Buch. In: Achgut.com, [22.05.2023](https://www.achgut.com/artikel/das_boese_buch).
 
+-   Als Wissenschaft noch nach Wahrheit strebte. In: Achgut.com,
+    [21.06.2023](https://www.achgut.com/artikel/als_wissenschaft_noch_nach_wahrheit_strebte).
+	
+
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="org2293247"></a>
