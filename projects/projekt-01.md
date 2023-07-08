@@ -700,6 +700,8 @@ header-img: "img/totenbuch-bg.jpg"
 -   Als Wissenschaft noch nach Wahrheit strebte. In: Achgut.com,
     [21.06.2023](https://www.achgut.com/artikel/als_wissenschaft_noch_nach_wahrheit_strebte).
 	
+-   Der Krieg des Pazifisten und des Helden. In:
+    [Sezession](https://sezession.de), [24.06.2023](https://sezession.de/67658/der-krieg-des-pazifisten-und-des-helden).
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
