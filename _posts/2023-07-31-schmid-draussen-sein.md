@@ -328,7 +328,7 @@ daß die magischen Orte der Absonderung, daß ein versprengtes
 Häuflein von inspirierten Nichteinverstandenen für den Erhalt des
 allgemeinen Verständigungssystems unerläßlich ist.«
 
-Wolf (tmp) ![Wolf](/5artikel/material/pixabay-wolf.jpg "Wolf")
+![Wolf](/5artikel/material/pixabay-wolf.jpg "Wolf")
 [Bild von <a
 href="https://pixabay.com/de/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1284276">Pexels</a>
 auf <a
