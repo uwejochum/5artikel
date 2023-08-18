@@ -264,7 +264,7 @@ nun begannen die Dinge sich vor den Augen aller zu verkehren.
 
 War schon die Wut des orthodoxen Feuilletons, die Achgut, Tichy
 und Rubikon als »rechts« gebrandmarkt hatten, um sie als
-debattenrelevant auszuschalten, an dem simplen Umstand
+debattenirrelevant auszuschalten, an dem simplen Umstand
 gescheitert, daß die medizinische und politische Expertise der
 dort schreibenden Autoren nicht wegzureden war, so verpuffte
 diese Wut erst recht in dem Moment, als explizit linke Themen und
