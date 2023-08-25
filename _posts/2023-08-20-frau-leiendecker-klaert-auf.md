@@ -126,7 +126,7 @@ Theodor-Heuss-Medaille, mit der die
 [Theodor-Heuss-Stiftung](https://de.wikipedia.org/wiki/Theodor-Heuss-Stiftung)
 bürgerschaftliche Initiative und Zivilcourage fördern will.
 
-Wir nähern uns dem inneren Mechanismus, der dieser ertaunlichen
+Wir nähern uns dem inneren Mechanismus, der dieser erstaunlichen
 Karriere zugrunde liegt, wenn wir zunächst darauf schauen, daß
 Mai Thi Nguyen-Kim als promovierte Chemikerin mit
 Migrationshintergrund früh schon nicht nur ein Händchen für die
