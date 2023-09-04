@@ -121,7 +121,7 @@ einbilden, er habe dem fatalen Kreislauf des naturzerstörerischen
 [Extraktivismus](https://de.wikipedia.org/wiki/Extraktivismus) den
 Kreislauf des gelassenen Verbrauchs von bereits vorhandenen
 Konsumgütern entgegengesetzt, bei dem die Konsumgüter allmählich
-und zuletzt der Konsum verschwinden werde.
+und zuletzt der Konsum verschwinden werden.
 
 Bis es soweit ist, steht der Müll — und immer mehr Müll — auf der
 Straße. Und damit jedermann klar wird, daß dieser Müll moralisch
@@ -132,7 +132,7 @@ und führe sich vor Augen, daß dieser Müll von Herzen kommt:
 ![Müll von Herzen](/5artikel/material/jochum-heimatkunde-02-02.jpg
 "Müll von Herzen") [Herzensmüll. Photo: Uwe Jochum.]
 
-Der Wiederverwendungszweck spingt hier in die Augen: ausgediente
+Der Wiederverwendungszweck springt hier in die Augen: ausgediente
 Kinderschuhe, aus der die Kleinen viel schneller herauswachsen
 als den Eltern lieb ist, die dazugehörigen Kindersöckchen, ein
 Nuckelfläschchen und das passende Kinderbuch, auf daß der
