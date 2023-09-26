@@ -60,7 +60,7 @@ doch nicht, wie man hier sieht:
 "Immernoch-Flecken") [Immernoch-Flecken. Photo: Uwe Jochum.]
 
 Im Vergleich zu dem Zustand, den ich im ersten Teil dieser
-»Heimarkunde« festgehalten habe, ist das freilich eine
+»Heimatkunde« festgehalten habe, ist das freilich eine
 Verbesserung. Im Vergleich zu dem, wie es sein sollte, ist es
 aber weit vom Optimum entfernt. Offenbar ist immer noch nicht
 klar, wer hier verantwortlich sein sollte und, vor allem, wer
