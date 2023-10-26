@@ -318,7 +318,7 @@ führen.
 
 Eine bedenkenswerte Spielart des »Draußenseins«, vor 30 Jahren im
 *Spiegel* (sic!) skizziert von einem, den der *Spiegel* heute
-nicht einmal mit der Beißzanze anfassen würde --- Botho Strauß im
+nicht einmal mit der Beißzange anfassen würde --- Botho Strauß im
 *Anschwellenden Bocksgesang*: »So viele wunderbare Dichter, die
 noch zu lesen sind --- so viel Stoff und Vorbildlichkeit für
 einen jungen Menschen, um ein Einzelgänger zu werden. Man muß nur
