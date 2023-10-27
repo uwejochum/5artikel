@@ -85,9 +85,9 @@ denen sich eine mittelalterliche Bebauung erhalten hat und nun
 die von dieser Bebauung abstrahlende Atmosphäre durch die
 Drahtesel, die an den Häusern lehnen, glatt vernichtet wird.
 
-![Häuser an der
-Wand](/5artikel/material/jochum-heimatkunde-04-02.jpg "Häuser an
-der Wand") [Häuser an der Wand. Photo: Uwe Jochum.]
+![Räder an der
+Wand](/5artikel/material/jochum-heimatkunde-04-02.jpg "Räder an
+der Wand") [Räder an der Wand. Photo: Uwe Jochum.]
 
 Einmal abgesehen davon, daß wir nun den Zustand erreichen, daß
 man das Auto erfolgreich aus den Innenstädten gedrängt hat, um
