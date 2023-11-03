@@ -486,6 +486,15 @@ header-img: "img/accipies-banner-grau-dunkel.png"
     Dr.&nbsp;Tobias Christ veranstalteten Oberseminar
     »Bibliotheken als Institutionen der Buchkultur«; Dienstag,
     den 7. Februar, 12.15–13.45 Uhr.
+	
+-   »Wie wir dank der Bücher zu Personen wurden.« Vortrag im
+    »Kontrafunk« in der Sendereihe »Gesellschaft 3.0« am
+    [12. September
+    2023](https://kontrafunk.radio/de/sendung-nachhoeren/lebenswelten/gesellschaft-3-0/gesellschaft-3-0-mit-uwe-jochum-wie-wir-dank-der-buecher-zu-personen-wurden?highlight=WyJ1d2UiLCJqb2NodW0iLCJ1d2Ugam9jaHVtIl0=).
+	
+-   »Wozu Bücher?« Vortrag im »Kontrafunk« in der Sendereihe
+    »Gesellschaft 3.0« am [10. Oktober 2023](https://kontrafunk.radio/de/sendung-nachhoeren/lebenswelten/gesellschaft-3-0/gesellschaft-3-0-wozu-buecher?highlight=WyJ1d2UiLCJqb2NodW0iLCJ1d2Ugam9jaHVtIl0=).
+
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 

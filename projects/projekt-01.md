@@ -706,6 +706,14 @@ header-img: "img/totenbuch-bg.jpg"
 -   Zum Problem des Islams in Deutschland. In: stattzeitung,
     [11.08.2023](https://www.stattzeitung.org/artikel-lesen/2023-08-11-zum-problem-des-islams-in-deutschland.html).
 
+-   Zermürbungskrieg? Eine fahrlässige Rechnung. In: Sezession,
+    [15.09.2023](https://sezession.de/68110/zermuerbungskrieg-ein-fahrlaessige-rechnung-sagt-gastautor-uwe-jochum?hilite=Uwe+Jochum).
+	
+-   Krieg ist ein politischer, kein moralischer Akt. In:
+    Sezession,
+    [18.09.2023](https://sezession.de/68112/krieg-ist-ein-politischer-kein-moralischer-akt-erklaert-gastautor-uwe-jochum?hilite=Uwe+Jochum).
+	
+
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
 <a id="org2293247"></a>
