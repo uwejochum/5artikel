@@ -706,6 +706,9 @@ header-img: "img/totenbuch-bg.jpg"
 -   Zum Problem des Islams in Deutschland. In: stattzeitung,
     [11.08.2023](https://www.stattzeitung.org/artikel-lesen/2023-08-11-zum-problem-des-islams-in-deutschland.html).
 
+-   Die institutionalisierte Corona-Karrieristin. In: Achgut.com,
+    [15.08.2023](https://www.achgut.com/artikel/die_institutionalisierte_corona_karrieristin).
+
 -   Zermürbungskrieg? Eine fahrlässige Rechnung. In: Sezession,
     [15.09.2023](https://sezession.de/68110/zermuerbungskrieg-ein-fahrlaessige-rechnung-sagt-gastautor-uwe-jochum?hilite=Uwe+Jochum).
 	
