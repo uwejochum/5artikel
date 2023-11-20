@@ -70,17 +70,6 @@ Mainstream — hier Gabor Steingart im FOCUS — in aller Offenheit,
 wie sehr ihn Fakten »verstören«.
 
 
-## Köln, 6. Februar 2023, schon vor der »Tagessschau« — Peak Gender
-
-Die progressivste unter Deutschlands progressiven Anstalten, der
-WDR, gibt in höchster Not — eine selbstlancierte Meinungsumfrage
-hatte ergeben, dass zwei Drittel der Bundesbürger die
-Gendersprache ablehnen — bekannt, man wolle künftig im Fernsehen
-wieder »sprechen wie unser Publikum«. Seither sind Knack- und
-Zischlaute zur »Hörbarmachung« diverser frei erfundener
-Geschlechter Fernsehgeschichte; ebenso sämtliche »Sternchen«, die
-das Schriftbild von Nachrichten verunziert hatten.
-
 ## Berlin, 26. März 2023, nach Schließung der Wahllokale — Peak Klima
 
 Krachend scheiterte der Volksentscheid »Berlin 2030 klimaneutral«
@@ -93,6 +82,17 @@ Peinlichkeit von »Aktionen« ohne Aktionisten und ohne Publikum
 abzuwenden. Und Klima-»Prophetin« Greta ist nach ihren
 Pro-Palästina-Äußerungen sogar bei der eigenen Peer Group unten
 durch.
+
+## Köln, 6. Februar 2023, schon vor der »Tagesschau« — Peak Gender
+
+Die progressivste unter Deutschlands progressiven Anstalten, der
+WDR, gibt in höchster Not — eine selbstlancierte Meinungsumfrage
+hatte ergeben, dass zwei Drittel der Bundesbürger die
+Gendersprache ablehnen — bekannt, man wolle künftig im Fernsehen
+wieder »sprechen wie unser Publikum«. Seither sind Knack- und
+Zischlaute zur »Hörbarmachung« diverser frei erfundener
+Geschlechter Fernsehgeschichte; ebenso sämtliche »Sternchen«, die
+das Schriftbild von Nachrichten verunziert hatten.
 
 ## München, 23. Juni 2023, zur Zeit der Opernfestspiele — Peak Ukraine-Fanatismus
 
