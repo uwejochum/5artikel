@@ -39,8 +39,76 @@ in so mancher Unternehmensverlautbarung: Krankheitswelle. Die
 Forschungs­gruppe Wahlen ermittelte für Anfang November 2023 bei
 der Frage nach den wichtigsten Problemen für »Corona« einen
 beeindruckenden Wert: [Null
-Prozent.](https://de.statista.com/statistik/daten/studie/1062780/umfrage/umfrage-zu-den-wichtigsten-problemen-in-deutschland/)
+Prozent.](https://de.statista.com/statistik/daten/studie/1062780/umfrage/umfrage-zu-den-wichtigsten-problemen-in-deutschland/)[^1]
 (Größte Sorge der Befragten: die Zuwanderung. Dazu später.)
+
+[^1]: Eine genauere Betrachtung der Schwankungen in Volkes
+    Stimmung seit 2016 lohnt --- endlich einmal Zahlen, die ebenso
+    signifikant wie repräsentativ sind:<br><br>
+    Der umfragestatistische
+    Peak lag bei »Corona« Ende November 2021 mit 80 Prozent (!),
+    danach ging es steil bergab: Anfang April hielten noch 25 Prozent
+    ein Virus für das drängendste Problem, Mitte Juni 2022 nur
+    noch 8 Prozent, heute Null. War also die Bundestagsentscheidung
+    gegen die Impfpflicht --- »Peak Corona« --- nur der nach außen
+    spürbare Kulminationspunkt; und der Peak in den Umfragen, die
+    ja die Stimmung der Menschen anzeigen (was in diesem Fall
+    bedeutete, daß selbst die Zeugen Coronas ihrer Hysterie müde
+    geworden sind), hat diese Entscheidung erst herbeigeführt?<br>
+    Was hat die Corona-Hysterie abgelöst? Die Ukraine-Frage, die
+    auf dem »Pandemie«-Höhepunkt im Herbst 2021 (Impf-Terror!)
+    statistisch gar nicht aufscheint und dann rasant Fahrt
+    aufnimmt --- medial und bei »den Menschen da draußen«
+    (A.&nbsp;Merkel). Allerdings liegt das Thema vor dem russischen
+    Einmarsch in die Ukraine noch weit hinter Corona, erst Anfang
+    März 2022 schießt es hoch auf 57 Prozent und rangiert damit an der
+    Spitze der Ängste. Im Februar 2023 --- »Peak
+    Rußland-Sanktionen« --- war »Stand with Ukraine« schon hinter
+    die Energiefrage gerutscht, welche durch die Sanktionen gegen
+    Rußland, die wie ein Bumerang gegen die Sanktionierer
+    zurückschnellten, erst virulent wurde. Im Sommer 2023 --- »Peak
+    Ukraine-Fanatismus« --- spielte es bereits nur noch eine
+    Nebenrolle, heute dümpelt es bei 8 Prozent, was den Zynismus der
+    »Stand-with-Ukraine«-Kriegstreiber in grellstem Licht
+    beleuchtet, die an ihren sicheren Schreibtischen nicht genug
+    dafür schreien konnten, daß so viele Ukrainer wie möglich an
+    der Front sterben. »Die Basis« hatte dazu im bayerischen
+    Wahlkampf sehr treffend plakatiert: »Wie viele Tote braucht
+    der Frieden?« (Das zweite Plakat, das in einem bis zur
+    Stupidität personalisierten und inhaltlich entleerten
+    Wahlkampf beein­druckt hat, war »Grenzkontrolle statt
+    Heizungskontrolle«, worin die Alternative in drei Worten die
+    wahlentscheidenden Themen gebündelt, wenn nicht gar zum Teil
+    mit priorisiert hat --- siehe Peak »Wir schaffen das« / »Wir
+    haben Platz«.)<br><br>
+    Der Sommer 2019 (ante Corona) erlebte den
+    absoluten Höhepunkt der Klima-Hysterie mit 59 Prozent, ein medial
+    erzeugter »Wert«, der auch statistisch nie wieder erreicht
+    wurde --- und mit Etablierung der Corona-»Pandemie« sofort in
+    den Keller fiel, wo er lange verharrte. Trotz massivst
+    möglicher Propagandadauerbeschallung gelang es der Klimasekte
+    nie, Zustimmungswerte in der Höhe zu erreichen wie sie die
+    Migrationsfrage oder die Angst vor dem Virus
+    generierten. Klima ist und bleibt ein medial gesteuerter Hype
+    einer kleinen radikalen Sekte --- eine Breitenwirkung hat das
+    Zerstörungsprogramm im Namen der vermeintlichen
+    Planetenrettung einfach nicht, mache Luisa, was sie wolle.<br><br>
+    Ende März 2023, als der Volksentscheid »Berlin 2030
+    klimaneutral« scheiterte --- »Peak Klima« --- stand das Thema,
+    subsumiert (und abgefragt?) allerdings unter »Energie /
+    Versorgung / Klima« (heißt: es sind Klimahysteriker und
+    Sanktionsbefür­worter ebenso erfasst wie ihre radikalsten
+    Antipoden) bei 32 Prozent an zweiter Stelle hinter »Ukraine / Krieg
+    / Rußland«. Danach ging es kurz sogar noch mal rauf auf 50 Prozent,
+    weil die Medien trommelten wie verrückt, um irgendeine
+    Hysterie am Köcheln zu halten. Der Einbruch auf heute 20 Prozent
+    erfolgte ab Juni. Mit dem Münchner IAA-Protest-Mißerfolg im
+    Sommer also war auch statistisch erkennbar klar, wie sehr die
+    Klima-Hysterie abgewirtschaftet hatte; die mißratene
+    Berlin-Abstimmung war eine Etappe dorthin.<br><br>
+    Der Queer- und
+    Gender-Kult kommt in der Statistk darüber, was die Menschen
+    im Lande bewegt, übrigens gar nicht vor.
 
 
 ## Katar, 23. November 2022, 14 Uhr Mitteleuropäischer Zeit — Peak Queer
@@ -53,7 +121,7 @@ auffielen — indem sie sich im Zeichen dieses Kürzelsalats vor dem
 Spiel gegen Japan (1:2) den Mund zuhielten. Haben Sie seither
 die absurde Abkürzung noch irgendwo gesehen?
 
-## Washington, 1. Februar 2023, Hauptsitz des IWF — Peak Russland-Sanktionen
+## Washington, 1. Februar 2023, Hauptsitz des IWF — Peak Rußland-Sanktionen
 
 Der Internationale Währungsfonds stellt fest: Die Sanktionen
 gegen Russland nach dem Einmarsch in der Ukraine Ende Februar
@@ -75,7 +143,7 @@ wie sehr ihn Fakten »verstören«.
 Krachend scheiterte der Volksentscheid »Berlin 2030 klimaneutral«
 − ein Menetekel. Denn wenn es in Berlin, wo Wildschweine Löwen
 sind, nicht mehr geht, dann geht es nirgendwo. Zur IAA in München
-blies die FFF-Sekte im Spätsommer noch mal zum großen Halali –
+blies die FFF-Sekte im Spätsommer noch mal zum großen Halali —
 und landete als Rohrkrepierer auf den Straßen, wo nicht einmal
 mehr genug »Aktivisten« mobilisiert werden konnten, um die
 Peinlichkeit von »Aktionen« ohne Aktionisten und ohne Publikum
@@ -190,6 +258,31 @@ zum Trotz — von CDU und AfD gemeinsam gestellt wurde. Dieser
 Unfall der woken Geisterfahrer scheint vielsagend: Sogar eine
 SPD-Stimme sprach sich für die Rückkehr in die Wirklichkeit aus.
 
+## Piteå, Nordschweden, 2. November 2023, Europas größter Windpark vor Insolvenz — Peak Energiewende
+
+Das Aus kommt vor der »vollständigen Fertigstellung«:
+Windkraftgigant Markbygden Ett, mehrheitlich chinesisches (!)
+Staatsunternehmen, beantragt die Insolvenz, euphemistisch als
+[»Rekonstruktion«](https://blackout-news.de/aktuelles/europas-groesster-windpark-vor-der-insolvenz-weniger-strom-erzeugt-als-vertraglich-zugesichert/)
+verbrämt. Grund: Jahrelange »hohe Verluste« — und das im
+angeblich unerschöpflichen Wachstumsmarkt
+»Zukunftsenergien«. Allzu optimistisch hat Markbygden hohe
+Stromabgabemengen vertraglich zugesichert, die man — weil der
+Wind nicht weht, wenn Verträge das wollen — nicht liefern
+kann. Teurer »Ersatzstrom« muß eingekauft werden, um ihn
+weiterverkaufen zu können — ein Witz der »Energiewende«. Zwar
+feiert Achgut.com die eigenen publizistischen Prophetien etwas
+rechthaberisch und mit zu viel Weihrauch ([»Wir haben es
+gesagt«](https://www.achgut.com/artikel/neue_achgut.com_serie_wir_haben_es_gesagt_heute_manfred_haferburg))
+— Recht haben sie aber doch, wie der Kerntechniker Manfred
+Haferburg, welcher 2016 »die deutsche Energiemalaise« von 2023
+»glasklar« vorherberechnet hatte. Noch früher hat Alexander Wendt
+gewußt, warum dieser Peak kommen muß: »Der Grüne Blackout. Warum
+die Energiewende nicht funktionieren kann« (Edition Blueprint
+2014). Die Energiewende ist »Götzendienst«, was man sogar mit
+hundert Jahre alten Ideologiekritiken [zeigen
+kann](https://twasbo.de/gruener-goetzendienst/).
+
 ## Wiesbaden / Frankfurt am Main, 11. November 2023, lesbar in der FAZ — Peak Grün
 
 Kein Faschingsscherz am 11.11: Die Hessen CDU will nach zehn
@@ -261,4 +354,7 @@ weiterzerstören…
 … aber absteigen müssen sie doch. Denn die Unfallhäufigkeit der
 Woken hat sich in den letzten Wochen drastisch erhöht. Über allzu
 viele funktionsfähige Fahrzeuge verfügt die Flotte nicht mehr.
+
+## Fußnote
+
 
