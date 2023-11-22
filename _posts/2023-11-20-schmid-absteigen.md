@@ -54,7 +54,7 @@ Prozent.](https://de.statista.com/statistik/daten/studie/1062780/umfrage/umfrage
     spürbare Kulminationspunkt; und der Peak in den Umfragen, die
     ja die Stimmung der Menschen anzeigen (was in diesem Fall
     bedeutete, daß selbst die Zeugen Coronas ihrer Hysterie müde
-    geworden sind), hat diese Entscheidung erst herbeigeführt?<br>
+    geworden sind), hat diese Entscheidung erst herbeigeführt?<br><br>
     Was hat die Corona-Hysterie abgelöst? Die Ukraine-Frage, die
     auf dem »Pandemie«-Höhepunkt im Herbst 2021 (Impf-Terror!)
     statistisch gar nicht aufscheint und dann rasant Fahrt
