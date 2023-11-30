@@ -495,6 +495,18 @@ header-img: "img/accipies-banner-grau-dunkel.png"
 -   »Wozu Bücher?« Vortrag im »Kontrafunk« in der Sendereihe
     »Gesellschaft 3.0« am [10. Oktober 2023](https://kontrafunk.radio/de/sendung-nachhoeren/lebenswelten/gesellschaft-3-0/gesellschaft-3-0-wozu-buecher?highlight=WyJ1d2UiLCJqb2NodW0iLCJ1d2Ugam9jaHVtIl0=).
 
+-   »Es geht wieder los.« Kommentar in der Sendereihe »Kontrafunk
+    aktuell« vom [7. November 2023](https://kontrafunk.radio/de/sendung-nachhoeren/politik-und-zeitgeschehen/kontrafunk-aktuell/kontrafunk-aktuell-vom-7-november-2023?highlight=WyJ1d2UiLCJqb2NodW0iLCJ1d2Ugam9jaHVtIl0=).
+
+-   »Die Große Bibliothek von Alexandria.« Vortrag im
+	»Kontrafunk« in der Sendereihe »Audimax – das
+	Kontrafunkkolleg« am [12. November
+	2023](https://kontrafunk.radio/de/sendung-nachhoeren/kultur-und-wissenschaft/audimax-das-kontrafunkkolleg/uwe-jochum-die-grosse-bibliothek-von-alexandria?highlight=WyJ1d2UiLCJqb2NodW0iLCJ1d2Ugam9jaHVtIl0=).
+   
+-   »Leib und Leben.« Kommentar in der Sendereihe »Kontrafunk
+	aktuell« vom [21. November
+	2023](https://kontrafunk.radio/de/sendung-nachhoeren/politik-und-zeitgeschehen/kontrafunk-aktuell/kontrafunk-aktuell-vom-21-november-2023?highlight=WyJ1d2UiLCJqb2NodW0iLCJ1d2Ugam9jaHVtIl0=).
+
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
