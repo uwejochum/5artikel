@@ -14,7 +14,8 @@ ist, der es aufhebt. Ich denke<br> mir immer, daß noch einmal die
 Zeit kommen wird,<br> in der die Menschen plötzlich entdecken
 werden,<br> daß sie etwas verloren haben,<br> das hinter ihnen
 und nicht vor ihnen liegt.<br> 
-Ernst Wiechert: Missa sine nomine
+<br>
+*Ernst Wiechert: Missa sine nomine*
 </p>
 
 
