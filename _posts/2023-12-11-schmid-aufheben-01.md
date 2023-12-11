@@ -14,10 +14,10 @@ ist, der es aufhebt. Ich denke<br> mir immer, daß noch einmal die
 Zeit kommen wird,<br> in der die Menschen plötzlich entdecken
 werden,<br> daß sie etwas verloren haben,<br> das hinter ihnen
 und nicht vor ihnen liegt.<br> 
-<br>
-*Ernst Wiechert: Missa sine nomine*
+Ernst Wiechert: <em>Missa sine nomine</em>
 </p>
 
+---
 
 In Uwe Tellkamps Roman *Der Schlaf in den Uhren* wird --- in Götz
 Kubitscheks Nach­erzählung --- geschildert, »[wie zäh man auf
