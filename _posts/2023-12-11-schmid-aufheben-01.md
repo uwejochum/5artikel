@@ -463,7 +463,7 @@ Digitalismus und Coronismus spricht, schreibt und lebt Deutsch in
 atemberaubender Könnerschaft und Zuneigung, wie er
 [erzählt](http://www.youtube.com/watch?v=bNkDeUApreo) (ab Minute
 6:41), als ein Filmteam ihn an einen Lieblingsort seiner
-Wahlheimat Berlin begleite, auf den St.-Matthäus-Kirchhof, wo er
+Wahlheimat Berlin begleitet, auf den St.-Matthäus-Kirchhof, wo er
 andächtig am Grab der Brüder Grimm verweilt: »Ich habe eine sehr
 intensive Beziehung zur deutschen Sprache, auch zu ihren
 Wörtern. Ich liebe die deutsche Sprache sehr. So pilgere ich zu
