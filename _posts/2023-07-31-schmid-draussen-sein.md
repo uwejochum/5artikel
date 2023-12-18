@@ -2,7 +2,7 @@
 layout:	post
 title:	Draußen sein
 author:	Jürgen Schmid
-tags:   [Zivilcourage,Woke]
+tags:   [Zivilcourage,Wokeismus]
 ---
 
 **Wie kann man sich verhalten in einer Welt, die Kopf steht? Eine

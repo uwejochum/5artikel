@@ -2,7 +2,7 @@
 layout:	post
 title:	Bewirtschaftungen
 author:	Jürgen Schmid
-tags:   [Demokratie,Klima,Woke,Vergangenheitsbewältigung,Flüchtlingskrise]
+tags:   [Demokratie,Klima,Wokeismus,Vergangenheitsbewältigung,Flüchtlingskrise]
 ---
 
 
@@ -14,8 +14,6 @@ die Ziele ihrer Geschäfte<br /> zu verschleiern. Denn hier im Westen
 ist alles nur Geschäft.<br /> Auch die Freiheit der anderen und die
 Rechte<br /> der anderen. Alles Geschäfte.«<br />
 Albert Wass: *Gebt mir meine Berge zurück!* (1949)
-
-
 
 ---
 

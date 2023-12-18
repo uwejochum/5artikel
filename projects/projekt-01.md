@@ -716,6 +716,10 @@ header-img: "img/totenbuch-bg.jpg"
     Sezession,
     [18.09.2023](https://sezession.de/68112/krieg-ist-ein-politischer-kein-moralischer-akt-erklaert-gastautor-uwe-jochum?hilite=Uwe+Jochum).
 	
+-   Maskentheater: Es geht wieder los. In: Achgut.com, [11.11.2023](https://www.achgut.com/artikel/maskentheateres_geht_wieder_los).
+	
+-   Wesentliche Unterscheidung. In: Sezession 117, Dezember 2023,
+    S. 38–40.
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
