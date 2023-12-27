@@ -720,6 +720,9 @@ header-img: "img/totenbuch-bg.jpg"
 	
 -   Wesentliche Unterscheidung. In: Sezession 117, Dezember 2023,
     S. 38–40.
+	
+-   Frau Weisband und die Twitter-Sezession. In: Achgut.com,
+    [27.12.2023](https://www.achgut.com/artikel/frau_weisband_und_die_twitter_sezession).
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
