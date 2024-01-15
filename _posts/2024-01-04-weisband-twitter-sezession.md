@@ -135,8 +135,8 @@ dem Andrang der Wirklichkeit dadurch zu retten, daß es eine
 Selbstghettoisierung betreibt und hinter die Brandmauern von
 Mastodon oder Bluesky flüchtet. Es ist eine Flucht aus der
 Wirklichkeit in einen linksgrünwoken Panikraum, den man eilends
-so abzudichten sucht, daß noch der kleinste Sonnenstrahl einer
-anderen Wirklichkeit und Wahrheit draußen bleibt.
+so abzudichten sucht, daß noch der kleinste Sonnenstrahl der
+Wirklichkeit und Wahrheit draußen bleibt.
 
 Und damit bin ich beim zweiten Grund, der das kleine
 Weisband-Video so interessant macht. Es enthält nämlich eine
@@ -235,7 +235,7 @@ Medien« sehr erfolgreich.
 
 Daß sie es nun nicht mehr sind und im linken Spiegel, in den sie
 voller Selbstbewußtsein und Überzeugung schauen, immerzu nur
-»Rechte«, »Faschisten« und »Verschöwrungstheoretiker« sehen, ist
+»Rechte«, »Faschisten« und »Verschwörungstheoretiker« sehen, ist
 ein gutes Zeichen. Denn was sie dort im Spiegel sehen, sind in
 Wahrheit sie selbst.
 
