@@ -1,14 +1,8 @@
 ---
-documentclass: scrartcl 
-title: Die große Vernachlässigung
-subtitle: 
+layout:	post
+title:	Die große Vernachlässigung
 author: Uwe Jochum
-date: 2023-11-04
-fontsize: 12pt
-lang: de-1901
-fontfamily: dejavu
-geometry: "left=3cm,right=3.5cm,top=2cm,bottom=3cm"
-linestretch: 1.4
+tags:   [Deutschland,Öffentlicher Raum,Provinzialismus]
 ---
 
 <img src="https://vg07.met.vgwort.de/na/f82996737e0e4fe6b0d7ab9ef2cc65c9" width="1" height="1" alt="">
@@ -104,4 +98,8 @@ alsbald gänzlich ungezwungen bewegen können, kann seit einiger
 Zeit die Erfahrung machen, daß er in dem vernachlässigten,
 verschlampten und formlosen Raum auch schutzlos ist.
 
-[4951 Zeichen; ziemlich genau 5’11 Minuten Sprechzeit.]
+---
+Der vorstehende Text wurde auf *Kontrafunk* am 8. Januar 2024 in
+der Sendung »Kontrafunk aktuell« als
+[Tageskommentar](https://kontrafunk.radio/de/sendung-nachhoeren/politik-und-zeitgeschehen/kontrafunk-aktuell/kontrafunk-aktuell-vom-8-januar-2024#id-article)
+gesendet.
