@@ -11,7 +11,7 @@ Nun ist es wieder soweit: Deutschland plant den nächsten
 Bibliothekskongreß! Ganz Deutschland? Ach
 was. Bibliotheksdeutschland. 
 
-Und Bibliotheksdeutschand segelt wie immer hart am Wind des
+Und Bibliotheksdeutschland segelt wie immer hart am Wind des
 Zeitgeistes. Seit nämlich Michael Schaarwächter, seines Zeichens
 Listmaster der meistgelesenen bibliothekarischen Mailingsliste
 namens »Inetbib«, im Jahre des Herrn zweitausendundeinundzwanzig,
