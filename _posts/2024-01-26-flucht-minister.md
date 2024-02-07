@@ -48,7 +48,7 @@ Beide, Baerbock und Habeck, sind längst auf solche Bilder
 angewiesen, um von ihrem politischen Dauerversagen
 abzulenken. Dieses Versagen besteht nun aber nicht alleine in den
 ganz offenkundig falschen, weil die außenpolitischen Beziehungen
-und die deutsche Wirtschafts ruinierenden Entscheidungen. Das
+und die deutsche Wirtschaft ruinierenden Entscheidungen. Das
 Versagen hat vielmehr eine noch ganz andere Dimension, die an die
 Grundlage unseres demokratischen Gemeinwesens rührt.
 
@@ -65,7 +65,7 @@ Parlament. Nachdem sich unser Parlament aber zu einem
 Arbeitsparlament entwickelt hat, in dem die Brüsseler Vorgaben
 nur noch in nationales Recht umgegossen werden, sind
 Parlamentsdebatten längst überflüssig geworden. Sie haben sich
-dager vor vielen Jahren schon in die Talkshows zu verlagern
+daher vor vielen Jahren schon in die Talkshows zu verlagern
 begonnen, wurden aber auch dort immer fader, als man dazu
 überging, die Shows umzustellen von kontroversen Diskussionsforen
 zur Verkündigung politisch orthodoxer Lehrmeinungen unter
