@@ -3,7 +3,7 @@ layout:	post
 title:	Wissenstest für angehende Grün-Experten
 subtitle: (Einsteigerkurs)
 author:	Jürgen Schmid
-tags:   []
+tags:   [Wokeismus]
 ---
 
 <small> *5artikel veröffentlicht ein historisches Dokument, das
