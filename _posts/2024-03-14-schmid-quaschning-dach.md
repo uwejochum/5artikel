@@ -144,14 +144,13 @@ Pythons.)
 Der Mann nennt sich Volker Quaschning. Als Kind hat er »Karlsson
 vom Dach« geliebt --- und beschlossen: Wenn ich einmal groß bin
 und honigmelonenfarbene Hemden tragen darf, will ich auch auf
-einem Dach wohnen wie Astrid Lindgrens
-
-1974 verfilmter pummeliger Held. Und wenn Quaschi noch fester an den
-Skolstrejk glaubt, wächst ihm bestimmt bald ein Propeller auf dem
-Rücken. Dann kann er das Dach auch wieder verlassen -- und muß dort
-nicht für immer ein Schild in den Himmel halten. »Er kann fliegen«,
-werden seine Kinder dann rufen. Vielleicht wird Papi ja dann sogar
-Professor -- für Regenerative Energiesysteme etwa. Und schließt sich
+einem Dach wohnen wie Astrid Lindgrens 1974 verfilmter pummeliger
+Held. Und wenn Quaschi noch fester an den Skolstrejk glaubt,
+wächst ihm bestimmt bald ein Propeller auf dem Rücken. Dann kann
+er das Dach auch wieder verlassen -- und muß dort nicht für immer
+ein Schild in den Himmel halten. »Er kann fliegen«, werden seine
+Kinder dann rufen. Vielleicht wird Papi ja dann sogar Professor
+-- für Regenerative Energiesysteme etwa. Und schließt sich
 Parents for Future an. Aber das muß sich Astrid Lindgren noch gut
 überlegen.
 
@@ -347,10 +346,8 @@ in Fátima drei Hirtenkindern: »Habt keine Angst! Ich komme vom
 Himmel.  Wollt ihr euch Gott anbieten, alle Leiden zu ertragen,
 die Er euch schicken will, als Zeichen der Wiedergutmachung für
 die Sünden, durch die Er beleidigt wird und als Bitte für die
-Bekehrung der Sünder?
-
-Ihr werdet viel zu leiden haben, aber die Gnade Gottes wird eure
-Stärke sein.«
+Bekehrung der Sünder?  Ihr werdet viel zu leiden haben, aber die
+Gnade Gottes wird eure Stärke sein.«
 
 Nicht alle glauben das. (Denen, die daran glauben, verleiht der
 Glaube Kraft und oftmals ein starkes Überlegenheitsgefühl.)
@@ -368,9 +365,15 @@ Hamburg zur Welterlöserin: »Es fühlt sich an, als würden wir in
 einem Auto sitzen, das auf einen Abgrund zusteuert. Doch anstatt
 zu bremsen, wird beschleunigt.« Bald darauf treten mit Leonie
 Bremer von Köln die ersten Mystikerinnen der Bewegung auf: »Es
-gibt kein Grau. Hier gibt es nur Schwarz oder Weiß.« Im Frühjahr
-2019 schließt sich mit der 15jährigen Oettingerin Jasmin Bauer
-auch die Provinz an. Viele weitere Apostel\*innen folgen.
+gibt kein Grau. Hier gibt es nur Schwarz oder Weiß.« Leonie,
+[»die empathische
+Strategin«](https://www.umweltdialog.de/de/gesellschaft/Politik/2020/Die-empathische-Strategin-Leonie-Bremer.php),
+befindet sich auf einer »Mission«, weltweit. Dort, in der Welt,
+bekennt sie: »Es fühlt sich an, als wären wir die wahren
+[Weltführer](https://www.spiegel.de/wissenschaft/fridays-for-future-in-glasgow-es-fuehlt-sich-an-als-waeren-wir-die-wahren-weltfuehrer-a-19b5ed75-0067-4b34-9cdc-e1dd4d56d6c8).«
+Im Frühjahr 2019 schließt sich mit der 15jährigen Oettingerin
+Jasmin Bauer auch die Provinz an. Viele weitere Apostel\*innen
+folgen.
 
 Nur ein Jahr nach den ersten Erscheinungen glauben alle an die
 Heilige Greta. (Die, die nicht an sie glauben, sind Nazis und
@@ -470,13 +473,14 @@ knapp 40 Prozent zugenommen.
 Im Durchschnitt wurden pro Flugticket in den [grün geführten
 Ministerien](https://www.gruene.de/artikel/unsere-kampagne-bereit-weil-ihr-es-seid)
 (inklusive Umwelt- und Verkehrsressort) nicht mehr als 692
-Kilometer zurückgelegt --- d.&nbsp;h. Mann und Frau Beamt\*in
-flog zur Schonung des Klimas überwiegend Kurzstrecke.
+Kilometer verflogen --- d.&nbsp;h. Mann und Frau Beamt\*in flog
+zur Schonung des Klimas überwiegend Kurzstrecke.
 
 Über 90 der 100 Millionen Flugkilometer gehen auf die Konten der
-Hochschulen im Land. Dort sind die Flugaktivitäten stark gestiegen, seit
-immer mehr Forscher den Klimakampf wissenschaftlich unterfüttern und den
-»Menschen da draußen« (A. Merkel) bereitwillig erklären.
+Hochschulen im Land. Dort sind die Flugaktivitäten stark
+gestiegen, seit immer mehr Forscher den Klimakampf
+wissenschaftlich unterfüttern und den »Menschen da draußen«
+(A.&nbsp;Merkel) bereitwillig erklären.
 
 ## Neue Gretas braucht die Welt
 
