@@ -145,7 +145,10 @@ header-img: "img/totenbuch-bg.jpg"
 	
 -   [Landnahme](https://karolinger.at/product/jochum_landnahme/). Wien,
     Leipzig: Karolinger, 2022. Rezension von Götz Kubitschek in
-    der Zeitschrift *Sezession* 111, Dezember 2022.
+    der Zeitschrift *Sezession* 111, Dezember 2022. Als Hörbuch
+    erschienen 2024 bei [HSL
+    Kreuzlingen](https://hsl-kreuzlingen.ch/), Sprecher [Bodo
+    Krumwiede](https://bodokrumwiede.ch/index.html).
 
 ## 2023
 
