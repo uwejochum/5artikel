@@ -99,9 +99,9 @@ sich zu binden.
 Das Kapital, das der Manipulator der Angst bildet, ist freilich
 ein äußerst flüchtiges Kapital. Es verfliegt über Nacht, wenn die
 Menschen die Angst verlieren und wieder zu lachen beginnen:
-Jemand will sie doppelt bewummsen – lachen Sie! Jemand erklärt
-Rußland und China den Krieg – lachen Sie! Ein Politiker wird bei
-einem Staatsbesuch gedemütigt – lachen Sie! Denn nichts ist für
+Jemand will sie doppelt bewummsen — lachen Sie! Jemand erklärt
+Rußland und China den Krieg — lachen Sie! Ein Politiker wird bei
+einem Staatsbesuch gedemütigt — lachen Sie! Denn nichts ist für
 den Kapitalisten der Angst so fatal wie das lachende
 Aus-der-Hand-Schlagen seiner Schuldscheine und Angstmünzen.
 
