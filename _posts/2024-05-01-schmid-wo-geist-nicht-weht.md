@@ -253,6 +253,8 @@ gelebt wurde, wie man es in der alten
 BR-Historien-Spielfilm-Serie gleichen Namens wie die Straße
 nacherleben kann.
 
+## Jesus.life.style
+
 Nun will (muß? sollte?) ich zu Ende erzählen, was wir in Augsburg
 erlebt haben. Wir waren ja zuletzt im Dom, bei einer Ulrichsfeier, die
 jene Persönlichkeit, derer man zu gedenken vorgab, in seinem goldenen
