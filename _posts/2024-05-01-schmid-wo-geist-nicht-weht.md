@@ -36,7 +36,7 @@ mit dem »Aufstehen gegen rechts« in Eins brachten; und wo
 zuallerletzt der Passauer Bischof die Osternacht, die »Große
 Nacht«, wie es in einem katholischen Land wie Slowenien heißt,
 mit einem [abgestandenen
-Witzchen](https://www.br.de/nachrichten/deutschland-welt/oster-witz-waehrend-des-gottesdienstes-geht-viral-paßau,U8ic0Pq)
+Witzchen](https://www.br.de/nachrichten/deutschland-welt/oster-witz-waehrend-des-gottesdienstes-geht-viral-passau,U8ic0Pq)
 profanierte, um für einen billigen Moment mediale Aufmerksamkeit
 auf sich zu ziehen.*
 
@@ -202,7 +202,7 @@ werden.
 Jetzt bin ich wieder geerdeter, nachdem wir in der Münchner
 Bürgersaalkirche die Christkindlandacht besucht haben, zum
 Einbruch der Nacht, wozu man sich dicht an dicht durch fast
-ausschließlich schwarz gewandete Flaniermaßen in der Kaufinger
+ausschließlich schwarz gewandete Flaniermassen in der Kaufinger
 Einkaufsmeile schieben muß, vorbei an laut und bunt blinkenden
 Konsumtempeln aller Art, um dann einzutreten in die Kirche Pater
 Rupert Mayers, in die Stille und Andacht derer, die an seinem
@@ -296,7 +296,7 @@ Produktmacher steht: Im Lager des materialistischen Nihilismus
 (Franz Werfel). Das »Credo« in der Nachfolge eines Menschen
 namens Jesus allerdings ist maximal anti-lifestylig. Aber so
 genau darf man es auf der Jagd nach dem »Ziel« nicht nehmen,
-besonders dann nicht, wenn den Jagenden das [Waßer bis zum
+besonders dann nicht, wenn den Jagenden das [Wasser bis zum
 Hals](https://www.publicomag.com/2023/07/raeume-der-kaelte/)
 steht --- und man ob dieser Existenzgefähr­dung, deren Gründe man
 nicht einmal versteht, in schiere Panik auszubrechen geneigt ist.
@@ -403,14 +403,14 @@ Commons.]
 
 
 Am Rathausplatz, wo die letzten Reste des Christkindlmarktes
-abgeräumt werden, schreit ein faßadenfüllendes Plakat: »Für
+abgeräumt werden, schreit ein fassadenfüllendes Plakat: »Für
 Vielfalt und gegen Antisemitismus« --- sie begreifen nicht, daß
 das, was sie »Vielfalt« nennen und in großem Stil
 [importieren](https://www.dw.com/de/starker-anstieg-antisemitischer-straftaten-in-deutschland/a-67853447),
 weil »Wir Platz haben«, den Antisemitismus, den sie in gleichem
 Atemzug mit Kroko­dilstränen beweinen, erst schafft. Sie
-verstehen nicht, daß das maßive Polizei- und Security-Aufgebot im
-und vor dem Dom beim Ulrichs-Jubiläum, das offensichtlich der
+verstehen nicht, daß das massive Polizei- und Security-Aufgebot
+im und vor dem Dom beim Ulrichs-Jubiläum, das offensichtlich der
 Terrorwarnung des Innenministers vom Vortag geschuldet war,
 deswegen notwendig ist und den Bürgern ihre Gefährdung erst
 versinnbildlicht, weil sie --- während sie auf dem Weg zum
@@ -483,7 +483,7 @@ Verstorbenen nur das Schlechteste nach. Tiefpunkt der
 Schäbigkeit: »Wir sind tot« in »konkret«. Bei einem ungarischen
 (!) Publizisten liest man hingegen von Joseph Ratzingers Geburt
 am Karsamstag 1927, von seiner Taufe noch in der Osternacht im
-neu geweihten Waßer. Vom karsamstäglichen Gefühl, das ihn immer
+neu geweihten Wasser. Vom karsamstäglichen Gefühl, das ihn immer
 begleitete, umtrieb, spirituell anregte. Jetzt taut der
 Bogenhauser Priester etwas auf --- freut sich über die
 theologische Anknüpfungsmöglichkeit. Der Organist übt. An der
