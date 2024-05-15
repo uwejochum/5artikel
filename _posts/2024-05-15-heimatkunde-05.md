@@ -295,11 +295,12 @@ an der Universität Konstanz« in Wahrheit verbirgt: eine
 Mein Rat: Noch ein bißchen für Konsistenz in den im Netz
 verteilten Lebensläufen sorgen und das nächste Mal, wenn man
 wieder auf Verfassungsschutz macht und andere Menschen wegen
-ihrer abweichenden Meinung im Netz mit Photos bloßzustellen
-versucht — vorher eine rechtskundige Person fragen, was sie von
-dieser Idee hält. Und immer schön daran denken: Nicht alles, was
-die mit Zwangsgebühren finanzierten Medien von sich geben, ist
-die Wahrheit; und nicht alles, was man mit seiner umstrittenen
-linken Gesinnung für richtig hält, ist in einem Rechtsstaat auch
-Recht. Und die Wahrheit ist es sowieso nicht.
+ihrer abweichenden Meinung im Netz mit ungefragt aufgenommenen
+Photos bloßzustellen versucht — vorher eine rechtskundige Person
+fragen, was sie von dieser Idee hält. Und immer schön daran
+denken: Nicht alles, was die mit Zwangsgebühren finanzierten
+Medien von sich geben, ist die Wahrheit; und nicht alles, was man
+mit seiner umstrittenen linken Gesinnung für richtig hält, ist in
+einem Rechtsstaat auch Recht. Und die Wahrheit ist es sowieso
+nicht.
 
