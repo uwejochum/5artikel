@@ -57,12 +57,12 @@ ist das Thema dieser Folge der »Heimatkunde«.
 Wir sehen hier im heimatlichen Umfeld [Petra
 Rietzler](https://www.petra-rietzler.de/ueber-mich/), die sich im
 Coronajahr 2021 vergebens für die SPD um einen Sitz im
-baden-württembergischen Landtag bewarb, dafür aber seit vielen
-Jahren für die SPD im Stadtrat von Konstanz sitzt und außerdem
-noch Mitglied im Landeselternbeirat von Baden-Württemberg
-ist. Das alles wäre so unerheblich, wie die SPD als Partei
-inzwischen unerheblich ist, wenn Frau Rietzler nicht in der
-Corona-Maßnahmenzeit mit Aplomb auf das Haltungspferd
+baden-württembergischen Landtag bewarb, dafür heuer aber sich für
+die SPD um ein Mandat als Stadtrat von Konstanz bewirbt und
+außerdem noch Mitglied im Landeselternbeirat von
+Baden-Württemberg ist. Das alles wäre so unerheblich, wie die SPD
+als Partei inzwischen unerheblich ist, wenn Frau Rietzler nicht
+in der Corona-Maßnahmenzeit mit Aplomb auf das Haltungspferd
 aufgesprungen wäre.
 
 Ihr Ritt begann im Sommer 2020. Damals schrieb sie auf Twitter/X
