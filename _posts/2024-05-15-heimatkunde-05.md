@@ -264,7 +264,7 @@ vorstellt, stellt man immer wieder fest, daß der Trick darin
 besteht, die Spaltung durch eine Radikalspaltung zu überwinden,
 nämlich durch die Feindmarkierung des politischen Gegners: Er
 wird mit dem verbalen Kantholz nicht nur aus dem Debattenraum
-geprügelt, sondern am besten medial vernichtet. Auf das nur eines
+geprügelt, sondern am besten medial vernichtet. Auf daß nur eines
 noch übrigbleibe: die vermeintlich aufrecht-linke Gesinnung.
 
 Es wundert nach alldem nicht, daß das Provinzpersonal dem
