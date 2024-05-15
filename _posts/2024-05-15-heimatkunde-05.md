@@ -57,8 +57,8 @@ ist das Thema dieser Folge der »Heimatkunde«.
 Wir sehen hier im heimatlichen Umfeld [Petra
 Rietzler](https://www.petra-rietzler.de/ueber-mich/), die sich im
 Coronajahr 2021 vergebens für die SPD um einen Sitz im
-baden-württembergischen Landtag bewarb, dafür heuer aber sich für
-die SPD um ein Mandat als Stadtrat von Konstanz bewirbt und
+baden-württembergischen Landtag bemühte, dafür heuer aber sich
+für die SPD um ein Mandat als Stadtrat von Konstanz bewirbt und
 außerdem noch Mitglied im Landeselternbeirat von
 Baden-Württemberg ist. Das alles wäre so unerheblich, wie die SPD
 als Partei inzwischen unerheblich ist, wenn Frau Rietzler nicht
