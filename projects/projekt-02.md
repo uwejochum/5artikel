@@ -605,6 +605,13 @@ header-img: "img/accipies-banner-grau-dunkel.png"
 
 <a id="org619f44c"></a>
 
+## 2024
+
+-   [Zensur in
+    Bibliotheken.](https://media.publit.io/file/240529-Jochum.mp4)
+    Interview mit Milena Preradovic auf PUNKT.PRERADOVIC
+    am 31. Mai 2024.
+
 # Lehre
 
 
