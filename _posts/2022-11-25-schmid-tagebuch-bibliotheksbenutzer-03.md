@@ -195,14 +195,14 @@ einem Studenten des Jahres 2022 erklären, wer Paul Kiem war?
 (Ein Faktotum der Volksmusikszene, der zusammen mit Kurt Huber
 Liedersammlungen herausgab wie die *Oberbayrische[n] Volkslieder*
 von 1930. Huber wiederum war jener LMU-Professor, der als
-Mitglied der »Weiße Rosen« hingerichtet wurde.) --- Wer ahnt
+Mitglied der »Weißen Rosen« hingerichtet wurde.) --- Wer ahnt
 noch, daß Volkskunde einmal obligatorischer Bestandteil der
 Lehrerausbildung war, die in den 1970er Jahren auf Betreiben des
 Bayerischen Lehrerverbandes vollakademisiert und an die
 Universität angegliedert wurde, woraufhin die Pasinger
 Bibliotheksbestände vom LMU-Volkskunde-Institut übernommen
 wurden, mitsamt der Aufgabe, Volkskunde als Wahlpflichtfach für
-Lehramtskandidaten zu unterrichten, was zuletzt Reiner Wehse
+Lehramtskandidaten zu unterrichten, was zuletzt Rainer Wehse
 geleistet hat? Wie einem FFF-Mädchen erklären, wer Wehse ist?
 (Bestseller-Autor von *Seineb die Spitzbübin. Märchen und
 Geschichten vom Lügen*, erschienen 1987 im Frankfurter
