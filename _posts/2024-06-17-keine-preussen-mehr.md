@@ -6,6 +6,7 @@ author:	Uwe Jochum
 tags:   [Preußen,Verantwortung]
 ---
 
+<img src="https://vg09.met.vgwort.de/na/4a09723cfb39456f879f18a691dcd908" width="1" height="1" alt="">
 
 »Friedrich \[der Große\] brachte die Rede- und Schreibfreiheit zu
 Ehren, teils durch einen pikanten geistreichen Witz, der so viel
