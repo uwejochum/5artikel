@@ -93,7 +93,7 @@ sind Überforderungen und realitätsblinde Moralappelle.
 
 ---
 
-Vorstehender Text wurde am 25. Juni 2024, Pfingstmontag, im
-Kontrafunk in der Sendung [»Kontrafunk
+Vorstehender Text wurde am 25. Juni 2024 im Kontrafunk in der
+Sendung [»Kontrafunk
 aktuell«](https://kontrafunk.radio/de/sendung-nachhoeren/politik-und-zeitgeschehen/kontrafunk-aktuell/kontrafunk-aktuell-vom-25-juni-2024#id-article)
 als Tageskommentar gesendet.
