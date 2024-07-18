@@ -54,7 +54,7 @@ Bewußtseinsinstitut zur libertären rechten Volksbank ohne
 Environmental-Social-Governance-Larifari. Freilich: Sie müssen
 das unauffällig tun, um glaubwürdig zu bleiben beim großen
 Publikum, das ihnen bisher noch den gröbsten Unfug als Wahrheit
-abgeauft hat; da würde der neue Wein, der jetzt auf den Markt muß,
+abgekauft hat; da würde der neue Wein, der jetzt auf den Markt muß,
 nur unzuträgliches Kopfgrimmen verursachen; also muß es sachte
 gehen. Und das tut es. Man kann es überall beobachten, durchsetzt
 natürlich mit den üblichen Rückschlägen und verpaßten
