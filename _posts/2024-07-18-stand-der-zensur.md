@@ -92,6 +92,10 @@ abzustützen. Es wird nichts nutzen. Der Damm wird brechen und
 seine Erbauer mit sich reißen. Wohl denen, die rechtzeitig
 oberhalb des Dammes gebaut haben.
 
-Alles andere, was sonst noch zur Lage zu sagen wäre, hat
-inzwischen Michael Klonovsky gesagt. [Hier
-klicken](https://www.klonovsky.de/2024/07/17-juli-2024/).
+Alles andere, was sonst noch zur Lage zu sagen wäre, haben
+inzwischen [Götz
+Kubitschek](https://sezession.de/69406/compact-ist-verboten-sieben-punkte-zur-lage)
+und [Michael
+Klonovsky](https://www.klonovsky.de/2024/07/17-juli-2024/)
+gesagt.
+
