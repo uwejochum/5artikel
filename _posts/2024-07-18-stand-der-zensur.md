@@ -35,7 +35,7 @@ Schoßhündchen der herrschenden Parteien und im Extremfall deren
 Zuhälter sind. Die Nutte, die sie uns andrehen, ist die alte Hure
 »Propaganda«, die sie aufgehübscht haben mit der grünen Schminke
 des klimabewegten Zeitgeistes und der roten Schminke des
-unverteilenden Sozialismus, beides verrührt zur Paste der
+umverteilenden Sozialismus, beides verrührt zur Paste der
 »gerechten Welt« und dem religiösen Parfüm der
 »Apokalypsenverzögerung«. Aber wehe dem, der mit dieser Hure ins
 Bett geht: dort blättert von ihr alles ab, und sichtbar wird,
@@ -59,7 +59,7 @@ nur unzuträgliches Kopfgrimmen verursachen; also muß es sachte
 gehen. Und das tut es. Man kann es überall beobachten, durchsetzt
 natürlich mit den üblichen Rückschlägen und verpaßten
 Anschlüssen. Insgesamt aber hat sich der Koloß namens Zeitgeist
-zu neigen begonnen, nach rechts, und jeder Milimeter, den er an
+zu neigen begonnen, nach rechts, und jeder Millimeter, den er an
 Neigung gewinnt, wird die Neigebewegung beschleunigen, anfangs
 unmerklich, dann aber immer merklicher.
 
@@ -71,7 +71,7 @@ Besatzungsoffizier in Paris führte. Die Notiz stammt vom
 erschien (in der dritten Auflage S.&nbsp;361). Jünger war ein
 wacher Beobachter, der nicht nur das untersuchte, was ihm als
 vermeintlich reale Welt begegnete, die Menschen, die Tiere und
-Planzen, die Straßen und Häuser, die Flüsse und den Sand; er
+Pflanzen, die Straßen und Häuser, die Flüsse und den Sand; er
 zählte auch die Träume und ihre Szenen und Gefühle der Realität
 zu, die Räusche durch Alkohol und Drogen, die Atmosphären, die
 von Menschen und Räumen ausstrahlten. Das alles arbeitet mit am
