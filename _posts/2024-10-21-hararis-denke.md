@@ -204,7 +204,7 @@ zu findenden Statements deutscher Politiker, die zunächst
 erklärten, einen Impfzwang wegen »Corona« werde es
 selbstverstänlich nicht geben, um dann ebenso selbstverständlich
 zu erklären, sie seien selbstverständlich immer für einen
-Impfzwang gewesen — das ganze auf jeder Stufe des Wahnsinns
+Impfzwang gewesen — das Ganze auf jeder Stufe des Wahnsinns
 begleitet von einer Unisono-Zustimmung der großen Medien. Die
 Manipulation von Wahrheit ist also kein Effekt der alternativen
 Medien, sondern eine gezielte Operation ebenjener Medien, die in
@@ -279,7 +279,7 @@ eigentliche Erfahrung der Zeit damals lautete: Nicht die
 Autoritäten haben einfach Recht qua Amt und Macht, sondern Recht
 und Wahrheit stellen sich im Verlauf von Kontroversen allererst
 ein, die in den Medien ausgetragen werden. Daher ist der richtige
-Gebrauch von Medien in der Tat eine Kunst, aber diese Kusnt
+Gebrauch von Medien in der Tat eine Kunst, aber diese Kunst
 besteht nicht in der Kontrolle der Medien durch vermeintliche
 Autoritäten, sondern in der Medienkompetenz der Mediennutzer: daß
 sie lernen, sich selbst ein Urteil zu bilden, und zwar auf der
