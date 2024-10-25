@@ -1,7 +1,7 @@
 ---
 layout:	post
-title:	Aufheben
-subtitle: Teil 1 &mdash; Müll? Von Büchern auf der Straße
+title:	Aufheben I
+subtitle: Müll? Von Büchern auf der Straße
 author:	Jürgen Schmid
 tags:   [Buch,Autorschaft]
 ---

@@ -1,7 +1,7 @@
 ---
 layout:	post
-title:	Aufheben
-subtitle: Teil 10 — Hüter der Schuld
+title:	Aufheben X
+subtitle: Hüter der Schuld
 author:	Jürgen Schmid
 tags:   [Kriegsschuldfrage,Vergangenheitsbewältigung,Zensur]
 ---

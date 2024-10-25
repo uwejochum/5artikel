@@ -1,7 +1,7 @@
 ---
 layout:	post
-title:	Aufheben
-subtitle: Teil 8 — »Ewiger Mythenstrom«. Von Büchern, die bewahren.  Dem Böhmen Otfried Preußler (1923&ndash;2013) zum Hundertersten
+title:	Aufheben VIII
+subtitle: »Ewiger Mythenstrom«. Von Büchern, die bewahren.  Dem Böhmen Otfried Preußler (1923&ndash;2013) zum Hundertersten
 author:	Jürgen Schmid
 tags:   [Volkskunde]
 ---

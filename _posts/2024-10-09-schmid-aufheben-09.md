@@ -1,7 +1,7 @@
 ---
 layout:	post
-title:	Aufheben
-subtitle: Teil 9 — Zweite Austreibung. Bücher von Heimatvertriebenen aus Böhmen
+title:	Aufheben IX
+subtitle: Zweite Austreibung. Bücher von Heimatvertriebenen aus Böhmen
 author:	Jürgen Schmid
 tags:   [Böhmen,Vertreibung,Volkskunde]
 ---

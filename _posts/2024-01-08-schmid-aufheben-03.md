@@ -1,7 +1,7 @@
 ---
 layout:	post
-title:	Aufheben
-subtitle: Teil 3 — Verabschiedet
+title:	Aufheben III
+subtitle: Verabschiedet
 author:	Jürgen Schmid
 tags:   [Wissenschaft]
 ---

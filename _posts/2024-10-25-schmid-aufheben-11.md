@@ -1,7 +1,7 @@
 ---
 layout:	post
-title:	Aufheben
-subtitle: Teil 11 — Die andere Sicht. Konservative Verlage I — Literatur
+title:	Aufheben XI
+subtitle: Die andere Sicht. Konservative Verlage I. Literatur
 author:	Jürgen Schmid
 tags:   [Autorschaft,Tradition,Vergangenheitsbewältigung,Zensur]
 ---
@@ -149,7 +149,7 @@ man sein Werk größtenteils vergebens. Letzte Neuausgabe: Die
 kleine Novelle *Der spanische Rosenstock*, erstmals erschienen
 1940, wiederaufgelegt 2021 im traditionellen Bergengruen-Verlag
 *Die Arche* in Zürich. Dort --- wo Bergengruen inzwischen als
-»[Urheber*in](https://www.w1-media.de/autoren/werner-bergengruen-606?verlag=arche)«
+»[Urheber\*in](https://www.w1-media.de/autoren/werner-bergengruen-606?verlag=arche)«
 seiner Texte geführt wird --- ebenfalls lieferbar: *Der Tod von
 Reval*. Mehr ist nicht. Nicht einmal *Der Großtyrann und das
 Gericht*, jener schillernde Widerstandsroman aus dem Jahr 1935,
@@ -1003,7 +1003,7 @@ Leser Lebenswelt eine Sprache verschaffen.
 
 [^31]: Deutscher Kalender: Oktober. Ein Monatsbild vom
     Königswusterhäuser Landboten. DS 21.00-22.00: Wagner: Eich
-    und der Rundfunk (1999), wie Anm. 29, S.&nbsp;121--123.
+    und der Rundfunk (1999), wie Anm. 30, S.&nbsp;121--123.
 
 [^32]: Ebd., S. 49.
 

@@ -1,7 +1,7 @@
 ---
 layout:	post
-title:	Aufheben
-subtitle: Teil 6 — Göttinger Rekonstruktionen. Peuckerts Lehrerjahre
+title:	Aufheben VI
+subtitle: Göttinger Rekonstruktionen. Peuckerts Lehrerjahre
 author:	Jürgen Schmid
 tags:   [Wissenschaft,Volkskunde]
 ---

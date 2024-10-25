@@ -1,7 +1,7 @@
 ---
 layout:	post
-title:	Aufheben
-subtitle: Teil 2 — Alles muß raus! Von Büchern auf Flohmärkten
+title:	Aufheben II
+subtitle: Alles muß raus! Von Büchern auf Flohmärkten
 author:	Jürgen Schmid
 tags:   [Buch]
 ---

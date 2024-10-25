@@ -1,7 +1,7 @@
 ---
 layout:	post
-title:	Aufheben
-subtitle: Teil 4 — Spurensuche
+title:	Aufheben IV
+subtitle: Spurensuche
 author:	Jürgen Schmid
 tags:   [Wissenschaft,Volkskunde]
 ---

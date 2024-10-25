@@ -1,7 +1,7 @@
 ---
 layout:	post
-title:	Aufheben
-subtitle: Teil 7  — Wilhelm Heinrich Riehl und Jean-Henri Fabre  — Über das Wahrnehmen des Lebendigen
+title:	Aufheben VII
+subtitle: Wilhelm Heinrich Riehl und Jean-Henri Fabre — Über das Wahrnehmen des Lebendigen
 author:	Jürgen Schmid
 tags: [Anthropologie,Naturphilosophie,Theologie]
 ---

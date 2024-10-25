@@ -1,7 +1,7 @@
 ---
 layout:	post
-title:	Aufheben
-subtitle: Teil 5 — Schlesische Notate. Von Büchern, die versanken
+title:	Aufheben V
+subtitle: Schlesische Notate. Von Büchern, die versanken
 author:	Jürgen Schmid
 tags:   [Wissenschaft,Volkskunde]
 ---
