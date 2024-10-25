@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Aufheben
-subtitle: Teil 11 — Die andere Sicht. Konservative Verlage I: Literatur
+subtitle: Teil 11 — Die andere Sicht. Konservative Verlage I — Literatur
 author:	Jürgen Schmid
 tags:   [Autorschaft,Tradition,Vergangenheitsbewältigung,Zensur]
 ---
