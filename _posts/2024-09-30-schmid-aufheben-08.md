@@ -100,7 +100,7 @@ Deutschen nur etwas mehr als 6.000 Tschechen gegenüber.
 seines Lebens hat er im Dienst behinderter Kinder verbracht,<br />
 mit Tauben und Lahmen, mit Krüppeln und Schwachsinnigen.<br />
 Er war ein geduldiger Mensch, der geborene Pädagoge.«<br />
-(Selbstporträt, in: Süddeutsche Zeitung, 1985)«</div>
+(Selbstporträt, in: Süddeutsche Zeitung, 1985)</div>
 ---
 
 Der deutsch-nationale Vater und mit ihm der Sohn wechseln 1941
@@ -202,10 +202,9 @@ ihm nicht entgangen, das es genau das ist: eine Umweltgeschichte.
 <div style='text-align: right;'> 
 »Im Böhmischen gibt es so viele Wassermänner,<br /> 
 wie es im Lande Teiche und Tümpel, Bäche und Flüsse gibt.<br /> 
-Ab und zu geht er [der Wassermann] auf ein Bier ins<br />
-Wirtshaus des nächsten Dorfes.  Dann bildet sich<br /> 
-unter seinem Sitz eine Wasserlache,<br /> 
-daran erkennt man ihn.«<br /> 
+Ab und zu geht er [der Wassermann] auf ein Bier ins Wirtshaus<br />
+des nächsten Dorfes.  Dann bildet sich unter seinem Sitz<br /> 
+eine Wasserlache, daran erkennt man ihn.«<br /> 
 (Vorarbeiten zum Sagenbuch, 1988)</div>
 ---
 
@@ -329,7 +328,7 @@ dem Erlöser huldigen.[^3]
 hat es angefangen zu schneien. Hoch auf meines Vaters Schultern<br /> 
 sitzend reite ich in den Abend hinein. Der Vater hält mich<br /> 
 an den Füßen fest, während ich mit beiden Händen nach<br />
-seinen Ohren gefaßt habe, um ihn zu lenken.“<br /> 
+seinen Ohren gefaßt habe, um ihn zu lenken.«<br /> 
 (Erinnerungen an meinen Vater Josef Preußler, 1988)</div>
 ---
 
@@ -358,7 +357,7 @@ von schlauen Schneidern und dummen Teufeln, von Hexen<br />
 und Hutzelweibern, vom Riesen Plampatsch, von echten<br /> 
 und falschen Wahrsagern, von verwunschenen Schätzen<br />
 im Wald – und immer wieder von unserem<br /> 
-Lieblingshelden, dem kleinen Däumerling …“<br />
+Lieblingshelden, dem kleinen Däumerling …«<br />
 (Viele Bücher – und eins, das es nicht gegeben hat, 1988)</div>
 ---
 
@@ -417,12 +416,10 @@ Waffen liefern«.
 ist die Geschichte eines jungen Menschen, der sich<br /> 
 – zunächst aus Neugier, und später in der Hoffnung, sich auf<br /> 
 diese Weise ein leichtes und schönes Leben sichern zu können –<br /> 
-mit bösen Gewalten einläßt und sich darin verstrickt;<br /> 
-und wie es ihm schließlich kraft seines Willens,<br /> 
-mit dem Beistand eines treuen Freundes und<br /> 
-durch die zum letzten Opfer bereite Liebe<br /> 
-eines Mädchens gelingt, sich aus dieser<br /> 
-Verstrickung wieder zu lösen.«</div>
+mit bösen Gewalten einläßt und sich darin verstrickt; und wie es <br /> 
+ihm schließlich kraft seines Willens, mit dem Beistand eines treuen Freundes<br /> 
+und durch die zum letzten Opfer bereite Liebe eines Mädchensgelingt,<br />
+sich aus dieser Verstrickung wieder zu lösen.«</div>
 ---
 
 Komplett bierernst trat 1972 das Satiremagazin *Pardon* als
@@ -458,8 +455,8 @@ entfernen«, um die Texte »dem politischen Wandel anzupassen«:
 
 ---
 <div style='text-align: right;'> 
-„Und wäre der Polizei auch geholfen,<br /> 
-wenn jemand – ihn fangen würde?“<br />
+»Und wäre der Polizei auch geholfen,<br /> 
+wenn jemand – ihn fangen würde?«<br />
 (Der Räuber Hotzenplotz, 1962)</div>
 ---
 
@@ -591,7 +588,7 @@ Umbenennungsantrag »mit der nötigen Sensibilität« zu prüfen.
 mit Verstand und Urteilsvermögen hat Gott dem Menschen,<br /> 
 als einzigem Lebewesen auf Erden, die Gabe<br /> 
 der Phantasie verliehen — und damit ein wenig<br /> 
-von seiner eigenen Schöpferkraft.“<br />
+von seiner eigenen Schöpferkraft.«<br />
 (Phantasie und Wirklichkeit – Vortrag in Tokio 1985)</div>
 ---
 
