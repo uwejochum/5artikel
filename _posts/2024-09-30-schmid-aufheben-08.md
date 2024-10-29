@@ -547,11 +547,49 @@ eine wirkliche »Prüfung« des Gesamtwerkes von Otfried Preußler in
 Hinblick auf seine Eignung als Namensgeber einer bayerischen
 Schule im Jahr 2024 vornehmen?
 
-[Letzter Stand:](Letzter Stand: „Das Kultusministerium hat das
-Gymnasium um weitere Angaben gebeten, ehe es über eine
-Rückbenennung der Schule entscheidet.“) »Das Kultusministerium
-hat das Gymnasium um weitere Angaben gebeten, ehe es über eine
-Rückbenennung der Schule entscheidet.«
+[Letzter
+Stand:](https://www.sueddeutsche.de/muenchen/landkreismuenchen/pullach-otfried-preussler-gymnasium-kultusministerium-umbenennung-lux.87oCjzC1rzGLzy39ZsdgCg)
+»Das Kultusministerium hat das Gymnasium um weitere Angaben
+gebeten, ehe es über eine Rückbenennung der Schule entscheidet.«
+
+## Das Ende der Farce als Farce
+
+Nachtrag vom 28. Oktober 2024
+
+Nun also ist die Pullacher Schule den ungeliebten Namen los —
+aber auf anderem Wege als alle gedacht haben: Susanne
+Preußler-Bitsch, Tochter des Autors und Rechteinhaberin, zog die
+Notbremse in einer inzwischen obszönen Hängepartie, welche seit
+Monaten durch die unmerklich langsam mahlenden
+kultusministeriellen Entscheidungsmühlen verursacht wurde — sie
+zog die Namensrechte zurück. Aber eine Farce vom Ausmaß des
+Pullacher Vorortzwergenaufstands gegen einen Schriftsteller von
+Weltrang darf nicht zu Ende gehen ohne einen neuen Tiefpunkt. Den
+setzt der einst durchaus ehrbare *Focus* in seinem Bericht
+(jedenfalls dem, was man dort für einen »Bericht« hält) zum
+Skandal-Ende. Die dortigen Redakteure (oder Chat GPT?) sind
+offenkundig nicht in der Lage, die dpa-Meldung zu verstehen, die
+sie als Text ausgeben, wenn sie im redaktionseigenen Antexter
+dazu das Gegenteil der Meldung behaupten. Während die
+Kopierfunktion korrekt arbeitet, als man verlauten läßt,
+Preußlers Tochter habe sich entschieden, »die Namensrechte
+zurückzuziehen« (dpa, so bei *Focus*), ignoriert der/die/das
+*Focus*-Selbstschreiberling im hausgebastelten Intro den
+Sachverhalt souverän und stellt die Kausalität auf den Kopf: »Die
+Schule in Pullach verzichtet auf den Namen Otfried
+Preußler. [Preußlers Tochter begrüßt die
+Entscheidung](https://www.focus.de/regional/bayern/gymnasium-in-pullach-muss-preussler-namen-nach-familiaerem-aufschrei-abgeben_0380887a-7efc-4871-8413-8780b2a46233.html).«
+Die Schule »verzichtet« mitnichten großzügig auf etwas, sondern
+wollte ihren vor zehn Jahren selbstgewählten Namensgeber schnöde
+vom Hof jagen. Und Preußlers Tochter begrüßt rein gar nichts am
+Gebaren der Pullacher Verantwortlichen, sondern spricht von einem
+»unwürdigen und rufschädigenden Umgang der Schule mit dem Erbe
+ihres Vaters«. Lesen scheint weder bei den Pullacher
+Preußler-Verächtern noch bei ehemals satisfaktionsfähigen
+Qualitätsmedien hoch im Kurs zu stehen. Die Sachbearbeiter samt
+Ministerin im bayerischen Kultusministerium haben sich durch ihre
+Hinhaltetaktik erfolgreich um die Nachprüfbarkeit ihrer
+Lesefähigkeit gedrückt.
 
 »Wer Otfried Preußler wirklich gelesen hat, eignet sich nicht zum kalten
 Macht­menschen, Opportunisten und Denunzianten.« (Carsten Gansel)
