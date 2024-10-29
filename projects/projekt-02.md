@@ -612,6 +612,9 @@ header-img: "img/accipies-banner-grau-dunkel.png"
     Interview mit Milena Preradovic auf PUNKT.PRERADOVIC
     am 31. Mai 2024.
 
+-   Kontemplation im Menschenpark. Fragen an Uwe Jochum. In:
+    Sezession 122 (2024), S. 56f.
+
 # Lehre
 
 

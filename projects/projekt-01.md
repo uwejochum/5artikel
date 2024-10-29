@@ -156,6 +156,11 @@ header-img: "img/totenbuch-bg.jpg"
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 
+## 2024
+
+-   [Langmut](https://antaios.de/gesamtverzeichnis-antaios/reihe-kaplaken/220094/langmut.-den-widerstand-ueben). Den
+    Widerstand üben. Schnellroda: Antaios, 2024 (Kaplaken; 92).
+
 <a id="org5bca59d"></a>
 
 # Aufsätze
@@ -726,6 +731,10 @@ header-img: "img/totenbuch-bg.jpg"
 	
 -   Frau Weisband und die Twitter-Sezession. In: Achgut.com,
     [27.12.2023](https://www.achgut.com/artikel/frau_weisband_und_die_twitter_sezession).
+	
+## 2024
+
+-   Demut und Widerstand. In: Sezession 119, April 2024. 
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 

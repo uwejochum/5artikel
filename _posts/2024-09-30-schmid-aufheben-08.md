@@ -94,6 +94,15 @@ Tschechisierungspolitik nennenswerte tschechische
 Bevölkerungsanteile aufzuweisen beginnt: Noch 1930 stehen 30.000
 Deutschen nur etwas mehr als 6.000 Tschechen gegenüber.
 
+---
+<div style='text-align: right;'> 
+»Von Beruf ist mein Vater Hilfsschullehrer gewesen. Gut die Hälfte<br />
+seines Lebens hat er im Dienst behinderter Kinder verbracht,<br />
+mit Tauben und Lahmen, mit Krüppeln und Schwachsinnigen.<br />
+Er war ein geduldiger Mensch, der geborene Pädagoge.«<br />
+(Selbstporträt, in: Süddeutsche Zeitung, 1985)«</div>
+---
+
 Der deutsch-nationale Vater und mit ihm der Sohn wechseln 1941
 ihren Nachnamen, um sich nach einer Vorfahrin namens Praizler
 hinfort Preußler zu nennen. Überhaupt der Vater: Er geht mit dem
@@ -133,6 +142,16 @@ Kameraden sie seelisch über Wasser hielten: »Verlassen sein im
 fremden Land? Schau s’ist doch über mir. Der gleiche Himmel
 ausgespannt, grad wie daheim bei dir.«
 
+---
+<div style='text-align: right;'> 
+»Kinder brauchen Geschichten, denn Geschichten sind<br />
+geistiges Brot für sie, Brot für die Seele. Sie gewinnen<br /> 
+daraus eine Anzahl von elementaren Stoffen, die sie<br />
+als Nahrung, als Aufbaunahrung für ihre Psyche<br />
+benötigen, die durch anderes nicht ersetzbar sind.«<br />
+(Der Schriftsteller und das Kind, 1988)</div>
+---
+
 Nach dem Krieg muß sich der Flüchtling neu orientieren --- er tut
 das im Schuldienst, als Volksschullehrer im Chiemgau. Hier
 beginnt das eigentliche Kapitel seines Lebens, das ihn
@@ -146,6 +165,16 @@ Dinge. Preußler stirbt 2013 hochbetagt und hochgeehrt in seiner
 bayerischen Wahlheimat.
 
 ## Was hat Preußler geschrieben?
+
+---
+<div style='text-align: right;'> 
+»Geschichten, wie sie der Vater an langen Abenden<br />
+in den Dörfern und und Baudenstuben der Iserleute<br /> 
+gesammelt und sich notiert hat. Geschichten,<br />
+mit denen ich aufgewachsen bin, die mich<br /> 
+noch heute beschäftigen …«<br />
+(Selbstporträt, 1985)</div>
+---
 
 Bevor Otfried Preußler zu schreiben beginnt, brilliert er als
 Erzähler aus Leidenschaft. Wie seine Großmutter ihm, so hat er
@@ -169,6 +198,17 @@ ihm nicht entgangen, das es genau das ist: eine Umweltgeschichte.
 ![Abbildung 3](/5artikel/material/schmid-aufheben-08-abb-03.jpg
 "Abbildung 3")
 
+---
+<div style='text-align: right;'> 
+»Im Böhmischen gibt es so viele Wassermänner,<br /> 
+wie es im Lande Teiche und Tümpel, Bäche und Flüsse gibt.<br /> 
+Ab und zu geht er [der Wassermann] auf ein Bier ins<br />
+Wirtshaus des nächsten Dorfes.  Dann bildet sich<br /> 
+unter seinem Sitz eine Wasserlache,<br /> 
+daran erkennt man ihn.«<br /> 
+(Vorarbeiten zum Sagenbuch, 1988)</div>
+---
+
 1951 geht Preußler dazu über, seine Geschichten aufzuschreiben,
 anfangs als praktizierender Pädagoge stets in Form von »Kinder-
 und Jugendlaienspielen« für den praktischen Gebrauch im
@@ -180,6 +220,12 @@ die Fasenacht*, *Das kleine Spiel vom Wettermachen*, *Das erste
 Brot in diesem Jahr. Ein kleines Spiel zum Erntedank*, *Wir
 klopfen an. Vier kurze Stücke für die Adventsfeiern im kleinen
 Kreis*.
+
+---
+<div style='text-align: right;'> 
+»Jeder Lehrer sollte ein bißchen zaubern können.«<br />
+(Herr Klingsor konnte ein bißchen zaubern, 1987)</div>
+---
 
 Als der Autor dieser Zeilen vor zwanzig Jahren, noch zu Preußlers
 Lebzeiten, den Archivbestand des Bayerischen Lehrer- und
@@ -210,6 +256,15 @@ Interesse. Schließlich übernahm das Hauptstaatsarchiv
 zähneknirschend das Archiv, allerdings ohne die Rezensionen ---
 diese wurden »ausgesondert«, ein euphemistischer
 Archivarsterminus für Vernichtung.
+
+---
+<div style='text-align: right;'> 
+»Ich bin als Geschichtenerzähler nicht an den Schreibtisch<br /> 
+gebunden. Das Wesentliche, der Prozeß des Erzählens,<br /> 
+des Hervorbringens einer Geschichte, vollzieht sich<br /> 
+auf den langen, einsamen Wegen rund um Haidholzen.«<br />
+(Selbstporträt, 1985)</div>
+---
 
 Der nicht überall für archivwürdig angesehene Preußler geht indes
 unbeirrt seinen Weg als Autor. Seine Weltkarriere beginnt 1956
@@ -248,6 +303,14 @@ vom Autor selbst.
 ![Abbildung 4](/5artikel/material/schmid-aufheben-08-abb-04.jpg
 "Abbildung 4")
 
+---
+<div style='text-align: right;'> 
+»Der Weg von Bethlehem nach Ägypten muß damals,<br />
+in jenen heiligen Zeiten, durchs Königreich Böhmen geführt haben…«<br />
+(Die Flucht nach Ägypten. Königlich böhmischer Teil, 1978)</div>
+---
+
+
 Selten verirrt sich Otfried Preußler auf das Terrain für
 erwachsene Leser: *Die Flucht nach Ägypten. Königlich böhmischer
 Teil* (1978) gehört zum berührendsten, was aus Preußlers Feder
@@ -259,6 +322,16 @@ Gabriel in Eselsgesalt den kürzesten Weg vom Heiligen Land nach
 Ägypten nimmt, der unzweifelhaft durch Böhmen zu führen hat,
 woselbst alle böhmischen Heiligen, angeführt vom Ritter Wenzel,
 dem Erlöser huldigen.[^3]
+
+---
+<div style='text-align: right;'> 
+»Es ist Winter der Abend bricht herein, ganz fein<br /> 
+hat es angefangen zu schneien. Hoch auf meines Vaters Schultern<br /> 
+sitzend reite ich in den Abend hinein. Der Vater hält mich<br /> 
+an den Füßen fest, während ich mit beiden Händen nach<br />
+seinen Ohren gefaßt habe, um ihn zu lenken.“<br /> 
+(Erinnerungen an meinen Vater Josef Preußler, 1988)</div>
+---
 
 In Preußlers Werk, so ist zu bilanzieren, spiegelt sich der
 Verlust der Mythe, welcher einen Verlust an Staunen, Demut,
@@ -277,6 +350,18 @@ von Preußlers Vater von marodierenden Tschechen auf die Straße
 geworfen wurde --- der Sohn läßt Überlieferung und Vaterandenken
 weiterleben, in vielen seiner Kinderbücher und konzentriert in
 seinem Sagenbuch *Zwölfe hat’s geschlagen* (1988).
+
+---
+<div style='text-align: right;'> 
+»Vom Wassermann in der Iser erzählte sie [Preußlers Großmutter],<br /> 
+von schlauen Schneidern und dummen Teufeln, von Hexen<br /> 
+und Hutzelweibern, vom Riesen Plampatsch, von echten<br /> 
+und falschen Wahrsagern, von verwunschenen Schätzen<br />
+im Wald – und immer wieder von unserem<br /> 
+Lieblingshelden, dem kleinen Däumerling …“<br />
+(Viele Bücher – und eins, das es nicht gegeben hat, 1988)</div>
+---
+
 
 Vater Preußler berichtet: »Ich habe über 25 Jahre Heimat- und
 Volkskundeforschung im Jeschken-Isergebirge betrieben und ein
@@ -326,6 +411,20 @@ Kinderchöre »Ganz Hamburg haßt die AfD« skandieren und
 Grundschüler davon sprechen, »wir« würden der Ukraine »zu wenig
 Waffen liefern«.
 
+---
+<div style='text-align: right;'> 
+»Was ich mit ›Krabat‹ darzustellen versucht habe,<br /> 
+ist die Geschichte eines jungen Menschen, der sich<br /> 
+– zunächst aus Neugier, und später in der Hoffnung, sich auf<br /> 
+diese Weise ein leichtes und schönes Leben sichern zu können –<br /> 
+mit bösen Gewalten einläßt und sich darin verstrickt;<br /> 
+und wie es ihm schließlich kraft seines Willens,<br /> 
+mit dem Beistand eines treuen Freundes und<br /> 
+durch die zum letzten Opfer bereite Liebe<br /> 
+eines Mädchens gelingt, sich aus dieser<br /> 
+Verstrickung wieder zu lösen.«</div>
+---
+
 Komplett bierernst trat 1972 das Satiremagazin *Pardon* als
 »Gerichtshof der Moral« (Herrmann Lübbe) auf. Anklagepunkt: »Wie
 man Kinder vermurkst«. Täter: Otfried Preußler. »Wenn Sie Ihren
@@ -356,6 +455,13 @@ Verlages, »veraltete und politisch nicht mehr korrekte
 Begrifflichkeiten« aus dem Werk seines Bestseller-Autors »zu
 entfernen«, um die Texte »dem politischen Wandel anzupassen«:
 »Wie anders als Zensur oder Fälschung soll man das nennen?«
+
+---
+<div style='text-align: right;'> 
+„Und wäre der Polizei auch geholfen,<br /> 
+wenn jemand – ihn fangen würde?“<br />
+(Der Räuber Hotzenplotz, 1962)</div>
+---
 
 Nur im hysterisch aufgeheizten Klima eines Hygienewahns, der sich
 an »Negerlein, Türken und Indianer«, »Eskimofrauen«, »kleine
@@ -398,6 +504,13 @@ systemstützendes und durchweg autoritäres Politikkonzept, welch
 »[systemkritische und anti­autoritäre
 Fragen](https://www.nzz.ch/der-andere-blick/auf-dem-holzweg-ein-otfried-preussler-gymnasium-braucht-keinen-neuen-namen-ld.1819736)«
 Preußlers *Kleine Hexe* aufwirft?
+
+---
+<div style='text-align: right;'> 
+»Dieser dritte Spruch war der beste.<br /> 
+Sie hexte damit den großen Hexen das Hexen ab.«<br />
+(Die kleine Hexe, 1957)</div>
+---
 
 Jüngst wird nun auch Michael Endes *Jim Knopf und Lukas der
 Lokomotivführer* beim gleichen Verlag [zeitgeistig
@@ -471,6 +584,16 @@ der Aufgabe, eine sozusagen letztinstanzliche Entscheidung zu
 treffen. Die verantwortliche Ministerin Anna Stolz (Freie Wähler)
 hatte vorsorglich durchblicken lassen, den zu erwartenden
 Umbenennungsantrag »mit der nötigen Sensibilität« zu prüfen.
+
+---
+<div style='text-align: right;'> 
+»Zugleich mit seinen fünf Sinnen, zugleich<br /> 
+mit Verstand und Urteilsvermögen hat Gott dem Menschen,<br /> 
+als einzigem Lebewesen auf Erden, die Gabe<br /> 
+der Phantasie verliehen — und damit ein wenig<br /> 
+von seiner eigenen Schöpferkraft.“<br />
+(Phantasie und Wirklichkeit – Vortrag in Tokio 1985)</div>
+---
 
 Vielleicht wirft sie und ihre Beamten ja auch noch einmal einen
 Blick auf Preußlers vollständige Biographie und in sein
