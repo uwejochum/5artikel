@@ -538,7 +538,12 @@ der Naziherrschaft und die auf ihn folgende, erzwungene Mobilität
 von Millionen von Flüchtlingen, Vertriebenen und Displaced
 Persons als Gründungsmonument einer neuen Phase der globalen Welt
 vor, in der politisches Asyl und Flucht auf fast allen
-Kontinenten zur Alltags­realität wurde«.[^39] Müssen sich die
+Kontinenten zur Alltags­realität wurde«.[^39] Und eine neue
+Studie zum »20. Juli« fabuliert sich eine [»Massenmigration
+zumeist deutschstämmiger
+Flüchtlinge«](https://jungefreiheit.de/wissen/geschichte/2024/fachliteratur-zum-20-juli-stauffenbergs-langer-schatten/)
+zusammen, wenn sie die »ethnische Säuberung der deutschen
+Ostprovinzen« (Junge Freiheit) benennen will. Müssen sich die
 deutschen Heimatvertriebenen also damit begnügen, zu Pionieren
 wider Willen einer unter One-World-Auspizien erwünschten
 weltweiten Mobilität im Zeichen des UN-Migrationspaktes
