@@ -326,8 +326,7 @@ verbirgt) und das Kaiser-Wilhelm-Institut für Deutsche Geschichte.
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/d/df/Friedrich_Althoff-B%C3%BCste_Charit%C3%A9_Berlin.JPG"
 alt="Drawing" style="width: 500px;"/>[Denkmal für Friedrich
-Althoff. Quelle: Kvikk, CC BY-SA 3.0, via Wikimedia Commons]
-
+Althoff. Quelle: Kvikk, CC BY-SA 3.0, via Wikimedia Commons.]
 
 Was man als »System Althoff« bezeichnet, kulminiert daher in der
 Organisationsstruktur und wissenschaftspolitischen Steuerungsmacht der
@@ -386,7 +385,7 @@ Kaiser-Wilhelm-Gesellschaft?
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/e/ef/KWI-Institute_1912.jpg"
 alt="Drawing" style="width: 750px;"/>[Kaiser-Wilhelm-Institute in
-Berlin-Dahlem. Quelle: Public domain, via Wikimedia Commons]
+Berlin-Dahlem. Quelle: Public domain, via Wikimedia Commons.]
 
 Die Antworten auf diese Fragen ergeben sich, wenn man die Kontinuität
 von Hegel bis zu Harnack sieht. Die von Hegel zur Kirche erhobenen
@@ -444,7 +443,7 @@ beider zu sorgen.«
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/3/35/Portret_van_Professor_Fritz_Haber%2C_een_chemicus_uit_Duitsland_%28foto_1918-_1934%29%2C_SFA002023057.jpg"
 alt="Drawing" style="width: 450px;"/>[Fritz Haber. Quelle:
-Unbekannt, Public domain, via Wikimedia Commons]
+Unbekannt, Public domain, via Wikimedia Commons.]
 
 Indessen hatte Deutschland nach dem Ersten Weltkrieg mit der
 pflichtgemäßen Erhaltung von Wehrkraft und Wissenschaft Probleme, denn
@@ -553,7 +552,7 @@ Forschungsgemeinschaft durch die Alliierten in Berlin war.
 src="https://upload.wikimedia.org/wikipedia/commons/9/94/Caballeria_del_Ej%C3%A9rcito_en_Izamiento_gran_Bandera_Nacional.jpg"
 alt="Drawing" style="width: 700px;"/>[Preußische Uniformen für
 die chilenische Präsidentengarde . Quelle: Ministerio Secretaria
-General de Gobierno, CC BY 2.0, via Wikimedia Commons]
+General de Gobierno, CC BY 2.0, via Wikimedia Commons.]
 
 
 Der Wiederaufbau der Forschungsförderung nach dem Zweiten Weltkrieg hat
@@ -635,7 +634,7 @@ stehen.
 src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Gesch%C3%A4ftsstelle_der_Deutschen_Forschungsgemeinschaft_in_Bonn-Bad_Godesberg.jpg"
 alt="Drawing" style="width: 700px;"/>[DFG-Geschäftsstelle in
 Bonn-Bad Godesberg. Quelle: Mkill, CC BY-SA 3.0, via Wikimedia
-Commons]
+Commons.]
 
 So hat inzwischen jede Universität ihr eigenes »Profil« --- also eine Art
 Produktportfolio, das zu den Profilen anderer Universitäten in
