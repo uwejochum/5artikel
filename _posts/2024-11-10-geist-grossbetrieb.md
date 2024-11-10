@@ -551,8 +551,8 @@ Forschungsgemeinschaft durch die Alliierten in Berlin war.
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/9/94/Caballeria_del_Ej%C3%A9rcito_en_Izamiento_gran_Bandera_Nacional.jpg"
-alt="Drawing" style="width: 700px;"/>[Preußische für die
-chilenische Präsidentengarde . Quelle: Ministerio Secretaria
+alt="Drawing" style="width: 700px;"/>[Preußische Uniformen für
+die chilenische Präsidentengarde . Quelle: Ministerio Secretaria
 General de Gobierno, CC BY 2.0, via Wikimedia Commons]
 
 
@@ -713,3 +713,6 @@ Untergang substantieller Wahrheit und verantwortlichen Handelns.
 Der vorstehende Beitrag erschien — ohne die hier eingefügten
 Abbildungen — zuerst in *Lettre International* 98 (2012),
 S.&nbsp;117–121.
+
+Zum Thema siehe auch meinen Radioessay beim *Kontrafunk*:
+[»Wissenschaft im Kartell«](https://kontrafunk.radio/de/sendung-nachhoeren/kultur-und-wissenschaft/audimax-das-kontrafunkkolleg/audimax-uwe-jochum-wissenschaft-im-kartell#id-article).
