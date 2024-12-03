@@ -17,7 +17,7 @@ Firmenaktivitäten darauf liegt, sich selbst als Autor und Denker
 möglichst weltweit zu vermarkten. Seinen Erfolg bewältigt Harari
 mit zwei Stunden täglicher Meditation. Und Erfolg hat er: Seine
 Bücher verkaufen sich wie geschnitten Frischbrot, und es dürfte
-keine halbwegs populäre Talkshow geben haben, in der er nicht
+keine halbwegs populäre Talkshow geben, in der er nicht
 öffentlich gedacht hat, was er sich eben so denkt.
 
 ![Harari](/5artikel/material/harari-interview-welt-2024-10-18-01.png
