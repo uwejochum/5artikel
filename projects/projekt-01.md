@@ -738,10 +738,21 @@ header-img: "img/totenbuch-bg.jpg"
 
 -   Demut und Widerstand. In: Sezession 119, April 2024. 
 
+-   Die Rückkehr des Giftschranks. Zur Zensurpraxis der
+    Bibliotheken in Deutschland. In: Das Ende der
+    Universität. Niedergang und mögliche Erneuerung einer
+    europäischen Institution, hrsg. von Harald Schulze-Eisentraut
+    / Alexander Ulfig. Baden-Baden: Deutscher
+    Wissenschaftsverlag, 2024, S. 146–157.
+
 -   Habeck, der Formlose. In: Achgut.com,
     [18.11.2024](https://www.achgut.com/artikel/robert_der_formlose).
 	
-
+-   Kontemplation im Menschenpark. Fragen an Uwe Jochum. In:
+    Sezession 122, Oktober 2024, S. 56–57.
+	
+-   Kontemplation im Menschenpark. In: Sezession 123, Dezember
+    2024, S. 44–49.
 
 [zurück zum Inhaltsverzeichnis](#table-of-contents)
 

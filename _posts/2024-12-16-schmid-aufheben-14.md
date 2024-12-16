@@ -128,11 +128,11 @@ bewaffnete Wort* (1997), das einzige eigenständige Werk Maschkes,
 das zur Zeit auslieferbar ist, allerdings nur als Print on
 Demand.
 
-Ein typischer Maschke --- aus seinen unter dem Porträt verlinkten
-Erinnerungen: »Habermas hat einmal gesagt, ich wäre der einzige
-Renegat von 68. Das stimmt insofern nicht, weil ich ja wirklich
-Kommunist war.  Und der normale damalige Linke, das war meistens
-so etwas schwebstoffartig Antiautoritäres, oft vermischt mit
+Ein [typischer Maschke](https://youtu.be/wEiioKo9Hwk): »Habermas
+hat einmal gesagt, ich wäre der einzige Renegat von 68. Das
+stimmt insofern nicht, weil ich ja wirklich Kommunist war.  Und
+der normale damalige Linke, das war meistens so etwas
+schwebstoffartig Antiautoritäres, oft vermischt mit
 Gewalt­romantik, aber nicht Kaderpartei. Und dieser Linke ist ja
 auch enttäuschungsfester. Wie sagte mal jemand: ›Ich verdiene
 30.000 Mark im Monat, aber eigentlich fühle ich mich immer noch
