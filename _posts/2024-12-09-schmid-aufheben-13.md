@@ -277,7 +277,7 @@ nicht rezipiert sehen --- zumindest nicht im Sinne des Autors.
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Konrad_Lorenz.JPG"
-alt="Drawing" style="width: 450px;"/>[Konrad LOrenz. Quelle: Max
+alt="Drawing" style="width: 450px;"/>[Konrad Lorenz. Quelle: Max
 Planck Gesellschaft (Eurobas), CC BY-SA 3.0, via Wikimedia
 Commons.]
 

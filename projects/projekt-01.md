@@ -159,7 +159,9 @@ header-img: "img/totenbuch-bg.jpg"
 ## 2024
 
 -   [Langmut](https://antaios.de/gesamtverzeichnis-antaios/reihe-kaplaken/220094/langmut.-den-widerstand-ueben). Den
-    Widerstand üben. Schnellroda: Antaios, 2024 (Kaplaken; 92).
+    Widerstand üben. Schnellroda: Antaios, 2024 (Kaplaken; 92).  
+	Dazu die Rezension von Jörg Seidel in seinem Blog
+    [seidwalk](https://seidwalkwordpresscom.wordpress.com/2024/12/15/langmut/).
 
 <a id="org5bca59d"></a>
 
