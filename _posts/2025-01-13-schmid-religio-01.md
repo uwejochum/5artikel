@@ -1,7 +1,7 @@
 ---
 layout:	post
 title: Religio I
-subtitle: Das Bauerntum. Wilhelm Stapel (1882-1954)
+subtitle: Das Bauerntum. Wilhelm Stapel (1882--1954)
 author:	Jürgen Schmid
 tags:   [Bauern,Volkskunde]
 ---
