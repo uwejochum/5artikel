@@ -413,7 +413,7 @@ bewahre uns der Herr!«, so von Geramb.[^23]
 
 Eine weitere große Gefahr sei, »daß das deutsche Gemüt durch
 lauter ›Import‹ zugrunde gerichtet werde«, denn dieses Gemüt
-vertrage sich nicht, so sagt es von Viktor von Geramb 1919, mit
+vertrage sich nicht, so sagt es Geramb 1919, mit
 »anglo-amerikanischem Krämergeist und Mammonismus«, »semitischem
 Feilscher- und Pharisäergeist und Spekulantentum« und
 »pariserischem Raffinement«.[^24] Nun endlich hat der
@@ -519,7 +519,7 @@ den 1970er Jahren auch für Grund- und Hauptschule
 vollakademisiert an die Universitäten über­siedelt war, an der
 Münchner LMU --- also an Kretzenbachers ehemaligem Lehrstuhl ---
 durch Rainer Wehse noch bis zu dessen Pensionierung 2006. Seither
-ist dieser dieser fruchtbare Strang eines Kulturprägefaktors
+ist dieser fruchtbare Strang eines Kulturprägefaktors
 abgeschnitten, den Klaus Roth in München stets hochhielt: Für ihn
 war die akademische Volkskunde keine Disziplin, die sich
 unmittelbar ans Volk wendet, sondern Mediatoren und
@@ -702,7 +702,7 @@ sondern wie es im *Lied der Deutschen*, erste Strophe, heißt:
 zum eigenen Volk naturgemäß etwas universell Gültiges, im Sinne
 von: »Und das Liebste mag\'s uns scheinen« --- unser Land, [»so
 wie andern Völkern
-ihrs*](https://www.youtube.com/watch?v=a7GkiBcPz1s), exemplarisch
+ihrs«](https://www.youtube.com/watch?v=a7GkiBcPz1s), exemplarisch
 vorgebracht am Deutschtum, wenn man Deutscher ist; wo
 beispielsweise Serben fragen, was sie für Europa tun können, wäre
 die Antwort: [Serben
