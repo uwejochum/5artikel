@@ -57,7 +57,7 @@ auf dem Spiel.
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sebnitz_Marktplatz_-_Leerstand_Ost_-_Spiegelung_Marktplatz_im_leeren_Gesch%C3%A4ft.jpg"
-alt="Drawing" style="width: 550px;"/>[Leerstand. Quelle: Lupus in
+alt="Drawing" style="width: 350px;"/>[Leerstand. Quelle: Lupus in
 Saxonia, CC BY-SA 4.0, via Wikimedia Commons.]
 
 Die Leerstände und angekündigten Entlassungen sind dabei nur die
@@ -98,7 +98,7 @@ technischen Winderzeugungsgebiet umgemodelt werden, in dem die
 Rotationsgeschwindigkeit der Windflügel den Takt angibt.
 
 ![Windpark Altdorfer Wald](/5artikel/material/screenshot-windpark-altdorfer-wald.png
-"Windpark Altdorfer Wald"){: width="300px"} [Werbung für den
+"Windpark Altdorfer Wald"){: width="450px"} [Werbung für den
 Windpark Altdorfer Land. Quelle: [Windpark Altdorfer Wald](https://windpark-altdorferwald.de/wissenswertes-windenergie/wie-ausgleichsmassnahmen-artenvielfalt-foerdern-und-helfen-den-wald-klimafest-zu-machen/)]
 
 Mit anderen Worten: In der Region ist der Abbau von Substanz, der
@@ -155,7 +155,7 @@ zeigen an, wie tief die depressive Verunsicherung der Bevölkerung
 inzwischen reicht.
 
 ![Verpackungssteuer](/5artikel/material/screenshot-verpackungssteuer-konstanz.png
-"Verpackungssteuer"){: width="300px"} [Werbung für die
+"Verpackungssteuer"){: width="450px"} [Werbung für die
 Verpackungssteuer. Quelle: [Stadt Konstanz](https://www.konstanz.de/leben+in+konstanz/umwelt/verpackungssteuer)]
 
 Wie es weitergehen wird, ist schwer zu sagen. Klar ist nur, daß
@@ -206,7 +206,7 @@ sprachlicher Substanz gefunden hat.
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Schweiz_um_1200.png"
-alt="Drawing" style="width: 550px;"/>[Machtbereich der
+alt="Drawing" style="width: 600px;"/>[Machtbereich der
 Zähringer. Quelle: Marco Zanoli, CC BY-SA 4.0, via Wikimedia
 Commons.]
 
