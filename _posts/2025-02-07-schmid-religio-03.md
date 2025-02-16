@@ -790,6 +790,65 @@ Wenn Deutschland fällt, so fällt Europa.
 Wenn Deutschland verrückt wird, so wird auch Europa verrückt.  
 Salvador de Madariaga[^47]  
 
+## Rede eines Europäers (Addendum vom 16. Februar 2025)
+
+Wer die [Rede von J.D.
+Vance](https://www.youtube.com/watch?v=pCOsgfINdKg), die er am
+14.&nbsp;Februar 2025 auf der Münchner Sicherheitskonferenz
+gehalten hat, nüchtern auf ihren Inhaltskern hin hört, kann einen
+beherzten Anwalt des Abendlandes entdecken, ein solcher Zuhörer
+wird die Rede eines Europäers vernehmen --- frei und souverän
+vorgetragen vom Vizepräsi­denten der Vereinigten Staaten von
+Amerika ---, wie sie denjenigen, die behaupten, glühende Europäer
+zu sein, niemals über die Zunge kommen würde.
+
+Die Bedrohung der abendländischen Zivilisation, so Vance, gehe
+nicht von äußeren Feinden aus, sondern »von innen« --- als
+»Rückzug Europas von einigen seiner grundlegendsten Werte«:
+Demokratie, Freiheit, Christentum.
+
+Die Demokratie beruhe »auf dem heiligen Prinzip, dass [die Stimme des
+Volkes](https://uwejochum.github.io/5artikel/2025/02/03/schmid-religio-02/)
+zählt. Es darf keine Schutzmauern
+\[[firewalls](https://x.com/elonmusk/status/1890579324530577750?s=61)\]
+geben.«
+
+Die Freiheit, insbesondere die Meinungsfreiheit, wird im
+Rückgriff auf die europä­ische Aufklärung aufgerufen: Die
+Trump-Administration mag »anderer Meinung sein als Sie [Vance
+spricht die anwesenden Vertreter von »unseredemokratie« direkt
+an], aber wir werden dafür kämpfen, Ihr Recht zu verteidigen,
+sich öffentlich zu äußern --- ob Sie uns zustimmen oder nicht.«
+Voltaires Worte, wie man sie aus dem Mund aufgeklärter
+europäischer Demokraten schon lange nicht mehr gehört hat.
+
+Das Christentum werde, so Vance mit Beispielen implizit, in Europa
+verfolgt, wenn etwa ein britischer Veteran bestraft wird, weil er von
+einer Abtreibungsklinik betete.
+
+Schließlich stellt der Vizepräsident der Vereinigten Staaten von
+Amerika die Frage aller Fragen, die ich dem [Europa-Teil von
+Religio](https://uwejochum.github.io/5artikel/2025/02/07/schmid-religio-03/)
+zu Grunde gelegt hatte: »Was mir und sicherlich vielen Bürgern
+Europas weniger klar ist: Wofür Sie sich eigentlich
+verteidigen. Was ist die positive Vision, die diesen
+Sicherheitsbund zusammenhält?«
+
+Nüchtern betrachtet war dies viel mehr die Rede eines Europäers
+als alles, was die EUrokraten in den letzten Jahren zu Europa zu
+sagen hatten. Es war die Rede eines Familienvaters, der mit einem
+Kind auf dem Arm in Paris europäischen Boden betrat. Es war eine
+--- höflich und unaufgeregt vorgebrachte --- Gegendarstellung zu
+einer EU, die sich als »stramm atheistisches Projekt« (Claudio
+Zanetti) versteht und inszeniert. Wann zuletzt hat jemand im
+»[Wertewesten](https://apolut.net/unsere-art-zu-leben-von-roberto-de-lapuente/?print-posts=pdf)«
+an so exponierter Stelle wie J.D. Vance von den Werten des
+Christentums gesprochen --- insbesondere würde diese Frage an die
+Vertreter der C-Parteien und die Kirchen gehen. Und wann zuletzt
+hat ein wertewestlicher Politiker eine Rede beendet mit den
+Worten: »Gott segne Euch«?
+
+
 ---
 
 *Die nächste Folge von Religio will deutlich machen, wo Heimat zu
