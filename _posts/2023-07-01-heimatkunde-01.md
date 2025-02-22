@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Heimatkunde
-subtitle: Teil eins
+subtitle: Teil eins — die Stadt als Kunstwerk
 author:	Uwe Jochum
 tags:   [Öffentlicher Raum,Stadt]
 ---

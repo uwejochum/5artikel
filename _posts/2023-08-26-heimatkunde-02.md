@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Heimatkunde
-subtitle: Teil zwei
+subtitle: Teil zwei  — die Stadt als Müllkippe
 author:	Uwe Jochum
 tags:   [Öffentlicher Raum,Stadt]
 ---

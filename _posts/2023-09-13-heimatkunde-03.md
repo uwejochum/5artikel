@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Heimatkunde
-subtitle: Teil drei
+subtitle: Teil drei — die Stadt reagiert (nicht)
 author:	Uwe Jochum
 tags:   [Öffentlicher Raum,Stadt]
 ---
