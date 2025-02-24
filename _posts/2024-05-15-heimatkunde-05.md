@@ -1,7 +1,7 @@
 ---
 layout:	post
-title:	Heimatkunde
-subtitle: Teil fünf — die Stadt als virale Befallszone
+title:	Heimatkunde V
+subtitle: die Stadt als virale Befallszone
 author:	Uwe Jochum
 tags:   [Demokratie,Freiheit,Pandemie,Rechtsstaat,Zwang]
 ---

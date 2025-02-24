@@ -1,7 +1,7 @@
 ---
 layout:	post
-title:	Heimatkunde
-subtitle: Teil vier — die Stadt fürs Fahrrad
+title:	Heimatkunde IV
+subtitle: die Stadt fürs Fahrrad
 author:	Uwe Jochum
 tags:   [Öffentlicher Raum,Stadt]
 ---
