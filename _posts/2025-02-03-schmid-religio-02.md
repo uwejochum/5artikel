@@ -847,7 +847,7 @@ die Allmacht ist und nicht der Wind?«
 Sira Jon: »Weil ein Wintersturm die stärkste Kraft in Island ist,
 die Schneeammer aber der schwächlichste von allen Einfällen
 Gottes.«  
-(aus: Halldór Laxness: **Kristnihald undir Jökli*, 1968)
+(aus: Halldór Laxness: *Kristnihald undir Jökli*, 1968)
 
 ### Griechisch
 
@@ -877,7 +877,7 @@ allen Bösen, die es aufzulösen gilt in der Ätzlauge EU. Man suche
 einen deutschen Kellner (m/w/d), der/die/das je etwas gehört hat
 vom Wessobrunner Gebet (»noh pereg ni was, noh sunna ni scein«),
 die Genealogie Parzivals parat hat oder über den einst beliebten
-Namen Dorothea Auskunft geben kann ...
+Namen Dorothea Auskunft geben kann...
 
 Bewahrung von Eigenem richtet sich gegen niemanden. Sie nimmt
 sich nur selbst ernst.
