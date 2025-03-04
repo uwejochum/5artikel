@@ -770,6 +770,124 @@ Deutscher«.*
 ![Grundgedanken](/5artikel/material/schmid-religio-02-abb-10.png
 "Grundgedanken"){: width="600px"}  [Abb.&thinsp;10: Grundgedanken der Demokratie.]
 
+## Volksseele
+
+### Tschechisch
+
+Ich lese in Václav Havels Memoiren, wie er seine Rolle als
+»Vorreiter der tschechischen Expräsidentschaft« erfinden mußte:
+»Hatten wir doch niemals einen Präsi­denten, der einfach so
+normal sein Mandat beendet hätte! Masaryk trat vor dem Ende wegen
+seines Alters und schlechten Gesundheitszustandes zurück und
+verlebte den kurzen Rest seines Lebens in Lány als
+Nationalheiliger. Beneš trat zweimal zurück, ein Mandat zu Ende
+zu bringen war ihm nie vergönnt. Hácha wurde hinweggefegt und
+starb im Gefängnis (er war übrigens unser einziger Präsident, der
+nach der Präsidentschaft im Gefängnis war, häufiger war es
+umgekehrt). Gottwald starb im Amt. Zápotocký auch. Novotný musste
+sein Amt vorzeitig und ein wenig schmählich aufgeben. Svoboda
+wurde wegen Krankheit des Amtes enthoben. Husák verließ es
+vorzeitig und in Schande, wie jemand, der sein Spiel verloren
+hat. Wir sind also an regulär ihr Amt beendende Präsi­denten
+nicht gewöhnt und wissen nicht so recht, was wir mit so einem
+machen sollen.«
+
+Jeder Tscheche wäre fähig, aus den Miniaturen dieser
+Präsidenschaftstragödien ganze Romane zu schöpfen. Wohingegen
+bereits der deutsche Nachbar kaum eine von Havels Andeutungen
+versteht, von einem Nicht-Europäer ganz zu schweigen. Gemeinsame
+Erinnerungen als wesentlicher Teil dessen, was man Volksseele
+nennt.
+
+### Estnisch
+
+Sonntag Nachmittag auf Hiumaa. Der Strand von Kelaste flirrt in
+subtropischer Hitze. Kein Mensch weit und breit, als ein
+Motorradfahrer in voller Lederkluft auftaucht. Helm ab — und
+erstaunter Blick auf uns, als ob wir seltene Insekten wären. Wo
+wir herkommen? Aus Deutschland. Was wir hier machen?
+Urlaub. Dafür ernten wir Unverständnis. Einer­seits. Und Freude
+darüber, daß wir uns sein Land anschauen: Dann seien wir ja
+quasi Botschafter. Ob er wolle, daß mehr Touristen nach Estland
+kommen? Die Antwort, klar und trocken: Nein. Wir beruhigen ihn:
+Estland werde nie ein Reiseland der Deutschen werden: Keine
+großen Hotels, keine Strandpromenaden, kein
+Nachtleben. Erleichterung. Er erzählt, wie verrückt die Esten
+danach seien, ihr eigenes Land zu entdecken. Fast jeder hat ein
+Häuschen irgendwo, am liebsten tief verborgen in den
+Wäldern. Ruhe, Einsamkeit, Pilze und Beeren sammeln. Die
+deutschen Gäste sind irritiert, zeigen auf den jungfräu­lichen
+Sandstrand: Aber ihr Esten habt doch tausende Kilometer
+Meeresküste — ist das nicht toll? Der Este blickt nachdenklich
+aufs Meer, als hätte er es noch nie gesehen — um sich fast
+angewidert abzuwenden: Nein. Wir sind ein Wald-Volk. (We are a
+forest nation.)
+
+### Isländisch
+
+Sira Jon [Pfarrer am Gletscher] wörtlich: »Bei Diskussionen in
+der Schule wurde manchmal die Frage gestellt, ob es nicht
+außerhalb der Macht Gottes läge, einen so schweren Stein zu
+schaffen, daß Gott ihn nicht heben kann. Oft scheint mir, mit der
+Allmacht Gottes verhält es sich so wie mit einer Schneeammer,
+gegen die sich alle Wetter verschworen haben. So ein Vogel wiegt
+nicht mehr als eine Briefmarke. Dennoch wird er nicht
+hinweg­geweht, wenn er bei schwerem Sturm auf freiem Felde
+steht. Haben Sie jemals den Kopf einer Schneeammer gesehen? Sie
+hält diesen zarten Kopf dem Unwetter entgegen, den Schnabel zur
+Erde, legt die Flügel fest an die Seiten, der Schwanz zeigt nach
+oben. Der Sturm kann den Vogel nicht packen, sondern er muß sich
+spalten. Selbst in den schlimms­ten Böen schwankt der Vogel
+nicht. Wo er steht, ist Windstille. Nicht einmal eine Feder an
+seinem Körper bewegt sich.«
+
+Vebi [Vertreter des Bischofs]: »Woher wissen Sie, daß der Vogel
+die Allmacht ist und nicht der Wind?«
+
+Sira Jon: »Weil ein Wintersturm die stärkste Kraft in Island ist,
+die Schneeammer aber der schwächlichste von allen Einfällen
+Gottes.«  
+(aus: Halldór Laxness: **Kristnihald undir Jökli*, 1968)
+
+### Griechisch
+
+Ein Gartenlokal in Aubing. Der Kellner: Ein freundlicher, naiv
+trotteliger Mittvierziger, dachte ich (wofür ich mich
+schäme). Beim Umsonst-Ouzo geraten wir im sich geleert habenden
+Kastanienschatten ins Plaudern über Menschen und Götter, als ich
+auf der Rechnung lese: »Es bediente sie Theo«. Ich spreche ihn
+darauf an. Theodoros — sagt er ebenso empört über mein Unwissen
+wie stolz auf seinen Namen: das Gottesgeschenk. Mein Opa hieß
+Theo, murmle ich wie ertappt in mich hinein. Bei Frauen, sagt
+Theo: Doro­thea. Ich starre ihn fassungslos an, obzwar mir der
+Name wohlbekannt, ich aber nie seine Bedeutung erfaßt hatte. Um
+mich etwas zu beruhigen, schwärme ich von griechischen
+Mädchen-Namen meiner archäologischen Studentenzeit:
+Cristina. Erofili. Iphigenia. Nun habe ich beim Kellner Theo erst
+recht eine Saite angerissen: Iphigenia, er schnalzt vor
+Begeisterung mit der Zunge, des Agamemnon, Fürsten von Mykene
+Tochter, Priesterin zu Aulis. Mir rennt Gänsehaut über den
+Körper. Erofili: Tochter des Liebesgottes… er setzt mir eine
+Bedeutung der Namensetymologie auseinander, der ich nicht mehr
+folgen kann, weil ich mit den Tränen kämpfe.
+
+Da stand sie leibhaftig vor mir: Die Volksseele, die es laut »die
+Wissenschaft« nicht gibt, weil Völker Konstrukte seien, Urheber
+allen Bösen, die es aufzulösen gilt in der Ätzlauge EU. Man suche
+einen deutschen Kellner (m/w/d), der/die/das je etwas gehört hat
+vom Wessobrunner Gebet (»noh pereg ni was, noh sunna ni scein«),
+die Genealogie Parzivals parat hat oder über den einst beliebten
+Namen Dorothea Auskunft geben kann ...
+
+Bewahrung von Eigenem richtet sich gegen niemanden. Sie nimmt
+sich nur selbst ernst.
+
+Plötzlich regnet es bei wolkenlos blauem Himmel vom
+Kastanienbaum. Dicke Tropfen fallen auf uns und die Tischplatte
+herab. Genüßlich badet eine geplusterte Kohlmeise in der Höhlung
+auf einem querstrebenden Ast — ein wundervolles Bassin, vom
+gestrigen Regen gut gefüllt.
+
 ---
 
 *Teil III von Religio, »Europa«, reagiert auf den Versuch, ein
