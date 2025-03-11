@@ -172,7 +172,7 @@ Das Manifest *Pan-Europa* beginnt in einer Einordnung »Europa und
 die Welt« mit dem Eingeständnis des »Verfalls der europäischen
 Welthegemonie«. Die Notwendig­keit einer wirtschaftlichen und
 politischen Vereinigung der Staaten Europas war von Anfang an der
-Schwäche des Kontinents geschuldet, der spätestens mit dem
+Schwäche des Kontinents geschuldet, die spätestens mit dem
 Kriegs­eintritt der Vereinigten Staaten von Amerika 1917
 offenkundig wurde. Vereinigungen im Zeichen der Schwäche sind
 selten auf einem tragfähigen Fundament erbaut.
@@ -308,7 +308,7 @@ werde. Oder aufgesaugt wird?
 der Amerikanismus. Er bildet den extremsten Kontrast zu allem
 Orientalismus, zu aller Beschaulichkeit und Mystik. Er ist
 optimistisch, zielstrebig, tatkräftig und fortschrittlich. Dieser
-Ameri­kanismus ist übrigens nicht auf Amerika beschrankt, sondern
+Ameri­kanismus ist übrigens nicht auf Amerika beschränkt, sondern
 er beherrscht auch die Industriezentren der Alten Welt (Berlin).«
 Ist Europa --- und beinahe so defätistisch klingt ausgerechnet
 der »Visionär Europas« an dieser Stelle bereits 1923 --- dazu
