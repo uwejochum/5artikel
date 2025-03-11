@@ -290,13 +290,13 @@ Jahr 1970. Ingredienzen: ein erstochener junger Mann, ein
 NPD-Stadtrat und »rechte Hetze« auf einem Flugblatt.
 
 ![Kampfstele](/5artikel/material/jochum-heimatkunde-06-19.jpg
-"Kampfstele")[Die Stadt im Kampf gegen rechts. Photo: Uwe Jochum.]
+"Kampfstele"){: width="500px"} [Die Stadt im Kampf gegen rechts. Photo: Uwe Jochum.]
 
 Der historische Fluchtpunkt all dieses Schilderwahns ist, wie
 könnte es anders sein, der Nationalsozialismus. 
 
 ![Gedenkschild](/5artikel/material/jochum-heimatkunde-06-20.jpg
-"Gedenkschild")[Die Stadt in kämpferischer Kontinuität. Photo:
+"Gedenkschild"){: width="500px"} [Die Stadt in kämpferischer Kontinuität. Photo:
 Uwe Jochum.]
 
 Sagen wir es so: Der »Kampf gegen rechts« postfiguriert den
