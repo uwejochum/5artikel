@@ -848,6 +848,11 @@ Vertreter der C-Parteien und die Kirchen gehen. Und wann zuletzt
 hat ein wertewestlicher Politiker eine Rede beendet mit den
 Worten: »Gott segne Euch«?
 
+![Musk blickt auf
+Europa](/5artikel/material/schmid-religio-03-abb-06.png "Musk
+blickt auf Europa"){:width="600px"} [Abb.&#8201;9: Elon Musk blickt auf
+Europa. Quelle: Twitter/X.]
+
 
 ---
 
