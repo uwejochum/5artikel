@@ -81,7 +81,7 @@ getragen werden und in Bewegung sind, schreien sie nicht«.[^6] Die
 Arbeit seßhafter Bauern dagegen: Müh und Leid, von dem man sich durch
 Transzendenzreligionen wegtragen lassen muß. Nicht das Leben im Hier
 und Jetzt als das Eigentliche, sondern der »Kandiszuckerberg« des
-Dies­seits, den der priesterliche Rabe Moses als Ohrenbläser den
+Jen­seits, den der priesterliche Rabe Moses als Ohrenbläser den
 schuftenden Tieren auf Orwells *Animal Farm* als Paradies vor Augen
 stellt, um sie ruhig zu halten.
 
