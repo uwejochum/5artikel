@@ -395,7 +395,7 @@ wurde, das nicht das ihre ist.
 
 ![](/5artikel/material/schmid-religio-06-abb-07.png){: width="600px"} 
 
-Auf dieses Buch verwies Peter Sloterdijk auf einer seiner
+Auf Duerrs *Sedna* verwies Peter Sloterdijk auf einer seiner
 abertausenden Seiten, die nicht gerade strotzen vor
 Literaturbelegen;[^39] er nannte es eine Studie über
 »vormetaphysisches Denken«. Was meint der Philosoph, wenn er die
