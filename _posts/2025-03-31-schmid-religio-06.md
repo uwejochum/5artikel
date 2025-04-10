@@ -1076,10 +1076,8 @@ Heiligem und Profanem?*
 
 [^38]: Duerr: Sedna (1984), wie Anm. 1, S. 11, S. 232.
 
-[^39]: Beim besten Willen kann ich nicht mehr rekonstruieren, wo bei
-    Sloterdijk ich diesen Hinweis gelesen habe; jedenfalls habe ich
-    nicht gezögert, dieses Buch in der Münchner Universitätsbibliothek
-    zu bestellen.
+[^39]: Peter Sloterdijk: Sphären. Mikrosphärologie Band I:
+    Blasen. Frankfurt am Main: Suhrkamp, 1998, S.&nbsp;277, Anm.&nbsp;109.
 
 [^40]: Immanuel Kant: Kritik der reinen Vernunft. Ehemalige Kehrbachsche
     Ausgabe. Heraus­gegeben von Raymund Schmidt. Leipzig: Philipp Reclam
