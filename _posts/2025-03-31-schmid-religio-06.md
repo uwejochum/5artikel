@@ -398,7 +398,7 @@ wurde, das nicht das ihre ist.
 Auf Duerrs *Sedna* verwies Peter Sloterdijk auf einer seiner
 abertausenden Seiten, die nicht gerade strotzen vor
 Literaturbelegen;[^39] er nannte es eine Studie über
-»vormetaphysisches Denken«. Was meint der Philosoph, wenn er die
+»vormetaphysische Einstellung«. Was meint der Philosoph, wenn er die
 religiöse Welt archaischer Menschen so klassifiziert ---
 Mentalitäten vor der Herausbildung eines philoso­phischen
 Begriffsdenkens?
