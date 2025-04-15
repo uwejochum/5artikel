@@ -1,6 +1,6 @@
 ---
 layout:	post
-title: Ordo armoris
+title: Ordo amoris
 subtitle :
 author:	Uwe Jochum
 tags:   [Flüchtlingskrise,Nächstenliebe]
@@ -35,7 +35,7 @@ Ebendiese Kreise waren nun aber durch den amerikanischen
 Vizepräsidenten Vance herausgefordert worden, der in einem
 [Interview mit Fox
 News](https://www.youtube.com/watch?v=o98Po0lWZxE) auf das
-christliche Konzept der *Ordo armoris* hingewiesen hatte. Diese
+christliche Konzept der *Ordo amoris* hingewiesen hatte. Diese
 *Ordo amoris*, so der Katholik Vance, begründe eine Ordnung der
 christlichen Liebe und Nächstenliebe, die eine Ordnung nach
 Prioritäten sei: Die Liebe und Nächstenliebe beginne mit der
