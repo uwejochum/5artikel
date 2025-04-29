@@ -220,7 +220,7 @@ sich hinauskann.
 [^2]: Manfred Osten hat im Jahre 2003 [das Buch zum
     Thema](https://www.perlentaucher.de/buch/manfred-osten/alles-veloziferisch-oder-goethes-entdeckung-der-langsamkeit.html)
     geliefert: »›Alles veloziferisch‹ oder Goethes Entdeckung der
-    Langsamkeit. Frankfurt am Main: Insel. Keine zahn Jahre
+    Langsamkeit. Frankfurt am Main: Insel. Keine zehn Jahre
     später, 2012, war es dann soweit, daß der [49. Deutsche
     Historikertag](https://www.historikertag.de/Mainz2012/en/programme/scientific-programme/panels/single-view/article/alles-veloziferisch-goethe-und-die-entstehung-der-modernen-oekonomie-um-1800.html)
     unter das Motto »›Alles veloziferisch‹. Goethe und die
