@@ -240,7 +240,7 @@ sich hinauskann.
     Reclam, 2011, 402a: »ist doch die Seele gewissermaßen das
     Prinzip der Lebewesen«.
 
-[^5]: Fran Kafka: Hochzeitsvorbereitungen auf dem Lande und
+[^5]: Franz Kafka: Hochzeitsvorbereitungen auf dem Lande und
     andere Prosa aus dem Nachlaß. Frankfurt am Main: Fischer,
     1980, S. 54.
 
