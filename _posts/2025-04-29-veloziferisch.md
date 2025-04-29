@@ -217,7 +217,7 @@ sich hinauskann.
 [^1]: Jakob Knudsen: Der alte Pfarrer. Übers. von Jörg
     Seidel. Schnellroda: Antaios, 2024, S.47.
 
-[^2]: Manfred Osten hat im Jahre 2003 []das Buch zum
+[^2]: Manfred Osten hat im Jahre 2003 [das Buch zum
     Thema](https://www.perlentaucher.de/buch/manfred-osten/alles-veloziferisch-oder-goethes-entdeckung-der-langsamkeit.html)
     geliefert: »›Alles veloziferisch‹ oder Goethes Entdeckung der
     Langsamkeit. Frankfurt am Main: Insel. Keine zahn Jahre
