@@ -83,7 +83,7 @@ kann. Aber wo Goethes
 noch darauf hoffen durfte, daß »der alte Meister« zurückkommt, um
 den technischen Hexenbesen wieder unter seine Kontrolle zu
 bringen, muß der moderne Zauberlehrling, der jede überkommene
-Meisterschaft seit Jahrezehten lächerlich gemacht hat,
+Meisterschaft seit Jahrzehnten lächerlich gemacht hat,
 feststellen, daß da kein Meister mehr ist. Womit die Frage immer
 noch nicht beantwortet ist, warum die Dinge so liegen, wie sie
 liegen.
