@@ -1362,9 +1362,20 @@ Nichts ist, zu achten.
     (S.&nbsp;205) oder »wie verbrauchte Wohnzimmerkommoden im
     Trödlerladen« (S.&nbsp;207) --- letzteres in der
     klassizistischen Münchner Ludwigskirche, in der Romano
-    Guardini als Studentenpfarrer der Universität die Messe
-    gelesen und gepredigt hat.
-
+    Guardini als Universitätsprediger die Messe gelesen
+    hat. Heute sind einige der Seitenaltäre, deren abgeräumten
+    Zustand Lorenzer 1981 beklagt hat, wieder mit Kreuz und
+    Leuchtern versehen. Nach Informationen aus dem Pfarramt
+    wurden die beiden Seitenaltäre am Chor 1952 auf Wunsch von
+    Guardini zum heute noch bestehenden Volksaltar
+    zusammengestellt, der also vorkonziliaren Ursprungs ist; so
+    trat in St.&nbsp;Ludwig in den 1950er Jahren die Situation
+    ein, daß Universitätsprediger Guardini dort seine
+    Gottesdienste schon vor der Liturgiereform *versus populum*
+    hielt, während der Gemeindepfarrer Anton Forsthuber
+    gleichzeitig weiterhin nach altem Ritus am Hochaltar
+    zelebrierte.
+	
 [^45]: Wie nahezu schockierend waren doch die Bilder vom Requiem für
     Papst Franziskus auf dem Petersplatz, bei denen Millionen
     Fernsehzuschauern schlagartig wieder bewußt geworden sein dürfte,
