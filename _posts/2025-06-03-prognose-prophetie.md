@@ -69,25 +69,25 @@ Korinther redet er von den verschiedenen »Gnadengaben«
 die Weisheit (*sophia*) mitteilen können, andere können (Er-)
 Kenntnisse (*gnōseis*) vermitteln, wieder andere können im
 Glauben stärken, noch andere können heilen, es gibt einige, die
-verfügen starke Gestaltungskräfte (*energēmata dynameōn*, zumeist
-als »Wunderkräfte« übersetzt), andere über Prophetie, noch andere
-können »die Geister unterscheiden«, und schließlich gibt es
-welche, die »reden in Zungen«, und andere, die das Zungenreden
-auslegen können (1 Kor 12,4–10). Das ist ein bunter Strauß von
-Fähigkeiten, die damals in einer christlichen Gemeinde vorhanden,
-heute aber weitgehend verschwunden sind. Die Prophetie ist in
-diesem Strauß nur eine unter anderen Fähigkeiten, besonders
-hervorgehoben wird sie nicht. Sie gehört aber zu ebenjenen
-Befähigungen, die einen praktischen Bezug haben: eine Gemeinde
-aufbauen oder überhaupt etwas zuwege bringen (*energēmata
-dynameōn*) kann nur, wer in der Lage ist, die Lage, in der man
-ist, treffsicher zu analysieren und also »die Geister zu
-unterscheiden« — und dann eben auch richtig zu prophezeien. Das
-meint keine prognostische Extrapolation des Jetzt in die Zukunft,
-sondern eine Lageanalyse, die das Jetzt und das Bald so
-zueinander ins Verhältnis setzt, daß klar wird, was zu tun
-ist. Mit Unvorhergesehenem ist dabei zu rechnen, weshalb die
-Zungenredner, die Unverständliches von sich geben, so wichtig
+verfügen über starke Gestaltungskräfte (*energēmata dynameōn*,
+zumeist als »Wunderkräfte« übersetzt), andere über Prophetie,
+noch andere können »die Geister unterscheiden«, und schließlich
+gibt es welche, die »reden in Zungen«, und andere, die das
+Zungenreden auslegen können (1 Kor 12,4–10). Das ist ein bunter
+Strauß von Fähigkeiten, die damals in einer christlichen Gemeinde
+vorhanden, heute aber weitgehend verschwunden sind. Die Prophetie
+ist in diesem Strauß nur eine unter anderen Fähigkeiten,
+besonders hervorgehoben wird sie nicht. Sie gehört aber zu
+ebenjenen Befähigungen, die einen praktischen Bezug haben: eine
+Gemeinde aufbauen oder überhaupt etwas zuwege bringen
+(*energēmata dynameōn*) kann nur, wer in der Lage ist, die Lage,
+in der man ist, treffsicher zu analysieren und also »die Geister
+zu unterscheiden« — und dann eben auch richtig zu
+prophezeien. Das meint keine prognostische Extrapolation des
+Jetzt in die Zukunft, sondern eine Lageanalyse, die das Jetzt und
+das Bald so zueinander ins Verhältnis setzt, daß klar wird, was
+zu tun ist. Mit Unvorhergesehenem ist dabei zu rechnen, weshalb
+die Zungenredner, die Unverständliches von sich geben, so wichtig
 sind: Sie sagen Unerhörtes und Ungehörtes, Wörter, die nicht
 passen und sich dem Normalverstand verweigern; sie überschreiten
 den Horizont des Verständlichen, das verständlich nur ist, weil
