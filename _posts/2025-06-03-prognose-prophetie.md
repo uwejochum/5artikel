@@ -65,8 +65,8 @@ Tabelle in eine Rede.
 Daß es genau so nicht ist, zeigt sich, wenn man einen Blick in
 die Briefe des Apostels Paulus wirft. Im ersten Brief an die
 Korinther redet er von den verschiedenen »Gnadengaben«
-(*charismata), die es in einer Gemeinde gibt. Da sind welche, die
-Weisheit (*sophia*) mitteilen können, andere können (Er-)
+(*charismata*), die es in einer Gemeinde gibt. Da sind welche,
+die Weisheit (*sophia*) mitteilen können, andere können (Er-)
 Kenntnisse (*gnōseis*) vermitteln, wieder andere können im
 Glauben stärken, noch andere können heilen, es gibt einige, die
 verfügen starke Gestaltungskräfte (*energēmata dynameōn*, zumeist
