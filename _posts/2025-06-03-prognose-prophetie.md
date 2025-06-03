@@ -125,35 +125,3 @@ dazu immer »ein und denselben Geist«, der alle integriert; aber
 es braucht auch immer das Besondere, das jeder beiträgt (1 Kor
 12,11)
 
-
-![Wachstum](/5artikel/material/wachstum-statistik-pixabay.png
-"Wachstum") [Abb.&thinsp;1: Wachstum. Quelle:
-[Pixabay](https://pixabay.com/de/).]
-
-
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Darwin-chart.PNG"
-alt="Drawing" style="width: 750px;"/>[Abb.&thinsp;2:
-Fortschritt. Quelle: Wikimedia Commons, Public
-Domain.]
-
-
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Chinese_honor_guard_in_column_070322-F-0193C-014.JPEG"
-alt="Drawing" style="width: 800px;"/>[Abb.&thinsp;3:
-Gleichschritt. Quelle: Staff Sgt. D. Myles Cullen (USAF) [Public
-domain], via Wikimedia Commons.]
-
-![Wachstum](/5artikel/material/open-access-wachstum-weltweit-einzelne-institutionen.png
-"Wachstum von »Open Access«") [Abb.&thinsp;8: Wachstum von »Open
-Access« an ausgewählten internationalen Institutionen. Quelle:
-Uwe Jochum unter Verwendung von Daten aus
-[OpenAPC](https://treemaps.intact-project.org/), Stand August
-2018.]
-
-
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg"
-alt="Drawing" style="width: 700px;"/>[Abb.&thinsp;9:
-Gescheiterter Fortschritt. Quelle: von Willy Stöwer [Public
-domain], via Wikimedia Commons.]
