@@ -88,7 +88,7 @@ Gruppe von Menschen, die nur unter dem Aspekt des Christseins
 interessiert.
 
 Der Apostel Paulus wußte das und schrieb entsprechend. Die
-postmodernen Übersetzen wissen es vielleicht auch und wollen es
+postmodernen Übersetzer wissen es vielleicht auch und wollen es
 bloß nicht wahrhaben, oder sie wissen es eben nicht. In jedem
 Fall ermächtigen sie sich selbst, den Text in einer Weise zu
 übersetzen, die vom Original wegführt. Wo es sonst im Raum des
