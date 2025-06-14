@@ -109,7 +109,7 @@ einsam um ihn.
 ---
 
 Der vorstehende Text wurde am 11.&nbsp;Juni 2025 auf »Kontrafunk«
-und der Sendung [»Kontrafunk
+in der Sendung [»Kontrafunk
 aktuell«](https://kontrafunk.radio/de/sendung-nachhoeren/politik-und-zeitgeschehen/kontrafunk-aktuell/kontrafunk-aktuell-vom-11-juni-2025)
 als Tageskommentar gesendet. Er ist über das Archiv des
 »Kontrafunk« abrufbar.
