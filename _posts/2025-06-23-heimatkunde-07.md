@@ -23,7 +23,7 @@ und Verkehrsteilnehmer sortieren und auf mehr oder weniger
 exklusive Nutzungszonen verteilen.
 
 ![Straßenpädagogik](/5artikel/material/jochum-heimatkunde-07-01.jpg
-"Straßenpädagogik")
+"Straßenpädagogik"){:width="600px"}
 
 Und damit ist das Problem vorgezeichnet. Wer aus
 verkehrstechnischen Gründen für klar getrennte Nutzungszonen für
@@ -40,7 +40,7 @@ dann auch noch in der Farbe Blau auf die Straße gepinselt wurde.
 
 
 ![Inklusionszone](/5artikel/material/jochum-heimatkunde-07-02.jpg
-"Inklusionszone")
+"Inklusionszone"){:width="600px"}
 
 Die Rätsel vertiefen sich, wenn man sieht, daß es auch genau
 andersherum geht und in einer Exklusionszone die dort
@@ -53,7 +53,7 @@ und geschrumpft werden auf ein paar Stereotype wie »Bus«,
 »Familie (alleinerziehend)« und anderes dieser Art? 
 
 ![Exklusionszone](/5artikel/material/jochum-heimatkunde-07-02a.jpg
-"Eklusionszone")
+"Eklusionszone"){:width="600px"}
 
 
 Jedenfalls habe ich in solchen Zonen noch niemals ein ikonisches
@@ -61,7 +61,7 @@ Zeichen für »Mann« gesehen. Allenfalls in schon etwas abgenutzter
 Kombination mit Haus und Auto und fußballspielendem Kind.
 
 ![Mann](/5artikel/material/jochum-heimatkunde-07-03.jpg
-"Mann")
+"Mann"){:width="600px"}
 
 Immerhin scheint man dort, wo das Ikonische zu Ende ist, dann
 ohne weiteres zum eher Dekorativen überzugehen, indem man
@@ -75,7 +75,7 @@ selber zu schauen, was da aus welcher Richtung kommt, wird den
 Sinn dieser Bemalung eher für zweifelhaft halten.
 
 ![Kreisverkehr](/5artikel/material/jochum-heimatkunde-07-04.jpg
-"Kreisverkehr")
+"Kreisverkehr"){:width="600px"}
 
 Zumal schon ein einfacher Blick an einer beliebigen Ampel genügt,
 um festzustellen, daß alle verkehrstechnische
@@ -85,7 +85,7 @@ auf die Straße gemalt haben, der fährt oder läuft, wie und wo er
 will.
 
 ![Verkehrswille](/5artikel/material/jochum-heimatkunde-07-05.jpg
-"Verkehrswille")
+"Verkehrswille"){:width="600px"}
 
 Vielleicht sind es solche Erfahrungen mit ikonischen
 Verkehrszeichen, die an manchen Stellen in unseren Städten einen
@@ -97,7 +97,7 @@ pinselt man dasselbe jetzt quer über die ganze Zufahrt und auf
 die Straße selber.
 
 ![Feuerwehrzufahrt](/5artikel/material/jochum-heimatkunde-07-06.jpg
-"Feuerwehrzufahrt")
+"Feuerwehrzufahrt"){:width="600px"}
 
 Es geht ein andermal aber auch so, daß man sich frei von
 verkehrlichen Hinweisen irgendwie künstlerisch austobt und Texte
@@ -110,7 +110,7 @@ hinweg als gäbe es sie nicht. Sie sind in hohem Grade völlig
 sinnlos.
 
 ![Bodentext](/5artikel/material/jochum-heimatkunde-07-07.jpg
-"Bodentet")
+"Bodentet"){:width="600px"}
 
 Oder doch nicht ganz. Sie sind der offenkundige Versuch, den
 öffentlichen Raum mit Sinn zu bepflastern, und an diesen
@@ -127,7 +127,7 @@ Steine stolpern, die uns zugleich über unsere Geschichte stolpern
 lassen.
 
 ![Stolpersteine](/5artikel/material/jochum-heimatkunde-07-08.jpg
-"Stolpersteine")
+"Stolpersteine"){:width="600px"}
 
 In Wahrheit ist hier freilich noch nie jemand gestolpert, weder
 über den Stein noch über die Geschichte. Vielmehr fügen sich
@@ -139,7 +139,7 @@ allerhöchsten umerziehenden Geschichtspolitik bis hinab zur Zone
 der Verbraucherlenkung.
 
 ![Mehrweg](/5artikel/material/jochum-heimatkunde-07-09.jpg
-"Mehrweg")
+"Mehrweg"){:width="600px"}
 
 Man mag das alles zuletzt nicht nur für merkwürdig, sondern
 geradezu für überflüssig halten und schließlich die Verschwendung
@@ -164,8 +164,7 @@ und Kommunikationszeiten gepinselt, was das Zeug hält, auf daß es
 bleibe und wirke.
 
 ![Straßenhand](/5artikel/material/jochum-heimatkunde-07-10.jpg
-"Straßenhand")
-
+"Straßenhand"){:width="600px"}
 
 Darin fällt die allerneueste Moderne in jene fernen Zeiten
 zurück, als der Mensch, noch reichlich ungeschützt von seiner
@@ -174,6 +173,6 @@ um dort jenen Sinn zu suchen und festzuhalten, der ihm
 zugesprochen wird und der ihn trägt. Wir sind immer noch
 Höhlenbewohner.
 
-![Straßenhand](/5artikel/material/jochum-heimatkunde-07-11.jpg
-"Straßenhand")
+![Höhlenhand](/5artikel/material/jochum-heimatkunde-07-11.jpg
+"Höhlenhand"){:width="600px"}
 
