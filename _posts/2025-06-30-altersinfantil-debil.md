@@ -152,3 +152,10 @@ Selbst zu sein. Sie betreiben, wie Kierkegaard schrieb, »eine
 *Selbst*verzehrung, jedoch eine ohnmächtige Selbstverzehrung, die
 nicht vermag was sie selber will.« Die religiöse Gretchenfrage,
 die Lisson stellt, ist damit beantwortet.
+
+---
+
+Der vorstehende Artikel erschien zuerst auf »Sezession im Netz«
+am 16. Juni 2025 unter dem Titel [»Frank Lisson stellt die
+Gretchenfrage«](https://sezession.de/70265/frank-lisson-stellt-die-gretchenfrage). Er
+ist hier unverändert abgedruckt.
