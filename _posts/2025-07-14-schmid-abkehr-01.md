@@ -26,7 +26,7 @@ davon ablegt, wie ein »Hinterfragen der Hinterfrager«, »eine
 Kritik der öffentlichen Kritikspezialisten auf dem moralischen
 Hochparterre« aussehen müßte (Zeitgeist, 1995/2000 [siehe oben],
 S.&nbsp;340), wurde in der Debatte um die Positionierung des
-Fachs Volkskunde viel zu selten Klartext gesprochen.[^56] </em>
+Fachs Volkskunde viel zu selten Klartext gesprochen.</em>[^56]
 
 ---
 
