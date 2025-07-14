@@ -14,19 +14,13 @@ die sich Empirische Kulturwissenschaft (EKW) zu nennen beliebt,
 die schon viel zu häufig als brillante Moder­nisierungsschübe
 gefeiert worden sind, obwohl »verharmlosende Schönfärbereien
 nicht weiter helfen«, wenn es gilt, den Zustand einer
-akademischen Disziplin zu beschreiben: Wolfgang Brückner: Streit
-um den Abwind in der Volkskunde. In: Bayerische Blätter für
-Volkskunde 20 (1993), Heft&nbsp;3, S.&nbsp;193&ndash;204.
-Wiederabgedruckt in: Volkskunde als histo­rische
-Kulturwissenschaft.  Gesammelte Schriften von Wolfgang Brückner
-IV: Zeitgeist und Zeitzeugenschaft 1968&ndash;1998. Würzburg
-2000, S.&nbsp;368&ndash;369, hier S.&nbsp;369.  Mit Ausnahme von
-Wolfgang Brückner, dessen Werkausgabe ein eindrucksvolles Zeugnis
-davon ablegt, wie ein »Hinterfragen der Hinterfrager«, »eine
-Kritik der öffentlichen Kritikspezialisten auf dem moralischen
-Hochparterre« aussehen müßte (Zeitgeist, 1995/2000 [siehe oben],
-S.&nbsp;340), wurde in der Debatte um die Positionierung des
-Fachs Volkskunde viel zu selten Klartext gesprochen.</em>[^56]
+akademischen Disziplin zu beschreiben. Mit Ausnahme Wolfgang
+Brückner, dessen Werkausgabe ein eindrucksvolles Zeugnis davon
+ablegt, wie ein »Hinter­fragen der Hinterfrager«, »eine Kritik
+der öffentlichen Kritikspezialisten auf dem moralischen
+Hochparterre« aussehen müßte, wurde in der Debatte um die
+Positionierung des Fachs Volkskunde viel zu selten Klartext
+gesprochen.</em>[^56]
 
 ---
 
@@ -552,6 +546,7 @@ zeugt als von einem Gefühl der Minderwertigkeit.
 
 [^55]: Zeitgeist, 1993/2000 (wie Anm. 1), S. 356.
 
-[^56]: Wolfgang Brückner, Volkskunde als historische
-	Kulturwissenschaft. Gesammelte kleine
-	Schriften. 17&nbsp;Bände. Würzburg, Bamberg 2000&ndash;2020.
+[^56]: Wolfgang Brückner: Volkskunde als histo­rische
+    Kulturwissenschaft. Gesammelte Schriften von Wolfgang
+    Brückner IV: Zeitgeist und Zeitzeugenschaft
+    1968--1998. Würzburg 2000, S.&nbsp;369, S.&nbsp;340.
