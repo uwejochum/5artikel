@@ -8,12 +8,12 @@ tags:   [Volkskunde,Wissenschaft]
 
 <p style="font-size: 18px;">
 
-<em> Der vorliegende fachgeschichtliche Versuch will eine
-deutliche Stimme sein gegen die &mdash; hier im Mittelpunkt der
-Betrachtung stehende &mdash; zuweilen unkritische Verherrlichung
-der Destruktionen und Spaltungsprozesse der Tübinger Volkskunde,
-die sich Empirische Kulturwissenschaft (EKW) zu nennen beliebt,
-die schon viel zu häufig als brillante Moder­nisierungsschübe
+Der vorliegende fachgeschichtliche Versuch will eine deutliche
+Stimme sein gegen die &mdash; hier im Mittelpunkt der Betrachtung
+stehende &mdash; zuweilen unkritische Verherrlichung der
+Destruktionen und Spaltungsprozesse der Tübinger Volkskunde, die
+sich Empirische Kulturwissenschaft (EKW) zu nennen beliebt, die
+schon viel zu häufig als brillante Moder­nisierungsschübe
 gefeiert worden sind, obwohl »verharmlosende Schönfärbereien
 nicht weiter helfen«, wenn es gilt, den Zustand einer
 akademischen Disziplin zu beschreiben: Wolfgang Brückner: Streit
@@ -28,8 +28,9 @@ davon ablegt, wie ein »Hinterfragen der Hinterfrager«, »eine
 Kritik der öffentlichen Kritikspezialisten auf dem moralischen
 Hochparterre« aussehen müßte (Zeitgeist, 1995/2000 [siehe oben],
 S.&nbsp;340), wurde in der Debatte um die Positionierung des
-Fachs Volkskunde viel zu selten Klartext gesprochen.[^56] </em></p>
+Fachs Volkskunde viel zu selten Klartext gesprochen.[^56] </p>
 
+---
 
 In Süddeutschland war die Studentenrevolte eine
 Provinz-Revolution.  Während es in der Münchner Ethnologie,
