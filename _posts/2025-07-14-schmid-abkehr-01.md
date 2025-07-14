@@ -28,7 +28,7 @@ davon ablegt, wie ein »Hinterfragen der Hinterfrager«, »eine
 Kritik der öffentlichen Kritikspezialisten auf dem moralischen
 Hochparterre« aussehen müßte (Zeitgeist, 1995/2000 [siehe oben],
 S.&nbsp;340), wurde in der Debatte um die Positionierung des
-Fachs Volkskunde viel zu selten Klartext gesprochen.[^56]  </em>
+Fachs Volkskunde viel zu selten Klartext gesprochen.[^56] </em>
 
 </p>
 
@@ -555,7 +555,6 @@ zeugt als von einem Gefühl der Minderwertigkeit.
 [^54]: Ebd., S. 8.
 
 [^55]: Zeitgeist, 1993/2000 (wie Anm. 1), S. 356.
-
 
 [^56]: Wolfgang Brückner, Volkskunde als historische
 	Kulturwissenschaft. Gesammelte kleine
