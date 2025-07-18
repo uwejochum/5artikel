@@ -318,6 +318,16 @@ erklärte, eigentlich »nicht dumm genug zu sein, um Volkskundler
 zu werden«, was allerdings eher von mangelnder Selbstachtung
 zeugt als von einem Gefühl der Minderwertigkeit.
 
+---
+
+*Wer sich zurückgesetzt fühlt, neigt --- um im Jargon von Zeit
+und Milieu zu bleiben — dazu, das kaputt machen zu wollen, von
+dem er glaubt, daß es ihn kaputt mache. Im folgenden Teil muß
+deshalb darauf eingegangen werden, wie die Tübinger Destruktion
+des Überkommenen und seiner bisherigen Darstellung durch die
+Volkskunde ins Werk gesetzt wurde.*
+
+
 ## Anmerkungen
 
 [^1]: Der vorliegende fachgeschichtliche Versuch will eine deutliche
