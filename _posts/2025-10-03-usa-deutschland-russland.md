@@ -85,7 +85,7 @@ Vorfahrengruppe der heutigen US-Amerikaner stellen:
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Census-2000-Data-Top-US-Ancestries.jpg/800px-Census-2000-Data-Top-US-Ancestries.jpg"
 style="width: 800px;"/>[Anteil Deutschstämmiger an der
-BEvölkerung der USA. Quelle: USA Census, Public domain, via
+Bevölkerung der USA. Quelle: USA Census, Public domain, via
 Wikimedia Commons.]
 
 Es ist eben nicht einfach eine Skurrilität, daß der gegenwärtige
