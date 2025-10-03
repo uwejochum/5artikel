@@ -50,7 +50,7 @@ Wikimedia Commons.]
 Früher wußte man es besser. Bismarck wollte den russischen Bären
 nicht wecken, und schon vor dem Ersten Weltkrieg machten sich die
 informierten Zeitgenossen in Deutschland Sorgen über das
-wirtschaftliche und politischer Erstarken der Vereinigten
+wirtschaftliche und politische Erstarken der Vereinigten
 Staaten. Beide Sorgen waren berechtigt, wie die Geschichte der
 letzten einhundert Jahre gezeigt hat: Deutschland mag sich noch
 immer für die Mitte Europas halten, aber es ist eine im Vergleich
