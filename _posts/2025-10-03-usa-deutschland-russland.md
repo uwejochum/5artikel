@@ -167,3 +167,24 @@ abzutöten, der tötet sich selbst ab.
 src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Russischer_B%C3%A4r_%28Euplagia_quadripunctaria%29_8056048-PSD.jpg"
 style="width: 500px;"/>[Der russische Bär. Quelle: Reinhold
 Möller, CC BY-SA 4.0, via Wikimedia Commons.]
+
+## Nachtrag vom 4. Oktober 2025
+
+Natürlich ist das Vorstehende nur ein kurzer Blick auf das
+Phänomen des Eigenhasses im Fremden. Was insbesondere Rußland
+anbelangt, ist die Lage durch das inzwischen politisch gewünschte
+Vergessen natürlich noch viel dramatischer: Rußland und seine
+Deutschen sind kein Fall mehr fürs Erinnern. Diese
+Erinnerungslücke hat auch mich als Autor insofern erwischt, als
+ich die Siedlungskarte der Deutschen in den USA nicht sofort
+durch eine Siedlungskarte der Deutschen in Rußland ergänzt
+habe. Das sei hiermit nachgetragen:
+
+<img
+src="https://upload.wikimedia.org/wikipedia/commons/a/a8/%D0%90%D1%80%D0%B5%D0%B0%D0%BB_%D1%80%D0%B0%D1%81%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B5%D0%BC%D1%86%D0%B5%D0%B2_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8._%D0%9F%D0%BE_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC_%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B8%D1%81%D0%B8_%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_2010_%D0%B3%D0%BE%D0%B4%D0%B0.png"
+style="width: 500px;"/>[Deutsche Siedlungsbiete in
+Rußland. Quelle: Н Авдеев, CC BY-SA 3.0, CC BY-SA 4.0, via
+Wikimedia Commons.]
+
+Mehr zum Thema der Rußlanddeutschen hat die
+[Wikipedia](https://de.wikipedia.org/wiki/Russlanddeutsche). 
