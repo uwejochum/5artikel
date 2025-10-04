@@ -182,7 +182,7 @@ habe. Das sei hiermit nachgetragen:
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/a/a8/%D0%90%D1%80%D0%B5%D0%B0%D0%BB_%D1%80%D0%B0%D1%81%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B5%D0%BC%D1%86%D0%B5%D0%B2_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8._%D0%9F%D0%BE_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC_%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B8%D1%81%D0%B8_%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_2010_%D0%B3%D0%BE%D0%B4%D0%B0.png"
-style="width: 500px;"/>[Deutsche Siedlungsbiete in
+style="width: 800px;"/>[Deutsche Siedlungsbiete in
 Rußland. Quelle: Н Авдеев, CC BY-SA 3.0, CC BY-SA 4.0, via
 Wikimedia Commons.]
 
