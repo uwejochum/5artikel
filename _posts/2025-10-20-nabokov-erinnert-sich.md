@@ -100,7 +100,7 @@ Brust geschrieben, ist also dort zu finden, wo auf dem
 Schlachtfeld der finale Schuß sie wenige Jahre später vom Leben
 zum Tod befördern wird. Das war in der Tat ein Inferno, aber
 keines, wie es Nabokov nennt: ein Inferno bloß aus Gerüchen, vor
-dem der Ästhet schaudern zurückprallt; es war ein reales
+dem der Ästhet schaudernd zurückprallt; es war ein reales
 Lebensinferno aus Tod und Vernichtung, dem Nabokov während des
 Krieges aus der sicheren Distanz der Vereinigten Staaten zusah.
 
