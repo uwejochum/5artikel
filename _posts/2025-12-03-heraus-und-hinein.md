@@ -86,7 +86,7 @@ Revolutionsgeist, der nach einfachen Sprechsilben getrennt haben
 möchte und behauptet, man würde das Wort als »Hyd- rant« sprechen
 und folgen auch so trennen können; neben der alten und gewohnten
 Form »Hy- drant«, versteht sich. Bei »Hyperbel« gilt das laut
-»Duden« übrigens nicht, das darf man auch nach Revolutions-«Duden«
+»Duden« übrigens nicht, das darf man auch nach Revolutions-»Duden«
 nicht als »Hyp- erbel« trennen, auch wenn es sicherlich irgendwo
 irgendjemanden gibt, der das so zu sprechen versucht; nein, das Ding
 bleibt weiterhin eine »Hy- per- bel«. Die »Hyäne« dann allerdings
@@ -105,5 +105,5 @@ näherzubringen. Und dabei dann auch darauf hinzuweisen (und es
 einzuüben), daß es Fremdwörter gibt, die ihren eigenen Regeln
 gehorchen, die man aber lernen kann, wie alles in der
 Welt. Immerhin: An ein Wort wie »Hämorrhoide« hat man sich bei den
-»Duden«-Leuten trennlogisch noch nicht herangetraut.
+»Duden«-Leuten trennlogisch-revolutionär noch nicht herangetraut.
 
