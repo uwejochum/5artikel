@@ -183,8 +183,7 @@ Stellung](/5artikel/material/bibcourse-screenshot-2025-12-09-schaarwaechter-01.p
 > Politikwissenschaftler? Sie müssen schon Namen und Argumente
 > nennen. Tut man es nicht, wie hier der Fall, betreibt man einfache
 > Feindmarkierung, die über Kontaktschuldketten und angemaßte
-> “wissenschaftliche” Expertise läuft.
-
+> “wissenschaftliche” Expertise läuft.  
 > Zum zweiten: Der Verfassungsschutz, der die AfD als “rechtsextrem
 > anerkannt” hat, ist keine neutrale Demokratiebehörde, sondern
 > untersteht den jeweiligen Innenministerien auf der Ebene des
@@ -194,8 +193,7 @@ Stellung](/5artikel/material/bibcourse-screenshot-2025-12-09-schaarwaechter-01.p
 > Gegners. Und da der relevanteste Gegner die AfD ist, wird sie mit
 > allen Mitteln bekämpft, wabei der Verfassungsschutz regelmäßig die
 > demokratischen und rechtsstaatlichen Spielregeln über Gebühr
-> dehnt, u.a. durch “Gutachten”, die keine sind.
-
+> dehnt, u.a. durch “Gutachten”, die keine sind.  
 > Drittens: Demokratie bedeutet keineswegs das, was Sie hier
 > auflisten, sondern zunächst das geregelte Verfahren zur Abwahl
 > einer Regierung und den Austausch derselben durch die bisherige
