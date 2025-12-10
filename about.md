@@ -15,25 +15,18 @@ Gartenstraße 74
 Dies ist die persönliche Website von Uwe Jochum. (Und daher gilt
 hier nur die »eingeschränkte Impressumspflicht«.)
 
-Sie finden hier neben Informationen zu meiner Person auch einen
-Blog, der keine kommerziellen, wohl aber aufklärende Interessen
-verfolgt, indem er in unregelmäßigen Abständen die Verwerfungen
-analysiert, die die Digitalisierungsideologie in den Bibliotheken
-und ihrem kulturellen und kulturpolitischen Umfeld bewirkt und
-die in kurrente Schlagwörter umgemünzt wird: »Open Access«,
-»Zweitveröffentlichungsrecht«, »Ownership versus Access«,
-»Erhöhung der Sichtbarkeit durch digitales Publizieren«,
-»Bereitstellung von digitalem Content«, »Holzmedien«,
-»Kosteneffizienz«, »digitale Allmende«, »Serviceorientierung«,
-»die Bibliothek als dritter Ort«, »die Bibliothek als digitaler
-Raum«, »Innovation – Strategie – Wandel«, »die Zukunft
-gestalten«, »Innovationsmanagement«, »Hybrid Bookshelf«,
-»digitale Lernumgebung«, »Kundenorientierung«,
-»Next-Generation-Systeme«, »der goldene Weg«, »digitale
-Langzeitarchivierung«, »Kommunikation & Information«,
-»wissenschaftsfreundliches Urheberrecht«, »Qualitätsmanagement«,
-»vernetzte Informationsgesellschaft«,
-»Forschungsdatenmanagement«… (wird fortgesetzt)
+Sie finden hier einen Blog, der keine kommerziellen, wohl aber
+aufklärende Interessen verfolgt. Entstanden ist er aus einer
+kritischen Begleitung des Bibliothekswesens mit seinem Hang zur
+frag- und besinnungslosen Digitalisierung der Arbeitsabläufe und
+Bestände und der dabei als Legitimation benutzen Phrasen wie »Open
+Access«, »Erhöhung der Sichtbarkeit durch digitales Publizieren«,
+»Bereitstellung von digitalem Content«, »digitale Allmende«,
+»Serviceorientierung«, »die Bibliothek als dritter Ort« und vielem
+anderen dieser Art. Daraus ergab sich im Laufe der Zeit die
+Einbeziehung der größeren politischen Perspektive, und so wurde
+dieser Blog allmählich zu einem kulturpolitischen Analysemedium. 
+
 
 ## Datenschutz
 
