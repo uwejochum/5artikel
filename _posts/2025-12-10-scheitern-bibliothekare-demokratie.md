@@ -28,7 +28,7 @@ Regelmäßigkeit: Man müsse die Demokratie vor den Undemokraten
 notfalls durch undemokratische Mittel schützen. Und das eben
 dadurch, daß man die Übernahme der Regierungsverantwortung durch die
 Opposition verhindert, wobei man unterstellt, daß eine solche
-Regierungsübernahme, wenn man sie zulasse, der
+Regierungsübernahme, wenn man sie zuließe, der
 nationalsozialistischen Machtübernahme im Jahre 1933 gleichen
 würde. Folglich wird die Demokratie solange mit undemokratischen
 Mitteln geschützt, bis sie von den vermeintlichen
@@ -132,8 +132,7 @@ Ich antworte ihm am 9. Dezember um 8:54 Uhr:
 > Debatten verweigert oder gar aktiv behindert, wie das bei der BdK
 > versucht wird, ist kein Demokrat, der dazulernen will, sondern ein
 > Undemokrat und Dogmatiker, der schon vorher weiß, was richtig ist,
-> bevor der andere noch sein Gegenargument genannt hat.
-
+> bevor der andere noch sein Gegenargument genannt hat.  
 > Richtig ist: Die BdK ist eine konservativer Think Tank mit eigener
 > Bibliothek. So what? Wenn es legitim ist, sich auf das
 > linksextremistische Blatt taz zu berufen, dann ist es auch
@@ -144,8 +143,7 @@ Ich antworte ihm am 9. Dezember um 8:54 Uhr:
 > zweitens ist er als Speuialbestand per Fernleihe nicht mehr
 > erreichbar, und drittens ist jede Kleinbibliothek überfordert, die
 > entsprechende technische Infrastruktur selbst vorzuhalten und zu
-> finanzieren.
-
+> finanzieren.  
 > Die Aufgabe der Bibliotheken ist die Ermöglichung von Debatten
 > durch Bereitstellung kontroversen Materials aller Art. Die Aufgabe
 > ist nicht die pädagogische Betreuung der Benutzer nach linksgrünem
