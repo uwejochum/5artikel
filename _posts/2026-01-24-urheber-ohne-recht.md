@@ -3,7 +3,7 @@ layout:	post
 title: Urheber ohne Recht
 subtitle: Wie Staat und Bürokratie mittels Open Access Wissenschaftler enteignen
 author:	Uwe Jochum
-tags:   [Digitalisierung,»Open Access«,Wissenschaftsfreiheit]
+tags:   [Deutsche Forschungsgemeinschaft,Digitalisierung,»Open Access«,Wissenschaftsfreiheit]
 ---
 
 <img src="https://vg04.met.vgwort.de/na/581a4cc5989d4782ab543698c34ff5a5" width="1" height="1" alt="">
@@ -11,7 +11,7 @@ tags:   [Digitalisierung,»Open Access«,Wissenschaftsfreiheit]
 *Der nachfolgende Beitrag erschien ursprünglich im Jahre 2009 in der
 Zeitschrift* Lettre International, *Nummer 87, S.&nbsp;7--12. Daß
 ich ihn nach so langer Zeit hier erneut veröffentliche, liegt nicht
-nur an einem gewissen Interesse an Dokumentation, sondern vor allem
+nur an einem gewissen Interesse an Dokumentation,[^2] sondern vor allem
 an den jüngsten Entwicklungen im deutschen Bibliothekswesen. Dort
 wird munter zensiert und die Zensur als »Kampf gegen rechts«
 legitimiert; und dort greift man nun auch ganz sichtbar zu
@@ -1056,4 +1056,12 @@ Nordlicht8, CC BY-SA 3.0, via Wikimedia Commons.]
     Hochschulrektorenkonferenz, der Leibniz-Gemeinschaft und dem
     Wissenschaftsrat.
 
-
+[^2]: An zwei Stellen habe ich kleine Veränderungen am
+    ursprünglichen Textbestand vorgenommen: 1. Jan Assmann ist in
+    der Zwischenzeit verstorben, so daß ein einst im Präsens
+    formulierter Satz hier ins Präteritum gesetzt werden
+    mußte. 2. Im ursprünglichen Text war von der »böse[n]
+    Übertölpelung der nationalen Urheberrechte« die Rede. Daraus
+    wurde jetzt treffender die »böseartige Übertölpelung der
+    nationalen Urheberrechte«. Alle Abbildungen sind eine Dreingabe
+    zur Neupublikation hier auf diesem Blog.
