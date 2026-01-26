@@ -15,7 +15,7 @@ nur an einem gewissen Interesse an Dokumentation,[^2] sondern vor allem
 an den jüngsten Entwicklungen im deutschen Bibliothekswesen. Dort
 wird munter zensiert und die Zensur als »Kampf gegen rechts«
 legitimiert; und dort greift man nun auch ganz sichtbar zu
-organisatorischen Maßnahmen, die jeden als »rechts« freindmarkierten
+organisatorischen Maßnahmen, die jeden als »rechts« feindmarkierten
 Akteur ins Aus befördern.*
 
 *Das geschieht im Augenblick mit der Bibliothek des Konservatismus,
