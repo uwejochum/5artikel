@@ -106,7 +106,7 @@ Ixicon, CC0, via Wikimedia Commons.]
 
 Daß man mit dieser Umbenennungsaktion zwar politisch äußerst
 korrekt, sachlich aber wohl grottenfalsch lag, gehört zu Berlin wie
-der rote Marmeladenkleks im Berliner: Der gute Amro war nur mit
+der rote Marmeladenkleks im Berliner: Der gute Amo war nur mit
 grüner Brille ein Guter, ansonsten kam er, wie alsbald [ermittelt
 wurde](https://www.welt.de/vermischtes/article68da81bf3204c86ca0ddce7d/Mohrenstrasse-in-Berlin-Opfer-und-Sklave-ist-falsch-Historiker-meldet-Fund-zur-Biografie-Anton-Wilhelm-Amos.html),
 mit großer Wahrscheinlichkeit aus einer Sklavenhalter- und
