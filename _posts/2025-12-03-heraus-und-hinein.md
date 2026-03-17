@@ -16,7 +16,7 @@ ersetzt und macht die Buchstaben auf dem Papier unscharf; manchmal
 läuft das Papier falsch, d.h. es wellt sich vertikal gegen den
 Buchblock; und die 1996 von oben verfügte Rechtschreibreform hat uns
 eine Revolutionsschreibung beschert, die die Texte
-entstellt. Jedenfalls weigere ich mich, solche orthgraphischen
+entstellt. Jedenfalls weigere ich mich, solche orthographischen
 Monstrositäten wie »Schlussszene«, »Baletttänzer« oder »Schifffahrt«
 für gut lesbares Deutsch zu halten, dem ich als Schreiber dann auch
 noch nachzueifern hätte. Ich suche bei diesen Wörtern die Wortfuge,
@@ -44,7 +44,7 @@ vermeintlichen Silbengrenze auch trennen zu dürfen. Aber man
 zerstört damit das Bewußtsein für die Sprachstruktur sowohl der
 genuin deutschen als auch der eingedeutschten Wörter.
 
-Der »Duden« als Wörterbuch und Regelerfinder und -erklärer, erklärt
+Der »Duden« als Wörterbuch und Regelerfinder und -erklärer erklärt
 die Sache so: Wenn das Wort als Zusammensetzung [nicht mehr erkannt
 oder
 »empfunden«](https://www.duden.de/sprachwissen/rechtschreibregeln/worttrennung)

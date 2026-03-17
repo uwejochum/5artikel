@@ -97,7 +97,7 @@ einer gewissen gehäuften Frustration heraus: Man kaufe ungeprüft keine
 Neubücher mehr, wenn es nicht sein muß. Neubücher nur noch kaufen, wenn
 man vorher Gelegenheit hatte, das Buch in der Buchhandlung eingehend zu
 inspizieren; auf keinen Fall aufgrund einer Rezension oder
-Katalogeinkündigung das Buch einfach so bestellen; auch ein als
+Katalogankündigung das Buch einfach so bestellen; auch ein als
 aktueller Nachdruck angekündigtes Buch kann jederzeit ein digitaler
 Wischi-Waschi-Nachdruck sein, und das ist offenbar immer häufiger der
 Fall. 
