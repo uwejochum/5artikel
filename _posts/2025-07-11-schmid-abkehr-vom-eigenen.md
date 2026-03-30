@@ -62,7 +62,7 @@ Geschichte aus einem kleinen unscheinbaren Fachbereich, die
 höchst symptomatisch erscheint für die großen Umbau­arbeiten an
 unserem Volk und Land, nicht zuletzt auch an Europa, die seit
 1968 im Gange sind und bis hierher schon verheerende Erfolge
-aufzu­eisen haben.
+aufzu­weisen haben.
 
 ## Anmerkungen
  
