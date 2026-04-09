@@ -41,7 +41,7 @@ stellen und damit über die kulturpolitische Ausrichtung der
 städtischen Behörden bestimmen können.
 
 <img
-src="https://www.duisburg.de/rathaus/rathausundpolitik/ratgremien/rat-der-stadt-duisburg.php.media/629151/2023091924Rat_.jpg.scaled/3294f8538296af256b42dfbc70112766.jpg"
+src="https://www.duisburg.de/rathaus/rathausundpolitik/ratgremien/rat-der-stadt-duisburg"
 alt="Drawing" style="width: 550px;"/>[In Duisburg tagt der
 Gemeinderat in der Mercatorhalle. Quelle: Stadt Duisburg.]
 
