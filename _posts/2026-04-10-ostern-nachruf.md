@@ -101,7 +101,7 @@ mit Ostern vorbei.
 
 ---
 
-Der wurde zuerst am 7. April 2026 als
+Der vorstehende Text wurde zuerst am 7. April 2026 als
 [Tageskommentar](https://kontrafunk.radio/de/sendung-nachhoeren/politik-und-zeitgeschehen/kontrafunk-aktuell/kontrafunk-aktuell-vom-7-april-2026)
 auf »Kontrafunk« gesendet. Ich veröffentliche ihn hier erneut,
 ergänzt um Links zu den Quellen.
