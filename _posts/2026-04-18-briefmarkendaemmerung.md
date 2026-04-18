@@ -59,7 +59,7 @@ Frankreich.
 
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/8/83/Stamp_frcolonies_madagascar.jpg?uselang=de"
-alt="Drawing" style="width: 400px;"/>[Madagassische
+alt="Drawing" style="width: 400px;"/>[Madegassische
 Briefmarke. Quelle: Gemeinfrei, {{PD-US-expired |1= |country=
 |hide_us_warning= |deathyear= |reason= }}.]
 
