@@ -537,10 +537,10 @@ Eine »theonome Kultur« ist für Pannenberg »Ausdruck eines
 christlichen Verständnisses der politischen Ordnung als einer
 vorläufigen Ordnung dieser Welt«[^60] — eine staats- und
 gesellschaftspolitische Vorstellung, wie sie weiter von
-spätbundesrepublikanischen Realitäten nicht entfernt sein könnte.
-Mit spürbarem Unwohlsein ordnet der katholische Bochumer
-Dogmatiker Georg Essen Pannenbergs Staatsverständnis ein als:
-»[Carl Schmitt auf
+spätbundesrepublikanischen Realitäten nicht entfernt sein könnte;
+eine Ordnungsvorstellung, die der katholische Bochumer Dogmatiker
+Georg Essen mit spürbarem Unwohlsein einordnet als: »[Carl Schmitt
+auf
 protestantisch](https://www.theologie-und-kirche.de/nachruf-pannenberg.pdf)«.[^61]
 
 ## Verlust der Mitte
