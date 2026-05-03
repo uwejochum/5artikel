@@ -8,6 +8,17 @@ tags:   [Bibliothekspolitik,Bibliothekstheorie,Bibliothekswissenschaft,Digitalis
 
 <img src="https://vg01.met.vgwort.de/na/745603d4c17e4180bc5e74eb162343b2" width="1" height="1" alt="">
 
+> Der nachstehende Text erschien zuerst im Jahre 2011 in dem von mir
+> mitherausgegebenen Sammelband *Das Ende der Bibliothek? Vom Wert
+> des Analogen*, der bei Klostermann in Frankfurt am Main
+> veröffentlicht wurde. Dort ist er zu finden auf den Seiten
+> 11–25. Ich habe hier in dieser Version lediglich einen Link zu
+> Licklider eingefügt, weil er eine heute doch eher an den Rand
+> gerückte Person ist. Das PDF des Artikels finden Sie [an dieser
+> Stelle](/5artikel/material/jochum-selbstabschaffung-bibliotheken.pdf).
+
+---
+
 ## Die Furie des Verschwindens
 
 Der Beginn der Selbstabschaffung der Bibliotheken läßt sich auf das
@@ -545,10 +556,116 @@ unterirdische Endstation »Google« heißt.
 Wohin es nach der Umwendung statt dessen gehen soll? Darauf gibt es
 eine einfache Antwort: langsam nach oben ins Freie.
 
-## Anmerkungen
+## Literaturliste
 
-::: {#refs}
-::: 
+Blagden, John: Do we really need libraries? An assessment of
+approaches to the evaluation of the performance of libraries. New
+York [u. a.]: Saur, 1980.
+
+Capurro, Rafael: Information. Ein Beitrag zur etymologischen und
+ideengeschichtlichen Begründung des Informationsbegriffs. München [u. a.]: Saur, 1978.
+
+Capurro, Rafael: Leben im Informationszeitalter. Berlin: Akademie
+Verlag, 1995.  Derrida, Jacques: Grammatologie. Frankfurt am Main:
+Suhrkamp, 1974.
+
+Deutsche Forschungsgemeinschaft / Bibliotheksausschuß und Kommission
+für Rechenanlagen: Neue Informations-Infrastrukturen für Forschung
+und Lehre. 1995. url: http://www.dfg.de/aktuelles_presse/reden_
+stellungnahmen/download/infra.pdf.
+
+Deutsche Forschungsgemeinschaft: »Wissenschaftliche Literaturversor-
+gungs- und Informationssysteme. Schwerpunkte der Förderung bis
+2015«. In: Bibliotheksdienst 40 (2006), S. 994–1002. url: http://www.zlb.
+de/aktivitaeten/bd_neu/heftinhalte2006/DigBib02080906.pdf.
+
+Deutsche Gesellschaft für Dokumentation (Hrsg.): Wissenschaft,
+Regierung und Information. Report of The President’s Science
+Advisory Committee USA (Weinberg-Bericht). Genehmigte dt. Übers. des
+Weinberg-Berichtes vom 10. Januar 1963. Frankfurt am Main: Deutsche
+Gesellschaft für Dokumentation, 1964.
+
+Endres-Niggemeyer, Brigitte (Hrsg.): Neue Informations- und
+Kommunikationstechniken. Kolloquium zur Fachlichen Meinungsbildung
+im Bereich Bibliothek, Information und Dokumentation <1983,
+Hannover>. München [u. a.]: Saur, 1984.
+
+Gantert, Klaus / Hacker, Rupert: Bibliothekarisches Grundwissen. 8., vollstän-
+dig neu bearb. u. erw. Aufl. München: Saur, 2008.
+
+Gore, Daniel (Hrsg.): Farewell to Alexandria. Solutions to space,
+growth, and performance problems of libraries. Westport,
+Conn. [u. a.]: Greenwood Press, 1976.
+
+Hegel, Georg Wilhelm Friedrich: Grundlinien der Philosophie des Rechts oder
+Naturrecht und Staatswissenschaft im Grundrisse. Hrsg. von Bernhard
+Lakebrink. Stuttgart: Reclam, 1981.
+
+Hegel, Georg Wilhelm Friedrich: Phänomenologie des
+Geistes. Frankfurt am Main: Suhrkamp, 1973.
+
+Information als Rohstoff für Innovation. Programm der
+Bundesregierung 1996–2000. Bonn, 1996.
+
+Janich, Peter: Was ist Information? Kritik einer Legende. Frankfurt am Main:
+Suhrkamp, 2006.
+
+Jochum, Uwe: »Der Souverän«. In: Libreas 5 (2009). URL:
+http://www.ib.hu-berlin.de/~libreas/libreas_neu/ausgabe15/texte/006.htm.~libreas/libreas_neu/ausgabe15/texte/006.htm.
+
+Jochum, Uwe: Kleine Bibliotheksgeschichte. 3., erw. Aufl. Stuttgart: Reclam, 2007.
+
+Jochum, Uwe: Kritik der Neuen Medien. Ein eschatologischer Essay. München: Fink,
+2003.
+
+Kent, Allen u. a.: Use of library materials. The University of
+Pittsburgh study.  New York [u. a.]: Dekker, 1979.
+
+Kierkegaard, Sören: Einübung im Christentum. Hrsg. u. eingel. von Walter
+Rest. München: Deutscher Taschenbuch Verlag, 1977.
+
+Kittler, Friedrich A. (Hrsg.): Austreibung des Geistes aus den Geisteswissen-
+schaften. Programme des Poststrukturalismus. Paderborn: Schöningh,
+1980.
+
+Krieg, Werner (Hrsg.): Bibliothekswissenschaft. Versuch einer
+Begriffsbestimmung in Referaten und Diskussionen bei dem Kölner
+Kolloquium (27.–29. Oktober 1969). Köln: Greven, 1970.
+
+Kuhlen, Rainer: »Information«. In: Grundlagen der praktischen
+Information und Dokumentation. Hrsg. von Rainer Kuhlen / Thomas
+Seeger / Dietmar Strauch. Bd. 1. München: Saur, 2004, S. 3–20.
+
+Licklider, Joseph Carl Robnett: Libraries of the future. Cambridge,
+Mass.: M. I. T. Press, 1965.
+
+Mittler, Elmar: »Entwicklungstrends im Bibliotheks- und
+Informationswesen. Überle- gungen zu einer Bibliothekspolitik der
+80-er Jahre«. In: Bibliothek 6 (1982), S. 123–126.  
+
+Reuß, Roland: »Eingecremtes Publizieren. Open Access als Enteignung«. In:
+Frankfurter Allgemeine Zeitung, 11.2.2009, S. N5. 
+
+Reuß, Roland / Rieble, Volker (Hrsg.): Autorschaft als Werkherrschaft in digi-
+taler Zeit. Frankfurt am Main: Klostermann, 2009.
+
+Seiffert, Helmut: Information über die Information. Verständigung im Alltag,
+Nachrichtentechnik, wissenschaftliches Verstehen, Informationssoziologie,
+das Wissen der Gelehrten. 2. Aufl. München: Beck, 1970.
+
+Sühl-Strohmenger, Wilfried: Digitale Welt und Wissenschaftliche Bibliothek
+— Informationspraxis im Wandel. Determinanten, Ressourcen, Dienste,
+Kompetenzen. Eine Einführung. Wiesbaden: Harrassowitz, 2008.
+
+Thompson, James: The end of libraries. London: Bingley, 1982.
+
+Wissenschaftsrat: Empfehlungen zur digitalen Informationsversorgung
+durch Hochschulbibliotheken. Drucksache
+4935-01. Greifswald, 2001. url: http:
+//www.wissenschaftsrat.de/download/archiv/4935-01.pdf.
+
+
+## Anmerkungen
 
 [^1]: Licklider: *Libraries of the future*, S. 5 f.
 
@@ -711,121 +828,3 @@ eine einfache Antwort: langsam nach oben ins Freie.
 
 [^45]: Siehe ebd., S. 151.
 
-## Literaturliste
-
-Blagden, John: Do we really need libraries? An assessment of
-approaches to the evaluation of the performance of libraries. New
-York [u. a.]: Saur, 1980.
-
-Capurro, Rafael: Information. Ein Beitrag zur etymologischen und
-ideengeschichtlichen Begründung des Informationsbegriffs. München [u. a.]: Saur, 1978.
-
-Capurro, Rafael: Leben im Informationszeitalter. Berlin: Akademie
-Verlag, 1995.  Derrida, Jacques: Grammatologie. Frankfurt am Main:
-Suhrkamp, 1974.
-
-Deutsche Forschungsgemeinschaft / Bibliotheksausschuß und Kommission
-für Rechenanlagen: Neue Informations-Infrastrukturen für Forschung
-und Lehre. 1995. url: http://www.dfg.de/aktuelles_presse/reden_
-stellungnahmen/download/infra.pdf.
-
-Deutsche Forschungsgemeinschaft: »Wissenschaftliche Literaturversor-
-gungs- und Informationssysteme. Schwerpunkte der Förderung bis
-2015«. In: Bibliotheksdienst 40 (2006), S. 994–1002. url: http://www.zlb.
-de/aktivitaeten/bd_neu/heftinhalte2006/DigBib02080906.pdf.
-
-Deutsche Gesellschaft für Dokumentation (Hrsg.): Wissenschaft,
-Regierung und Information. Report of The President’s Science
-Advisory Committee USA (Weinberg-Bericht). Genehmigte dt. Übers. des
-Weinberg-Berichtes vom 10. Januar 1963. Frankfurt am Main: Deutsche
-Gesellschaft für Dokumentation, 1964.
-
-Endres-Niggemeyer, Brigitte (Hrsg.): Neue Informations- und
-Kommunikationstechniken. Kolloquium zur Fachlichen Meinungsbildung
-im Bereich Bibliothek, Information und Dokumentation <1983,
-Hannover>. München [u. a.]: Saur, 1984.
-
-Gantert, Klaus / Hacker, Rupert: Bibliothekarisches Grundwissen. 8., vollstän-
-dig neu bearb. u. erw. Aufl. München: Saur, 2008.
-
-Gore, Daniel (Hrsg.): Farewell to Alexandria. Solutions to space,
-growth, and performance problems of libraries. Westport,
-Conn. [u. a.]: Greenwood Press, 1976.
-
-Hegel, Georg Wilhelm Friedrich: Grundlinien der Philosophie des Rechts oder
-Naturrecht und Staatswissenschaft im Grundrisse. Hrsg. von Bernhard
-Lakebrink. Stuttgart: Reclam, 1981.
-
-Hegel, Georg Wilhelm Friedrich: Phänomenologie des
-Geistes. Frankfurt am Main: Suhrkamp, 1973.
-
-Information als Rohstoff für Innovation. Programm der
-Bundesregierung 1996–2000. Bonn, 1996.
-
-Janich, Peter: Was ist Information? Kritik einer Legende. Frankfurt am Main:
-Suhrkamp, 2006.
-
-Jochum, Uwe: »Der Souverän«. In: Libreas 5 (2009). URL:
-http://www.ib.hu-berlin.de/~libreas/libreas_neu/ausgabe15/texte/006.htm.~libreas/libreas_neu/ausgabe15/texte/006.htm.
-
-Jochum, Uwe: Kleine Bibliotheksgeschichte. 3., erw. Aufl. Stuttgart: Reclam, 2007.
-
-Jochum, Uwe: Kritik der Neuen Medien. Ein eschatologischer Essay. München: Fink,
-2003.
-
-Kent, Allen u. a.: Use of library materials. The University of
-Pittsburgh study.  New York [u. a.]: Dekker, 1979.
-
-Kierkegaard, Sören: Einübung im Christentum. Hrsg. u. eingel. von Walter
-Rest. München: Deutscher Taschenbuch Verlag, 1977.
-
-Kittler, Friedrich A. (Hrsg.): Austreibung des Geistes aus den Geisteswissen-
-schaften. Programme des Poststrukturalismus. Paderborn: Schöningh,
-1980.
-
-Krieg, Werner (Hrsg.): Bibliothekswissenschaft. Versuch einer
-Begriffsbestimmung in Referaten und Diskussionen bei dem Kölner
-Kolloquium (27.–29. Oktober 1969). Köln: Greven, 1970.
-
-Kuhlen, Rainer: »Information«. In: Grundlagen der praktischen
-Information und Dokumentation. Hrsg. von Rainer Kuhlen / Thomas
-Seeger / Dietmar Strauch. Bd. 1. München: Saur, 2004, S. 3–20.
-
-Licklider, Joseph Carl Robnett: Libraries of the future. Cambridge,
-Mass.: M. I. T. Press, 1965.
-
-Mittler, Elmar: »Entwicklungstrends im Bibliotheks- und
-Informationswesen. Überle- gungen zu einer Bibliothekspolitik der
-80-er Jahre«. In: Bibliothek 6 (1982), S. 123–126.  
-
-Reuß, Roland: »Eingecremtes Publizieren. Open Access als Enteignung«. In:
-Frankfurter Allgemeine Zeitung, 11.2.2009, S. N5. 
-
-Reuß, Roland / Rieble, Volker (Hrsg.): Autorschaft als Werkherrschaft in digi-
-taler Zeit. Frankfurt am Main: Klostermann, 2009.
-
-Seiffert, Helmut: Information über die Information. Verständigung im Alltag,
-Nachrichtentechnik, wissenschaftliches Verstehen, Informationssoziologie,
-das Wissen der Gelehrten. 2. Aufl. München: Beck, 1970.
-
-Sühl-Strohmenger, Wilfried: Digitale Welt und Wissenschaftliche Bibliothek
-— Informationspraxis im Wandel. Determinanten, Ressourcen, Dienste,
-Kompetenzen. Eine Einführung. Wiesbaden: Harrassowitz, 2008.
-
-Thompson, James: The end of libraries. London: Bingley, 1982.
-
-Wissenschaftsrat: Empfehlungen zur digitalen Informationsversorgung
-durch Hochschulbibliotheken. Drucksache
-4935-01. Greifswald, 2001. url: http:
-//www.wissenschaftsrat.de/download/archiv/4935-01.pdf.
-
-## Quellenhinweis
-
-Der vorstehende Text erschien zuerst im Jahre 2011 in dem von mir
-mitherausgegebenen Sammelband *Das Ende der Bibliothek? Vom Wert des
-Analogen*, der bei Klostermann in Frankfurt am Main veröffentlicht
-wurde. Dort ist er zu finden auf den Seiten 11–25. Ich habe hier in
-dieser Version lediglich einen Link zu Licklider eingefügt, weil er
-eine heute doch eher an den Rand gerückte Person ist. Das PDF des
-Artikels finden Sie [an dieser
-Stelle](/5artikel/material/jochum-selbstabschaffung-bibliotheken.pdf).
