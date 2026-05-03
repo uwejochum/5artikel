@@ -545,18 +545,9 @@ unterirdische Endstation »Google« heißt.
 Wohin es nach der Umwendung statt dessen gehen soll? Darauf gibt es
 eine einfache Antwort: langsam nach oben ins Freie.
 
-## Quellenhinweis
-
-Der vorstehende Text erschien zuerst im Jahre 2011 in dem von mir
-mitherausgegebenen Sammelband *Das Ende der Bibliothek? Vom Wert des
-Analogen*, der bei Klostermann in Frankfurt am Main veröffentlicht
-wurde. Dort ist er zu finden auf den Seiten 11–25. Ich habe hier in
-dieser Version lediglich einen Link zu Licklider eingefügt, weil er
-eine heute doch eher an den Rand gerückte Person ist. Das PDF des
-Artikels finden Sie [an dieser
-Stelle](/5artikel/material/jochum-selbstabschaffung-bibliotheken.pdf).
-
 ## Anmerkungen
+
+::: {#refs}
 
 [^1]: Licklider: *Libraries of the future*, S. 5 f.
 
@@ -719,6 +710,8 @@ Stelle](/5artikel/material/jochum-selbstabschaffung-bibliotheken.pdf).
 
 [^45]: Siehe ebd., S. 151.
 
+## Literaturliste
+
 Blagden, John: Do we really need libraries? An assessment of
 approaches to the evaluation of the performance of libraries. New
 York [u. a.]: Saur, 1980.
@@ -825,3 +818,13 @@ durch Hochschulbibliotheken. Drucksache
 4935-01. Greifswald, 2001. url: http:
 //www.wissenschaftsrat.de/download/archiv/4935-01.pdf.
 
+## Quellenhinweis
+
+Der vorstehende Text erschien zuerst im Jahre 2011 in dem von mir
+mitherausgegebenen Sammelband *Das Ende der Bibliothek? Vom Wert des
+Analogen*, der bei Klostermann in Frankfurt am Main veröffentlicht
+wurde. Dort ist er zu finden auf den Seiten 11–25. Ich habe hier in
+dieser Version lediglich einen Link zu Licklider eingefügt, weil er
+eine heute doch eher an den Rand gerückte Person ist. Das PDF des
+Artikels finden Sie [an dieser
+Stelle](/5artikel/material/jochum-selbstabschaffung-bibliotheken.pdf).
