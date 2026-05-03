@@ -9,8 +9,8 @@ tags:   [Bibliothekspolitik,Bibliothekstheorie,Bibliothekswissenschaft,Digitalis
 <img src="https://vg01.met.vgwort.de/na/745603d4c17e4180bc5e74eb162343b2" width="1" height="1" alt="">
 
 > Der nachstehende Text erschien zuerst im Jahre 2011 in dem von mir
-> mitherausgegebenen Sammelband *Das Ende der Bibliothek? Vom Wert
-> des Analogen*, der bei Klostermann in Frankfurt am Main
+> mitherausgegebenen Sammelband »Das Ende der Bibliothek? Vom Wert
+> des Analogen«, der bei Klostermann in Frankfurt am Main
 > veröffentlicht wurde. Dort ist er zu finden auf den Seiten
 > 11–25. Ich habe hier in dieser Version lediglich einen Link zu
 > Licklider eingefügt, weil er eine heute doch eher an den Rand
