@@ -719,8 +719,6 @@ Stelle](/5artikel/material/jochum-selbstabschaffung-bibliotheken.pdf).
 
 [^45]: Siehe ebd., S. 151.
 
-## Literaturliste
-
 Blagden, John: Do we really need libraries? An assessment of
 approaches to the evaluation of the performance of libraries. New
 York [u. a.]: Saur, 1980.
