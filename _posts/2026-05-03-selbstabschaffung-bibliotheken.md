@@ -686,7 +686,7 @@ durch Hochschulbibliotheken. Drucksache
 
 [^7]: Ebd., S. 7.
 
-[^8]: Licklider: *Libraries of the future, S. 126 f.
+[^8]: Licklider: *Libraries of the future*, S. 126 f.
 
 [^9]: Mehr als eine Fußnote wert ist der Hinweis, daß für die
     Vorarbeiten zu Lickliders Buch eine Reihe von Experten befragt
@@ -697,7 +697,7 @@ durch Hochschulbibliotheken. Drucksache
     keinen Fall sollte man Warren Weaver vergessen, dessen zusammen
     mit Claude Shannon verfaßtes Buch über als offizieller
     Startschuß der Informationstheorie gilt. Siehe Lickliders
-    *Libraries of the future*, S. VI f..
+    *Libraries of the future*, S. VI f.
 
 [^10]: Siehe, allerdings aus späteren Jahren, den einschlägigen
     Titel von Kittler: *Austreibung des Geistes aus den
@@ -705,15 +705,16 @@ durch Hochschulbibliotheken. Drucksache
 
 [^11]: Derrida: *Grammatologie*, S. 150.
 
-[^12]: Ebd., S. 17, 18 u. ö.].
+[^12]: Ebd., S. 17, 18 u. ö.
 
-[^13]: Ebd., S. 35, 152--156].
+[^13]: Ebd., S. 35, 152--156.
 
 [^14]: Siehe ebd., S. 154 f. und dort besonders Fußnote 34.
 
 [^15]: Ebd., S. 20.
 
-[^16]: Siehe die Beiträge von Kluth und Cremer in Krieg: *Bibliothekswissenschaft*.
+[^16]: Siehe die Beiträge von Kluth und Cremer in Krieg:
+    *Bibliothekswissenschaft*.
 
 [^17]: So Kluth in seinem Referat ebd., S. 128.
 
@@ -723,8 +724,8 @@ durch Hochschulbibliotheken. Drucksache
     *Use of library materials*.
 
 [^20]: Siehe die einschlägigen Veröffentlichungen von Gore:
-    *Farewell to Alexandria*, Blagden: *Do we really need libraries?*
-    und Thompson: *The end of libraries*.
+    *Farewell to Alexandria*, Blagden: *Do we really need
+    libraries?*  und Thompson: *The end of libraries*.
 
 [^21]: Paradigmatisch für die Problemanalyse und die Vorschläge ist
 	Mittler: »Entwicklungstrends im Bibliotheks- und
@@ -734,14 +735,14 @@ durch Hochschulbibliotheken. Drucksache
 	Band *Neue Informations- und Kommunikationstechniken*, S. 5.
 
 [^23]: Hier eine Liste der einschlägigen Motti: »Bibliotheken als
-    Informationsvermittler« (Stuttgart 1978), »Bibliotheken im Verbund«
-    (Wuppertal 1980). »Bibliotheken, Service für die Zukunft« (Leipzig
-    1993), »Die Herausforderung der Bibliotheken durch elektronische
-    Medien und neue Organisationsformen« (Göttingen 1995), »Von
-    Gutenberg zum Internet« (Dortmund 1997), »Bibliotheken --- Portale
-    zum globalen Wissen« (Bielefeld 2001), »Netzwerk Bibliothek«
-    (Dresden 2006), »Wissen bewegen --- Bibliotheken in der
-    Informationsgesellschaft« (Mannheim 2008).
+    Informationsvermittler« (Stuttgart 1978), »Bibliotheken im
+    Verbund« (Wuppertal 1980). »Bibliotheken, Service für die
+    Zukunft« (Leipzig 1993), »Die Herausforderung der Bibliotheken
+    durch elektronische Medien und neue Organisationsformen«
+    (Göttingen 1995), »Von Gutenberg zum Internet« (Dortmund 1997),
+    »Bibliotheken --- Portale zum globalen Wissen« (Bielefeld 2001),
+    »Netzwerk Bibliothek« (Dresden 2006), »Wissen bewegen ---
+    Bibliotheken in der Informationsgesellschaft« (Mannheim 2008).
 
 [^24]: Siehe das 1996 von der Bundesregierung vorgelegte Programm
 	*Information als Rohstoff für Innovation*, das schon im Titel
@@ -777,16 +778,16 @@ durch Hochschulbibliotheken. Drucksache
 
 [^28]: Hegel: *Phänomenologie des Geistes*, S. 436.
 
-[^29]: Ebd..
+[^29]: Ebd.
 
 [^30]: Hegel: *Grundlinien der Philosophie des Rechts*, § 40.
 
 [^31]: Ebd., § 41.
 
 [^32]: Zur Analyse dieser Vorgänge Reuß: »Eingecremtes Publizieren«,
-    Reuß / Rieble: *Autorschaft als Werkherrschaft in digitaler Zeit*,
-    Jochum: »Der Souverän« und die weitere Debatte um den »Heidelberger
-    Appell« (http://www.textkritik.de/digitalia/).
+    Reuß / Rieble: *Autorschaft als Werkherrschaft in digitaler
+    Zeit*, Jochum: »Der Souverän« und die weitere Debatte um den
+    »Heidelberger Appell« (http://www.textkritik.de/digitalia/).
 
 [^33]: Man schaue sich nur die Unterzeichnerliste des
     Aktionsbündnisses »Urheberrecht für Bildung und Wissenschaft«
@@ -803,7 +804,7 @@ durch Hochschulbibliotheken. Drucksache
 
 [^37]: Dazu als Standardwerk Capurro: *Information*.
 
-[^38]: Seiffert: *Information über die Information*, S. 28--30].
+[^38]: Seiffert: *Information über die Information*, S. 28--30.
 
 [^39]: Siehe Janich: *Was ist Information?*, dem ich in meinen
     Ausführungen folge.
