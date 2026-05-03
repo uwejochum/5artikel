@@ -135,19 +135,19 @@ sich »das Ende der linearen Schrift und das Ende des Buches«
 an,[^14] vielmehr »offenbare« sich dieses Ende auch in der
 »konvulsivischen Wucherung der Bibliotheken«.[^15]
 
-Es ist unschwer zu erkennen, daß das Derrida'sche Konstrukt einer
+Es ist unschwer zu erkennen, daß das Derrida’sche Konstrukt einer
 »Schrift« dieselben Attribute hat wie Lickliders »prokognitives
 System«: ohne die Intervention eines menschlichen Sinngebers sollte
-hier Bedeutsames (»Information« nicht nur gespeichert werden,
+hier Bedeutsames (»Information«) nicht nur gespeichert werden,
 sondern auch von selbst entstehen und sich von selbst
 organisieren. Ob man diese Eigenprozession des Bedeutsamen dabei als
 eine Art lebensweltliche Hülle betrachtete, die uns umgibt wie einen
-Fisch das Wasser (Derridas »Schrift«, oder ob man das eher
+Fisch das Wasser (Derridas »Schrift«), oder ob man das eher
 utilitaristisch als in Betrieb zu nehmende technische
 Vorteilsgewinnungsmaschine verstand (Lickliders »prokognitives
-System«, spielt im Grunde keine Rolle. Der entscheidende Schritt ist
-die Ablösung der Zeichensysteme vom Menschen und vom Buch und ihre
-Überführung in eine datentechnische Umgebung, wo sie in der
+System«), spielt im Grunde keine Rolle. Der entscheidende Schritt
+ist die Ablösung der Zeichensysteme vom Menschen und vom Buch und
+ihre Überführung in eine datentechnische Umgebung, wo sie in der
 selbstgesteuerten Verkettung der Zeichen so etwas wie Bedeutung und
 Sinn produzieren sollen.
 
