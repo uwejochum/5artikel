@@ -214,7 +214,7 @@ Universalbibliothek, die im Prinzip *alles* sammelt, wurde als
 historisch erledigt erklärt ---, um an ihrem Ende schließlich »das
 Ende der Bibliotheken« zu verkünden.[^20] An diesem Ende stand
 freilich ein legitimatorischer Neubeginn, der das Buch nun definitiv
-gegen die »Information« (und/oder die »neuen Medien« und die
+gegen die »Information« (und/oder die »neuen Medien«) und die
 Bibliothek gegen ihre digitale Version austauschte.
 
 Damit wollte man sozusagen drei Fliegen mit einer Klappe schlagen:
@@ -496,10 +496,10 @@ gesamte Bibliothekswesen nicht nur dem Fehlschluß auf, »Information«
 als eine natürliche Wesenheit zu betrachten,[^43] vielmehr betreibt
 das Bibliothekswesen auf der Basis der naturalisierten Information
 in seinem gesamten Entwurf eine Verkürzung des Menschen auf einen
-bloßen Nutzer (»user« von »Informationen«: Diese treten dem Menschen
-als vorab verfertigte Entitäten gegenüber, bei denen es höchstens
-noch darum geht, aus der maschinell gestützten Kombination von
-bereits vorhandenen »Informationen« neue »Informationen« zu
+bloßen Nutzer (»user«) von »Informationen«: Diese treten dem
+Menschen als vorab verfertigte Entitäten gegenüber, bei denen es
+höchstens noch darum geht, aus der maschinell gestützten Kombination
+von bereits vorhandenen »Informationen« neue »Informationen« zu
 generieren, so wie man eben Rohstoffe unter Verwendung anderer
 Rohstoffe zu Produkten aller Art veredeln kann. Konsequenterweise
 ist dann natürlich auch das als »Information« mißverstandene
