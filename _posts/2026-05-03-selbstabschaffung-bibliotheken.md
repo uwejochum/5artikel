@@ -15,8 +15,7 @@ tags:   [Bibliothekspolitik,Bibliothekstheorie,Bibliothekswissenschaft,Digitalis
 > 11–25. Ich habe hier in dieser Version lediglich einen Link zu
 > Licklider eingefügt, weil er eine heute doch eher an den Rand
 > gerückte Person ist. Das PDF des Artikels finden Sie [an dieser
-> Stelle](/5artikel/material/jochum-selbstabschaffung-bibliotheken.pdf).
-
+> Stelle](/5artikel/material/jochum-selbstabschaffung-bibliotheken.pdf).  
 > Es gehört übrigens zu den im Kontext des nachfolgenden Beitrags
 > buchenswerten Umständen, daß die Positionspapiere der Deutschen
 > Forschungsgemeinschaft, die einst digital über die Website der DFG
