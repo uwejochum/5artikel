@@ -37,12 +37,13 @@ in Büchern gespeicherten Informationen keine Interaktionen möglich
 seien und daher auf der Basis des Buches der Umgang mit dem Korpus
 des Wissens (»the body of knowledge«) nicht als ein dynamischer
 Prozeß in den Blick komme, bei dem die kleinsten Wissenskorpuskeln
-(»very small and scattered parts« mit »aktiven Prozessoren« (»active
-processors« nach Wunsch und Bedürfnis der Informationshungrigen
-gesteuert werden könnten.[^1] Da der Computer aber über solche
-aktiven Prozessoren verfüge, sei mit seiner Hilfe ein dynamischer
-Interaktionsprozeß mit dem Wissenskorpus möglich, und folglich müsse
-die Bibliothek mit dem Computer verschmolzen werden.[^2]
+(»very small and scattered parts«) mit »aktiven Prozessoren«
+(»active processors«) nach Wunsch und Bedürfnis der
+Informationshungrigen gesteuert werden könnten.[^1] Da der Computer
+aber über solche aktiven Prozessoren verfüge, sei mit seiner Hilfe
+ein dynamischer Interaktionsprozeß mit dem Wissenskorpus möglich,
+und folglich müsse die Bibliothek mit dem Computer verschmolzen
+werden.[^2]
 
 Lickliders Programmschrift war in einem äußerst günstigen
 politischen Umfeld plaziert, denn zwei Jahre zuvor hatte unter der
@@ -286,20 +287,20 @@ Jahr 1998 solche Planungen spielend überholt und ist dabei, das, was
 für das gesellschaftliche Segment der Wissenschaft geplant war,
 unmittelbar massentauglich zu machen.
 
-Blickt man von hier aus auf die Anfänge dieser Entwicklung zurück, kann
-man unschwer erkennen, daß aus der von Licklider im Jahr 1965
+Blickt man von hier aus auf die Anfänge dieser Entwicklung zurück,
+kann man unschwer erkennen, daß aus der von Licklider im Jahr 1965
 propagierten Verschmelzung von Bibliothek und Computer keine
 datentechnisch modernisierte Bibliothek entstand, sondern Google als
 Phönix aus der Bibliotheksasche stieg: Google ist im allgemeinen
-Bewußtsein längst *die* Informationsvermittlungsplattform schlechthin;
-und dieser Plattform ist es in der Tat gelungen, »Information« zu einer
-ausbeutbaren Ressource zu machen, wobei freilich die Gewinne, die bei
-dieser Ausbeute erzielt werden, bei Google anfallen. Die Bibliotheken
-kommen bei diesem Spiel nur noch als willfährige Zulieferer von
-"content« vor, die man, nachdem man ihre Bücher digitalisiert hat, als
-ausgepreßte Zitronen auf dem Kehrichthaufen der Geschichte zurückläßt.
-Das aber heißt: Es gibt in der Tat einen »body of knowledge"; sein Name
-lautet Google.
+Bewußtsein längst *die* Informationsvermittlungsplattform
+schlechthin; und dieser Plattform ist es in der Tat gelungen,
+»Information« zu einer ausbeutbaren Ressource zu machen, wobei
+freilich die Gewinne, die bei dieser Ausbeute erzielt werden, bei
+Google anfallen. Die Bibliotheken kommen bei diesem Spiel nur noch
+als willfährige Zulieferer von »content« vor, die man, nachdem man
+ihre Bücher digitalisiert hat, als ausgepreßte Zitronen auf dem
+Kehrichthaufen der Geschichte zurückläßt.  Das aber heißt: Es gibt
+in der Tat einen »body of knowledge«; sein Name lautet Google.
 
 Dieser Körper repräsentiert jedoch, anders als der bibliothekarische
 Mainstream und selbst Google glauben mögen, keineswegs die absolute
