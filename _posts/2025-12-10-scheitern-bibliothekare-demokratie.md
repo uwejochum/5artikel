@@ -1,9 +1,9 @@
 ---
 layout:	post
-title:	Das Scheitern der Bibliothekare an der Demokratie
+title: Das Scheitern der Bibliothekare an der Demokratie
 subtitle: Beobachtungen zum totalitären Bibliothekspersonal
 author:	Uwe Jochum
-tags:   [Bibliotheken,Demokratie,Meinungsfreiheit,Zensur]
+tags: [Bibliothek,Demokratie,Meinungsfreiheit,Zensur]
 ---
 
 <img src="https://vg04.met.vgwort.de/na/4319085a067840a3ac012ebc294876b5" width="1" height="1" alt="">

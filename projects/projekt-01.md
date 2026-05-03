@@ -490,7 +490,7 @@ header-img: "img/totenbuch-bg.jpg"
 -   Die Selbstabschaffung der Bibliotheken. In: Das Ende der
     Bibliothek? Vom Wert des Analogen. Hrsg. von Uwe Jochum und
     Armin Schlechter. Frankfurt am Main: Klostermann, 2011,
-    S. 11–25.
+    S. 11–25. [[PDF](/5artikel/material/jochum-selbstabschaffung-bibliotheken.pdf)]
 
 -   Vom Prachtbau zum Luftschloß. Die Bibliothek als Ort zwischen
     Schatzhaus des Wissens, Lernkaserne, Partyraum und virtueller
