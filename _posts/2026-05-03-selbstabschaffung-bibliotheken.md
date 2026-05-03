@@ -17,6 +17,11 @@ tags:   [Bibliothekspolitik,Bibliothekstheorie,Bibliothekswissenschaft,Digitalis
 > gerückte Person ist. Das PDF des Artikels finden Sie [an dieser
 > Stelle](/5artikel/material/jochum-selbstabschaffung-bibliotheken.pdf).
 
+> Es gehört übrigens zu den im Kontext des nachfolgenden Beitrags
+> buchenswerten Umständen, daß die Positionspapiere der Deutschen
+> Forschungsgemeinschaft, die einst digital über die Website der DFG
+> verfügbar waren, im Nirwana des Internet verschwunden sind.
+
 ---
 
 ## Die Furie des Verschwindens
@@ -571,13 +576,11 @@ Suhrkamp, 1974.
 
 Deutsche Forschungsgemeinschaft / Bibliotheksausschuß und Kommission
 für Rechenanlagen: Neue Informations-Infrastrukturen für Forschung
-und Lehre. 1995. url: http://www.dfg.de/aktuelles_presse/reden_
-stellungnahmen/download/infra.pdf.
+und Lehre. 1995.
 
 Deutsche Forschungsgemeinschaft: »Wissenschaftliche Literaturversor-
 gungs- und Informationssysteme. Schwerpunkte der Förderung bis
-2015«. In: Bibliotheksdienst 40 (2006), S. 994–1002. url: http://www.zlb.
-de/aktivitaeten/bd_neu/heftinhalte2006/DigBib02080906.pdf.
+2015«. In: Bibliotheksdienst 40 (2006), S. 994–1002. 
 
 Deutsche Gesellschaft für Dokumentation (Hrsg.): Wissenschaft,
 Regierung und Information. Report of The President’s Science
@@ -610,8 +613,7 @@ Bundesregierung 1996–2000. Bonn, 1996.
 Janich, Peter: Was ist Information? Kritik einer Legende. Frankfurt am Main:
 Suhrkamp, 2006.
 
-Jochum, Uwe: »Der Souverän«. In: Libreas 5 (2009). URL:
-http://www.ib.hu-berlin.de/~libreas/libreas_neu/ausgabe15/texte/006.htm.~libreas/libreas_neu/ausgabe15/texte/006.htm.
+Jochum, Uwe: »Der Souverän«. In: Libreas 5 (2009). URL: https://libreas.eu/ausgabe15/texte/006.htm
 
 Jochum, Uwe: Kleine Bibliotheksgeschichte. 3., erw. Aufl. Stuttgart: Reclam, 2007.
 
@@ -641,7 +643,7 @@ Mass.: M. I. T. Press, 1965.
 
 Mittler, Elmar: »Entwicklungstrends im Bibliotheks- und
 Informationswesen. Überle- gungen zu einer Bibliothekspolitik der
-80-er Jahre«. In: Bibliothek 6 (1982), S. 123–126.  
+80-er Jahre«. In: Bibliothek 6 (1982), S. 123–126.
 
 Reuß, Roland: »Eingecremtes Publizieren. Open Access als Enteignung«. In:
 Frankfurter Allgemeine Zeitung, 11.2.2009, S. N5. 
