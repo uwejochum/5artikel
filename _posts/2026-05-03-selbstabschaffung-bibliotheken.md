@@ -19,7 +19,8 @@ tags:   [Bibliothekspolitik,Bibliothekstheorie,Bibliothekswissenschaft,Digitalis
 > Es gehört übrigens zu den im Kontext des nachfolgenden Beitrags
 > buchenswerten Umständen, daß die Positionspapiere der Deutschen
 > Forschungsgemeinschaft, die einst digital über die Website der DFG
-> verfügbar waren, im Nirwana des Internet verschwunden sind.
+> verfügbar waren, ebenso wie die Papiere des Wissenschaftsrates im
+> digitalen Nirwana verschwunden sind.
 
 ---
 
@@ -661,9 +662,7 @@ Kompetenzen. Eine Einführung. Wiesbaden: Harrassowitz, 2008.
 Thompson, James: The end of libraries. London: Bingley, 1982.
 
 Wissenschaftsrat: Empfehlungen zur digitalen Informationsversorgung
-durch Hochschulbibliotheken. Drucksache
-4935-01. Greifswald, 2001. url: http:
-//www.wissenschaftsrat.de/download/archiv/4935-01.pdf.
+durch Hochschulbibliotheken. Drucksache 4935-01. Greifswald, 2001.
 
 
 ## Anmerkungen
