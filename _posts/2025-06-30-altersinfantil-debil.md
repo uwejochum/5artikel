@@ -123,7 +123,7 @@ Religiöse eine Lüge sei) und also sein eigenes Denken keinen Deut
 besser ist als das der von ihm Kritisierten. An dieser Stelle
 implodiert das nietzscheanische Denkmanöver, und der
 Implosionsvermeidung dient der hysterisch auf die anderen
-gerichtete Zeigefinger: *tea culpa*! In der Tat, und darin ist
+gerichtete Zeigefinger: *tua culpa*! In der Tat, und darin ist
 Lisson malgré soi dann wirklich Recht zu geben: Was wir seit
 Nietzsche erleben, ist ein Griff »in den Topf alter, verdorbener
 Dinge«, nämlich eine Regression ins einfache verdächtigende

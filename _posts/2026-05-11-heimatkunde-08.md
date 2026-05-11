@@ -52,8 +52,8 @@ grüne Zeug wachsen, wo es wächst.
 lassen](/5artikel/material/jochum-heimatkunde-08-01.jpg "Das Gras
 wachsen lassen")[Laßt tausend Gräser wachsen! Photo: Uwe Jochum.]
 
-Und das tut es reichlich. Und zwar nicht nur an der Kontaktzone
-zwischen Straße und Bürgersteig, sondern auch an den Kontaktzonen
+Und das tut es reichlich. Und zwar nicht nur in der Kontaktzone
+zwischen Straße und Bürgersteig, sondern auch in den Kontaktzonen
 zwischen Bürgersteig und Bürgerhaus: Dort wächst es an der Fassade
 und an den Türschwellen so, als wären die Häuser nicht mehr bewohnt,
 als wäre längst Gras gewachsen über eine müde und abgestorbene
@@ -86,7 +86,7 @@ zurückholen werde, darf man heute verblüfft feststellen, daß diese
 Rückholung längst begonnen hat. Es quillt aus allen
 Zivilisationsritzen die Natur, über die Stadträume legt sich ein
 grünes Mycel, ein allgemeines Egal breitet sich aus, und aus dem
-Laisser-faire ist längst ein Verschlampung geworden, der niemand
+Laisser-faire ist längst eine Verschlampung geworden, der niemand
 mehr sich entgegenstellt. Die gleichgültige Ruhe ist inzwischen so
 komplett, daß selbst die Ruhebänke nicht mehr davor gefeit sind, von
 der ruhelos wachsenden Natur überwuchert zu werden. 
@@ -105,7 +105,7 @@ sofortiger Wirkung von der Zumutung, daß da etwas falsch sein
 könnte, und schon kann man weiter schlampen, was das Zeug hält und
 der brüchige Straßenbelag hergibt.
 
-Aber das ist nur eine sehr deutsche Perspektive. Es ist das Resultat
+Aber das ist eine sehr deutsche Perspektive. Es ist das Resultat
 nicht nur einer lange währenden grünen Umerziehung, die Wölfe im
 Wald niedlich und Wanzen im Bett interessant findet. Es ist das
 Resultat auch einer um sich greifenden Verarmung, die eben mehr ist
