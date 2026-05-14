@@ -1,8 +1,8 @@
 ---
 layout:	post
-title:	Die Logik der Lage
+title: Die Logik der Lage
 author:	Uwe Jochum
-tags:   [Demokratie,Zwang]
+tags: [Demokratie,Zensur,Zwang]
 ---
 
 <img src="http://vg07.met.vgwort.de/na/795dc91fecbb47b3af2ee896675ea1a4" width="1" height="1" alt="">	
