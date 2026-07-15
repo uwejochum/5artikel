@@ -3,7 +3,7 @@ layout:	post
 title: Bibliothekskatastrophen
 subtitle :
 author:	Uwe Jochum
-tags:   []
+tags:   [Bibliothek,Krieg]
 ---
 
 <img src="https://vg01.met.vgwort.de/na/7226fdfe78b4486791d41126288b5768" width="1" height="1" alt="">
