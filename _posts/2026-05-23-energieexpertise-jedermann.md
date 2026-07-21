@@ -47,7 +47,7 @@ halten mag. Und manchmal kommt man durch Nachfragen der Wahrheit
 eines Sachverhalts auch erstaunlich nahe, was man daran erkennt, daß
 KI sich beim Antworten verheddert und etwas von sich gibt, was dem,
 was er kurz vorher von sich gab, sich nicht widerspruchslos
-fügt. Aus der Art des Widerspruchs kann man dann leicht schnließen,
+fügt. Aus der Art des Widerspruchs kann man dann leicht schließen,
 wo die widerspruchsfreie Wahrheit zu suchen und zu finden ist.
 
 Machen wir die Probe. Fragen wir KI nach der Energiewende. Und
