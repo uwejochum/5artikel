@@ -63,7 +63,7 @@ reagieren kann und also, auch hier wiederum im Wortsinne, zu einem
 Womit ich wieder bei Christian Illner wäre, der in seinem jüngst
 erschienenen Buch *Die Tiefe Rechte* auf ebendiese denkpolitische
 Konstellation reagiert. Er tut es in der Weise, daß er aus der von
-linker Seite aufgespannten dialektisch Konstellation ausbricht:
+linker Seite aufgespannten dialektischen Konstellation ausbricht:
 Sobald die Rechte begreife, so sein Argument, daß sie der Linken nur
 dazu diene, daß diese in ihrem »Kampf gegen rechts« ihre linke
 Identität aufbauen könne, und sobald die Rechte außerdem begreife,
