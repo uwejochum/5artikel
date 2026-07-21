@@ -25,7 +25,7 @@ Das ist, wie könnte es bei Erfolg anders sein, auch Illners Gegnern
 nicht verborgen geblieben, die sich beeilen, sein Werk als eine
 »Mischung aus Blödelei und Menschenverachtung« und rundheraus als
 »nervtötend«
-[abqualifizieren](https://www.endstation-rechts.de/news/internetstar-der-neuen-rechten). Der
+[abzuqualifizieren](https://www.endstation-rechts.de/news/internetstar-der-neuen-rechten). Der
 Grund für diese Abqualifizierung ist einfach zu benennen: Illner ist
 nicht einfach erfolgreich, sondern er ist auch noch »rechts«, wenn
 nicht gar »extrem rechts«, wie auf einer Website der »Gewerkschaft
