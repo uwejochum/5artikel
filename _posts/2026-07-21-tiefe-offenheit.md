@@ -237,6 +237,6 @@ erfährt, zeigen, daß auch er längst zu den Bürgen der
 Bewegungsgemeinschaft gehört, die er in seinem Buch analysiert. Und
 damit ist er ein Sinn-Sucher ebenso wie ein Sinn-Macher, der anderen
 zu sagen versucht, was es mit dem Sinn, der ihm so wesentlich ist,
-auf sich hat. Will sagen: Um die Wesensfrage kommt auch er nicht
-herum. 
+auf sich hat. Also noch einmal: Um die Wesensfrage kommt auch er
+nicht herum.
 
