@@ -9,7 +9,7 @@ tags:   [Tradition,Zukunft]
 <img src="https://vg01.met.vgwort.de/na/da0980e473f34971b93054b36fcf380f" width="1" height="1" alt="">
 
 Christian Illner hat sich seit knapp zehn Jahren auf YouTube als
-[»Ourdoor Illner«](https://www.youtube.com/@OutdoorIllner/featured)
+[»Outdoor Illner«](https://www.youtube.com/@OutdoorIllner/featured)
 eine solide Aufmerksamkeitsbasis erarbeitet. 11700 Abonnenten sehen
 ihm dort dabei zu, wie er als »Waldschrat, wilder Mann, Zausel,
 Sasquatch« — so die Eigenbeschreibung — durch Feld und Wald streift
