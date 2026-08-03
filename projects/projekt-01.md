@@ -189,7 +189,8 @@ header-img: "img/totenbuch-bg.jpg"
 ## 1993
 
 -   Die Entmaterialisierung der Bibliotheken. In: MB NRW 43 (1993),
-    H. 3, S. 236-244. [PDF](https://dl.dropbox.com/u/1842776/jochum-entmaterialisierung-bibliotheken.pdf)
+    H. 3,
+    S. 236-244. [PDF](https://app.filen.io/#/d/bca61fa1-0d61-41ef-82be-34c8f4e67a67%23666e736261422d444f514c4f324d615a5070534b46714955766846346c4a4d68)
 -   Das Berufsbild des Höheren Dienstes. In: Bibliotheksdienst 27
     (1993), S. 328-334.
 -   Der Deutsche Gesamtkatalog. In: Bibliotheksdienst 27 (1993),
@@ -200,7 +201,7 @@ header-img: "img/totenbuch-bg.jpg"
 
 ## 1994
 
--   Ontotheologie? Hegel gegen Derrida - oder Repristination des
+-   Ontotheologie? Hegel gegen Derrida --- oder Repristination des
     Logos. In: Perspektiven der Philosophie. Neues Jahrbuch 20 (1994),
     S. 110-128. [PDF](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-1b72jekrw3kn16)
 -   Die vergebliche Suche nach dem Allgemeinen. 100 Jahre Höherer
