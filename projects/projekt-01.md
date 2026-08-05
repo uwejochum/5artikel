@@ -161,7 +161,12 @@ header-img: "img/totenbuch-bg.jpg"
 -   [Langmut](https://antaios.de/gesamtverzeichnis-antaios/reihe-kaplaken/220094/langmut.-den-widerstand-ueben). Den
     Widerstand üben. Schnellroda: Antaios, 2024 (Kaplaken; 92).  
 	Dazu die Rezension von Jörg Seidel in seinem Blog
-    [seidwalk](https://seidwalkwordpresscom.wordpress.com/2024/12/15/langmut/).
+    [seidwalk](https://seidwalkwordpresscom.wordpress.com/2024/12/15/langmut/). Die
+    zweite Auflage ist 2025 erschienen.
+
+## 2025
+
+-   Die rechte Wirklichkeit. Schnellroda: Antaios, 2025 (Kaplaken; 106).
 
 <a id="org5bca59d"></a>
 
@@ -784,7 +789,7 @@ header-img: "img/totenbuch-bg.jpg"
 -   [Jahrbuch für Buch- und
     Bibliotheksgeschichte](https://www.winter-verlag.de/de/detail/978-3-8253-6700-8/Jahrbuch_Buch_u_Bibliotheksgesch_JBB_1_2016/). Hrsg. von
     Uwe Jochum, Bernhard Lübbers, Armin Schlechter und Bettina
-    Wagner. Heidelberg: Winter, 1 (2016) ff. Siehe dazu das
+    Wagner. Heidelberg: Winter, 1 (2016) – 10 (2025). Siehe dazu das
     [»Fundstück«](http://www.sueddeutsche.de/kultur/neues-jahrbuch-fund-stuecke-1.3325437)
     in der Süddeutschen Zeitung vom 9. Januar 2017 und
     [Informationsmittel für
