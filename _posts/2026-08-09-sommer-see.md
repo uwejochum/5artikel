@@ -97,7 +97,7 @@ Rheins, der aus dem Obersee hinausfließt und in den Untersee, in dem
 die Insel Reichenau liegt, hineinfließt. Dort ist das Wasser so
 sommerblau, wie man es sich nur wünschen kann, und das sehen auch
 die Ruderer so, die das genießen und am Polizeiboot vorbeirudern,
-das wie immer am Steeg liegt, um für Notfälle bereitzustehen. Es
+das wie immer am Steg liegt, um für Notfälle bereitzustehen. Es
 liegt nicht auf Grund, es liegt da, wie es immer daliegt, und es
 wartet, wie es immer wartet; auf seinen Einsatz.
 
