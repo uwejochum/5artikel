@@ -331,7 +331,7 @@ Campus, 1999.
 Der vorstehende Text erschien zuerst in dem Band *7 Hügel. Bilder
 und Zeichen des 21. Jahrhunderts.* Bd. 6: *Wissen.* Hrsg. von Gereon
 Sievernich u. Hendrick Budde. Berlin: Herschel, Berliner Festspiele,
-2000, S. 35--40. Für die hier vorliegende Neupublikation habe ich an
+2000, S. 35--40. Für die hier vorliegende Neupublikation habe ich an
 zwei Stellen die im Jahre 2000 benutzte Verbform des Präsens in die
 Vergangenheit gesetzt, weil die seitherige Entwicklung die vor einem
 Vierteljahrhundert im Präsens gemachten Vorhersagen zu Realitäten
