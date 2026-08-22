@@ -88,7 +88,7 @@ die überlieferten profanen Schriften, allen voran diejenigen Homers,
 den prominentesten Platz ein, so daß man sich im Museion bemühte,
 die in einer Vielzahl von Abschriften auf Papyrusrollen umlaufenden
 Texte in der eigenen Bibliothek zu sammeln und aus den unzähligen
-Varianten ein normierte Texte herzustellen. Drittens schließlich muß
+Varianten normierte Texte herzustellen. Drittens schließlich muß
 man, will man gezielt auf das Korpus der gesammelten Texte
 zugreifen, die Bibliothek nach sachlichen Gesichtspunkten in
 Schriftenklassen (Drama, Lyrik, Kochkunst u.a.m.) ordnen und die
