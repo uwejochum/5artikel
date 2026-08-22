@@ -169,13 +169,13 @@ Gedächtnisraumes gibt es ja die Links, mit denen man die digitalen
 Medien miteinander verknüpfen kann, so daß man trotz der Speicherung
 unendlicher Datenmengen einen Weg durch die Datenräume finden kann.
 
-Wenn man freilich genauer hinsieht, dann zeigt sich, daß die virtuelle
-Bibliothek zwei wesentliche Moment aller bisherigen Bibliotheken nicht
-mit aufnimmt: die Aufspreizung zu einem globalen Servicezentrum oder
-einem »Gedächtnis der Menschheit« verzichtet erstens auf die
-institutionelle Einbindung der Bibliothek in eine Gemeinschaft und
-überspringt damit zweitens das Problem der Aneignung des kulturellen
-Gedächtnisses.
+Wenn man freilich genauer hinsieht, dann zeigt sich, daß die
+virtuelle Bibliothek zwei wesentliche Moment aller bisherigen
+Bibliotheken nicht mit aufnimmt: die Aufspreizung zu einem globalen
+Servicezentrum oder einem »Gedächtnis der Menschheit« verzichtet
+erstens auf die institutionelle Einbindung der Bibliothek in eine
+Gemeinschaft und überspringt damit zweitens das Problem der
+Aneignung des kulturellen Gedächtnisses.
 
 Soweit wir nämlich zurückblicken können, finden wir, daß die
 Bibliotheken Arbeitsinstrumente gelehrter Gemeinschaften waren, für
@@ -204,25 +204,26 @@ genügend Geld, um sich die teure Grundausstattung für den Netzzugang
 dort entwickelt sich überhaupt eine flächendeckende
 Netzinfrastruktur.
 
-Mag man auch diese im wesentlichen ökonomischen Restriktionen für ein
-temporäres Phänomen und die Herausbildung einer echten Weltgesellschaft
-daher nur für eine Frage der Zeit halten, so gilt diese Kautel jedoch
-nicht für das zweite Problem, das die virtuelle Bibliothek hat: das
-Problem der Aneignung des kulturellen Gedächtnisses. Der pädagogische
-Prozeß der Weitergabe des kulturellen Gedächtnisses ist nämlich nicht
-nur ein institutionell gebundener Prozeß, er ist auch ein wesentlich
-lokaler Vorgang, der sich im konkreten Erfahungsraum einer Gemeinschaft
-abspielt. Daraus resultiert die eigentümliche Form von Aneignung und
-Vergessen, die diesem Prozeß seit jeher innewohnt: weder ist die
-Abgrenzung des Eigenen gegen das Fremde jemals vollständig, noch bleibt
-das Eigene (oder Fremde) einfach das Eigene (oder Fremde), weil es immer
-schon so war; vielmehr sorgen Neugierde, Vergeßlichkeit und Schlamperei
-dafür, daß das heute Bekannte morgen schon völlig unbekannt sein wird,
-während das heute völlig Unbekannte morgen schon in aller Munde ist. Wer
-es nicht glauben will, möge bedenken, daß wir trotz der enormen Arbeit
-der alexandrinischen Philologen und ihrer Nachfolger von den vielen
-Hundert griechischen Tragödien und Komödien nur wenige Dutzend Stücke
-und Bruchstücke haben.
+Mag man auch diese im wesentlichen ökonomischen Restriktionen für
+ein temporäres Phänomen und die Herausbildung einer echten
+Weltgesellschaft daher nur für eine Frage der Zeit halten, so gilt
+diese Kautel jedoch nicht für das zweite Problem, das die virtuelle
+Bibliothek hat: das Problem der Aneignung des kulturellen
+Gedächtnisses. Der pädagogische Prozeß der Weitergabe des
+kulturellen Gedächtnisses ist nämlich nicht nur ein institutionell
+gebundener Prozeß, er ist auch ein wesentlich lokaler Vorgang, der
+sich im konkreten Erfahungsraum einer Gemeinschaft abspielt. Daraus
+resultiert die eigentümliche Form von Aneignung und Vergessen, die
+diesem Prozeß seit jeher innewohnt: weder ist die Abgrenzung des
+Eigenen gegen das Fremde jemals vollständig, noch bleibt das Eigene
+(oder Fremde) einfach das Eigene (oder Fremde), weil es immer schon
+so war; vielmehr sorgen Neugierde, Vergeßlichkeit und Schlamperei
+dafür, daß das heute Bekannte morgen schon völlig unbekannt sein
+wird, während das heute völlig Unbekannte morgen schon in aller
+Munde ist. Wer es nicht glauben will, möge bedenken, daß wir trotz
+der enormen Arbeit der alexandrinischen Philologen und ihrer
+Nachfolger von den vielen Hundert griechischen Tragödien und
+Komödien nur wenige Dutzend Stücke und Bruchstücke haben.
 
 Vor diesem Hintergrund wirkt es natürlich zunächst sehr verlockend,
 wenn uns die virtuelle Bibliothek verspricht, den stets prekären
