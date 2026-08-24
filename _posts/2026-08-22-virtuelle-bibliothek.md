@@ -76,7 +76,7 @@ zeigt uns ein Blick in die Bibliotheksgeschichte.
 
 Das historische Modell, auf das unsere Bibliotheken zurückgehen, ist
 die große Bibliothek im alexandrinischen Museion, das eine von
-Ptolemaios I.  um 300 v. Chr. gegründete und im Palastbezirk von
+Ptolemaios I. um 300 v. Chr. gegründete und im Palastbezirk von
 Alexandria angesiedelte Forschungseinrichtung war. Um diese
 Einrichtung zu verstehen, sollte man sich drei Dinge vor Augen
 führen. Erstens war die Gründung des Museions keine philanthropische
@@ -304,7 +304,7 @@ Universitätsverlag Konstanz, 1998.
 Luciano Canfora: Die verschwundene Bibliothek. Berlin: Rotbuch
 Verlag, 1990.
 
-The future of the book. Ed. by Geoffrey Nunberg. Berkeley \[u.a.\]:
+The future of the book. Ed. by Geoffrey Nunberg. Berkeley [u.a.]:
 University of California Press, 1996.
 
 Uwe Jochum: Kleine Bibliotheksgeschichte. 3., erw. Aufl. Stuttgart:
@@ -323,7 +323,7 @@ Stoll, Clifford: Die Wüste Internet. Geisterfahrten auf der
 Datenautobahn. Frankfurt am Main: Fischer, 1996.
 
 Die Welt des Lesens. Von der Schriftrolle zum Bildschirm. Hrsg.  von
-Roger Chartier und Guglielmo Cavallo. Frankfurt am Main \[u.a.\]:
+Roger Chartier und Guglielmo Cavallo. Frankfurt am Main [u.a.]:
 Campus, 1999.
 
 ---
