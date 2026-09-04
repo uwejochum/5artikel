@@ -212,7 +212,7 @@ Bibliothek hat: das Problem der Aneignung des kulturellen
 Gedächtnisses. Der pädagogische Prozeß der Weitergabe des
 kulturellen Gedächtnisses ist nämlich nicht nur ein institutionell
 gebundener Prozeß, er ist auch ein wesentlich lokaler Vorgang, der
-sich im konkreten Erfahungsraum einer Gemeinschaft abspielt. Daraus
+sich im konkreten Erfahrungsraum einer Gemeinschaft abspielt. Daraus
 resultiert die eigentümliche Form von Aneignung und Vergessen, die
 diesem Prozeß seit jeher innewohnt: weder ist die Abgrenzung des
 Eigenen gegen das Fremde jemals vollständig, noch bleibt das Eigene
