@@ -8,7 +8,7 @@ tags:   [Religion,Anthropologie,Ethnologie]
 
 Sprechen wir über einen Sonderweg, jenen des Protestantismus,
 also über »Die deutsche Religion«, wie Egon Friedell diesen Weg
-nennt. Religions­anthro­po­lo­gisch betrachtet sind die Kirchen der
+nennt. Religions­anthro­po­logisch betrachtet sind die Kirchen der
 Refor­mation ein Solitär --- die einzige »Religion« der
 Mensch­heits­geschichte, der fast alle Kriterien für Religio­sität
 fehlen, nicht zuletzt, weil jede Sinn­lich­keit, die das Gött­liche
