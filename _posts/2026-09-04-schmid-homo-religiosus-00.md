@@ -166,11 +166,11 @@ Außen­bau nur noch Fassade ist, welche innere Kälte, Rationalität,
 Glatt­heit, Steri­lität, letzt­lich: Säkula­rität nicht verdecken kann.
 
 »Wir Reformierte haben keine Liturgie« --- so beginnt der Leitfaden
-[»Reformierte
-Liturgie«](https://www.reformiert-info.de/daten/File/Upload/doc-6888-1.pdf)
+[»Refor­mierte
+Litur­gie«](https://www.reformiert-info.de/daten/File/Upload/doc-6888-1.pdf)
 von 1999, um auf über 600 Seiten dar­zulegen, was darunter zu
-verstehen ist. Warum seine Autoren »manchen« unterstellen,
-»reformiert geprägten Gottes­diensten dürftige Armut« zu
+ver­stehen ist. Warum seine Autoren »manchen« unterstellen,
+»re­formiert geprägten Gottes­diensten dürftige Armut« zu
 »unter­stellen«, wo sie doch selbst wort­reich darlegen, daß
 Sinnes­entleert­heit ge­wollte Praxis ist, bleibt rätselhaft. Denn
 alleine im Zentrum steht »das Wort Gottes« --- erfahrbar nur im
@@ -179,7 +179,7 @@ läßt zwischen »Eingangs­wort«, »Predigt« (als »Mittel­punkt«) sowie
 »Bekannt­machungen und Abkündigungen« wenig Raum für Sinn­lich­keit. Es
 gibt »keine liturgi­schen Gesänge«, alle Kirchen­musik bleibt
 wort­gebunden. Keine »gottes­dienstlichen Ge­wänder«. Keine Bilder,
-keine liturgischen Farben, nicht einmal das Kreuz. Kein Weih­rauch,
+keine litur­gischen Farben, nicht einmal das Kreuz. Kein Weih­rauch,
 kein Weih­wasser, mit dem sich der Gläubige bekreuzt oder segnend
 besprengt wird.
 
@@ -187,7 +187,7 @@ besprengt wird.
 
 Was der Katholizismus (und mit ihm praktisch jede Religion analog)
 »Sakra­ment«, sprich: Heilmittel, nennt, ist dem Reformierten bloßes
-»Zeichen«, beschränkt auf Taufe und Abend­mahl, Vor­gänge nichts
+»Zeichen«, be­schränkt auf Taufe und Abend­mahl, Vor­gänge nichts
 weiter als »Symbole«. Von »weiteren Zeichen, Gesten und be­gleitenden
 Riten« hat man »Abstand genommen«.
 
