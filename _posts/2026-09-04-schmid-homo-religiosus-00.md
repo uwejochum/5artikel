@@ -65,7 +65,7 @@ gegen rechts« oder »Anti­rassismus« im Handel sind.
 
 Wenn in einem bayerischen Religionsunter­richts­buch der Theo­loge
 Dietrich Zielleßen, Ver­treter einer dekonstruktivistischen »Pro­fanen
-Religions­päda­gogik«, Autor des Buchs *Gegenreligion* (ein Plädoyer
+Religions­päd­agogik«, Autor des Buchs *Gegenreligion* (ein Plädoyer
 dafür, sich davon zu befreien, »etwas \[Gott\] für absolut zu
 halten«, eine »Recht­fertigung des Gott­losen«), sagen darf,
 »Religion« sei »nicht länger mit Begriffen wie ›Trost‹, ›Halt‹,
