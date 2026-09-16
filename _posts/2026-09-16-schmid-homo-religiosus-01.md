@@ -160,19 +160,19 @@ Beeren zu pflücken, stahl der Mann die Glut und schleuderte sie an
 einem Speer in den Himmel, wo die Holzkohle sich in die Sonne
 verwandelte.*
 
-Der Strauß bevölkert, neben kleineren umherstreifenden
-Buschmanngruppen, das Land der ausgetrockneten Wasserläufe. Wie alle
-archaischen Jäger und Sammler haben auch die Buschleute kaum
-materiellen Besitz, welcher ihnen bei ihren Wanderungen nur lästig
-wäre. Etwas existentiell Notwendiges aber führen sie stets mit: ein
+Der Strauß bevölkert, neben kleineren umher­streifenden
+Busch­mann­gruppen, das Land der aus­ge­trockneten Was­ser­läufe. Wie alle
+archa­ischen Jäger und Samm­ler haben auch die Busch­leute kaum
+mate­riel­len Be­sitz, welcher ihnen bei ihren Wan­derungen nur lästig
+wäre. Etwas exi­sten­tiell Not­wen­diges aber führen sie stets mit: ein
 Straußen­ei, gefüllt mit Trink­wasser. So verwundert es nicht, gerade
-dieses Tier, dessen Gelege für das Überleben in der Savanne
-unent­behr­lich ist, im Mythos an zentraler Stelle zu finden.
+dieses Tier, dessen Ge­lege für das Über­leben in der Sa­vanne
+unent­behr­lich ist, im Mythos an zen­traler Stelle zu finden.
 
-Der seßhafte, landbebauende Mensch benötigt eine andere
-Schöpfung. Er braucht festen Boden unter den Füßen, weshalb in den
-Meeres­weiten der Süd­see be­wohn­bares Land geschaffen wurde durch das
-Krokodil, das sich dauerhaft aus dem Meer erhob und so die Insel
+Der seßhafte, land­bebauende Mensch be­nötigt eine an­dere
+Schöpfung. Er braucht festen Boden unter den Füßen, wes­halb in den
+Meeres­weiten der Süd­see be­wohn­bares Land ge­schaffen wurde durch das
+Krokodil, das sich dauer­haft aus dem Meer erhob und so die Insel
 Timor gebar. Ein Mensch, der das Land bebaut, wird auf entsprechende
 Weise geboren, wie im sumerischen [Hymnus auf die
 Hacke](https://altorientale-mythologie.blogspot.com/2018/04/lied-von-der-hacke.html):
@@ -185,59 +185,59 @@ arbeiten. \[...\]*
 *Die Menschen begannen, den Boden zu durchbrechen.*
 
 Ohne die Hacke gäbe es keine Menschen --- in einer älteren
-Übersetzung heißt es: »da waren in der Erdhöhlung, die die Hacke
-schlug, die ersten Menschen«. Und der landwirtschaftende Mensch
-braucht die Hacke --- als »Barbier der Wasserläufe«, die er mit ihr
-reinigt; als Jäterin des Unkrauts und Pflegerin des Brotgetreides
-auf dem Feld; als Helferin beim Hausbau; als Gewährleisterin für das
-Begräbnis der Verstorbenen. Der Hymnus auf die Hacke ist einer der
-ältesten Belege --- wenn nicht *der* früheste --- für die Heiligung
-von Arbeit und Arbeitsgerät, die sich durch die Geschichte des Homo
-religiosus zieht, und die erst in den Säkularisationsbewegungen der
-Neuzeit abzureißen beginnt.
+Über­setzung heißt es: »da waren in der Erd­höhlung, die die Hacke
+schlug, die ersten Menschen«. Und der land­wirt­schaf­tende Mensch
+braucht die Hacke --- als »Bar­bier der Was­ser­läufe«, die er mit ihr
+reinigt; als Jäterin des Un­krauts und Pflegerin des Brot­ge­treides
+auf dem Feld; als Hel­ferin beim Haus­bau; als Gewähr­leisterin für das
+Be­gräbnis der Ver­stor­benen. Der Hymnus auf die Hacke ist einer der
+älte­sten Be­lege --- wenn nicht *der* früheste --- für die Heiligung
+von Arbeit und Arbeits­gerät, die sich durch die Geschichte des Homo
+reli­gio­sus zieht, und die erst in den Säku­la­risa­tions­be­wegungen der
+Neu­zeit ab­zu­reißen beginnt.
 
-Nun fehlt am Land aber noch der Mensch. So wie das Götterpantheon
-Ägyptens aus dem Schweiß Amuns entstand, so der Mensch aus seinen
-Tränen, weshalb am Nil Mensch und Träne mit demselben Wortstamm
-benannt werden. Im »Monolog des Allherrn« heißt es:
+Nun fehlt am Land aber noch der Mensch. So wie das Göt­ter­pan­theon
+Ägyp­tens aus dem Schweiß Amuns ent­stand, so der Mensch aus seinen
+Tränen, weshalb am Nil Mensch und Träne mit dem­selben Wort­stamm
+be­nannt werden. Im »Mono­log des All­herrn« heißt es:
 
-*Ich habe die Götter entstehen lassen aus meinem Schweiß*  
-*aber die Menschen aus den Tränen meines Auges.*
+*Ich habe die Götter ent­stehen lassen aus meinem Schweiß*  
+*aber die Men­schen aus den Tränen meines Auges.*
 
-Der Weihrauch im ägyptischen Tempelkult --- er ist »Götterschweiß«,
-ein Wohlgeruch, der betörend duftet wie die Reliquien in der
-Orthodoxie.
+Der Weihrauch im ägyptischen Tempel­kult --- er ist »Götter­schweiß«,
+ein Wohl­geruch, der betörend duftet wie die Re­liquien in der
+Ortho­doxie.
 
 Andernorts wirkt Gott als Töpfer, der Menschen schafft: In
-Babylonien läßt der Schöpfer sie aus dem Erdboden hervorgehen, in
+Baby­lo­nien läßt der Schöpfer sie aus dem Erd­boden hervorgehen, in
 Israel knetet er den Menschen aus Staub von der Erde, in China aus
 gelber Erde.
 
 ## Das Benannte
 
 Die Welt und alles, was in ihr ist, kann der Mensch nicht
-erschaffen; sie wird ihm gegeben. Die Namen der Dinge aber hat der
+er­schaf­fen; sie wird ihm ge­geben. Die Namen der Dinge aber hat der
 Mensch zu geben.
 
 *Und Gott der HERR machte aus Erde alle die Tiere auf dem Felde und
-alle Vögel unter dem Himmel und brachte sie zu dem Menschen, daß er
+alle Vögel unter dem Him­mel und brachte sie zu dem Menschen, daß er
 sähe, wie er sie nennte; denn wie der Mensch jedes Tier nennen
 würde, so solle es heißen. Und der Mensch gab einem jeden Vieh und
-Vogel unter dem Himmel und Tier auf dem Felde seinen Namen.*
+Vogel unter dem Him­mel und Tier auf dem Felde seinen Namen.*
 
 Aber nicht alles darf beim Namen genannt werden --- es gibt
-Tabus. Im Alten Ägypten ist ein Gott so erhaben, daß er eigentlich
-keinen Namen hat, sondern »der Verborgene« (jmn) heißt, der, dessen
-Namen, den die Griechen Amun aussprachen, nicht genannt werden darf.
+Tabus. Im Alten Ägyp­ten ist ein Gott so erhaben, daß er eigentlich
+keinen Namen hat, sondern »der Ver­borgene« (jmn) heißt, der, dessen
+Namen, den die Griechen Amun aus­sprachen, nicht ge­nannt werden darf.
 
 *Amun ist der Gott, der im Uranfang war,*  
 *als noch kein Gott entstanden war,*  
 *als noch nicht der Name*  
 *irgendeines Dinges genannt worden war.*
 
-Von den Dingen der Welt kann nur existieren, was auch benannt
-ist. Was vor Anbeginn war, erscheint im babylonischen Enuma Elisch
-beinahe als Nichts, weil
+Von den Dingen der Welt kann nur exi­stieren, was auch benannt
+ist. Was vor An­beginn war, erscheint im baby­lo­ni­schen Enu­ma Elisch
+bei­nahe als Nichts, weil
 
 *droben die Himmel noch nicht benannt waren*  
 *(und) drunten der Grund namenlos*
@@ -246,19 +246,19 @@ beinahe als Nichts, weil
 [*Droben die Himmel*]
 
 Die Litanei der fünfzig Namen Marduks, welche die großen Götter dem
-größten unter ihnen gaben, der »fürwahr der Rückhalt von Land, Stadt
+größten unter ihnen gaben, der »fürwahr der Rück­halt von Land, Stadt
 und ihren Bewohnern«, der »Geber des Acker­lands« ist, bildet den
-Kern des babylo­nischen Schöpfungs­mythos Enuma Elisch. Was mit der
-Namenlosigkeit des Nichts begann, wird durch die Namensgebung
-abge­schlossen; in ihr vollzieht sich die »Wesens- und
-Schicksals­bestimmung«. Nicht nur in Babylonien sind Namen sprechend,
-sie charakteri­sieren das damit Benannte.
+Kern des babylo­nischen Schöpfungs­mythos Enu­ma Elisch. Was mit der
+Namen­losig­keit des Nichts begann, wird durch die Namensgebung
+abge­schlossen; in ihr voll­zieht sich die »Wesens- und
+Schicksals­bestimmung«. Nicht nur in Baby­lo­nien sind Namen sprechend,
+sie charak­teri­sieren das damit Be­nannte.
 
 Letztlich wird die Welt ins Leben gerufen durch Be­nennung der Wesen
 und Dinge, die da sind. Durch die Namens­gebung für das Geschöpfte
 akzeptiert der Mensch, dem allein die Sprache eigen ist, eine
 Ordnung, deren Voraus­setzungen er selbst nicht her­vor­bringen
-kann. Dieser benennende Homo reli­giosus ist ein erd­gebun­dener
+kann. Dieser be­nennende Homo reli­gio­sus ist ein erd­gebun­dener
 Mensch --- und es ist alles andere als Zu­fall, wenn das
 sume­ri­sche Wort für »schrei­ben« mit dem gleichen Zeichen
 ausgedrückt wird wie das Wort für »pflan­zen, wach­sen las­sen« ---
@@ -288,7 +288,7 @@ Aufmerksamkeit«. Es wird greifbar nicht nur im um­fassen­den Wis­sen um
 jeden Baum, jede Pflanze, jedes Tier, in deren exakter sprachlichen
 Klassi­fi­zierung und taxo­nomi­schen Ord­nung: Pinatubo-Pygmäen auf den
 Philippinen unter­scheiden 450 Pflanzen mit ihren spezifischen
-Eigen­schaften; die Tewa in Neumexiko verteilen differenzierte Namen
+Eigen­schaften; die Tewa in Neu­mexiko verteilen differenzierte Namen
 für Nadel­hölzer, die moderne Botani­ker kaum auseinander halten
 können; Kinder der Kabira auf Riukiu im ost­chine­si­schen Meer sind
 spielerisch fähig, den kleinsten Holz­split­ter einer Baum­art
