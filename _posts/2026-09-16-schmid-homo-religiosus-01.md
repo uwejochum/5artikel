@@ -17,8 +17,8 @@ leugnen, wird auf eine solche Ein­kreisung im Folgenden verzichtet.*
 »Uns wurde gelehrt, allem, was wir sehen, Auf­merk­sam­keit zu
 schenken.« So sprachen die Pawnee-Indianer aus den Great Plains im
 Hako, ihrer
-[Lebenserneuerungszeremonie](https://www.ui-deref.de/r/?to=https://uwejochum.github.io/5artikel/2025/03/31/schmid-religio-06/&tt1=rsscAhfkm9DoIzFzz8E9qaSqajwSZF3XcnuBmsPlr_0UBJFqlHSRauKfK3fjmzBtIPo55OR-SyMFASRamVkZABHB9xUqSEiGdaeXv2ODil9),
-wie es eine For­scherin zu Beginn des 20.&nbsp;Jahr­hunderts im Moment
+[Lebens­erneuerungs­zere­monie](https://www.ui-deref.de/r/?to=https://uwejochum.github.io/5artikel/2025/03/31/schmid-religio-06/&tt1=rsscAhfkm9DoIzFzz8E9qaSqajwSZF3XcnuBmsPlr_0UBJFqlHSRauKfK3fjmzBtIPo55OR-SyMFASRamVkZABHB9xUqSEiGdaeXv2ODil9),
+wie es eine For­scherin zu Be­ginn des 20.&nbsp;Jahr­hunderts im Moment
 des Er­löschens der Tra­ditio­nen doku­men­tierte, als dieser Stamm
 be­reits schwer dezi­miert in Reser­va­tionen sein Dasein fristete.
 
@@ -26,11 +26,11 @@ be­reits schwer dezi­miert in Reser­va­tionen sein Dasein fristete.
 [*Mutter Mais, komme herab und bringe Leben*]
 
 Das Hako, »die Stimme aller Dinge« --- ein Lob­preis für das Geschenk
-des Lebens. Es findet statt »im Früh­ling, wenn die Vögel sich
+des Le­bens. Es findet statt »im Früh­ling, wenn die Vögel sich
 paaren, im Sommer, wenn die Vögel ihre Jungen groß­ziehen, oder im
-Herbst, wenn die Vögel sich sammeln; niemals aber im Win­ter, wenn
-alles schläft«. Das Gebet richtet sich an Atira, die Mut­ter und
-Frucht­bar­keit der Erde. Sie ist anwesend im Maiskolben, dessen blaue
+Herbst, wenn die Vögel sich sam­meln; niemals aber im Win­ter, wenn
+alles schläft«. Das Gebet rich­tet sich an Atira, die Mut­ter und
+Frucht­bar­keit der Erde. Sie ist an­wesend im Mais­kolben, dessen blaue
 Spitze die Kuppel des Him­mels zeigt --- »the dwelling place of the
 powers«, Sitz der All­mächte.
 
@@ -89,21 +89,21 @@ oben hin noch nach unten irgendetwas gab und das All nichts war als
 das gestaltlose Gemisch der Wasser von Apsu \[Süß­wasser\] und Tiamtu
 \[Urmeer\]: keine Himmel, keine Erde, keine Götter --- nichts,
 dessen distinktes Wesen nach einem eigenen Namen verlangt hätte.« In
-China ist zunächst alles ein »strudel­ndes Einer­lei« (hundun), eine
-»wogende Unermesslichkeit« (menghong), eine Art Ur­ozean, gewiß ein
-wäßriges Element. Und wenn es im ersten Satz der Ge­nesis heißt: »Im
-Anfang erschuf Gott Himmel und Erde«, zeigt dieser Be­ginn des Alten
-Testaments, jedenfalls der priester­schrift­liche Schöpfungs­bericht,
+China ist zunächst alles ein »strudeln­des Einer­lei« (hundun), eine
+»wo­gende Un­ermeß­lich­keit« (menghong), eine Art Ur­ozean, gewiß ein
+wäßri­ges Ele­ment. Und wenn es im ersten Satz der Ge­nesis heißt: »Im
+An­fang erschuf Gott Himmel und Erde«, zeigt dieser Be­ginn des Alten
+Test­aments, jedenfalls der priester­schrift­liche Schöpfungs­bericht,
 daß auch im Ge­lobten Land außer der Allmacht, Jahwe, im Ur­anfang
-nichts Be­stand hatte. Auf der von Gott geschaffenen Erde herrscht
+nichts Be­stand hatte. Auf der von Gott ge­schaf­fenen Erde herrscht
 zunächst Tohu­wa­bohu, alles ist wüst und leer. Es ist nicht mehr
-Nichts, aber noch weit ent­fernt von etwas, das ein bewohnbarer Ort
+Nichts, aber noch weit ent­fernt von etwas, das ein be­wohn­barer Ort
 sein könnte.
 
 Das Wessobrunner Gebet schließlich, in karo­lingi­scher Zeit als einer
-der jüngsten Welt­schöpfungs­mythen ent­standen, führt noch einmal in
+der jüng­sten Welt­schöpfungs­mythen ent­standen, führt noch einmal in
 eine Epoche, als »niuuiht ni uuas«, als da »gar nichts war«, weder
-Erde noch (Ober)Himmel, nicht Baum noch Berg, als die Sonne nicht
+Erde noch (Ober)Him­mel, nicht Baum noch Berg, als die Sonne nicht
 schien und kein Mond leuchtete:
 
 *Dat ero ni uuas noh ufhimil\  
