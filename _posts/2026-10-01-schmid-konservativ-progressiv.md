@@ -233,8 +233,11 @@ Nachbar zeige mit beachtlichen 84 Priesterweihen »unerwartete
 Anzeichen einer religiösen Erneuerung«, diagnostiziert Tomasz
 Zielenkie­wicz bei *Vatican News*. Und diese religiöse Erneuerung
 wird getragen von einer neuen Generation traditionalistischer und
-patriotischer Priester.  Besonders beeindruckend jenseits des Rhein:
-der seit Jahren ständig [*sprunghafte Anstieg bei den
+patriotischer Priester: Mehr als die Hälfte der jungen Pfarrer unter
+35 Jahren liest [die Messe im alten
+Ritus](https://rorate-caeli.blogspot.com/2026/09/a-majority-of-young-priests-in-france.html). Besonders
+beeindruckend jenseits des Rhein: der seit Jahren ständig
+[*sprunghafte Anstieg bei den
 Erwachsenentaufen*](https://www.die-tagespost.de/kirche/aktuell/neuer-rekord-21386-erwachsenentaufen-in-frankreich-art-273473).
 In der letzten Osternacht empfingen mehr als 21.000 Erwachsene und
 Jugendliche das Sakrament der Taufe, eine Verdreifachung innerhalb
