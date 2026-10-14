@@ -22,7 +22,7 @@ wie es eine For­scherin zu Be­ginn des 20.&nbsp;Jahr­hunderts im Moment
 des Er­löschens der Tra­ditio­nen doku­men­tierte, als dieser Stamm
 be­reits schwer dezi­miert in Reser­va­tionen sein Dasein fristete.
 
-![Wuppertal](/5artikel/material/homo-religiosus-01-01.jpg "Wuppertal")
+![Wuppertal](/5artikel/material/schmid-homo-religiosus-01-01.jpg "Wuppertal")
 [*Mutter Mais, komme herab und bringe Leben*]
 
 Das Hako, »die Stimme aller Dinge« --- ein Lob­preis für das Geschenk
@@ -55,7 +55,7 @@ Atira, die Mutter des Lebens, nun gekommen ist, wie sie gerufen
 wurde, um voran­zugehen auf dem Weg, den die Pawnee in ihrer
 Zere­mo­nie zu gehen ge­denken.
 
-![Turmfalkennest](/5artikel/material/homo-religiosus-01-02.jpg
+![Turmfalkennest](/5artikel/material/schmid-homo-religiosus-01-02.jpg
 "Turmfalkennest") [*Wenn die Vögel ihre Jungen großziehen:
 Turmfalken-Nest in der Fensternische eines gotischen Kirchturms in
 Steinekirch*]
@@ -111,7 +111,7 @@ noh paum noh pereg ni uuas\
 \[\...\] noh sunna ni scein\  
 noh mano ni liuhta*
 
-![Holzstapel](/5artikel/material/homo-religiosus-01-03.jpg "Holzstapel")
+![Holzstapel](/5artikel/material/schmid-homo-religiosus-01-03.jpg "Holzstapel")
 [*Als kein Baum war: Die Welt vor und nach der Schöpfung*]
 
 Jenes Nichts, das vor Anbeginn der Schöpfung war, erscheint als
@@ -126,7 +126,7 @@ sie darin beinahe ein­ge­sogen werden.
 *so daß sie Schein und Wirklichkeit*  
 *nicht mehr unterscheiden können.*
 
-![](/5artikel/material/homo-religiosus-01-04.jpg)
+![](/5artikel/material/schmid-homo-religiosus-01-04.jpg)
 
 Wer dem Sog in dieses Nichts nicht widerstehen kann, wird dort
 trans­for­miert zu einem, der Wahn­ideen in die Köpfe der Menschen
@@ -242,7 +242,7 @@ bei­nahe als Nichts, weil
 *droben die Himmel noch nicht benannt waren*  
 *(und) drunten der Grund namenlos*
 
-![](/5artikel/material/homo-religiosus-01-05.jpg)
+![](/5artikel/material/schmid-homo-religiosus-01-05.jpg)
 [*Droben die Himmel*]
 
 Die Litanei der fünfzig Namen Marduks, welche die großen Götter dem
@@ -336,7 +336,7 @@ des Homo habilis mög­lich gewesen sein, wäre es eine ver­lockende
 Denkfigur sich vorzustellen, wie dieser Früh­mensch im Geier, der ihn
 zur Nahrung führt, ein ver­ehrungs­würdi­ges Wesen erblickte.
 
-![](/5artikel/material/homo-religiosus-01-06.jpg)
+![](/5artikel/material/schmid-homo-religiosus-01-06.jpg)
 [*Eine gewissenhafte, dem Konkreten zugewandte Aufmerk­samkeit: Himm­lisch
 blaue Blüten zeigt die heilende Wegwarte am Morgen*]
 
@@ -432,7 +432,7 @@ hat aus dem Tod. Und in jeder Oster­nacht wird die Schöpfungs­geschichte
 er­neut leben­dig, in dem der An­fang der Gene­sis gelesen wird --- so hat
 be­gonnen, was Christus vollendet hat.
 
-![](/5artikel/material/homo-religiosus-01-07.jpg) [*Deinen Tod, oh
+![](/5artikel/material/schmid-homo-religiosus-01-07.jpg) [*Deinen Tod, oh
 Herr, verkünden wir, und Deine Auferstehung preisen wir: Epitaph für
 Pfarrer Johannes Dexenbach in Steinekirch, gestorben 1554*]
 
