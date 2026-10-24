@@ -43,7 +43,7 @@ Prinzip des freien Individuums, das seines Glückes Schmied ist; der
 freie Verkehr von Waren und (nota bene!) von Menschen; das Zuhausesein
 in der ganzen Welt.
 
-Amerikanismus ist aus Sicht der USA letztlich --- so Henry
+Globalisierung ist aus Sicht der USA letztlich --- so Henry
 Kissinger in schamloser Offenheit --- nur ein anderes Wort für
 amerikanische Weltherrschaft. Diese Formung erfolgt --- wenn sie
 nicht mit Militärmacht implementiert wird --- durch
