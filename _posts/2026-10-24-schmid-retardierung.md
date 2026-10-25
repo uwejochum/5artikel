@@ -7,7 +7,7 @@ tags:   [Christentum,Religion,Theologie]
 ---
 
 Wer in kirchlichem Dienst steht (Gott bewahre in diesen Zeiten) oder
-jemanden näher kennt, der zumindest kirchen­nah tätig ist, etwa als
+jeman­den näher kennt, der zumindest kirchen­nah tätig ist, etwa als
 Reli­gions­lehrer, erhält regel­mäßig Kennt­nis von Post­aus­sendungen der
 Evan­ge­lischen Kirche in Deutschland, kurz: EKD, oder EKD-naher
 Ein­rich­tungen.
@@ -38,10 +38,10 @@ wunder­same Weise lenkt, gefiel es, den Ver­anstal­tungs­kalender aus
 wenig mehr als aus An­leitungen bestehen zu lassen, wie man als
 Kir­chen­beamter am effek­tivsten Künst­liche Intel­ligenz (KI) ein­setzt:
 So bietet sich die Mög­lich­keit, einen »Kirch­lichen KI-Führer­schein«
-zu erwerben (man frage nicht, was das sein möge), einen KI-Basiskurs
+zu erwerben (man frage nicht, was das sein möge), einen KI-Basis­kurs
 »Prägnant und einfach mit KI« zu buchen, der »spirituelle Impulse
 mit KI« generieren hilft, einem Modul »Litur­gische Texte mit KI
-gestalten« beizuwohnen oder eine »Pre­digt­arbeit im Dialog« zu
+gestalten« bei­zuwohnen oder eine »Pre­digt­arbeit im Dia­log« zu
 ab­solvieren: »Mit KI zur poin­tierten Bot­schaft und
 ziel­grup­pen­sensiblen Sprache« --- und damit wären wir erst in der
 Mit­te des März, also noch vor Ostern, in der Abfolge dieses
@@ -50,7 +50,7 @@ stehen könnte. Ein anderer Titel wäre --- ebenso passend: »Gott
 denken lassen von KI«. (Für Statistik-Freunde: Bei 35
 Ver­an­staltungs­titeln liest man 22-mal den Begriff KI.)
 
-Ostern (einmal) und Weih­nachten (keinmal), überhaupt christliche
+Ostern (einmal) und Weih­nachten (keinmal), über­haupt christ­liche
 Be­griff­lich­keiten, sind im Nürn­berger Got­tes­dienst­reich wenig zu
 Hause --- das scheint nicht mehr
 [zeitgemäß](https://www.publicomag.com/2022/04/die-goggelmoggel-raeumen-auf/)
@@ -64,7 +64,7 @@ ge­nom­men und Schlüs­se daraus gezogen haben.
 
 ## Keine Technikkritik --- im Gegenteil
 
-Dieses technoide Fort­bildungs­programm für Pfarrer, die einen
+Dieses technoide Fort­bildungs­pro­gramm für Pfarrer, die einen
 Got­tes­dienst zu ge­stalten haben, zeigt wie in der Nuß­schale, wie
 wenig sich doch gerade die Kirche, die dazu berufen wäre, mit neuen
 Techniken kritisch aus­ein­an­der­setzt. Schon seit langem fällt das
@@ -76,7 +76,7 @@ All­tag der Pfarrer eingespeist.  Welcher Geist in einem »Basiskurs«
 weht, der Pfarrer unter dem Titel »Kasualien smart planen« auf
 Segens­hand­lungen vor­be­reiten will, indem er zeigt, wie das »mit KI«
 geht, mag man sich nicht vor­stellen. Denn Kasua­lien, das sind:
-Taufe, Kon­fir­mation, Trauung und Be­erdigung --- also die
+Taufe, Kon­fir­mation, Trau­ung und Be­erdigung --- also die
 elemen­tarsten Lebens­sta­tionen, die die Kirche zu be­gleiten hat.
 
 ![Tippen lassen](/5artikel/material/schmid-retardierung-abb-02.jpg
@@ -103,7 +103,7 @@ Noch deutlicher formuliert es ein moderner Klassiker der
 Technik­kritik --- Günther Anders. Seine Streit­schrift *Über die
 Seele im Zeit­alter der zweiten indu­striellen Revo­lution* bezeichnet
 er selbst als »traurige Seiten über die Verwüstung des
-Menschen«.[^2] Der in Breslau geborene deutsch-jüdische Philosoph,
+Menschen«.[^2] Der in Bres­lau geborene deutsch-jüdische Philosoph,
 Sohn berühmter Psycho­logen (*Psycho­lo­gie der frühen Kind­heit*),
 zeit­weiliger Ehe­mann von Hannah Arendt, ortet eine fatale »Be­jahung
 der eigenen Ver­ding­lichung«, welche gesteigert werden könne durch
@@ -119,38 +119,38 @@ Mensch] nun mit den ihren [den technisch pro­duzierten]
 gleich­ge­schaltet; sondern auch seine Gefühle«.[^3]
 
 [Wenn es schon falsch
-erscheint](https://uwejochum.github.io/5artikel/2026/07/21/tiefe-offenheit/),
-Technik als Verhängnis zu betrachten, das über uns gekom­men ist,
-statt sie als das aufzufassen, was sie ist, nämlich Menschen­werk,
+er­scheint](https://uwejochum.github.io/5artikel/2026/07/21/tiefe-offenheit/),
+Technik als Ver­häng­nis zu betrachten, das über uns gekom­men ist,
+statt sie als das auf­zufassen, was sie ist, nämlich Menschen­werk,
 das man wie alles Men­schen­werk benutzen oder nicht benutzen kann,
 und in der Not auch wieder aus der Welt schaffen, bleibt das
-Nürn­berger Gottes­dienst-Institut noch einen Denkschritt weiter
+Nürn­berger Gottes­dienst-Institut noch einen Denk­schritt weiter
 zurück: Dessen Technik­ver­ständnis läßt sehr am Men­schen­bild
 zweifeln, das dort gehegt wird, und nicht zuletzt auch am
 Got­tes­bild. Denn Theo­logen sollten schon bedenken, daß es sich bei
-einer Technik wie KI nicht um eine gott­gegebene Schöpfung handelt,
-und daß der Mensch (in diesem Fall: der einen Gottesdienst
+einer Technik wie KI nicht um eine gott­gege­bene Schöpfung handelt,
+und daß der Mensch (in diesem Fall: der einen Got­tes­dienst
 ge­staltende Pfarrer) als Geschöpf nicht dazu da ist, sich mittels
-Technik selbst abzuschaffen.
+Technik selbst ab­zu­schaffen.
 
-Welche Botschaft sendet ein solches Programm aus für alle, die
+Welche Botschaft sendet ein solches Pro­gramm aus für alle, die
 gerade auf dem Weg sind, Pfarrer zu werden? Die Reli­gions­lehrerin,
 eine ehe­malige EKD-Pfarrerin, die mir die KI-Anpreisung mit
 ver­störtem Blick zum Lesen gab, erzählte, sie haben den Folder in
 eben dem Moment in die Hand bekommen, als sie sich schämte, eine
 Fürbitte für einen Grund­schul­gottes­dienst zu Ernte­dank, welche ihr
 bei ihrer Recherche von KI angeboten wurde, über­nommen zu haben ---
-und daß sie sich fragt, was das mit jungen Theologie-Studenten
+und daß sie sich fragt, was das mit jungen Theo­lo­gie-Studenten
 macht, wenn diese sich eben nicht schämen, einen Text nicht selbst
-er­dacht und damit durch­drungen zu haben, sondern noch darin
+er­dacht und damit durch­drungen zu haben, son­dern noch darin
 bestätigt und er­muntert werden, daß man das ruhig die KI machen
 lassen könne.
 
-Ach ja, wo kommt Gottes biblische Botschaft beim
-Gottes­dienst-Insti­tut vor? Das Wort »Bibel« erscheint zweimal:
+Ach ja, wo kommt Gottes biblische Bot­schaft beim
+Got­tes­dienst-Insti­tut vor? Das Wort »Bibel« erscheint zweimal:
 »Weiter­bildung Bibel­erzählung, Teil 1 und 2«; »Psalmen«
-einmal. Dafür dominieren andere Wort­gruppen, die man in
-seelsorgerlichen Zusam­men­hängen weniger ver­mutet denn im Marketing:
+einmal. Dafür domi­nieren andere Wort­gruppen, die man in
+seel­sor­ger­lichen Zu­sam­men­hängen weniger ver­mutet denn im Marketing:
 »Werbung« (mehrfach), »smart planen«, »Coaching«, »effizient«.
 
 ![Werbung](/5artikel/material/schmid-retardierung-abb-03.jpg "Werbung")
@@ -158,21 +158,21 @@ seelsorgerlichen Zusam­men­hängen weniger ver­mutet denn im Marketing:
 
 ## Gott ist nun progressiver Politiker
 
-Wenn aber schon das Theologische eine Lücke läßt, gehört es sich,
+Wenn aber schon das Theo­lo­gische eine Lücke läßt, gehört es sich,
 diese adäquat zu füllen: »›Poli­tisch‹ predigen. Engagiert predigen
-mit Pro­phetic Preaching« (Ende April), »Haltung bitte! Schreiben,
-was am Herzen liegt« (Anfang Juni), »An­steckend predigen. Predigen
+mit Pro­phe­tic Preach­ing« (Ende April), »Haltung bitte! Schreiben,
+was am Herzen liegt« (An­fang Juni), »An­steckend predigen. Predigen
 wie TED« (Ende Juni).
 
 TED steht für Techno­logy, Entertainment und Design, eine in
 Kali­fornien be­heima­tete Innovations­kon­ferenz, deren Vorträge --- so
 schwärmt das Got­tes­dienst-Institut --- im Inter­net milliardenfach
 auf­ge­rufen werden.  Die Reich­weite scheint das erstrebte Ziel, dafür
-will der Workshop freie Rede, Kör­per­sprache und das »Sprechen mit
+will der Work­shop freie Rede, Kör­per­sprache und das »Sprechen mit
 Bildern« schulen, um (so wörtlich) »Nach­richten in Geschichten«
-verwandeln zu können. TED wirkt im kirch­lichen Kontext wie eine
-Verirrung in die ameri­ka­nische Er­weckungs­bewegung, die mehr An­klänge
-an Erfolgs-Coaching-Seminare hat als an Got­tes­dienste, wo statt dem
+ver­wandeln zu können. TED wirkt im kirch­lichen Kontext wie eine
+Ver­irrung in die ameri­ka­nische Er­weckungs­bewegung, die mehr An­klänge
+an Er­folgs-Coaching-Seminare hat als an Got­tes­dienste, wo statt dem
 Evan­gelium Nach­richten zählen, also of­fen­sicht­lich
 Profan-Welt­liches.
 
@@ -192,21 +192,21 @@ fragen: Wie politisch ist Gott? Ohne dog­ma­tisch zu sein und ohne uns
 zu verrenken, buch­stabieren wir, was uns am Herzen liegt.« Nein,
 dogmatisch ist das nicht, Setzungen vor­zu­nehmen, ohne diese zu
 hinter­fragen, wie für die Klima-Bewegung, für die Gender-Agenda, für
-die LGBTQ-Community, und zwar als verbind­liche Lehre (genau das
+die LGBTQ-Com­munity, und zwar als verbind­liche Lehre (genau das
 bedeutet Dogma). Die Beispiele, die die Dozentin nennt (»Gebet für
 den letzten Eis­bären«), klingen so, als wollte sich ein
-konser­vativer Antipode dieser super­woken Dog­matiker über sie lustig
+konser­vativer Anti­pode dieser super­woken Dog­matiker über sie lustig
 machen; das alles ist aber bitter Ernst gemeint. Statt eines
 Bekennt­nisses zu Jesus Christus also ein Be­kenntnis für eine
 Sprach-Verhunzung (»jede:r«).
 
 Daß Gott »politisch« sein muß im Sinne von Links-Grün, daran besteht
 kein Zweifel --- fraglich ist offenbar nur, ob er eher der
-brutal-radikalen Neuköllner Variante des Links­seins anhängt oder
+brutal-radikalen Neu­köllner Variante des Links­seins anhängt oder
 doch viel­leicht einem soften Robert-Habeck-Grün-Charme. Vielleicht
 spricht die Über­betonung der Sensi­bilität für letztere Variante ---
-das Programm kennt die Begriffs­bildungen »ziel­grup­pen­sensibel«
-(Sprache), »daten­sensibel« (Verwaltung) und »macht­sensibel«
+das Programm kennt die Be­griffs­bildungen »ziel­grup­pen­sensibel«
+(Sprache), »daten­sensibel« (Ver­waltung) und »macht­sensibel«
 (Predigt).
 
 ![Vielfalt](/5artikel/material/schmid-retardierung-abb-04.jpg
@@ -218,12 +218,12 @@ Segen wird«.*]
 Damit dürfte der Endpunkt in einer langen Retardierungskette
 erreicht sein. Lange stand die theologische Verkündigung im Zentrum
 aller Über­legungen zu Gottes­dienst und Seelsorge. Mit den
-Achtundsechzigern zog eine sozial­revolutionäre Politi­sierung ein
+Achtundsechzigern zog eine sozial­revo­lu­tionäre Politi­sierung ein
 (der Münchner Pfarrer, der in den frühen 1980er Jahren besagte
 Religions­lehrerin kon­firmiert hat, trug am liebsten pink­farbene
 Latz­hosen, ein Öko­sozialist wie aus dem Bilder­buch), wo sich der
-Pfarrer weniger als Theo­loge und Seelsorger verstand, sondern als
-Kumpeltyp und Sozial­arbeiter, aber wohl immerhin seine
+Pfarrer weniger als Theo­loge und Seel­sorger verstand, sondern als
+Kumpel­typ und Sozial­arbeiter, aber wohl immerhin seine
 Sozial­romantik noch biblisch her­leitend, wenn auch nicht mehr in den
 aus­schließ­lichen Mittel­punkt der Ver­kündigung stellend.
 
@@ -233,7 +233,7 @@ Töchter eine neue Gene­ration prote­stan­ti­scher Pfarrer erlebt haben,
 die sich »im Religions­unter­richt auf das gestrige Fern­seh­programm«
 bezogen und statt »vom Vater im Him­mel« von »sozialem Engage­ment«
 schwärmten.[^4] Für einen Chef­redakteur des *Evange­li­schen
-Sonntags­blatt* und seine Gene­ra­tion waren in den 1980er Jahren, als
+Sonn­tags­blatt* und seine Gene­ra­tion waren in den 1980er Jahren, als
 sie mit dem Theo­logie­studium begannen, Natur­zer­störung,
 Ab­rüstungs­debatte und der Welt­frieden die [Themen, die sie
 bewegten](https://evangelisches-sonntagsblatt.de/2021/04/13/theologie-der-hoffnung-der-welt-zugewandt/).
@@ -249,78 +249,79 @@ moralin­gesättigtes Phari­säer­tum, wie es Karl Heinz Bohrer im
 *Merkur* vom Januar 1985 seziert[^5]: »[Die guten
 Hirten](https://www.merkur-zeitschrift.de/karl-heinz-bohrer-die-unschuld-an-die-macht-folge-3/)
 \[so auch der Titel von Bohrers Einwurf\] haben ein notorisch
-schlechtes Gewissen. Aber aus eben dem Bewuß­tsein heraus, als
+schlechtes Ge­wissen. Aber aus eben dem Bewuß­tsein heraus, als
 einzige überhaupt ein Gewissen zu haben, ent­wickeln sie doch wieder
-ein dramatisch gutes: nämlich gegenüber den anderen. Die guten
+ein drama­tisch gutes: nämlich gegenüber den anderen. Die guten
 Hirten kommen eher aus dem prote­stan­tischen Milieu: sorgenvoll,
-jederzeit ›betroffen‹, ja dieses Wort zu einem Stil­begriff, zu einer
-Selbstdefinition der letzten Jahre machend und als solch Betroffene
-sich auch immer antreffen lassend. Sie neigen dazu zu sagen: ›Ich
+jederzeit ›be­troffen‹, ja dieses Wort zu einem Stil­begriff, zu einer
+Selbst­defi­ni­tion der letzten Jahre machend und als solch Betroffene
+sich auch immer an­treffen lassend. Sie neigen dazu zu sagen: ›Ich
 danke dir, Gott, daß ich nicht bin wie die andern Leute.‹«
 
 ![Together](/5artikel/material/schmid-retardierung-abb-05.jpg "Together"){:width="730px"}
 [*Ästhetische Vorstellungswelt des Gottesdienst-Instituts.*]
 
-Bohres Pamphlet gegen das sich seinerzeit institutionalisierende
+Bohrers Pamphlet gegen das sich seinerzeit institutionalisierende
 grüne Milieu, zu dessen Vor­feld­organi­sation sich die EKD gemacht
 hat, liest sich in der Rück­schau wie die prophe­tische An­kündigung
 des heran­dräuenden Moral­reichs der Woke­ness mit seinen
 Befind­lich­keiten und Hyper­sensi­bili­täten: »Wo der Gutmannston aber,
 ob bei Party­gesprächen, Round-table-Dis­kussionen oder
 Aka­demie-Sitzungen, sich in der weh­leidigen Be­trof­fen­heit
-gegen­seitig bestätigt, da ist die Gesell­schafts­komödie der guten
+gegen­seitig be­stätigt, da ist die Gesell­schafts­komödie der guten
 Hirten angezeigt.«
 
-Hätte Bohrer das »Gebet für den letzten Eisbären« gekannt, hätte er
-sich bestätigt gefühlt. Er wüßte in Zeiten der großen Transformation
-aber auch, wie sehr zu recht er schon Jahrzehnte vor deren
-Imple­mentierung in die Regierungspolitik vor Ideologien gewarnt hat,
-welche die »Unzulänglichkeiten der Gegenwart« durch »hoffnungsvolle
+Hätte Bohrer das »Gebet für den letzten Eis­bären« gekannt, hätte er
+sich be­stätigt gefühlt. Er wüßte in Zeiten der großen Trans­forma­tion
+aber auch, wie sehr zu recht er schon Jahr­zehnte vor deren
+Imple­mentie­rung in die Re­gierungs­politik vor Ideoylo­gien gewarnt hat,
+welche die »Unzu­läng­lich­keiten der Gegen­wart« durch »hoff­nungs­volle
 Mög­lich­keiten der Zukunft« ersetzen wollen, wie es das
 Prophetic-Preaching-Modul des Got­tes­dienst­insti­tuts 2026 lehrt. Wer
 verspricht, so Bohrer, »uns aus der ägypti­schen Gefangen­schaft
 dieser Welt in das Gelobte Land, das Paradies?, hin­aus­zuführen«, wie
 es die guten Hirten tun, blendet dabei aus, »daß die uto­pische
-Alter­native, wie die meisten Utopien seit Morus, fatale totalitäre
+Alter­native, wie die meisten Utopien seit Morus, fatale totali­täre
 Züge enthält«.
 
 Schließlich übermannte der woke Zeit­geist (siehe oben) auch die
-Kirche vollends, zuvorderst die prote­stantische --- eine Phase, die
-immer noch andauert, wo es um alles geht, nur nicht um Gott oder
-Bibel, nämlich um Klima, Gender, »Vielfalt« (also
-Migrations­ver­gottung), »unsere Demokratie« (vulgo: Verteuflung der
-Opposition und aller Andersdenkenden). Hierbei wird ein biblischer
-Bezug bestenfalls nur noch als lästige Pflicht­übung und höchst
-oberflächlich hergestellt, manchmal sogar jede Rück­bindung ignoriert
-wie im Falle der gottes­dienst­lichen Segnung gleichgeschlechtlicher
-Paare, wozu der große Theologe Wolfhart Pan­nen­berg das Nötige gesagt
-hat: Was die biblischen Zeugnisse nicht billigen, [darf die Kirche
-nicht segnen](https://www.gemeindenetzwerk.de/?p=2194).
+Kirche vollends, zu­vorderst die prote­stantische --- eine Phase,
+die immer noch an­dauert, wo es um alles geht, nur nicht um Gott
+oder Bibel, näm­lich um Klima, Gender, »Vielfalt« (also
+Migrations­ver­gottung), »unsere Demo­kratie« (vulgo: Verteuflung
+der Opposition und al­ler Anders­denkenden). Hierbei wird ein
+biblischer Bezug besten­falls nur noch als lästige Pflicht­übung und
+höchst oberf­läch­lich hergestellt, manchmal sogar jede Rück­bindung
+ignoriert wie im Falle der gottes­dienst­lichen Segnung
+gleichgeschlechtlicher Paare, wozu der große Theologe Wolfhart
+Pan­nen­berg das Nötige gesagt hat: Was die biblischen Zeug­nisse
+nicht billigen, [darf die Kirche nicht
+segnen](https://www.gemeindenetzwerk.de/?p=2194).
 
 ## Eine Eschatologie menschengemachter Klimapanik
 
 Eschatologie als Lehre der letzten Dinge war immer auf das Jenseits
-bezogen. Der Tübinger Theologe Jürgen Moltmann drehte dies nun
+bezogen. Der Tübinger Theo­loge Jürgen Molt­mann drehte dies nun
 radikal um --- in seinem Plädoyer auf eine Hoffnung für das
-Diesseits. In einem [Interview zu seinem 80.
-Geburtstag](https://www.archivioradiovaticana.va/storico/TED/2006/04/files/audiomp3/00048831.MP3)
+Dies­seits. In einem [Inter­view zu seinem 80.
+Geburt­stag](https://www.archivioradiovaticana.va/storico/TED/2006/04/files/audiomp3/00048831.MP3)
 definierte er Escha­to­logie als »Erwartung des Kommens Gottes in
 dieser Welt zur Auf­richtung seines Reiches und der Voll­endung aller
-Sehn­süchte und Wünsche der Menschheit.« Als größte Gefahr »unserer
-Zeit« (es war das Jahr 2006) ortete er den Nihilismus, für ihn
+Sehn­süchte und Wünsche der Mensch­heit.« Als größte Gefahr »unserer
+Zeit« (es war das Jahr 2006) ortete er den Nihi­lismus, für ihn
 offenbar gleich­be­deutend mit der Hilf­losig­keit vor dem Elend der
-Welt, vor der man sicht in Apathie versinken und die Dinge laufen
+Welt, vor der man nicht in Apa­thie versinken und die Dinge laufen
 lassen solle, »wie sie eben laufen«.
 
-»Die Hoffnungssätze der Verheißung«, schrieb Molt­mann 1964 in der
+»Die Hoffnungssätze der Ver­heißung«, schrieb Molt­mann 1964 in der
 *Theo­logie der Hoffnung*, »wollen die Wirk­lich­keit, die da ist,
 nicht im Geiste abbilden, sondern die Wirk­lich­keit, die da ist, in
-die Ver­änderung hin­ein­führen, die verheißen ist und erhofft
-wird. Sie wollen der Wirklichkeit nicht die Schleppe nachtragen,
-sondern die Fackel voran.«[^6] So aktivistisch formulierte einer,
-der be­wußt eine »politische Theologie« vorlegen wollte, die Christen
+die Ver­änderung hin­ein­führen, die ver­heißen ist und erhofft
+wird. Sie wollen der Wirklichkeit nicht die Schleppe nach­tragen,
+sondern die Fackel voran.«[^6] So akti­vistisch formu­lierte einer,
+der be­wußt eine »politische Theo­logie« vorlegen wollte, die Christen
 aufruft, die Verhält­nisse im Dies­seits zu ändern, eine Theologie,
-wie der *Spiegel* sie verstehen wollte, »die zu aktiven, ja
+wie der *Spiegel* sie ver­stehen wollte, »die zu aktiven, ja
 aggres­siven Aus­ein­an­der­setzungen mit der politischen Umwelt
 er­mächtigt und anfeuert« (aus dem Klap­pen­text der 12. Auflage).
 
@@ -335,45 +336,45 @@ im­manenten Sta­bili­sierungs­ten­denzen her­aus­zu­führen trachte\[t\]
 ver­un­sicher\[t\] und zu jener Elasti­zi­tät öffnet, die der Of­fenheit
 auf jene Zukunft entspricht, die sie erhofft. Im praktischen
 Wider­stand und in schöpferi­scher Neu­ge­staltung stellt die
-christ­liche Hoffnung das Bestehende in Frage und dient so dem
+christ­liche Hoffnung das Be­stehende in Frage und dient so dem
 Kommenden. Sie überholt das Vor­find­liche in Richtung auf das
-erwartete Neue und sucht nach Ge­legen­heiten, der ver­heißenen Zukunft
+erwartete Neue und sucht nach Ge­legen­heiten, der ver­heißenen Zu­kunft
 in der Geschichte immer besser zu ent­sprechen.«[^7]
 
-Betrachtet man in langen Schritten die Wirkungsgeschichte der
-*Theologie der Hoffnung*, so ist auch hierbei eine Retardierung zu
-konstatieren. Wo der Theologe Moltmann versucht, streng theologisch
-und entlang biblischer Zeug­nisse seine »politische Theologie« zu
-entwickeln, verzichten seine Adepten weit­gehend auf jede
-Gottesgelehrtheit und (fast) jeden theologischen Bezugspunkt,
-nachdem Moltmann selbst mit seiner Wendung, Escha­to­logie sei auch
+Betrachtet man in langen Schritten die Wirkungs­ge­schichte der
+*Theo­lo­gie der Hoffnung*, so ist auch hier­bei eine Retardierung zu
+konsta­tieren. Wo der Theologe Moltmann versucht, streng theologisch
+und ent­lang biblischer Zeug­nisse seine »politische Theologie« zu
+entwickeln, ver­zichten seine Adepten weit­gehend auf jede
+Got­tes­gelehrt­heit und (fast) jeden theo­lo­gi­schen Bezugs­punkt,
+nach­dem Molt­mann selbst mit seiner Wendung, Escha­to­logie sei auch
 die »Voll­endung aller Sehn­süchte und Wünsche der Mensch­heit« die
-Büchse der Pandora geöffnet hatte.
+Büchse der Pandora ge­öffnet hatte.
 
 Der emeritierte [Theologe Hans-Jürgen
-Benedict](https://zeitzeichen.net/node/11074) führte vor zwei Jahren
-vor, wie man Moltmann weit hinter sich lassen kann auf dem
-progressiven Weg. Sechzig Jahre nach dem Erscheinen der *Theologie
-der Hoffnung* las Benedict den Klassiker noch einmal, als ein Buch,
-das eine »Ausrichtung nach vorne und die Wandlung der Gegenwart«
-forderte. Alles recht und schön, so der Wiederleser, aber Moltmann
-brauche für seine Hoffnungsagenda für das gegenwärtige Diesseits das
-leere Grab, im Zentrum seiner Hoffnungstheologie stehe die
-Auferstehung Christi. Da daran aber immer mehr Christen nicht mehr
-glauben würden (Benedict erweckt den Eindruck, zu den Ungläubigen zu
-gehören), müsse diese Glaubensgewissheit abgeräumt werden: Denn,
-sagt Benedict, das Grab ist nicht leer, Jesus nicht auferstanden.
+Bene­dict](https://zeitzeichen.net/node/11074) führte vor zwei Jahren
+vor, wie man Molt­mann weit hinter sich lassen kann auf dem
+pro­gressiven Weg. Sechzig Jahre nach dem Erscheinen der *Theologie
+der Hoffnung* las Bene­dict den Klassiker noch einmal, als ein Buch,
+das eine »Aus­richtung nach vorne und die Wand­lung der Gegen­wart«
+forderte. Alles recht und schön, so der Wieder­leser, aber Molt­mann
+brauche für seine Hoff­nungs­agenda für das gegen­wärtige Dies­seits das
+leere Grab, im Zentrum seiner Hof­fnungs­theo­logie stehe die
+Auf­erstehung Christi. Da daran aber immer mehr Christen nicht mehr
+glauben würden (Bene­dict erweckt den Eindruck, zu den Un­gläubigen zu
+gehören), müsse diese Glaubens­gewiß­heit ab­geräumt werden: Denn,
+sagt Bene­dict, das Grab ist nicht leer, Jesus nicht auf­erstanden.
 
-Ist mit dem Auferstehungsglauben jede Theologie beseitigt, läßt es
+Ist mit dem Auferstehungsglauben jede Theo­lo­gie be­seitigt, läßt es
 sich munter poli­ti­sieren: Weil Gott die Gerech­tig­keits­her­stellung
-nicht schafft, »braucht \[er\] dazu unsere Kooperation«. Konkrete
+nicht schafft, »braucht \[er\] dazu unsere Ko­opera­tion«. Konkrete
 »Hoffnung auf Welt­ver­änderung« setzt Bene­dict in die
-Welt­klima­kon­ferenzen, für ihn »die wichtigeren öku­meni­schen
+Welt­klima­kon­ferenzen, für ihn »die wichti­geren öku­meni­schen
 Ver­sam­mlungen« und auf »eine der heutigen escha­to­lo­gischen
 Öko­bewegungen, die ›Letzte Gene­ration‹, die »dem Rad in die Speichen
 greifen« wolle, etwa mittels »Tempo 130 auf deutschen
 Auto­bahnen«. Dazu also ist Moltmanns theologischer Ansatz
-herab­ge­sunken: zum pathetischen Begleit­tremolo eines ungläubigen
+herab­ge­sunken: zum pathe­tischen Begleit­tremolo eines ungläubigen
 Theologen für eine gewalt­affine apoka­lypti­sche Klein­sekte.
 
 ![Bewegte Luft](/5artikel/material/schmid-retardierung-abb-07.jpg
@@ -402,7 +403,7 @@ par­odieren­de Phan­tasie«, die sich ein »künf­tiges Welt­reich« ausmal
 im Gegen­satz zum rechten Hof­fen, das keiner Utopie bedürfe, sondern
 den Wieder­anschluß suche »an die lange Zeit, die unbewegte«.[^15]
 
-Ganz ohne sich auf Moltmanns Ein­greif­theo­logie zu be­ziehen,
+Ganz ohne sich auf Molt­manns Ein­greif­theo­logie zu be­ziehen,
 stapft die Evan­ge­lisch-refor­mierte Landes­kirche im
 Gleich­schritt marsch dem Zeit­geist hinter­her, indem sie sich mit
 ihren 159.000 Mitgliedern dafür einsetzt, »dass die Mensch­heit Wege
@@ -429,16 +430,16 @@ wäre. Wenn nun die Kirche all das ge­sun­kene Glaubens­gut, das die
 atheisti­sche Linke gerade in einer Art Kaperung für ihre Zwecke
 in­stru­menta­lisiert,[^8] sich in der erfolgten Neu­auf­ladung wieder
 zurück­ein­ver­leibt, ist die ge­wünschte Poli­ti­sierung ehe­ma­liger
-Glau­bens­inhalte in pro­gres­siven Bahnen abgeschlossen.
+Glau­bens­inhalte in pro­gres­siven Bahnen ab­geschlossen.
 
 ## Wirkstatt ohne Gottesdienste als Utopie
 
-Viel zu viele kirchliche Funktionäre setzen auf die Kraft des
-Menschenwerks mehr denn auf Gottes Allmacht, so auch das
-Gottesdienst-Institut als Epigone in einer langen Kette des Abstiegs
-von der Theologie zur Welt­her­stellung. Dabei ist vielfach
-beschrieben worden, unter anderem von dem Psycho­ana­lytiker
-Horst-Eberhard Richter, wie am Ende des Mittelalters Gott verloren
+Viel zu viele kirchliche Funktio­näre setzen auf die Kraft des
+Men­schen­werks mehr denn auf Gottes All­macht, so auch das
+Gottes­dienst-Insti­tut als Epigone in einer langen Kette des Abstiegs
+von der Theo­lo­gie zur Welt­her­stellung. Dabei ist vielfach
+be­schrieben worden, unter anderem von dem Psycho­ana­lytiker
+Horst-Eber­hard Richter, wie am Ende des Mittelalters Gott verloren
 ging und der Mensch selbst »Gott sein« wollte; wie eine »Geschichte
 des Ego­zentrismus« anhob, und »utopische Heilshoffnungen des
 beschädigten In­dividuums« nicht trugen;[^9] wie schließlich »ein
@@ -446,9 +447,9 @@ zügel­loser Be­mächtigungs­drang«[^10] in eine kollektive
 »psycho­soziale Störung der modernen west­lichen Zivili­sation«
 mündete.[^11]
 
-Bereits 1932 hatte Carl Gustav Jung evange­li­schen Pfarrern im Elsaß
+Bereits 1932 hatte Carl Gustav Jung evange­li­schen Pfarrern im El­saß
 berichtet, wie hunderte von Patienten durch seine Hände gegangen
-seien, in der Mehrzahl Pro­testan­ten, darunter »nicht ein einziger«,
+seien, in der Mehrzahl Pro­testan­ten, darunter »nicht ein ein­ziger«,
 dessen Problem nicht wäre, »daß er das verloren hat, was lebendige
 Religionen ihren Gläubigen zu al­len Zeiten gegeben haben, und keiner
 ist wirklich geheilt, der seine reli­giöse Ein­stellung nicht wieder
@@ -456,43 +457,43 @@ erreicht«.[^12] Dem Leidenden helfe nicht, was er selbst ersinne ---
 nur »über­mensch­liche, ge­offen­barte Wahr­heit« könne ihm Gesundung
 ver­schaffen.[^13]
 
-Und heute, man kann es kaum glauben, beginnt langsam aber sicher
-jeg­licher Wesens­kern sich aufzulösen: als letztmögliche
+Und heute, man kann es kaum glauben, beginnt lang­sam aber sicher
+jeg­licher Wesens­kern sich auf­zu­lösen: als letzt­mögliche
 Retar­dierungs­stufe scheint das Got­tes­dienst-Institut darauf
 verfallen zu sein, weniger einen Inhalt zu vermitteln, und sei es
-auch ein un- beziehungs­weise anti­biblisch zeitgeistig weltlicher,
-sondern mit der Propa­gierung Künstlicher Intelligenz als Hilfsmittel
-vordergründig eine Arbeits­technik zu imple­men­tieren, so weit wie
-möglich los­gelöst vom Menschen und von jeder Substanz.
+auch ein un- beziehungs­weise anti­biblisch zeit­geistig welt­licher,
+sondern mit der Propa­gierung Künst­licher Intel­li­genz als Hilfs­mittel
+vor­der­gründig eine Arbeits­technik zu imple­men­tieren, so weit wie
+möglich los­gelöst vom Men­schen und von jeder Substanz.
 
 ![AI Luft](/5artikel/material/schmid-retardierung-abb-08.jpg
 "AI") [*Liturgische Texte mit KI gestalten --- Modul 1: Gebete, Übergänge und
 Abläufe präzise generieren.*]
 
 Wer nun meint, es wäre eine gute Nachricht, wenn die sich selbst
-abschaffende Kirche den Leiter ihres Gottesdienst-Instituts
-ankündigen läßt, daß der vor­liegende »Folder« das letzte
-Fort­bildungs­programm wäre, hat die Rechnung ohne die Progressisten
+ab­schaffende Kirche den Leiter ihres Got­tes­dienst-Instituts
+an­kündigen läßt, daß der vor­liegende »Folder« das letzte
+Fort­bildungs­programm wäre, hat die Rechnung ohne die Pro­gressisten
 gemacht. Denn der smarte Mann (laut Porträtbild) setzt fort, es
 handle sich nur um das Letzte unter dem alten Namen
-Gottesdienst-Institut, denn im nächsten Jahr würde man (»Bewährtes
+Got­tes­dienst-Insti­tut, denn im nächsten Jahr würde man (»Bewährtes
 bleibt, Neues kommt hinzu«; so etwas Inhalts­leeres kann nur die KI
 formulieren) nach der Fusio­nierung mit der »Wirk­statt evangelisch«
-als »Wirkstatt evangelisch für Got­tes­dienst und Gemeinde­ent­wicklung«
-weiter KI-generiert als KI-Förder­programm weitermachen.
+als »Wirk­statt evange­lisch für Got­tes­dienst und Gemeinde­ent­wicklung«
+weiter KI-gene­riert als KI-Förder­programm weitermachen.
 
-Ein Schelm, der nun vermuten würde, man habe sich des unzeitgemäßen
-Namensbestandteils »Gottes­dienst« entledigen wollen, in dem ja sogar
+Ein Schelm, der nun vermuten würde, man habe sich des un­zeit­gemäßen
+Namens­bestand­teils »Got­tes­dienst« ent­ledigen wollen, in dem ja sogar
 das Wort »Gott« auftaucht, habe sich aber dann doch nicht ganz
 getraut, und sei schließlich auf die geniale Idee verfallen, eine
-vollkommen gottfreie kurze Orga­nisa­tions­bezeichnung vor den
-fol­genden Band­wurm­namen zu setzen, in der sicherlich richtigen
+voll­kommen gott­freie kurze Orga­nisa­tions­bezeichnung vor den
+fol­genden Band­wurm­namen zu setzen, in der sicher­lich richtigen
 Kalkulation, daß künftig niemand auf die Idee käme zu sagen, er
-würde einen Kurs bei der »Wirkstatt evangelisch für Gottesdienst und
+würde einen Kurs bei der »Wirk­statt evan­gelisch für Got­tes­dienst und
 Gemeinde­ent­wicklung« besuchen, sondern »prägnant und einfach« (so
-wie es das Kurs­an­gebot mehrfach anbietet) von der »Wirkstatt«
-sprechen, womit schluß­endlich auch die Atheisten, Muslime und
-Diverse aus­schließende Alt­last »evange­lisch« elegant entsorgt wäre.
+wie es das Kurs­an­gebot mehr­fach anbietet) von der »Wirkstatt«
+sprechen, womit schluß­endlich auch die Atheisten, Mus­lime und
+Diverse aus­schließende Alt­last »evange­lisch« elegant ent­sorgt wäre.
 
 Eine Stufe weiter nach unten, dann end­gültig ins Nichts, ginge es
 also noch: Man könnte auf den Begriff Got­tes­dienst ganz verzichten,
@@ -511,23 +512,23 @@ Gott handeln würde, wenn er aus­reichend informiert wäre.«[^14]
 
 ## Anmerkungen
 
-[^1]: Klaus Zierer: ChatGPT als Heilsbringer? Über Möglichkeiten und
-    Grenzen von KI im Bildungsbereich. Münster, New York: Waxmann,
+[^1]: Klaus Zierer: ChatGPT als Heils­bringer? Über Mög­lich­keiten und
+    Grenzen von KI im Bildungs­bereich. Münster, New York: Wax­mann,
     2024, S.&nbsp;31.
 
-[^2]: Günther Anders: Die Antiquiertheit des Menschen. Über die
-    Seele im Zeitalter der zweiten industriellen
-    Revolution. München: Beck, 1981 (Erstveröffentlichung: München:
+[^2]: Günther Anders: Die Anti­quiert­heit des Menschen. Über die
+    Seele im Zeitalter der zweiten indu­striel­len
+    Revo­lution. München: Beck, 1981 (Erst­veröf­fent­lichung: München:
     Beck, 1956), o.P.  (Widmung).
 
 [^3]: Ebd., S. 30.
 
 [^4]: Ruth Rehmann: Der Mann auf der Kanzel. Fragen an einen Vater.
-    Gütersloh: Bertelsmann o.J. (Erstveröffentlichung: München:
+    Gütersloh: Bertels­mann o.J. (Erst­ver­öf­fent­lichung: München:
     Hanser, 1979), S. 12f.
 
-[^5]: Karl Heinz Bohrer: Die Unschuld an die Macht! Eine politische
-    Typologie. 3. Folge: Die guten Hirten. In: Merkur Nr. 431 vom Januar
+[^5]: Karl Heinz Bohrer: Die Un­schuld an die Macht! Eine politische
+    Typo­logie. 3. Folge: Die guten Hirten. In: Merkur Nr. 431 vom Januar
     1985.
 
 [^6]: Jürgen Moltmann: Theologie der Hoffnung. Untersuchungen zur
@@ -536,28 +537,28 @@ Gott handeln würde, wenn er aus­reichend informiert wäre.«[^14]
 
 [^7]: Ebd., S. 305.
 
-[^8]: Jürgen Schmid: Angstmacher und Messias. Die neue linke
-    Leitfigur.  In: Tichys Einblick 11/2026, S. 24--27.
+[^8]: Jürgen Schmid: Angst­macher und Messias. Die neue linke
+    Leitfigur.  In: Tichys Ein­blick 11/2026, S. 24--27.
 
-[^9]: Horst-Eberhard Richter: Der Gotteskomplex. Die Geburt und die
-    Krise des Glaubens an die Allmacht des Menschen. Düsseldorf:
+[^9]: Horst-Eberhard Richter: Der Got­tes­komplex. Die Geburt und die
+    Krise des Glaubens an die All­macht des Menschen. Düsseldorf:
     Econ, 1997, Kapitel 1--3.
 
 [^10]: Ebd., S. \[5\] (Vorwort, o.P.).
 
 [^11]: Ebd., Klappentext.
 
-[^12]: Carl Gustav Jung: Über die Beziehung der Psychotherapie zur
-    Seelsorge (1932). In: ders.: Psychologie und Religion. C.G. Jung
-    Taschen­buch­ausgabe in elf Bänden. Herausgegeben von Lorenz Jung
+[^12]: Carl Gustav Jung: Über die Be­ziehung der Psy­cho­thera­pie zur
+    Seelsorge (1932). In: ders.: Psycho­logie und Religion. C.G. Jung
+    Taschen­buch­ausgabe in elf Bänden. Her­aus­ge­geben von Lorenz Jung
     auf der Grund­lage der Aus­gabe »Gesam­melte Werke«. München:
-    Deutscher Taschen­buch Verlag, 1991, S. 113--131, hier S. 119.
+    Deut­scher Taschen­buch Verlag, 1991, S. 113--131, hier S. 119.
 
 [^13]: Ebd., S. 128.
 
 [^14]: Finley Peter Dunne, 1867--1936; zitiert nach: Alexander
-    Wendt: Klarer Geist in wirren Zeiten. Ein­ladungen zum schärferen
+    Wendt: Klarer Geist in wirren Zeiten. Ein­ladungen zum schär­feren
     Denken.  Edition Olzog, 2026.
 
-[^15]: Botho Strauß: Anschwellender Bocksgesang. In: Der Spiegel,
+[^15]: Botho Strauß: An­schwellender Bocks­gesang. In: Der Spiegel,
     Ausgabe 6/1993.
