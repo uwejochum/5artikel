@@ -134,23 +134,23 @@ gestaltende Pfarrer) als Geschöpf nicht dazu da ist, sich mittels
 Technik selbst abzuschaffen.
 
 Welche Botschaft sendet ein solches Programm aus für alle, die
-gerade auf dem Weg sind, Pfarrer zu werden? Die Religionslehrerin,
-eine ehemalige EKD-Pfarrerin, die mir die KI-Anpreisung mit
-verstörtem Blick zum Lesen gab, erzählte, sie haben den Folder in
+gerade auf dem Weg sind, Pfarrer zu werden? Die Reli­gions­lehrerin,
+eine ehe­malige EKD-Pfarrerin, die mir die KI-Anpreisung mit
+ver­störtem Blick zum Lesen gab, erzählte, sie haben den Folder in
 eben dem Moment in die Hand bekommen, als sie sich schämte, eine
-Fürbitte für einen Grundschulgottesdienst zu Erntedank, welche ihr
-bei ihrer Recherche von KI angeboten wurde, übernommen zu haben ---
+Fürbitte für einen Grund­schul­gottes­dienst zu Ernte­dank, welche ihr
+bei ihrer Recherche von KI angeboten wurde, über­nommen zu haben ---
 und daß sie sich fragt, was das mit jungen Theologie-Studenten
 macht, wenn diese sich eben nicht schämen, einen Text nicht selbst
-erdacht und damit durchdrungen zu haben, sondern noch darin
-bestätigt und ermuntert werden, daß man das ruhig die KI machen
+er­dacht und damit durch­drungen zu haben, sondern noch darin
+bestätigt und er­muntert werden, daß man das ruhig die KI machen
 lassen könne.
 
 Ach ja, wo kommt Gottes biblische Botschaft beim
-Gottesdienst-Institut vor? Das Wort »Bibel« erscheint zweimal:
-»Weiterbildung Bibelerzählung, Teil 1 und 2«; »Psalmen«
-einmal. Dafür dominieren andere Wortgruppen, die man in
-seelsorgerlichen Zusammenhängen weniger vermutet denn im Marketing:
+Gottes­dienst-Insti­tut vor? Das Wort »Bibel« erscheint zweimal:
+»Weiter­bildung Bibel­erzählung, Teil 1 und 2«; »Psalmen«
+einmal. Dafür dominieren andere Wort­gruppen, die man in
+seelsorgerlichen Zusam­men­hängen weniger ver­mutet denn im Marketing:
 »Werbung« (mehrfach), »smart planen«, »Coaching«, »effizient«.
 
 ![Werbung](/5artikel/material/schmid-retardierung-abb-03.jpg "Werbung")
@@ -159,17 +159,17 @@ seelsorgerlichen Zusammenhängen weniger vermutet denn im Marketing:
 ## Gott ist nun progressiver Politiker
 
 Wenn aber schon das Theologische eine Lücke läßt, gehört es sich,
-diese adäquat zu füllen: »›Politisch‹ predigen. Engagiert predigen
-mit Prophetic Preaching« (Ende April), »Haltung bitte! Schreiben,
-was am Herzen liegt« (Anfang Juni), »Ansteckend predigen. Predigen
+diese adäquat zu füllen: »›Poli­tisch‹ predigen. Engagiert predigen
+mit Pro­phetic Preaching« (Ende April), »Haltung bitte! Schreiben,
+was am Herzen liegt« (Anfang Juni), »An­steckend predigen. Predigen
 wie TED« (Ende Juni).
 
-TED steht für Technology, Entertainment und Design, eine in
-Kalifornien beheimatete Innovationskonferenz, deren Vorträge --- so
-schwärmt das Gottesdienst-Institut --- im Internet milliardenfach
-aufgerufen werden.  Die Reichweite scheint das erstrebte Ziel, dafür
-will der Workshop freie Rede, Körpersprache und das »Sprechen mit
-Bildern« schulen, um (so wörtlich) »Nachrichten in Geschichten«
+TED steht für Techno­logy, Entertainment und Design, eine in
+Kali­fornien be­heima­tete Innovations­kon­ferenz, deren Vorträge --- so
+schwärmt das Got­tes­dienst-Institut --- im Inter­net milliardenfach
+auf­ge­rufen werden.  Die Reich­weite scheint das erstrebte Ziel, dafür
+will der Workshop freie Rede, Kör­per­sprache und das »Sprechen mit
+Bildern« schulen, um (so wörtlich) »Nach­richten in Geschichten«
 verwandeln zu können. TED wirkt im kirchlichen Kontext wie eine
 Verirrung in die amerikanische Erweckungsbewegung, die mehr Anklänge
 an Erfolgs-Coaching-Seminare hat als an Gottesdienste, wo statt dem
@@ -423,47 +423,47 @@ kirch­lichen Lebens \... zukunft­sorien­tiert aus­zu­richten«
 Jüngst hat die Vorsitzende der Linkspartei, Ines Schwerdtner, von
 der »Hoffnung« gesprochen
 ([hier](https://www.youtube.com/watch?v=KZQRPOp5Rr0) bei Minute 1:25
-zu hören), die aus den Krawallen in Frankreich, von wo »der Funke
-weitergesprungen« sei nach Italien, Belgien und Portugal, zu ziehen
-wäre. Wenn nun die Kirche all das gesunkene Glaubensgut, das die
-atheistische Linke gerade in einer Art Kaperung für ihre Zwecke
-instrumentalisiert,[^8] sich in der erfolgten Neuaufladung wieder
-zurückeinverleibt, ist die gewünschte Politisierung ehemaliger
-Glaubensinhalte in progressiven Bahnen abgeschlossen.
+zu hören), die aus den Krawal­len in Frankreich, von wo »der Funke
+weiter­ge­sprungen« sei nach Italien, Belgien und Por­tugal, zu ziehen
+wäre. Wenn nun die Kirche all das ge­sun­kene Glaubens­gut, das die
+atheisti­sche Linke gerade in einer Art Kaperung für ihre Zwecke
+in­stru­menta­lisiert,[^8] sich in der erfolgten Neu­auf­ladung wieder
+zurück­ein­ver­leibt, ist die ge­wünschte Poli­ti­sierung ehe­ma­liger
+Glau­bens­inhalte in pro­gres­siven Bahnen abgeschlossen.
 
 ## Wirkstatt ohne Gottesdienste als Utopie
 
 Viel zu viele kirchliche Funktionäre setzen auf die Kraft des
 Menschenwerks mehr denn auf Gottes Allmacht, so auch das
 Gottesdienst-Institut als Epigone in einer langen Kette des Abstiegs
-von der Theologie zur Weltherstellung. Dabei ist vielfach
-beschrieben worden, unter anderem von dem Psychoanalytiker
+von der Theologie zur Welt­her­stellung. Dabei ist vielfach
+beschrieben worden, unter anderem von dem Psycho­ana­lytiker
 Horst-Eberhard Richter, wie am Ende des Mittelalters Gott verloren
 ging und der Mensch selbst »Gott sein« wollte; wie eine »Geschichte
-des Egozentrismus« anhob, und »utopische Heilshoffnungen des
-beschädigten Individuums« nicht trugen;[^9] wie schließlich »ein
-zügelloser Bemächtigungsdrang«[^10] in eine kollektive
-»psychosoziale Störung der modernen westlichen Zivilisation«
+des Ego­zentrismus« anhob, und »utopische Heilshoffnungen des
+beschädigten In­dividuums« nicht trugen;[^9] wie schließlich »ein
+zügel­loser Be­mächtigungs­drang«[^10] in eine kollektive
+»psycho­soziale Störung der modernen west­lichen Zivili­sation«
 mündete.[^11]
 
-Bereits 1932 hatte Carl Gustav Jung evangelischen Pfarrern im Elsaß
+Bereits 1932 hatte Carl Gustav Jung evange­li­schen Pfarrern im Elsaß
 berichtet, wie hunderte von Patienten durch seine Hände gegangen
-seien, in der Mehrzahl Protestanten, darunter »nicht ein einziger«,
+seien, in der Mehrzahl Pro­testan­ten, darunter »nicht ein einziger«,
 dessen Problem nicht wäre, »daß er das verloren hat, was lebendige
-Religionen ihren Gläubigen zu allen Zeiten gegeben haben, und keiner
-ist wirklich geheilt, der seine religiöse Einstellung nicht wieder
+Religionen ihren Gläubigen zu al­len Zeiten gegeben haben, und keiner
+ist wirklich geheilt, der seine reli­giöse Ein­stellung nicht wieder
 erreicht«.[^12] Dem Leidenden helfe nicht, was er selbst ersinne ---
-nur »übermenschliche, geoffenbarte Wahrheit« könne ihm Gesundung
-verschaffen.[^13]
+nur »über­mensch­liche, ge­offen­barte Wahr­heit« könne ihm Gesundung
+ver­schaffen.[^13]
 
 Und heute, man kann es kaum glauben, beginnt langsam aber sicher
-jeglicher Wesenskern sich aufzulösen: als letztmögliche
-Retardierungs­stufe scheint das Gottesdienst-Institut darauf
+jeg­licher Wesens­kern sich aufzulösen: als letztmögliche
+Retar­dierungs­stufe scheint das Got­tes­dienst-Institut darauf
 verfallen zu sein, weniger einen Inhalt zu vermitteln, und sei es
-auch ein un- beziehungsweise antibiblisch zeitgeistig weltlicher,
-sondern mit der Propagierung Künstlicher Intelligenz als Hilfsmittel
-vordergründig eine Arbeitstechnik zu implementieren, so weit wie
-möglich losgelöst vom Menschen und von jeder Substanz.
+auch ein un- beziehungs­weise anti­biblisch zeitgeistig weltlicher,
+sondern mit der Propa­gierung Künstlicher Intelligenz als Hilfsmittel
+vordergründig eine Arbeits­technik zu imple­men­tieren, so weit wie
+möglich los­gelöst vom Menschen und von jeder Substanz.
 
 ![AI Luft](/5artikel/material/schmid-retardierung-abb-08.jpg
 "AI") [*Liturgische Texte mit KI gestalten --- Modul 1: Gebete, Übergänge und
@@ -471,43 +471,43 @@ Abläufe präzise generieren.*]
 
 Wer nun meint, es wäre eine gute Nachricht, wenn die sich selbst
 abschaffende Kirche den Leiter ihres Gottesdienst-Instituts
-ankündigen lässt, daß der vorliegende »Folder« das letzte
-Fortbildungsprogramm wäre, hat die Rechnung ohne die Progressisten
+ankündigen läßt, daß der vor­liegende »Folder« das letzte
+Fort­bildungs­programm wäre, hat die Rechnung ohne die Progressisten
 gemacht. Denn der smarte Mann (laut Porträtbild) setzt fort, es
 handle sich nur um das Letzte unter dem alten Namen
 Gottesdienst-Institut, denn im nächsten Jahr würde man (»Bewährtes
-bleibt, Neues kommt hinzu«; so etwas Inhaltsleeres kann nur die KI
-formulieren) nach der Fusionierung mit der »Wirkstatt evangelisch«
-als »Wirkstatt evangelisch für Gottesdienst und Gemeindeentwicklung«
-weiter KI-generiert als KI-Förderprogramm weitermachen.
+bleibt, Neues kommt hinzu«; so etwas Inhalts­leeres kann nur die KI
+formulieren) nach der Fusio­nierung mit der »Wirk­statt evangelisch«
+als »Wirkstatt evangelisch für Got­tes­dienst und Gemeinde­ent­wicklung«
+weiter KI-generiert als KI-Förder­programm weitermachen.
 
 Ein Schelm, der nun vermuten würde, man habe sich des unzeitgemäßen
-Namensbestandteils »Gottesdienst« entledigen wollen, in dem ja sogar
+Namensbestandteils »Gottes­dienst« entledigen wollen, in dem ja sogar
 das Wort »Gott« auftaucht, habe sich aber dann doch nicht ganz
 getraut, und sei schließlich auf die geniale Idee verfallen, eine
-vollkommen gottfreie kurze Organisationsbezeichnung vor den
-folgenden Bandwurmnamen zu setzen, in der sicherlich richtigen
+vollkommen gottfreie kurze Orga­nisa­tions­bezeichnung vor den
+fol­genden Band­wurm­namen zu setzen, in der sicherlich richtigen
 Kalkulation, daß künftig niemand auf die Idee käme zu sagen, er
 würde einen Kurs bei der »Wirkstatt evangelisch für Gottesdienst und
-Gemeindeentwicklung« besuchen, sondern »prägnant und einfach« (so
-wie es das Kursangebot mehrfach anbietet) von der »Wirkstatt«
-sprechen, womit schlußendlich auch die Atheisten, Muslime und
-Diverse ausschließende Altlast »evangelisch« elegant entsorgt wäre.
+Gemeinde­ent­wicklung« besuchen, sondern »prägnant und einfach« (so
+wie es das Kurs­an­gebot mehrfach anbietet) von der »Wirkstatt«
+sprechen, womit schluß­endlich auch die Atheisten, Muslime und
+Diverse aus­schließende Alt­last »evange­lisch« elegant entsorgt wäre.
 
-Eine Stufe weiter nach unten, dann endgültig ins Nichts, ginge es
-also noch: Man könnte auf den Begriff Gottesdienst ganz verzichten,
-oder noch progressiver: auf Gottesdienste überhaupt. So fordert
-Pfarrerin Hanna Jacobs in der einstmals satisfaktionsfähigen *Zeit*:
+Eine Stufe weiter nach unten, dann end­gültig ins Nichts, ginge es
+also noch: Man könnte auf den Begriff Got­tes­dienst ganz verzichten,
+oder noch pro­gres­siver: auf Got­tes­dienste überhaupt. So fordert
+Pfarrerin Hanna Jacobs in der einst­mals satis­faktions­fähigen *Zeit*:
 »[Schafft den Gottesdienst am Sonntag
 ab!](https://www.zeit.de/2024/21/kirche-gottesdienst-abschaffen-sonntag-religion/komplettansicht)«
-Damit könnten »Pfarrpersonen« ihre Arbeitszeit endlich sinnvoll
-nutzen --- »für die Konzeption stimmungsvoller Veranstaltungen«, etwa
-»die biblische Weinprobe in der Kirche« oder einen
-»feministisch-theologische\[n\] Lesekreis«. Dabei hilft sicher die
-»Wirkstatt evangelisch« nach Kräften.
+Damit könnten »Pfarr­personen« ihre Arbeits­zeit endlich sinnvoll
+nutzen --- »für die Kon­zeption stim­mungs­voller Ver­anstaltungen«, etwa
+»die biblische Wein­probe in der Kirche« oder einen
+»femini­stisch-theolo­gische\[n\] Lesekreis«. Dabei hilft sicher die
+»Wirk­statt evange­lisch« nach Kräften.
 
 »Ein Fanatiker ist ein Mensch, der so handelt, wie er glaubt, daß
-Gott handeln würde, wenn er ausreichend informiert wäre.«[^14]
+Gott handeln würde, wenn er aus­reichend informiert wäre.«[^14]
 
 ## Anmerkungen
 
@@ -549,14 +549,14 @@ Gott handeln würde, wenn er ausreichend informiert wäre.«[^14]
 
 [^12]: Carl Gustav Jung: Über die Beziehung der Psychotherapie zur
     Seelsorge (1932). In: ders.: Psychologie und Religion. C.G. Jung
-    Taschenbuchausgabe in elf Bänden. Herausgegeben von Lorenz Jung
-    auf der Grundlage der Ausgabe »Gesammelte Werke«. München:
-    Deutscher Taschenbuch Verlag, 1991, S. 113--131, hier S. 119.
+    Taschen­buch­ausgabe in elf Bänden. Herausgegeben von Lorenz Jung
+    auf der Grund­lage der Aus­gabe »Gesam­melte Werke«. München:
+    Deutscher Taschen­buch Verlag, 1991, S. 113--131, hier S. 119.
 
 [^13]: Ebd., S. 128.
 
 [^14]: Finley Peter Dunne, 1867--1936; zitiert nach: Alexander
-    Wendt: Klarer Geist in wirren Zeiten. Einladungen zum schärferen
+    Wendt: Klarer Geist in wirren Zeiten. Ein­ladungen zum schärferen
     Denken.  Edition Olzog, 2026.
 
 [^15]: Botho Strauß: Anschwellender Bocksgesang. In: Der Spiegel,
