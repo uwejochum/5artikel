@@ -7,24 +7,24 @@ tags:   [Christentum,Religion,Theologie]
 ---
 
 Wer in kirchlichem Dienst steht (Gott bewahre in diesen Zeiten) oder
-jemanden näher kennt, der zumindest kirchennah tätig ist, etwa als
-Religionslehrer, erhält regelmäßig Kenntnis von Postaussendungen der
-Evangelischen Kirche in Deutschland, kurz: EKD, oder EKD-naher
-Einrichtungen.
+jemanden näher kennt, der zumindest kirchen­nah tätig ist, etwa als
+Reli­gions­lehrer, erhält regel­mäßig Kennt­nis von Post­aus­sendungen der
+Evan­ge­lischen Kirche in Deutschland, kurz: EKD, oder EKD-naher
+Ein­rich­tungen.
 
 So flatterte also jüngst ein sogenannter Folder ins Haus --- das
-Jahresprogramm 2027 des Nürnberger Gottesdienst-Instituts, das
-Ausbildung, Fortbildung und Beratung verspricht, für Lektor:innen
+Jahres­programm 2027 des Nürn­berger Gottes­dienst-Instituts, das
+Aus­bildung, Fort­bildung und Beratung verspricht, für Lektor:innen
 und Prädikant:innen, für Diakon:innen und Pädagog:innen (was immer
-das sein mag), vermutlich auch für Pfarrer (Pardon, ich sehe gerade
-im Programm, es sind korrekt »Pfarrpersonen«), letztlich für jede:n
+das sein mag), ver­mut­lich auch für Pfarrer (Pardon, ich sehe gerade
+im Programm, es sind korrekt »Pfarr­personen«), letztlich für jede:n
 (sic).
 
 Nun glaubt man, etwas erfahren zu können über die neueste
-theologische, pastorale und liturgische Herangehensweise bei der
-Gestaltung von Gottesdiensten. Vielleicht — so denkt aber nur ein
-sehr naiver Mensch — würde gar ein ernstzunehmender Impuls dabei
-sein, wie Spiritualität heute aussehen könnte.
+theo­lo­gische, pasto­rale und litur­gische Herangehensweise bei der
+Ge­staltung von Got­tes­diensten. Viel­leicht — so denkt aber nur ein
+sehr naiver Mensch — würde gar ein ernst­zuneh­mender Impuls dabei
+sein, wie Spiri­tua­lität heute aus­sehen könnte.
 
 ![Chip](/5artikel/material/schmid-retardierung-abb-01.jpg "Chip")
 [*Theologische Weiterbilder versprechen: »Prägnant und einfach«
@@ -34,50 +34,50 @@ können »spirituelle Impulse mit KI« gestaltet werden.*]
 ## Pfarrerabschaffung mit KI
 
 Doch dem heiligen Geist, der die evangelische Kirche auf so
-wundersame Weise lenkt, gefiel es, den Veranstaltungskalender aus
-wenig mehr als aus Anleitungen bestehen zu lassen, wie man als
-Kirchenbeamter am effektivsten Künstliche Intelligenz (KI) einsetzt:
-So bietet sich die Möglichkeit, einen »Kirchlichen KI-Führerschein«
+wunder­same Weise lenkt, gefiel es, den Ver­anstal­tungs­kalender aus
+wenig mehr als aus An­leitungen bestehen zu lassen, wie man als
+Kir­chen­beamter am effek­tivsten Künst­liche Intel­ligenz (KI) ein­setzt:
+So bietet sich die Mög­lich­keit, einen »Kirch­lichen KI-Führer­schein«
 zu erwerben (man frage nicht, was das sein möge), einen KI-Basiskurs
 »Prägnant und einfach mit KI« zu buchen, der »spirituelle Impulse
-mit KI« generieren hilft, einem Modul »Liturgische Texte mit KI
-gestalten« beizuwohnen oder eine »Predigtarbeit im Dialog« zu
-absolvieren: »Mit KI zur pointierten Botschaft und
-zielgruppensensiblen Sprache« --- und damit wären wir erst in der
-Mitte des März, also noch vor Ostern, in der Abfolge dieses
-Jahresprogramms, das unter dem Motto »Sich selbst abschaffen mit KI«
+mit KI« generieren hilft, einem Modul »Litur­gische Texte mit KI
+gestalten« beizuwohnen oder eine »Pre­digt­arbeit im Dialog« zu
+ab­solvieren: »Mit KI zur poin­tierten Bot­schaft und
+ziel­grup­pen­sensiblen Sprache« --- und damit wären wir erst in der
+Mit­te des März, also noch vor Ostern, in der Abfolge dieses
+Jahres­programms, das unter dem Motto »Sich selbst ab­schaffen mit KI«
 stehen könnte. Ein anderer Titel wäre --- ebenso passend: »Gott
 denken lassen von KI«. (Für Statistik-Freunde: Bei 35
-Veranstaltungstiteln liest man 22-mal den Begriff KI.)
+Ver­an­staltungs­titeln liest man 22-mal den Begriff KI.)
 
-Ostern (einmal) und Weihnachten (keinmal), überhaupt christliche
-Begrifflichkeiten, sind im Nürnberger Gottesdienstreich wenig zu
+Ostern (einmal) und Weih­nachten (keinmal), überhaupt christliche
+Be­griff­lich­keiten, sind im Nürn­berger Got­tes­dienst­reich wenig zu
 Hause --- das scheint nicht mehr
 [zeitgemäß](https://www.publicomag.com/2022/04/die-goggelmoggel-raeumen-auf/)
-zu sein. Dies ist sicherlich alles andere als Zufall, sondern
-Ausfluß des Pfarreralltags, wenn etwa in München eine Pfarrerin von
-Schulen eingeladen wird, zu Weihnachten eine »Veranstaltung« zu
-gestalten, in der das Wort Weihnachten nicht vorkommen soll (und am
-besten auch kein biblischer Inhalt) --- eine Entwicklung, die
-sicherlich auch die Nürnberger Gottesdienstinstitutler zur Kenntnis
-genommen und Schlüsse daraus gezogen haben.
+zu sein. Dies ist sicher­lich alles andere als Zufall, sondern
+Aus­fluß des Pfarrer­all­tags, wenn etwa in Mün­chen eine Pfarrerin von
+Schulen eingeladen wird, zu Weih­nachten eine »Ver­an­staltung« zu
+ge­stalten, in der das Wort Weih­nachten nicht vor­kom­men soll (und am
+besten auch kein bibli­scher In­halt) --- eine Ent­wick­lung, die
+sicher­lich auch die Nürn­berger Got­tes­dienst­insti­tut­ler zur Kenntnis
+ge­nom­men und Schlüs­se daraus gezogen haben.
 
 ## Keine Technikkritik --- im Gegenteil
 
-Dieses technoide Fortbildungsprogramm für Pfarrer, die einen
-Gottesdienst zu gestalten haben, zeigt wie in der Nußschale, wie
+Dieses technoide Fort­bildungs­programm für Pfarrer, die einen
+Got­tes­dienst zu ge­stalten haben, zeigt wie in der Nuß­schale, wie
 wenig sich doch gerade die Kirche, die dazu berufen wäre, mit neuen
-Techniken kritisch auseinandersetzt. Schon seit langem fällt das
-fast dröhnende Schweigen der Kirchenvertreter zu allem auf, was mit
-Transhumanismus zu tun hat. Und auch die Frage des Umgangs mit
-Künstlicher Intelligenz wird nun nicht nur nicht gestellt, sondern
-das Instrument KI als quasi gottgegeben begrüßt und massiv in den
-Alltag der Pfarrer eingespeist.  Welcher Geist in einem »Basiskurs«
+Techniken kritisch aus­ein­an­der­setzt. Schon seit langem fällt das
+fast dröhnende Schweigen der Kir­chen­ver­treter zu allem auf, was mit
+Trans­huma­nismus zu tun hat. Und auch die Frage des Um­gangs mit
+Künst­licher Intel­li­genz wird nun nicht nur nicht gestellt, sondern
+das Instru­ment KI als quasi gott­gegeben be­grüßt und massiv in den
+All­tag der Pfarrer eingespeist.  Welcher Geist in einem »Basiskurs«
 weht, der Pfarrer unter dem Titel »Kasualien smart planen« auf
-Segenshandlungen vorbereiten will, indem er zeigt, wie das »mit KI«
-geht, mag man sich nicht vorstellen. Denn Kasualien, das sind:
-Taufe, Konfirmation, Trauung und Beerdigung --- also die
-elementarsten Lebensstationen, die die Kirche zu begleiten hat.
+Segens­hand­lungen vor­be­reiten will, indem er zeigt, wie das »mit KI«
+geht, mag man sich nicht vor­stellen. Denn Kasua­lien, das sind:
+Taufe, Kon­fir­mation, Trauung und Be­erdigung --- also die
+elemen­tarsten Lebens­sta­tionen, die die Kirche zu be­gleiten hat.
 
 ![Tippen lassen](/5artikel/material/schmid-retardierung-abb-02.jpg
 "Tippen lassen") [*Predigt geklaut --- ist das schlimm? »[Ich finde,
@@ -85,22 +85,22 @@ eigentlich
 nicht](https://www.gottesdienstinstitut.org/blog/von-der-verwendung-von-lesepredigten-und-anderen-entwuerfen/)«,
 sagt eine Pfarrerin und Referentin des Gottesdienst-Instituts.*]
 
-Da muß ein Pädagogikprofessor wie Klaus Zierer die angestammte, aber
-verwaiste Rolle der Kirchen ausfüllen, indem er die Frage stellt, ob
-Tools wie ChatGPT als sogenannte künstliche Intelligenzen wirklich
+Da muß ein Päd­agogik­pro­fessor wie Klaus Zierer die an­ge­stammte, aber
+ver­waiste Rol­le der Kirchen ausfüllen, indem er die Frage stellt, ob
+Tools wie ChatGPT als so­genannte künst­liche In­tel­ligenzen wirk­lich
 als die neuen »Heilsbringer« gehandelt werden sollen. Er weist
-darauf hin, daß es dem Menschen (er dürfte »Pfarrpersonen« aus
-dieser Überlegung kaum ausschließen) nicht abgenommen werden kann
-und soll, »seine Gabe des Menschseins als lebenslange Aufgabe zu
-sehen und auch zu leben«.  Denn das Selbstverständnis des Menschen
-»als entwickelte moralische Person, ist die Fähigkeit, Gründe
-abzuwägen und aufgrund dieser Abwägung zu handeln, also Urteilskraft
-und Entscheidungsstärke zu besitzen«[^1] --- und eben diese
-Abwägungen nicht zu delegieren an algorithmusgenerierte
-Intelligenzsimulationen, wie Julian Nida-Rümelin die KI nennt.
+darauf hin, daß es dem Menschen (er dürfte »Pfarr­per­sonen« aus
+dieser Über­legung kaum aus­schließen) nicht ab­ge­nom­men werden kann
+und soll, »seine Gabe des Mensch­seins als lebens­lange Auf­gabe zu
+sehen und auch zu leben«.  Denn das Selbst­ver­ständnis des Menschen
+»als ent­wickelte morali­sche Per­son, ist die Fähig­keit, Gründe
+ab­zu­wägen und auf­grund dieser Ab­wägung zu handeln, also Urteils­kraft
+und Ent­scheidungs­stärke zu be­sitzen«[^1] --- und eben diese
+Ab­wägungen nicht zu dele­gieren an al­gorithmus­generierte
+In­tel­ligenz­simu­la­tionen, wie Julian Nida-Rümelin die KI nennt.
 
 Noch deutlicher formuliert es ein moderner Klassiker der
-Technikkritik --- Günther Anders. Seine Streitschrift *Über die
+Technik­kritik --- Günther Anders. Seine Streit­schrift *Über die
 Seele im Zeitalter der zweiten industriellen Revolution* bezeichnet
 er selbst als »traurige Seiten über die Verwüstung des
 Menschen«.[^2] Der in Breslau geborene deutsch-jüdische Philosoph,
@@ -387,21 +387,38 @@ Bürgerrechtsbewegung, ausserparlamentarische Opposition und
 Kirchenreform* (1968), *Eingriffe in die Rüstungsindustrie* (1975),
 *Ziviler Ungehorsam als christliche Tugend* (1989).
 
-Ganz ohne sich auf Moltmanns Eingreiftheologie zu beziehen, stapft
-die Evangelisch-reformierte Landeskirche im Gleichschritt marsch dem
-Zeitgeist hinterher, indem sie sich mit ihren 159.000 Mitgliedern
-dafür einsetzt, »dass die Menschheit Wege findet, den Klimawandel
-aufzuhalten.« Deshalb stand die Synode 2022 »ganz im Zeichen der
-Klimagerechtigkeit«. (Ein Gebet für die Klimagerechten ist nicht
-überliefert.) Wichtigstes Ergebnis des Christentreffens: »zweifellos
-der [Beschluss des
-Klimaschutzkonzeptes](https://www.reformiert.de/klimaschutzmanagement.html)«.
-Es werden angerufen: »Klimaschutzmanagement«, »Forschungsstätten«,
-»Studiengemeinschaften« --- für eine (nota bene!)
-»treibhausgasneutrale Kirche«. Es folgen spirituelle Anregungen wie
-»Bilanzierung«, »Emissionen«, »Einsparpotentiale« und »Maßnahmen«,
-um sich auf die Heilserwartung einzuschwören --- »die Ausrichtung
-des kirchlichen Lebens \... zukunftsorientiert auszurichten« (sic!).
+Wie sehr trifft auf solcher­art men­schen­gemachte Hoffnungs­her­stellung
+unter sehr dünnem theo­lo­gischen Deck­mäntel­chen jenes Dik­tum von
+Botho Strauß in seinem hoch skan­da­li­sierten Spiegel-Essay
+[»An­schwel­lender
+Bocks­gesang«](https://www.spiegel.de/kultur/anschwellender-bocksgesang-a-00c4ba54-0002-0001-0000-000013681004)
+aus dem Jahr 1993 zu, worin er einen fun­da­men­talen Unter­schied von
+Links- und Rechts­sein festlegt: »Von ihrem Ur­sprung (in Hitler) an
+hat die deut­sche Nach­kriegs-Intel­ligenz [...] uns zu den
+frag­würdigsten Alter­na­tiven zu über­reden ge­sucht und das radikal
+Gute und Andere in Form einer pro­fanen Escha­to­logie ange­boten«,
+eine Escha­to­logie, die nichts sei als eine »linke, Heilsgeschichte
+par­odieren­de Phan­tasie«, die sich ein »künf­tiges Welt­reich« ausmale,
+im Gegen­satz zum rechten Hof­fen, das keiner Utopie bedürfe, sondern
+den Wieder­anschluß suche »an die lange Zeit, die unbewegte«.[^15]
+
+Ganz ohne sich auf Moltmanns Ein­greif­theo­logie zu be­ziehen,
+stapft die Evan­ge­lisch-refor­mierte Landes­kirche im
+Gleich­schritt marsch dem Zeit­geist hinter­her, indem sie sich mit
+ihren 159.000 Mitgliedern dafür einsetzt, »dass die Mensch­heit Wege
+findet, den Klima­wandel auf­zu­halten.« Deshalb stand die Synode
+2022 »ganz im Zeichen der Klima­gerech­tig­keit«. (Ein Gebet für die
+Klima­gerechten ist nicht über­liefert.) Wichtigstes Ergeb­nis des
+Chri­sten­tref­fens: »zweifel­los der [Beschluss des
+Klima­schutz­kon­zeptes](https://www.reformiert.de/klimaschutzmanagement.html)«.
+Es werden ange­rufen: »Klima­schutz­manage­ment«,
+»For­schungs­stätten«, »Studien­ge­mein­schaften« --- für eine (nota
+bene!)  »treib­haus­gas­neutrale Kirche«. Es folgen spiri­tuelle
+An­regungen wie »Bilan­zierung«, »Emis­sionen«,
+»Ein­spar­poten­tiale« und »Maß­nahmen«, um sich auf die
+Heil­serwartung ein­zu­schwören --- »die Ausrichtung des
+kirch­lichen Lebens \... zukunft­sorien­tiert aus­zu­richten«
+(sic!).
 
 Jüngst hat die Vorsitzende der Linkspartei, Ines Schwerdtner, von
 der »Hoffnung« gesprochen
@@ -541,3 +558,6 @@ Gott handeln würde, wenn er ausreichend informiert wäre.«[^14]
 [^14]: Finley Peter Dunne, 1867--1936; zitiert nach: Alexander
     Wendt: Klarer Geist in wirren Zeiten. Einladungen zum schärferen
     Denken.  Edition Olzog, 2026.
+
+[^15]: Botho Strauß: Anschwellender Bocksgesang. In: Der Spiegel,
+    Ausgabe 6/1993.
