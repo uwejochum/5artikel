@@ -15,7 +15,7 @@ Ein­rich­tungen.
 So flatterte also jüngst ein sogenannter Folder ins Haus --- das
 Jahres­programm 2027 des Nürn­berger Gottes­dienst-Instituts, das
 Aus­bildung, Fort­bildung und Beratung verspricht, für Lektor:innen
-und Prädikant:innen, für Diakon:innen und Pädagog:innen (was immer
+und Prä­dikant:innen, für Diakon:innen und Päd­agog:innen (was immer
 das sein mag), ver­mut­lich auch für Pfarrer (Pardon, ich sehe gerade
 im Programm, es sind korrekt »Pfarr­personen«), letztlich für jede:n
 (sic).
@@ -101,36 +101,36 @@ In­tel­ligenz­simu­la­tionen, wie Julian Nida-Rümelin die KI nennt.
 
 Noch deutlicher formuliert es ein moderner Klassiker der
 Technik­kritik --- Günther Anders. Seine Streit­schrift *Über die
-Seele im Zeitalter der zweiten industriellen Revolution* bezeichnet
+Seele im Zeit­alter der zweiten indu­striellen Revo­lution* bezeichnet
 er selbst als »traurige Seiten über die Verwüstung des
 Menschen«.[^2] Der in Breslau geborene deutsch-jüdische Philosoph,
-Sohn berühmter Psychologen (*Psychologie der frühen Kindheit*),
-zeitweiliger Ehemann von Hannah Arendt, ortet eine fatale »Bejahung
-der eigenen Verdinglichung«, welche gesteigert werden könne durch
+Sohn berühmter Psycho­logen (*Psycho­lo­gie der frühen Kind­heit*),
+zeit­weiliger Ehe­mann von Hannah Arendt, ortet eine fatale »Be­jahung
+der eigenen Ver­ding­lichung«, welche gesteigert werden könne durch
 die »Desertion ins Lager der Geräte«. Erreicht werden diese
-Retar­dierungen menschlichen Seins, wenn »der Mensch die
-Überlegenheit der Dinge [also auch der Technik] anerkennt, sich mit
-diesen gleichschaltet, seine eigene Verdinglichung bejaht, bzw. sein
-Nichtverdinglichtsein als Manko verwirft«. Erst einmal im »Lager«
-von KI angekommen, wie es das Gottesdienst-Institut offensichtlich
-ist, wird der vormals menschliche Blickwinkel ersetzt durch jenen
-der Dinge, der Technik; »nicht nur seine Maßstäbe hat er [der
-Mensch] nun mit den ihren [den technisch produzierten]
-gleichgeschaltet; sondern auch seine Gefühle«.[^3]
+Retar­dierungen mensch­lichen Seins, wenn »der Mensch die
+Über­legen­heit der Dinge [also auch der Technik] anerkennt, sich mit
+diesen gleich­schaltet, seine eigene Ver­ding­lichung bejaht, bzw. sein
+Nicht­verding­licht­sein als Manko verwirft«. Erst einmal im »Lager«
+von KI an­ge­kommen, wie es das Gottes­dienst-Institut offensichtlich
+ist, wird der vormals mensch­liche Blick­winkel ersetzt durch jenen
+der Dinge, der Technik; »nicht nur seine Maß­stäbe hat er [der
+Mensch] nun mit den ihren [den technisch pro­duzierten]
+gleich­ge­schaltet; sondern auch seine Gefühle«.[^3]
 
 [Wenn es schon falsch
 erscheint](https://uwejochum.github.io/5artikel/2026/07/21/tiefe-offenheit/),
-Technik als Verhängnis zu betrachten, das über uns gekommen ist,
-statt sie als das aufzufassen, was sie ist, nämlich Menschenwerk,
-das man wie alles Menschenwerk benutzen oder nicht benutzen kann,
+Technik als Verhängnis zu betrachten, das über uns gekom­men ist,
+statt sie als das aufzufassen, was sie ist, nämlich Menschen­werk,
+das man wie alles Men­schen­werk benutzen oder nicht benutzen kann,
 und in der Not auch wieder aus der Welt schaffen, bleibt das
-Nürnberger Gottesdienst-Institut noch einen Denkschritt weiter
-zurück: Dessen Technikverständnis läßt sehr am Menschenbild
+Nürn­berger Gottes­dienst-Institut noch einen Denkschritt weiter
+zurück: Dessen Technik­ver­ständnis läßt sehr am Men­schen­bild
 zweifeln, das dort gehegt wird, und nicht zuletzt auch am
-Gottesbild. Denn Theologen sollten schon bedenken, daß es sich bei
-einer Technik wie KI nicht um eine gottgegebene Schöpfung handelt,
+Got­tes­bild. Denn Theo­logen sollten schon bedenken, daß es sich bei
+einer Technik wie KI nicht um eine gott­gegebene Schöpfung handelt,
 und daß der Mensch (in diesem Fall: der einen Gottesdienst
-gestaltende Pfarrer) als Geschöpf nicht dazu da ist, sich mittels
+ge­staltende Pfarrer) als Geschöpf nicht dazu da ist, sich mittels
 Technik selbst abzuschaffen.
 
 Welche Botschaft sendet ein solches Programm aus für alle, die
@@ -183,8 +183,8 @@ Gegen­wart sowie von den hoff­nungs­vollen Mög­lich­keiten der Zukunft
 spricht«.
 
 »Haltung bitte!« zeigt schließlich in aller Klarheit, aus welchem
-Zeitgeist sich ein Gottesdienst speisen soll, wie ihn sich das
-Gottesdienst-Institut vorstellt: »[Ein Gebet für den letzten
+Zeit­geist sich ein Gottes­dienst speisen soll, wie ihn sich das
+Got­tes­dienst-Insti­tut vor­stellt: »[Ein Gebet für den letzten
 Eisbären](https://www.gottesdienstinstitut.org/bildung/haltung-bitte/).
 Ein Bekenntnis ans Gendern. Ein Regen­bogen­plädoyer für die Liebe
 ....  Wir probieren aus, wie man Texte mit Haltung schreibt und
@@ -195,14 +195,14 @@ hinter­fragen, wie für die Klima-Bewegung, für die Gender-Agenda, für
 die LGBTQ-Community, und zwar als verbind­liche Lehre (genau das
 bedeutet Dogma). Die Beispiele, die die Dozentin nennt (»Gebet für
 den letzten Eis­bären«), klingen so, als wollte sich ein
-konser­vativer Antipode dieser superwoken Dogmatiker über sie lustig
+konser­vativer Antipode dieser super­woken Dog­matiker über sie lustig
 machen; das alles ist aber bitter Ernst gemeint. Statt eines
-Bekennt­nisses zu Jesus Christus also ein Bekenntnis für eine
+Bekennt­nisses zu Jesus Christus also ein Be­kenntnis für eine
 Sprach-Verhunzung (»jede:r«).
 
 Daß Gott »politisch« sein muß im Sinne von Links-Grün, daran besteht
 kein Zweifel --- fraglich ist offenbar nur, ob er eher der
-brutal-radikalen Neuköllner Variante des Linksseins anhängt oder
+brutal-radikalen Neuköllner Variante des Links­seins anhängt oder
 doch viel­leicht einem soften Robert-Habeck-Grün-Charme. Vielleicht
 spricht die Über­betonung der Sensi­bilität für letztere Variante ---
 das Programm kennt die Begriffs­bildungen »ziel­grup­pen­sensibel«
@@ -218,23 +218,23 @@ Segen wird«.*]
 Damit dürfte der Endpunkt in einer langen Retardierungskette
 erreicht sein. Lange stand die theologische Verkündigung im Zentrum
 aller Über­legungen zu Gottes­dienst und Seelsorge. Mit den
-Achtundsechzigern zog eine sozial­revolutionäre Politisierung ein
+Achtundsechzigern zog eine sozial­revolutionäre Politi­sierung ein
 (der Münchner Pfarrer, der in den frühen 1980er Jahren besagte
-Religions­lehrerin kon­firmiert hat, trug am liebsten pinkfarbene
+Religions­lehrerin kon­firmiert hat, trug am liebsten pink­farbene
 Latz­hosen, ein Öko­sozialist wie aus dem Bilder­buch), wo sich der
 Pfarrer weniger als Theo­loge und Seelsorger verstand, sondern als
 Kumpeltyp und Sozial­arbeiter, aber wohl immerhin seine
-Sozial­romantik noch biblisch herleitend, wenn auch nicht mehr in den
+Sozial­romantik noch biblisch her­leitend, wenn auch nicht mehr in den
 aus­schließ­lichen Mittel­punkt der Ver­kündigung stellend.
 
-Die Schriftstellerin Ruth Rehmann beschreibt in *Der Mann auf der
-Kanzel -- Fragen an einen Vater* (1979), wie ihre heranwachsenden
-Töchter eine neue Generation prote­stantischer Pfarrer erlebt haben,
-die sich »im Religion­sunter­richt auf das gestrige Fernsehprogramm«
-bezogen und statt »vom Vater im Him­mel« von »sozialem Engagement«
-schwärmten.[^4] Für einen Chef­redakteur des *Evangelischen
-Sonntagsblatt* und seine Gene­ra­tion waren in den 1980er Jahren, als
-sie mit dem Theo­logie­studium begannen, Naturzerstörung,
+Die Schrift­stellerin Ruth Rehmann beschreibt in *Der Mann auf der
+Kanzel -- Fragen an einen Vater* (1979), wie ihre her­an­wach­senden
+Töchter eine neue Gene­ration prote­stan­ti­scher Pfarrer erlebt haben,
+die sich »im Religions­unter­richt auf das gestrige Fern­seh­programm«
+bezogen und statt »vom Vater im Him­mel« von »sozialem Engage­ment«
+schwärmten.[^4] Für einen Chef­redakteur des *Evange­li­schen
+Sonntags­blatt* und seine Gene­ra­tion waren in den 1980er Jahren, als
+sie mit dem Theo­logie­studium begannen, Natur­zer­störung,
 Ab­rüstungs­debatte und der Welt­frieden die [Themen, die sie
 bewegten](https://evangelisches-sonntagsblatt.de/2021/04/13/theologie-der-hoffnung-der-welt-zugewandt/).
 Gott und Bibel mögen neben­her gelaufen sein. Gerhard Polt sagte es
