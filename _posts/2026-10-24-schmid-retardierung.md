@@ -170,43 +170,43 @@ schwärmt das Got­tes­dienst-Institut --- im Inter­net milliardenfach
 auf­ge­rufen werden.  Die Reich­weite scheint das erstrebte Ziel, dafür
 will der Workshop freie Rede, Kör­per­sprache und das »Sprechen mit
 Bildern« schulen, um (so wörtlich) »Nach­richten in Geschichten«
-verwandeln zu können. TED wirkt im kirchlichen Kontext wie eine
-Verirrung in die amerikanische Erweckungsbewegung, die mehr Anklänge
-an Erfolgs-Coaching-Seminare hat als an Gottesdienste, wo statt dem
-Evangelium Nachrichten zählen, also offensichtlich
-Profan-Weltliches.
+verwandeln zu können. TED wirkt im kirch­lichen Kontext wie eine
+Verirrung in die ameri­ka­nische Er­weckungs­bewegung, die mehr An­klänge
+an Erfolgs-Coaching-Seminare hat als an Got­tes­dienste, wo statt dem
+Evan­gelium Nach­richten zählen, also of­fen­sicht­lich
+Profan-Welt­liches.
 
 [Prophetic Preaching](https://soulpreaching.com/prophetic-preaching)
 --- das ist »eine Predigt, die auf kreative Weise --- im Namen
-anderer --- von den Ungerechtigkeiten und Unzulänglichkeiten der
-Gegenwart sowie von den hoffnungsvollen Möglichkeiten der Zukunft
+anderer --- von den Un­gerechtig­keiten und Un­zuläng­lich­keiten der
+Gegen­wart sowie von den hoff­nungs­vollen Mög­lich­keiten der Zukunft
 spricht«.
 
 »Haltung bitte!« zeigt schließlich in aller Klarheit, aus welchem
 Zeitgeist sich ein Gottesdienst speisen soll, wie ihn sich das
 Gottesdienst-Institut vorstellt: »[Ein Gebet für den letzten
 Eisbären](https://www.gottesdienstinstitut.org/bildung/haltung-bitte/).
-Ein Bekenntnis ans Gendern. Ein Regenbogenplädoyer für die Liebe
+Ein Bekenntnis ans Gendern. Ein Regen­bogen­plädoyer für die Liebe
 ....  Wir probieren aus, wie man Texte mit Haltung schreibt und
-fragen: Wie politisch ist Gott? Ohne dogmatisch zu sein und ohne uns
-zu verrenken, buchstabieren wir, was uns am Herzen liegt.« Nein,
-dogmatisch ist das nicht, Setzungen vorzunehmen, ohne diese zu
-hinterfragen, wie für die Klima-Bewegung, für die Gender-Agenda, für
-die LGBTQ-Community, und zwar als verbindliche Lehre (genau das
+fragen: Wie politisch ist Gott? Ohne dog­ma­tisch zu sein und ohne uns
+zu verrenken, buch­stabieren wir, was uns am Herzen liegt.« Nein,
+dogmatisch ist das nicht, Setzungen vor­zu­nehmen, ohne diese zu
+hinter­fragen, wie für die Klima-Bewegung, für die Gender-Agenda, für
+die LGBTQ-Community, und zwar als verbind­liche Lehre (genau das
 bedeutet Dogma). Die Beispiele, die die Dozentin nennt (»Gebet für
-den letzten Eisbären«), klingen so, als wollte sich ein
-konservativer Antipode dieser superwoken Dogmatiker über sie lustig
+den letzten Eis­bären«), klingen so, als wollte sich ein
+konser­vativer Antipode dieser superwoken Dogmatiker über sie lustig
 machen; das alles ist aber bitter Ernst gemeint. Statt eines
-Bekenntnisses zu Jesus Christus also ein Bekenntnis für eine
+Bekennt­nisses zu Jesus Christus also ein Bekenntnis für eine
 Sprach-Verhunzung (»jede:r«).
 
 Daß Gott »politisch« sein muß im Sinne von Links-Grün, daran besteht
 kein Zweifel --- fraglich ist offenbar nur, ob er eher der
 brutal-radikalen Neuköllner Variante des Linksseins anhängt oder
-doch vielleicht einem soften Robert-Habeck-Grün-Charme. Vielleicht
-spricht die Überbetonung der Sensibilität für letztere Variante ---
-das Programm kennt die Begriffsbildungen »zielgruppensensibel«
-(Sprache), »datensensibel« (Verwaltung) und »machtsensibel«
+doch viel­leicht einem soften Robert-Habeck-Grün-Charme. Vielleicht
+spricht die Über­betonung der Sensi­bilität für letztere Variante ---
+das Programm kennt die Begriffs­bildungen »ziel­grup­pen­sensibel«
+(Sprache), »daten­sensibel« (Verwaltung) und »macht­sensibel«
 (Predigt).
 
 ![Vielfalt](/5artikel/material/schmid-retardierung-abb-04.jpg
@@ -217,43 +217,43 @@ Segen wird«.*]
 
 Damit dürfte der Endpunkt in einer langen Retardierungskette
 erreicht sein. Lange stand die theologische Verkündigung im Zentrum
-aller Überlegungen zu Gottesdienst und Seelsorge. Mit den
-Achtundsechzigern zog eine sozialrevolutionäre Politisierung ein
+aller Über­legungen zu Gottes­dienst und Seelsorge. Mit den
+Achtundsechzigern zog eine sozial­revolutionäre Politisierung ein
 (der Münchner Pfarrer, der in den frühen 1980er Jahren besagte
-Religionslehrerin konfirmiert hat, trug am liebsten pinkfarbene
-Latzhosen, ein Ökosozialist wie aus dem Bilderbuch), wo sich der
-Pfarrer weniger als Theologe und Seelsorger verstand, sondern als
-Kumpeltyp und Sozialarbeiter, aber wohl immerhin seine
-Sozialromantik noch biblisch herleitend, wenn auch nicht mehr in den
-ausschließlichen Mittelpunkt der Verkündigung stellend.
+Religions­lehrerin kon­firmiert hat, trug am liebsten pinkfarbene
+Latz­hosen, ein Öko­sozialist wie aus dem Bilder­buch), wo sich der
+Pfarrer weniger als Theo­loge und Seelsorger verstand, sondern als
+Kumpeltyp und Sozial­arbeiter, aber wohl immerhin seine
+Sozial­romantik noch biblisch herleitend, wenn auch nicht mehr in den
+aus­schließ­lichen Mittel­punkt der Ver­kündigung stellend.
 
 Die Schriftstellerin Ruth Rehmann beschreibt in *Der Mann auf der
 Kanzel -- Fragen an einen Vater* (1979), wie ihre heranwachsenden
-Töchter eine neue Generation protestantischer Pfarrer erlebt haben,
-die sich »im Religionsunterricht auf das gestrige Fernsehprogramm«
-bezogen und statt »vom Vater im Himmel« von »sozialem Engagement«
-schwärmten.[^4] Für einen Chefredakteur des *Evangelischen
-Sonntagsblatt* und seine Generation waren in den 1980er Jahren, als
-sie mit dem Theologiestudium begannen, Naturzerstörung,
-Abrüstungsdebatte und der Weltfrieden die [Themen, die sie
+Töchter eine neue Generation prote­stantischer Pfarrer erlebt haben,
+die sich »im Religion­sunter­richt auf das gestrige Fernsehprogramm«
+bezogen und statt »vom Vater im Him­mel« von »sozialem Engagement«
+schwärmten.[^4] Für einen Chef­redakteur des *Evangelischen
+Sonntagsblatt* und seine Gene­ra­tion waren in den 1980er Jahren, als
+sie mit dem Theo­logie­studium begannen, Naturzerstörung,
+Ab­rüstungs­debatte und der Welt­frieden die [Themen, die sie
 bewegten](https://evangelisches-sonntagsblatt.de/2021/04/13/theologie-der-hoffnung-der-welt-zugewandt/).
-Gott und Bibel mögen nebenher gelaufen sein. Gerhard Polt sagte es
+Gott und Bibel mögen neben­her gelaufen sein. Gerhard Polt sagte es
 auf seine Art: »Die Pfarrer sind auch nicht mehr das --- die reden
 daher wie die Studenten.«
 
-Einher mit einer utopischen Sozialromantik, angefeuert auch von
-Kult-Lektüren wie Ernst Blochs utopo-materialistischem *Prinzip
-Hoffnung* (1959) und der protestantisch-marxistischen Antwort
-*Theologie der Hoffnung* (1964) von Jürgen Moltmann geht eine
-moralingesättigtes Pharisäertum, wie es Karl Heinz Bohrer im
+Einher mit einer utopischen Sozial­romantik, angefeuert auch von
+Kult-Lektüren wie Ernst Blochs utopo-materia­listi­schem *Prinzip
+Hoffnung* (1959) und der prote­stantisch-marxisti­schen Antwort
+*Theolo­gie der Hoffnung* (1964) von Jürgen Moltmann geht eine
+moralin­gesättigtes Phari­säer­tum, wie es Karl Heinz Bohrer im
 *Merkur* vom Januar 1985 seziert[^5]: »[Die guten
 Hirten](https://www.merkur-zeitschrift.de/karl-heinz-bohrer-die-unschuld-an-die-macht-folge-3/)
 \[so auch der Titel von Bohrers Einwurf\] haben ein notorisch
-schlechtes Gewissen. Aber aus eben dem Bewußtsein heraus, als
-einzige überhaupt ein Gewissen zu haben, entwickeln sie doch wieder
+schlechtes Gewissen. Aber aus eben dem Bewuß­tsein heraus, als
+einzige überhaupt ein Gewissen zu haben, ent­wickeln sie doch wieder
 ein dramatisch gutes: nämlich gegenüber den anderen. Die guten
-Hirten kommen eher aus dem protestantischen Milieu: sorgenvoll,
-jederzeit ›betroffen‹, ja dieses Wort zu einem Stilbegriff, zu einer
+Hirten kommen eher aus dem prote­stan­tischen Milieu: sorgenvoll,
+jederzeit ›betroffen‹, ja dieses Wort zu einem Stil­begriff, zu einer
 Selbstdefinition der letzten Jahre machend und als solch Betroffene
 sich auch immer antreffen lassend. Sie neigen dazu zu sagen: ›Ich
 danke dir, Gott, daß ich nicht bin wie die andern Leute.‹«
@@ -262,38 +262,38 @@ danke dir, Gott, daß ich nicht bin wie die andern Leute.‹«
 [*Ästhetische Vorstellungswelt des Gottesdienst-Instituts.*]
 
 Bohres Pamphlet gegen das sich seinerzeit institutionalisierende
-grüne Milieu, zu dessen Vorfeldorganisation sich die EKD gemacht
-hat, liest sich in der Rückschau wie die prophetische Ankündigung
-des herandräuenden Moralreichs der Wokeness mit seinen
-Befindlichkeiten und Hypersensibilitäten: »Wo der Gutmannston aber,
-ob bei Partygesprächen, Round-table-Diskussionen oder
-Akademie-Sitzungen, sich in der wehleidigen Betroffenheit
-gegenseitig bestätigt, da ist die Gesellschaftskomödie der guten
+grüne Milieu, zu dessen Vor­feld­organi­sation sich die EKD gemacht
+hat, liest sich in der Rück­schau wie die prophe­tische An­kündigung
+des heran­dräuenden Moral­reichs der Woke­ness mit seinen
+Befind­lich­keiten und Hyper­sensi­bili­täten: »Wo der Gutmannston aber,
+ob bei Party­gesprächen, Round-table-Dis­kussionen oder
+Aka­demie-Sitzungen, sich in der weh­leidigen Be­trof­fen­heit
+gegen­seitig bestätigt, da ist die Gesell­schafts­komödie der guten
 Hirten angezeigt.«
 
 Hätte Bohrer das »Gebet für den letzten Eisbären« gekannt, hätte er
 sich bestätigt gefühlt. Er wüßte in Zeiten der großen Transformation
 aber auch, wie sehr zu recht er schon Jahrzehnte vor deren
-Implementierung in die Regierungspolitik vor Ideologien gewarnt hat,
+Imple­mentierung in die Regierungspolitik vor Ideologien gewarnt hat,
 welche die »Unzulänglichkeiten der Gegenwart« durch »hoffnungsvolle
-Möglichkeiten der Zukunft« ersetzen wollen, wie es das
-Prophetic-Preaching-Modul des Gottesdienstinstituts 2026 lehrt. Wer
-verspricht, so Bohrer, »uns aus der ägyptischen Gefangenschaft
-dieser Welt in das Gelobte Land, das Paradies?, hinauszuführen«, wie
-es die guten Hirten tun, blendet dabei aus, »daß die utopische
-Alternative, wie die meisten Utopien seit Morus, fatale totalitäre
+Mög­lich­keiten der Zukunft« ersetzen wollen, wie es das
+Prophetic-Preaching-Modul des Got­tes­dienst­insti­tuts 2026 lehrt. Wer
+verspricht, so Bohrer, »uns aus der ägypti­schen Gefangen­schaft
+dieser Welt in das Gelobte Land, das Paradies?, hin­aus­zuführen«, wie
+es die guten Hirten tun, blendet dabei aus, »daß die uto­pische
+Alter­native, wie die meisten Utopien seit Morus, fatale totalitäre
 Züge enthält«.
 
-Schließlich übermannte der woke Zeitgeist (siehe oben) auch die
-Kirche vollends, zuvorderst die protestantische --- eine Phase, die
+Schließlich übermannte der woke Zeit­geist (siehe oben) auch die
+Kirche vollends, zuvorderst die prote­stantische --- eine Phase, die
 immer noch andauert, wo es um alles geht, nur nicht um Gott oder
 Bibel, nämlich um Klima, Gender, »Vielfalt« (also
-Migrationsvergottung), »unsere Demokratie« (vulgo: Verteuflung der
+Migrations­ver­gottung), »unsere Demokratie« (vulgo: Verteuflung der
 Opposition und aller Andersdenkenden). Hierbei wird ein biblischer
-Bezug bestenfalls nur noch als lästige Pflichtübung und höchst
-oberflächlich hergestellt, manchmal sogar jede Rückbindung ignoriert
-wie im Falle der gottesdienstlichen Segnung gleichgeschlechtlicher
-Paare, wozu der große Theologe Wolfhart Pannenberg das Nötige gesagt
+Bezug bestenfalls nur noch als lästige Pflicht­übung und höchst
+oberflächlich hergestellt, manchmal sogar jede Rück­bindung ignoriert
+wie im Falle der gottes­dienst­lichen Segnung gleichgeschlechtlicher
+Paare, wozu der große Theologe Wolfhart Pan­nen­berg das Nötige gesagt
 hat: Was die biblischen Zeugnisse nicht billigen, [darf die Kirche
 nicht segnen](https://www.gemeindenetzwerk.de/?p=2194).
 
@@ -304,50 +304,50 @@ bezogen. Der Tübinger Theologe Jürgen Moltmann drehte dies nun
 radikal um --- in seinem Plädoyer auf eine Hoffnung für das
 Diesseits. In einem [Interview zu seinem 80.
 Geburtstag](https://www.archivioradiovaticana.va/storico/TED/2006/04/files/audiomp3/00048831.MP3)
-definierte er Eschatologie als »Erwartung des Kommens Gottes in
-dieser Welt zur Aufrichtung seines Reiches und der Vollendung aller
-Sehnsüchte und Wünsche der Menschheit.« Als größte Gefahr »unserer
+definierte er Escha­to­logie als »Erwartung des Kommens Gottes in
+dieser Welt zur Auf­richtung seines Reiches und der Voll­endung aller
+Sehn­süchte und Wünsche der Menschheit.« Als größte Gefahr »unserer
 Zeit« (es war das Jahr 2006) ortete er den Nihilismus, für ihn
-offenbar gleichbedeutend mit der Hilflosigkeit vor dem Elend der
+offenbar gleich­be­deutend mit der Hilf­losig­keit vor dem Elend der
 Welt, vor der man sicht in Apathie versinken und die Dinge laufen
 lassen solle, »wie sie eben laufen«.
 
-»Die Hoffnungssätze der Verheißung«, schrieb Moltmann 1964 in der
-*Theologie der Hoffnung*, »wollen die Wirklichkeit, die da ist,
-nicht im Geiste abbilden, sondern die Wirklichkeit, die da ist, in
-die Veränderung hineinführen, die verheißen ist und erhofft
+»Die Hoffnungssätze der Verheißung«, schrieb Molt­mann 1964 in der
+*Theo­logie der Hoffnung*, »wollen die Wirk­lich­keit, die da ist,
+nicht im Geiste abbilden, sondern die Wirk­lich­keit, die da ist, in
+die Ver­änderung hin­ein­führen, die verheißen ist und erhofft
 wird. Sie wollen der Wirklichkeit nicht die Schleppe nachtragen,
 sondern die Fackel voran.«[^6] So aktivistisch formulierte einer,
-der bewußt eine »politische Theologie« vorlegen wollte, die Christen
-aufruft, die Verhältnisse im Diesseits zu ändern, eine Theologie,
+der be­wußt eine »politische Theologie« vorlegen wollte, die Christen
+aufruft, die Verhält­nisse im Dies­seits zu ändern, eine Theologie,
 wie der *Spiegel* sie verstehen wollte, »die zu aktiven, ja
-aggressiven Auseinandersetzungen mit der politischen Umwelt
-ermächtigt und anfeuert« (aus dem Klappentext der 12. Auflage).
+aggres­siven Aus­ein­an­der­setzungen mit der politischen Umwelt
+er­mächtigt und anfeuert« (aus dem Klap­pen­text der 12. Auflage).
 
 ![Den Globus in der
 Hand](/5artikel/material/schmid-retardierung-abb-06.jpg "Den Globus
 in der Hand") [*Jetzt trägt die Gemeinde die Welt vor Gott.*]
 
 Im Moltmann’schen Original liest sich das so: Den »Beruf der
-Christenheit an der Gesellschaft« sieht der Theologe darin, daß »die
-christliche Hoffnung die modernen Institutionen aus ihren ihnen
-immanenten Stabilisierungstendenzen herauszuführen trachte\[t\], sie
-verunsicher\[t\] und zu jener Elastizität öffnet, die der Offenheit
+Chri­sten­heit an der Gesell­schaft« sieht der Theologe darin, daß »die
+christ­liche Hoffnung die modernen In­sti­tu­tionen aus ihren ihnen
+im­manenten Sta­bili­sierungs­ten­denzen her­aus­zu­führen trachte\[t\], sie
+ver­un­sicher\[t\] und zu jener Elasti­zi­tät öffnet, die der Of­fenheit
 auf jene Zukunft entspricht, die sie erhofft. Im praktischen
-Widerstand und in schöpferischer Neugestaltung stellt die
-christliche Hoffnung das Bestehende in Frage und dient so dem
-Kommenden. Sie überholt das Vorfindliche in Richtung auf das
-erwartete Neue und sucht nach Gelegenheiten, der verheißenen Zukunft
-in der Geschichte immer besser zu entsprechen.«[^7]
+Wider­stand und in schöpferi­scher Neu­ge­staltung stellt die
+christ­liche Hoffnung das Bestehende in Frage und dient so dem
+Kommenden. Sie überholt das Vor­find­liche in Richtung auf das
+erwartete Neue und sucht nach Ge­legen­heiten, der ver­heißenen Zukunft
+in der Geschichte immer besser zu ent­sprechen.«[^7]
 
 Betrachtet man in langen Schritten die Wirkungsgeschichte der
 *Theologie der Hoffnung*, so ist auch hierbei eine Retardierung zu
 konstatieren. Wo der Theologe Moltmann versucht, streng theologisch
-und entlang biblischer Zeugnisse seine »politische Theologie« zu
-entwickeln, verzichten seine Adepten weitgehend auf jede
+und entlang biblischer Zeug­nisse seine »politische Theologie« zu
+entwickeln, verzichten seine Adepten weit­gehend auf jede
 Gottesgelehrtheit und (fast) jeden theologischen Bezugspunkt,
-nachdem Moltmann selbst mit seiner Wendung, Eschatologie sei auch
-die »Vollendung aller Sehnsüchte und Wünsche der Menschheit« die
+nachdem Moltmann selbst mit seiner Wendung, Escha­to­logie sei auch
+die »Voll­endung aller Sehn­süchte und Wünsche der Mensch­heit« die
 Büchse der Pandora geöffnet hatte.
 
 Der emeritierte [Theologe Hans-Jürgen
@@ -365,27 +365,27 @@ gehören), müsse diese Glaubensgewissheit abgeräumt werden: Denn,
 sagt Benedict, das Grab ist nicht leer, Jesus nicht auferstanden.
 
 Ist mit dem Auferstehungsglauben jede Theologie beseitigt, läßt es
-sich munter politisieren: Weil Gott die Gerechtigkeitsherstellung
+sich munter poli­ti­sieren: Weil Gott die Gerech­tig­keits­her­stellung
 nicht schafft, »braucht \[er\] dazu unsere Kooperation«. Konkrete
-»Hoffnung auf Weltveränderung« setzt Benedict in die
-Weltklimakonferenzen, für ihn »die wichtigeren ökumenischen
-Versammlungen« und auf »eine der heutigen eschatologischen
-Ökobewegungen, die ›Letzte Generation‹, die »dem Rad in die Speichen
+»Hoffnung auf Welt­ver­änderung« setzt Bene­dict in die
+Welt­klima­kon­ferenzen, für ihn »die wichtigeren öku­meni­schen
+Ver­sam­mlungen« und auf »eine der heutigen escha­to­lo­gischen
+Öko­bewegungen, die ›Letzte Gene­ration‹, die »dem Rad in die Speichen
 greifen« wolle, etwa mittels »Tempo 130 auf deutschen
-Autobahnen«. Dazu also ist Moltmanns theologischer Ansatz
-herabgesunken: zum pathetischen Begleittremolo eines ungläubigen
-Theologen für eine gewaltaffine apokalyptische Kleinsekte.
+Auto­bahnen«. Dazu also ist Moltmanns theologischer Ansatz
+herab­ge­sunken: zum pathetischen Begleit­tremolo eines ungläubigen
+Theologen für eine gewalt­affine apoka­lypti­sche Klein­sekte.
 
 ![Bewegte Luft](/5artikel/material/schmid-retardierung-abb-07.jpg
 "Bewegte Luft") [*Würde Gott bloggen, wäre sein Aufmacher wie beim
 Gottesdienst-Institut.*]
 
-Was einen 1941 geborenen protestantischen Theologen wie Benedict
-bewegt, zeigt im Übrigen seine Publikationsliste in Deutlichkeit:
-*Kirchen als Träger der Revolution* (1968), *Macht von unten:
-Bürgerrechtsbewegung, ausserparlamentarische Opposition und
-Kirchenreform* (1968), *Eingriffe in die Rüstungsindustrie* (1975),
-*Ziviler Ungehorsam als christliche Tugend* (1989).
+Was einen 1941 geborenen protestan­tischen Theologen wie Bene­dict
+bewegt, zeigt im Übrigen seine Publi­kations­liste in Deut­lich­keit:
+*Kirchen als Träger der Revo­lution* (1968), *Macht von unten:
+Bür­ger­rechts­bewegung, ausser­parla­menta­rische Opposi­tion und
+Kirchen­reform* (1968), *Eingrif­fe in die Rüstungs­industrie* (1975),
+*Ziviler Un­ge­horsam als christ­liche Tugend* (1989).
 
 Wie sehr trifft auf solcher­art men­schen­gemachte Hoffnungs­her­stellung
 unter sehr dünnem theo­lo­gischen Deck­mäntel­chen jenes Dik­tum von
