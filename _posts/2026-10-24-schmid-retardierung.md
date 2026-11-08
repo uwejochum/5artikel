@@ -21,7 +21,7 @@ im Programm, es sind korrekt »Pfarr­personen«), letztlich für jede:n
 (sic).
 
 Nun glaubt man, etwas erfahren zu können über die neueste
-theo­lo­gische, pasto­rale und litur­gische Herangehensweise bei der
+theo­lo­gische, pasto­rale und litur­gische Her­an­gehens­weise bei der
 Ge­staltung von Got­tes­diensten. Viel­leicht — so denkt aber nur ein
 sehr naiver Mensch — würde gar ein ernst­zuneh­mender Impuls dabei
 sein, wie Spiri­tua­lität heute aus­sehen könnte.
