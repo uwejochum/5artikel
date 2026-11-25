@@ -1002,30 +1002,30 @@ thousand. Frankfurt am Main: Fischer, 1991.
 
 ## Nachwort 2026
 
-Der vorstehende Text geht auf einen Vortrag zurück, den ich vor
-einem Vierteljahrhundert an der Universität von Chicago gehalten und
-dessen Grundzüge ich auf einem Workshop der Northwestern University
-in Evanston vorgestellt habe. Daß ich den Text hier nocheinmal
+Der vorliegende Text, über dessen Entstehung im Milleniumsjahr die
+erste Anmerkung informiert, erschien ursprünglich im Jahre 2004 in
+der US-amerikanischen Fachzeitschrift [*Library
+Quarterly*](https://www.journals.uchicago.edu/doi/abs/10.1086/380852). Daß
+ich den Text nach einem Vierteljahrhundert hier nocheinmal
 publiziere, hat zwei Gründe. Der erste, läßliche, liegt darin, den
-Text angesichts der Medienverschiebungen, die seit fünfundzwanzig
-Jahren festzustellen sind, leichter zugänglich zu machen, und das
-heißt: ihn direkt in digitaler Form ins Internet einzustellen und
-ihn durch Suchmaschinen indexieren zu lassen. Der Preis dafür ist
-der Selbstwiderspruch, für eine nicht-digitale Realität zu
-argumentieren und diese Argumentation dem Reich des Digitalen zu
-übergeben. Der zweite Grund ist der gravierende: Die Mediendebatte
-ist keineswegs zu einem Abschluß gekommen, und die jüngsten
-Aufregungen um die angebliche Lösung der Riemann’schen Hypothese
-durch Beteiligung eines KI-Agenten machen es in meinen Augen
-notwendig, nocheinmal an die Grundlagen nicht nur der Medienwelt zu
-erinnern, sondern auch an die Grundlagen von Leben überhaupt und
-menschlichem Leben insbesondere. Dabei ist in meinen Augen der
-zentrale Punkt der, daß diese ganze Debatte im Grunde eine
-theologische Debatte ist, die sich der theologischen Implikationen
-nicht immer bewußt ist — oder, wie im Falle Heideggers, gezielt auf
-der theologischen Welle reitet, um die Wellenenergie für eine
-nicht-theologische und explizit nicht-christliche Eschatologie zu
-nutzen.
+Text angesichts der Medienverschiebungen, die seither festzustellen
+sind, leichter zugänglich zu machen, und das heißt: ihn direkt in
+digitaler Form ins Internet einzustellen und ihn durch Suchmaschinen
+indexieren zu lassen. Der Preis dafür ist der Selbstwiderspruch, für
+eine nicht-digitale Realität zu argumentieren und diese
+Argumentation dem Reich des Digitalen zu übergeben. Der zweite Grund
+ist der entscheidende: Die Mediendebatte ist keineswegs zu einem
+Abschluß gekommen, und die jüngsten Aufregungen um die angebliche
+Lösung der Riemann’schen Hypothese durch Beteiligung eines
+KI-Agenten machen es in meinen Augen notwendig, nocheinmal an die
+Grundlagen nicht nur der Medienwelt zu erinnern, sondern auch an die
+Grundlagen von Leben überhaupt und menschlichem Leben
+insbesondere. Dabei ist in meinen Augen der zentrale Punkt der, daß
+diese ganze Debatte im Kern eine theologische Debatte ist, die sich
+der theologischen Implikationen nicht immer bewußt ist — oder, wie
+im Falle Heideggers, gezielt auf der theologischen Welle reitet, um
+die Wellenenergie für eine nicht-theologische und explizit
+nicht-christliche Eschatologie zu nutzen.
 
 Das hat seit einhundert Jahren viele fasziniert, im gesamten
 philosophiepolitischen Spektrum, aber dabei blieb zumeist unbemerkt,
@@ -1039,10 +1039,11 @@ philosophischen Hamsterrad wieder, aus dem kein Entkommen ist und
 das zu keinem Resultat führt, sondern immer nur zu einem fragenderen
 Fragen, dessen Energie zuletzt verpufft. Dabei ließe sich das
 philosophische Hamsterrad leicht vermeiden: Sobald man einen Bogen
-um den schlauen Denkbauer Heidegger macht, sieht man vom Horizont
-herkommend wieder jenen abendländischen Denkweg, der von Platon und
-Aristoteles gespurt wurde und dessen Spur bis in die Gegenwart
-reicht. Man muß ihr nur folgen — und wird reich beschenkt.
+um den schlauen Heidegger macht, sieht man vom Horizont herkommend
+wieder jenen abendländischen Denkweg, der von Platon und Aristoteles
+gespurt wurde und dessen Spur über die großen mittelalterlichen
+Philosophen bis in die Gegenwart reicht. Man muß ihr nur folgen —
+und wird reich beschenkt.
 
 ## Anmerkungen
 
