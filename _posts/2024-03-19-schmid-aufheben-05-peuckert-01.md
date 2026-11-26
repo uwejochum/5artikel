@@ -99,7 +99,7 @@ einen Rechtsgelehrten an, einen Verlags-Korrektor und
 »Polyhistor«. Welche von Franciscis Schriften Peuckert auf der
 Hohen Iser in die Hände fiel, sagt uns der begeisterte Leser
 nicht. Wahrscheinlich war es jene, die Goethe als eine
-wesentliche Inspiration für den *Faust* diente, er­schienen 1990
+wesentliche Inspiration für den *Faust* diente, er­schienen 1690
 bei jenem Nürnberger Verleger Endter, bei dem der Autor
 beschäftigt war: *Der Höllische Proteus, oder Tausendkünstige
 Versteller, vermittelst Erzehlung der vielfältigen
